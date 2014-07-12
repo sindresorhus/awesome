@@ -34,6 +34,7 @@
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
+- [Web Tools](https://github.com/lvwzhen/tools)
 
 
 ## License
