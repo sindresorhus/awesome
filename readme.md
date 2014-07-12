@@ -17,7 +17,6 @@
 - [PHP](https://github.com/ziadoz/awesome-php)
 - [Java](https://github.com/akullpp/awesome-java)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
-- [Cobol](https://github.com/dshimy/awesome-cobol)
 
 ## Miscellaneous
 
