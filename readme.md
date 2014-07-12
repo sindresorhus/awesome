@@ -3,6 +3,7 @@
 > A curated list of awesome lists.
 
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
+- [awesome-scala](https://github.com/lauris/awesome-scala)
 - [awesome-python](https://github.com/vinta/awesome-python)
 - [awesome-go](https://github.com/avelino/awesome-go)
 - [awesome-ruby](https://github.com/markets/awesome-ruby)
