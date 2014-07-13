@@ -35,6 +35,7 @@
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Web Tools](https://github.com/lvwzhen/tools)
+- [Awesome](https://github.com/sindresorhus/awesome)
 
 
 ## License
