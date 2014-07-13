@@ -2,9 +2,16 @@
 
 > A curated list of awesome lists.
 
-## Programming languages
+
+## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [iOS](https://github.com/vsouza/awesome-ios)
+- [Android](https://github.com/JStumpp/awesome-android)
+
+## Programming languages
+
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Go](https://github.com/avelino/awesome-go)
 - [Python](https://github.com/vinta/awesome-python)
@@ -20,7 +27,6 @@
 
 ## Miscellaneous
 
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Free programming books](https://github.com/vhf/free-programming-books)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
@@ -31,8 +37,6 @@
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
-- [iOS](https://github.com/vsouza/awesome-ios)
-- [Android](https://github.com/JStumpp/awesome-android)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Awesome](https://github.com/sindresorhus/awesome)
