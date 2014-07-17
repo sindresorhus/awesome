@@ -23,7 +23,9 @@
 - [Python](https://github.com/vinta/awesome-python)
 - [Ruby](https://github.com/markets/awesome-ruby)
 - [Scala](https://github.com/lauris/awesome-scala)
-- [Swift](https://github.com/matteocrippa/awesome-swift)
+- Swift
+  - [by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
+  - [by @matteocrippa](https://github.com/matteocrippa/awesome-swift)
 
 ## Miscellaneous
 
