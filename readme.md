@@ -12,18 +12,20 @@
 
 ## Programming languages
 
-- [JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [Go](https://github.com/avelino/awesome-go)
-- [Python](https://github.com/vinta/awesome-python)
-- [Swift](https://github.com/matteocrippa/awesome-swift)
-- [Scala](https://github.com/lauris/awesome-scala)
-- [Ruby](https://github.com/markets/awesome-ruby)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
-- [D](https://github.com/zhaopuming/awesome-d)
-- [PHP](https://github.com/ziadoz/awesome-php)
-- [Java](https://github.com/akullpp/awesome-java)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
+- [D](https://github.com/zhaopuming/awesome-d)
+- [Go](https://github.com/avelino/awesome-go)
+- [Java](https://github.com/akullpp/awesome-java)
+- [JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [PHP](https://github.com/ziadoz/awesome-php)
+- [Python](https://github.com/vinta/awesome-python)
+- [Ruby](https://github.com/markets/awesome-ruby)
+- [Scala](https://github.com/lauris/awesome-scala)
+- Swift
+  - [by @Edubits](https://awesome-swift.zeef.com/robin.eggenkamp)
+  - [by @matteocrippa](https://github.com/matteocrippa/awesome-swift)
 
 ## Miscellaneous
 
