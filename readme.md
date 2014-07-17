@@ -39,6 +39,7 @@
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Web Tools](https://github.com/lvwzhen/tools)
+- [Vim](https://github.com/divad12/vim-awesome)
 - [Awesome](https://github.com/sindresorhus/awesome)
 
 
