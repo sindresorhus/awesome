@@ -35,6 +35,7 @@
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
