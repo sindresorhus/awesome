@@ -28,6 +28,7 @@
 
 ## Miscellaneous
 
+- [Learning Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Free programming books](https://github.com/vhf/free-programming-books)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
