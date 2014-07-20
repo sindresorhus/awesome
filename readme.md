@@ -44,6 +44,7 @@
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Vim](http://vimawesome.com)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [Game Development](https://github.com/ellisonleao/magictools)
 
 
 ## License
