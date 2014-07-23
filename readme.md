@@ -43,6 +43,7 @@
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Vim](http://vimawesome.com)
+- [Game Development](https://github.com/ellisonleao/magictools)
 - [Awesome](https://github.com/sindresorhus/awesome)
 
 
