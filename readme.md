@@ -1,51 +1,68 @@
 # Awesome
 
-> A curated list of awesome lists.
+> A curated list of awesome lists
 
 
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
-- [Play1 framework](https://github.com/PerfectCarl/awesome-play1)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
 
+
 ## Programming languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [Go](https://github.com/avelino/awesome-go)
 - [Python](https://github.com/vinta/awesome-python)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
+- [Haskell](https://github.com/krispo/awesome-haskell)
+- [Rust](https://github.com/kud1ing/awesome-rust)
+- [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
-- [D](https://github.com/zhaopuming/awesome-d)
-- [PHP](https://github.com/ziadoz/awesome-php)
-- [Java](https://github.com/akullpp/awesome-java)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
-- [Haskell](https://github.com/krispo/awesome-haskell)
+- [R](https://github.com/qinwf/awesome-R)
+- [D](https://github.com/zhaopuming/awesome-d)
+- [Perl](https://github.com/hachiojipm/awesome-perl)
+- [Groovy](https://github.com/kdabir/awesome-groovy)
+- [Java](https://github.com/akullpp/awesome-java)
+- [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
+- [Fortran](https://github.com/rabbiabram/awesome-fortran)
+- [.NET](https://github.com/quozd/awesome-dotnet)
+- [PHP](https://github.com/ziadoz/awesome-php)
+
 
 ## Miscellaneous
 
-- [Learning Algorithms](https://github.com/tayllan/awesome-algorithms)
-- [Free programming books](https://github.com/vhf/free-programming-books)
+- [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
-- [JavaScript must watch talks](https://github.com/bolshchikov/js-must-watch)
+- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Game Development](https://github.com/ellisonleao/magictools)
+- [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 tools](https://github.com/addyosmani/es6-tools)
+- [Web Tools](https://github.com/lvwzhen/tools)
+- [HTML5](https://github.com/diegocard/awesome-html5)
 - [Shell](https://github.com/alebcay/awesome-shell)
-- [Dev Env](https://github.com/jondot/awesome-devenv)
-- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [Dev Env](https://github.com/jondot/awesome-devenv)
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
+- [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
-- [Web Tools](https://github.com/lvwzhen/tools)
 - [Vim](http://vimawesome.com)
-- [Game Development](https://github.com/ellisonleao/magictools)
+- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+- [Services Engineering](https://github.com/mmcgrana/services-engineering)
+- [Cordova](https://github.com/busterc/awesome-cordova)
+- [Android Security](https://github.com/ashishb/android-security-awesome)
+- [Play1 framework](https://github.com/PerfectCarl/awesome-play1)
 - [Awesome](https://github.com/sindresorhus/awesome)
 
 
