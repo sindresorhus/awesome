@@ -25,6 +25,7 @@
 - [Java](https://github.com/akullpp/awesome-java)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
+- [Haskell](https://github.com/krispo/awesome-haskell)
 
 ## Miscellaneous
 
