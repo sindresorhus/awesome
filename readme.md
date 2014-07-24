@@ -9,6 +9,9 @@
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
+- Rails
+    - [by @dpaluy](https://github.com/dpaluy/awesome-rails)
+    - [by @ekremkaraca](https://github.com/ekremkaraca/awesome-rails)
 
 ## Programming languages
 
