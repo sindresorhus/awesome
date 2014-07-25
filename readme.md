@@ -30,6 +30,7 @@
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Java](https://github.com/akullpp/awesome-java)
+- [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
