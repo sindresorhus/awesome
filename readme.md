@@ -50,6 +50,7 @@
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
