@@ -61,6 +61,7 @@
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Vim](http://vimawesome.com)
 - [Cordova](https://github.com/busterc/awesome-cordova)
+- [Data Science](https://github.com/okulbilisim/awesome-datascience) 
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
