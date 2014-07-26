@@ -14,7 +14,9 @@
 ## Programming languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [Python](https://github.com/vinta/awesome-python)
+- Python
+   - [by @vinta](https://github.com/vinta/awesome-python)
+   - [by @svaksha](http://svaksha.github.io/boidae)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [Rust](https://github.com/kud1ing/awesome-rust)
