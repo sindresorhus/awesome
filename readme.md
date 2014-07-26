@@ -65,6 +65,7 @@
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Play1 framework](https://github.com/PerfectCarl/awesome-play1)
+- [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
 
 
