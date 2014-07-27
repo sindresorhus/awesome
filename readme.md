@@ -42,6 +42,7 @@
 
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Game Development](https://github.com/ellisonleao/magictools)
