@@ -38,31 +38,42 @@
 - [PHP](https://github.com/ziadoz/awesome-php)
 
 
-## Miscellaneous
+## Web development
 
-- [Free Programming Books](https://github.com/vhf/free-programming-books)
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-- [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
-- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
-- [Game Development](https://github.com/ellisonleao/magictools)
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 tools](https://github.com/addyosmani/es6-tools)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [HTML5](https://github.com/diegocard/awesome-html5)
+
+
+## Databases & big data
+
+- [Big Data](https://github.com/onurakpolat/awesome-bigdata)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+- [Data Science](https://github.com/okulbilisim/awesome-datascience) 
+
+
+## Theories & practices
+
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+- [Free Programming Books](https://github.com/vhf/free-programming-books)
+- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
+- [Algorithms](https://github.com/tayllan/awesome-algorithms)
+
+
+## Miscellaneous
+
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
+- [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Game Development](https://github.com/ellisonleao/magictools)
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
-- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
-- [Algorithms](https://github.com/tayllan/awesome-algorithms)
-- [Big Data](https://github.com/onurakpolat/awesome-bigdata)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
-- [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Vim](http://vimawesome.com)
 - [Cordova](https://github.com/busterc/awesome-cordova)
-- [Data Science](https://github.com/okulbilisim/awesome-datascience) 
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
