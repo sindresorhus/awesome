@@ -51,7 +51,7 @@
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
-- [Data Science](https://github.com/okulbilisim/awesome-datascience) 
+- [Data Science](https://github.com/okulbilisim/awesome-datascience)
 
 
 ## Theories & practices
@@ -82,6 +82,7 @@
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Play1 framework](https://github.com/PerfectCarl/awesome-play1)
+- [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
 
