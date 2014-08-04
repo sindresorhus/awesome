@@ -45,6 +45,7 @@
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
+- [Sass](https://github.com/HugoGiraudel/awesome-sass)
 
 
 ## Databases & big data
@@ -75,6 +76,7 @@
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Vim](http://vimawesome.com)
+- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [Django](https://github.com/rosarior/awesome-django)
