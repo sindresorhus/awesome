@@ -74,6 +74,7 @@
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Images](https://github.com/heyalexej/awesome-images)
+- [Database](https://github.com/numetriclabz/awesome-db)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
