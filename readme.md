@@ -88,6 +88,7 @@
 - [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [Game Development](https://github.com/ellisonleao/magictools)
 
 
 ## License
