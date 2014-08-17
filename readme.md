@@ -25,6 +25,7 @@
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [Julia](https://github.com/svaksha/Julia.jl)
+- [Lua](https://github.com/LewisJEllis/awesome-lua)
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
 - [R](https://github.com/qinwf/awesome-R)
 - [D](https://github.com/zhaopuming/awesome-d)
