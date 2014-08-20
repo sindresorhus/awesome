@@ -90,6 +90,7 @@
 - [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [Conferences](https://github.com/RichardLitt/awesome-conferences)
 
 
 ## License
