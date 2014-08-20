@@ -19,7 +19,6 @@
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Go](https://github.com/avelino/awesome-go)
-- [Dart](https://github.com/yissachar/awesome-dart)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
@@ -32,6 +31,7 @@
 - [D](https://github.com/zhaopuming/awesome-d)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [Groovy](https://github.com/kdabir/awesome-groovy)
+- [Dart](https://github.com/yissachar/awesome-dart)
 - [Java](https://github.com/akullpp/awesome-java)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
@@ -53,8 +53,8 @@
 ## Databases & big data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 
 
 ## Theories & practices
