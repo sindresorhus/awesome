@@ -78,6 +78,7 @@
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Database](https://github.com/numetriclabz/awesome-db)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Cordova](https://github.com/busterc/awesome-cordova)
