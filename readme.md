@@ -92,6 +92,7 @@
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
+- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 
 
 ## License
