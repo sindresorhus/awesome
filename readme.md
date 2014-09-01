@@ -49,6 +49,7 @@
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
 - [Sass](https://github.com/HugoGiraudel/awesome-sass)
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
+- [React](https://github.com/enaqx/awesome-react)
 
 
 ## Databases & big data
