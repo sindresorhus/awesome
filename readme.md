@@ -9,6 +9,7 @@
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
+- [Flash](https://github.com/johnikx/awesome-flash)
 
 
 ## Programming languages
