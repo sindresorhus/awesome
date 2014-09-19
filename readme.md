@@ -50,6 +50,7 @@
 - [Sass](https://github.com/HugoGiraudel/awesome-sass)
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [React](https://github.com/enaqx/awesome-react)
+- [SVG](https://github.com/willianjusten/awesome-svg)
 
 
 ## Databases & big data
