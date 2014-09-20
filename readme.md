@@ -98,6 +98,7 @@
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Radio](https://github.com/kyleterry/awesome-radio)
+- [Weekly Newsletters](https://github.com/jondot/awesome-weekly)
 
 
 ## License
