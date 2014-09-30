@@ -51,6 +51,7 @@
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [React](https://github.com/enaqx/awesome-react)
 - [SVG](https://github.com/willianjusten/awesome-svg)
+- [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 
 
 ## Databases & big data
