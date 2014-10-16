@@ -52,6 +52,7 @@
 - [React](https://github.com/enaqx/awesome-react)
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
+- [Web performance optimization](https://github.com/davidsonfellipe/awesome-wpo)
 
 
 ## Databases & big data
