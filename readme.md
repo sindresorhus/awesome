@@ -53,7 +53,7 @@
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
-
+- [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 
 ## Databases & big data
 
