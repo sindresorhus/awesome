@@ -60,6 +60,7 @@
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
 ## Theories & practices
