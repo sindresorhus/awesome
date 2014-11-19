@@ -54,6 +54,7 @@
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
+- [Webdevelopment books](https://github.com/eriwin/awesome-webdev-books)
 
 ## Databases & big data
 
