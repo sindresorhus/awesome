@@ -61,6 +61,7 @@
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
 
 ## Theories & practices
