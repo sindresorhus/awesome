@@ -14,10 +14,10 @@
 ## Programming languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [Python](https://github.com/vinta/awesome-python)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
-- [Haskell](https://github.com/krispo/awesome-haskell)
+- [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
+- [Haskell](https://github.com/krispo/awesome-haskell)
 - [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
@@ -44,32 +44,40 @@
 
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 tools](https://github.com/addyosmani/es6-tools)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
-- [HTML5](https://github.com/diegocard/awesome-html5)
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
-- [Sass](https://github.com/HugoGiraudel/awesome-sass)
-- [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [React](https://github.com/enaqx/awesome-react)
+- [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
+- [AngularJS](https://github.com/gianarb/awesome-angularjs)
+- [HTML5](https://github.com/diegocard/awesome-html5)
+- [Sass](https://github.com/HugoGiraudel/awesome-sass)
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 
-## Databases & big data
+
+## Computer science
+
+- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+
+
+## Big data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
-- [Data Science](https://github.com/okulbilisim/awesome-datascience)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 
 
-## Theories & practices
+## Theory
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
+- [Algorithm Visualizations](https://github.com/enjalot/algovis)
 
 
 ## Miscellaneous
