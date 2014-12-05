@@ -38,6 +38,7 @@
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
+- [shell](https://github.com/alebcay/awesome-shell)
 
 
 ## Web development
