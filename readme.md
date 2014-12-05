@@ -39,6 +39,9 @@
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
 
+##Developer tools
+- [IDE and Text Editors] (https://github.com/thewhitetulip/awesome-devtools)
+ 
 
 ## Web development
 
