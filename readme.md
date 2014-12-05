@@ -14,10 +14,10 @@
 ## Programming languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
-- [Python](https://github.com/vinta/awesome-python)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
-- [Haskell](https://github.com/krispo/awesome-haskell)
+- [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
+- [Haskell](https://github.com/krispo/awesome-haskell)
 - [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
@@ -44,27 +44,40 @@
 
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 tools](https://github.com/addyosmani/es6-tools)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
-- [HTML5](https://github.com/diegocard/awesome-html5)
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
-- [Sass](https://github.com/HugoGiraudel/awesome-sass)
-- [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [React](https://github.com/enaqx/awesome-react)
+- [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
+- [AngularJS](https://github.com/gianarb/awesome-angularjs)
+- [HTML5](https://github.com/diegocard/awesome-html5)
+- [Sass](https://github.com/HugoGiraudel/awesome-sass)
+- [SVG](https://github.com/willianjusten/awesome-svg)
+- [KnockoutJS](https://github.com/dnbard/awesome-knockout)
+- [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 
 
-## Databases & big data
+## Computer science
+
+- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+
+
+## Big data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
-- [Data Science](https://github.com/okulbilisim/awesome-datascience)
+- [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 
 
-## Theories & practices
+## Theory
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
+- [Algorithm Visualizations](https://github.com/enjalot/algovis)
 
 
 ## Miscellaneous
@@ -76,8 +89,10 @@
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
+- [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Images](https://github.com/heyalexej/awesome-images)
+- [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Database](https://github.com/numetriclabz/awesome-db)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
@@ -91,10 +106,15 @@
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Play1 framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/dereuromark/awesome-cakephp)
+- [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
+- [Radio](https://github.com/kyleterry/awesome-radio)
+- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
+- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
+- [Continuous Delivery](https://github.com/itech001/ciandcd)
 
 
 ## License
