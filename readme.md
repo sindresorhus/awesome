@@ -108,6 +108,7 @@
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Play1 framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/dereuromark/awesome-cakephp)
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
