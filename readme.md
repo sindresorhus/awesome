@@ -51,6 +51,7 @@
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
+- [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [Sass](https://github.com/HugoGiraudel/awesome-sass)
 - [SVG](https://github.com/willianjusten/awesome-svg)
