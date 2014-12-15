@@ -41,7 +41,7 @@
 - [PHP](https://github.com/ziadoz/awesome-php)
 
 
-## Web development
+## Front-end development
 
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 tools](https://github.com/addyosmani/es6-tools)
