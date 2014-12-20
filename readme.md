@@ -14,6 +14,7 @@
 
 ## Programming languages
 
+- [Assembler](https://github.com/mat0thew/awesome-asm)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [Python](https://github.com/vinta/awesome-python)
