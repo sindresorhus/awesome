@@ -65,6 +65,7 @@
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
+- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 
 
 ## Big data
