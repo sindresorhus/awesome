@@ -14,6 +14,7 @@
 
 ## Programming languages
 
+- [Common Lisp](https://github.com/kozross/awesome-cl)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [Python](https://github.com/vinta/awesome-python)
