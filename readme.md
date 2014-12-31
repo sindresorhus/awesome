@@ -121,6 +121,7 @@
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
+- [Linux resources](https://github.com/itech001/awesome-linux-resources)
 
 
 ## License
