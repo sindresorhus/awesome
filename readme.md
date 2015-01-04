@@ -63,6 +63,7 @@
 
 ## Computer science
 
+- [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
