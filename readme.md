@@ -67,7 +67,7 @@
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
-
+- [Cryptography](https://github.com/MaciejCzyzewski/retter)
 
 ## Big data
 
