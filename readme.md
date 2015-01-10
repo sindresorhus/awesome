@@ -92,6 +92,7 @@
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Game Development](https://github.com/ellisonleao/magictools)
+- [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
