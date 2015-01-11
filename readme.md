@@ -59,7 +59,7 @@
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
-- [Inspire](https://github.com/NoahBuscher/Inspire)
+- [Inspiration](https://github.com/NoahBuscher/Inspire)
 
 
 ## Computer science
