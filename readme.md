@@ -119,6 +119,7 @@
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
+- [Remote jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
