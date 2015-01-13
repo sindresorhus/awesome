@@ -125,6 +125,7 @@
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
+- [Fonts](https://github.com/brabadu/awesome-fonts)
 
 
 ## License
