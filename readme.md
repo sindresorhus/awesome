@@ -42,6 +42,9 @@
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
 
+## Material design
+
+- [Material design](http://ypereirareis.github.io/material-design-resources/)
 
 ## Front-end development
 
