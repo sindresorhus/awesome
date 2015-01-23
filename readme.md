@@ -70,6 +70,7 @@
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
+- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 ## Big data
 
