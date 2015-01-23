@@ -126,6 +126,7 @@
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
+- [Mac Apps](https://github.com/justin-j/awesome-mac-apps)
 - [Readme](https://github.com/matiassingers/awesome-readme)
 
 
