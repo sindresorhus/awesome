@@ -129,6 +129,7 @@
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
+- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 
 
 ## License
