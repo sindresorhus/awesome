@@ -94,6 +94,7 @@
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Game Development](https://github.com/ellisonleao/magictools)
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
