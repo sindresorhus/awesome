@@ -130,6 +130,7 @@
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
 - [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 
 ## License
