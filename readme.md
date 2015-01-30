@@ -46,7 +46,7 @@
 ## Front-end development
 
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
-- [ES6 tools](https://github.com/addyosmani/es6-tools)
+- [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
@@ -113,14 +113,14 @@
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
-- [Play1 framework](https://github.com/PerfectCarl/awesome-play1)
+- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
-- [Remote jobs](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
@@ -129,7 +129,7 @@
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
-- [Browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+- [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 
