@@ -55,6 +55,7 @@
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
+- [CSS](https://github.com/sota0805/awesome-css/)
 - [Sass](https://github.com/HugoGiraudel/awesome-sass)
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
