@@ -86,6 +86,7 @@
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
+- [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 
 
 ## Miscellaneous
