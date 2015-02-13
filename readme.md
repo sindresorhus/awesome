@@ -62,6 +62,15 @@
 - [Inspiration](https://github.com/NoahBuscher/Inspire)
 
 
+## Back-end development
+
+- [Django](https://github.com/rosarior/awesome-django)
+- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
+- [CakePHP](https://github.com/dereuromark/awesome-cakephp)
+- [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
+- [Laravel](https://github.com/tuwannu/awesome-laravel)
+
+
 ## Computer science
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
@@ -110,15 +119,10 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
-- [Django](https://github.com/rosarior/awesome-django)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
-- [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
-- [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
-- [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
-- [Laravel](https://github.com/tuwannu/awesome-laravel)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
