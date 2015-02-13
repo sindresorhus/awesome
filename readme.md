@@ -132,6 +132,7 @@
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
 - [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
+- [Learn to Program](https://github.com/karlhorky/learn-to-program)
 
 
 ## License
