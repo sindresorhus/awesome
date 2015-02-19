@@ -70,6 +70,7 @@
 - [CakePHP](https://github.com/dereuromark/awesome-cakephp)
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
 - [Laravel](https://github.com/tuwannu/awesome-laravel)
+- [Flask](https://github.com/humiaozuzu/awesome-flask)
 
 
 ## Computer science
