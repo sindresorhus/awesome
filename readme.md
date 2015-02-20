@@ -139,6 +139,7 @@
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
+- [MacOSX DevTools](https://github.com/marceloboeira/awesome-macosx-dev-tools)
 
 
 ## License
