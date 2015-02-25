@@ -111,6 +111,7 @@
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+- [Essential Grunt Plugins](https://github.com/Pestov/essential-grunt-plugins)
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Database](https://github.com/numetriclabz/awesome-db)
