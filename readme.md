@@ -140,6 +140,7 @@
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
+- [Internet of Things](https://github.com/phodal/awesome-iot)
 
 ## License
 
