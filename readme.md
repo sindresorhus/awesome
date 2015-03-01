@@ -141,6 +141,7 @@
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
+- [Useful .htaccess Snippets](https://github.com/phanan/htaccess)
 
 ## License
 
