@@ -81,6 +81,7 @@
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
 
 ## Big data
 
