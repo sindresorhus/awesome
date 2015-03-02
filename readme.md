@@ -97,6 +97,7 @@
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
+- [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
 
 
 ## Miscellaneous
@@ -140,6 +141,7 @@
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
+- [Useful .htaccess Snippets](https://github.com/phanan/htaccess)
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 
 ## License
