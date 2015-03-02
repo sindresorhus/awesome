@@ -142,6 +142,7 @@
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Useful .htaccess Snippets](https://github.com/phanan/htaccess)
+- [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 
 ## License
 
