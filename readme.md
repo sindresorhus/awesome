@@ -143,6 +143,7 @@
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Useful .htaccess Snippets](https://github.com/phanan/htaccess)
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
+- [Markdown](https://github.com/dariubs/awesome-markdown)
 
 ## License
 
