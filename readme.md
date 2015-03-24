@@ -144,6 +144,7 @@
 - [Useful .htaccess Snippets](https://github.com/phanan/htaccess)
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Slack](https://github.com/matiassingers/awesome-slack)
+- [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 
 ## License
 
