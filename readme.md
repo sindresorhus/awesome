@@ -145,6 +145,7 @@
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Slack](https://github.com/matiassingers/awesome-slack)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
+- [JSON](https://github.com/burningtree/awesome-json)
 
 ## License
 
