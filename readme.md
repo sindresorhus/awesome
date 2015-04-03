@@ -146,6 +146,7 @@
 - [Slack](https://github.com/matiassingers/awesome-slack)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 - [JSON](https://github.com/burningtree/awesome-json)
+- [Security](https://github.com/sbilly/awesome-security)
 
 ## License
 
