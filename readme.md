@@ -147,6 +147,8 @@
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Security](https://github.com/sbilly/awesome-security)
+- [Free for Developers](https://github.com/ripienaar/free-for-dev)
+
 
 ## License
 
