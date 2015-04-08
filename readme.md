@@ -148,6 +148,7 @@
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Security](https://github.com/sbilly/awesome-security)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
+- [Thoughtful answers given at stackoverflow, quora, etc.](https://github.com/jugoncalves/awesome-answers)
 
 
 ## License
