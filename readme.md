@@ -82,6 +82,7 @@
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
+
 ## Big data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
@@ -148,6 +149,7 @@
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Security](https://github.com/sbilly/awesome-security)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
+- [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
 
 
 ## License
