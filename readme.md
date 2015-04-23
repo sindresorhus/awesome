@@ -10,6 +10,7 @@
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
+- [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
 
 
 ## Programming languages
