@@ -62,6 +62,8 @@
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 - [Inspiration](https://github.com/NoahBuscher/Inspire)
 - [Ember](https://github.com/nmec/awesome-ember)
+- [Android UI](https://github.com/wasabeef/awesome-android-ui)
+- [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 
 
 ## Back-end development
