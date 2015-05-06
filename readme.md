@@ -96,12 +96,17 @@
 ## Theory
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
-- [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
+
+
+## Books
+
+- [Free Programming Books](https://github.com/vhf/free-programming-books)
+- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 
 
 ## Miscellaneous
@@ -124,7 +129,6 @@
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Cordova](https://github.com/busterc/awesome-cordova)
-- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
