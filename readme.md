@@ -20,6 +20,7 @@
 - [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
+- [PureScript](https://github.com/passy/awesome-purescript)
 - [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
