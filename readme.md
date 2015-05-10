@@ -162,6 +162,7 @@
 - [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
 - [CTF](https://github.com/apsdehal/awesome-ctf)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
+- [Material Design](https://github.com/sachin1092/awesome-material)
 
 
 ## License
