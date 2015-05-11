@@ -165,6 +165,7 @@
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [REST](https://github.com/marmelab/awesome-rest)
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 
 
 ## License
