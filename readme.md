@@ -71,6 +71,7 @@
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask] (https://github.com/humiaozuzu/awesome-flask)
+- [Pyramid] (https://github.com/ITCase/awesome-pyramid)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
