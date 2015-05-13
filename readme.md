@@ -1,6 +1,6 @@
 # Awesome
 
-> A very well-curated list of awesome lists
+> A well curated list of awesome lists
 
 
 ## Platforms
