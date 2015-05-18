@@ -78,6 +78,7 @@
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
+- [Rails](https://github.com/ekremkaraca/awesome-rails)
 
 
 ## Computer science
