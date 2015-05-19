@@ -43,6 +43,7 @@
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
+- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 
 
 ## Front-end development
