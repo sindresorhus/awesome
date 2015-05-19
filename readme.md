@@ -172,6 +172,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Mad Science Modules](https://github.com/feross/mad-science-modules)
 
 
 ## License
