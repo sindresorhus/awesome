@@ -173,7 +173,7 @@
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
-
+- [Maintainance Modules (npm)](https://github.com/maxogden/maintenance-modules)
 
 ## License
 
