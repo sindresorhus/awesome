@@ -174,6 +174,7 @@
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
 - [Maintainance Modules (npm)](https://github.com/maxogden/maintenance-modules)
+- [Podcasts](https://github.com/cv/awesome-geek-podcasts)
 
 ## License
 
