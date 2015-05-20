@@ -69,6 +69,7 @@
 - [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list)
 - [Meteor](https://github.com/gillesfabio/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
+- [Tools & Apps](https://github.com/gokulkrishh/Tools-I-use)
 
 
 ## Back-end development
