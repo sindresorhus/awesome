@@ -13,7 +13,7 @@
 - [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
 
 
-## Programming languages
+## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
@@ -46,7 +46,7 @@
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 
 
-## Front-end development
+## Front-end Development
 
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
@@ -71,7 +71,7 @@
 - [BEM](https://github.com/sturobson/BEM-resources)
 
 
-## Back-end development
+## Back-end Development
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
@@ -83,7 +83,7 @@
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 
 
-## Computer science
+## Computer Science
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
@@ -94,7 +94,7 @@
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 
-## Big data
+## Big Data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
@@ -159,7 +159,7 @@
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
-- [Useful .htaccess Snippets](https://github.com/phanan/htaccess)
+- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Slack](https://github.com/matiassingers/awesome-slack)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
@@ -173,8 +173,9 @@
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
-- [Maintainance Modules (npm)](https://github.com/maxogden/maintenance-modules)
-- [Sketch](https://github.com/diessica/awesome-sketch) (app)
+- [Maintainance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
+- [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
+
 
 ## License
 
