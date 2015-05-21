@@ -174,7 +174,7 @@
 - [Useful .htaccess Snippets](https://github.com/phanan/htaccess)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 - [Vim](http://vimawesome.com)
-- [Unikernels](https://github.com/zg/aesome-unikernels)
+- [Unikernels](https://github.com/zg/awesome-unikernels)
 
 ## License
 
