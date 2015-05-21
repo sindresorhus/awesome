@@ -175,6 +175,7 @@
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
 - [Maintainance Modules (npm)](https://github.com/maxogden/maintenance-modules)
 - [Sketch](https://github.com/diessica/awesome-sketch) (app)
+- [Unikernels](https://github.com/zg/awesome-unikernels)
 
 ## License
 
