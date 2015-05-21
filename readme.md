@@ -118,6 +118,18 @@
 - [GoBooks](https://github.com/dariubs/GoBooks)
 
 
+## Podcasts
+
+- [The Changelog](https://changelog.com/)
+- [Dev Discussions](http://www.devdiscussions.com/)
+- [Developer Tea](https://developertea.com/)
+- [Functional Geekery](http://www.functionalgeekery.com/)
+- [a16z](http://a16z.com/)
+- [NodeUp](http://nodeup.com/)
+- [Full Stack Radio](http://fullstackradio.com/)
+- [The Path to Performance](http://pathtoperf.com/)
+
+
 ## Miscellaneous
 
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
