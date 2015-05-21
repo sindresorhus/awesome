@@ -26,6 +26,7 @@
 - [Ruby](https://github.com/markets/awesome-ruby)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
+- [Elm](https://github.com/isRuslan/awesome-elm)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [Julia](https://github.com/svaksha/Julia.jl)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
