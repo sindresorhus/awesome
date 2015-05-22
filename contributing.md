@@ -12,5 +12,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request and commit should have a useful title.
+- Within each category, all links must be ordered alphabetically.
 
 Thank you for your suggestions!
