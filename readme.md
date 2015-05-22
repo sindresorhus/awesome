@@ -176,6 +176,7 @@
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
 - [Maintainance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
+- [Emoji](https://github.com/muan/emoji)
 
 
 ## License
