@@ -123,6 +123,7 @@
 
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
+- [Mobile/Phone number verification SDK](https://github.com/cognalys/Cogdemov2)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Game Development](https://github.com/ellisonleao/magictools)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
