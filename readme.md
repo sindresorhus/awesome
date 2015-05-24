@@ -176,6 +176,7 @@
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
 - [Maintainance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
+- [Slack](https://github.com/filipelinhares/awesome-slack) *(Communities powered by Slack)*
 
 
 ## License
