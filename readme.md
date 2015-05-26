@@ -178,7 +178,7 @@
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
 - [Slack](https://github.com/filipelinhares/awesome-slack) *(Communities powered by Slack)*
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
-- [Zsh plugins](https://github.com/unixorn/awesome-zsh-plugins) *(oh-my-zsh compatible plugins for [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh), [zgen](https://github.com/tarjoilija/zgen) and [antigen](https://github.com/zsh-users/antigen))*
+- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 
 ## License
