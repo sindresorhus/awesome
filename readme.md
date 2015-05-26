@@ -84,6 +84,21 @@
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 
 
+
+
+## IDEs
+
+- [Sublime Text](http://www.sublimetext.com/)
+- [Atom](https://atom.io/)
+- [Nuclide](http://nuclide.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Brackets](http://brackets.io/)
+- [VIM](http://www.vim.org/)
+- [Emacs](http://www.gnu.org/software/emacs/)
+
+
+
+
 ## Computer Science
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
