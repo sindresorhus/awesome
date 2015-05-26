@@ -178,6 +178,7 @@
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
 - [Slack](https://github.com/filipelinhares/awesome-slack) *(Communities powered by Slack)*
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
+- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 
 ## License
