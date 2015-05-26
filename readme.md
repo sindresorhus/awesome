@@ -178,6 +178,7 @@
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
 - [Slack](https://github.com/filipelinhares/awesome-slack) *(Communities powered by Slack)*
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
+- [Materialize CSS](https://github.com/Dogfalo/materialize) *(Material Design framework)*
 
 
 ## License
