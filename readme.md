@@ -56,6 +56,7 @@
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
+- [Polymer](https://github.com/Granze/awesome-polymer)
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
