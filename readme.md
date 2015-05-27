@@ -180,6 +180,7 @@
 - [Slack](https://github.com/filipelinhares/awesome-slack) *(Communities powered by Slack)*
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 
 
 ## License
