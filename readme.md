@@ -49,6 +49,7 @@
 
 ## Front-end Development
 
+- [CSS Must Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
