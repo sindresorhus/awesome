@@ -49,7 +49,6 @@
 
 ## Front-end Development
 
-- [CSS Must Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
@@ -72,6 +71,7 @@
 - [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list)
 - [Meteor](https://github.com/gillesfabio/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
+- [CSS Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 
 
 ## Back-end Development
