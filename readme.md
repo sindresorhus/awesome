@@ -147,6 +147,7 @@
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
+- [Remote Job Boards](https://github.com/josiahsprague/remote-job-boards)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
