@@ -71,6 +71,7 @@
 - [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list)
 - [Meteor](https://github.com/gillesfabio/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
+- [CSS Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 
 
 ## Back-end Development
