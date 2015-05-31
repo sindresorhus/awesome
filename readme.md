@@ -54,6 +54,7 @@
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
+- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
