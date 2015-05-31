@@ -136,6 +136,7 @@
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Database](https://github.com/numetriclabz/awesome-db)
+- [Mysql](http://shlomi-noach.github.io/awesome-mysql) 
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Vim](http://vimawesome.com)
