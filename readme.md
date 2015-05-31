@@ -54,7 +54,6 @@
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
-- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
@@ -73,7 +72,7 @@
 - [Meteor](https://github.com/gillesfabio/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
 - [CSS Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
-
+- [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 
 ## Back-end Development
 
