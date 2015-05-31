@@ -183,6 +183,7 @@
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
+- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 
 
 ## License
