@@ -52,6 +52,7 @@
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [Web Acessibility](https://github.com/brunopulis/awesome-a11y)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
 - [React](https://github.com/enaqx/awesome-react)
