@@ -73,6 +73,7 @@
 - [BEM](https://github.com/sturobson/BEM-resources)
 - [CSS Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
+- [Web Typography](https://github.com/deanhume/typography)
 
 
 ## Back-end Development
