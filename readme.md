@@ -185,6 +185,7 @@
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
+- [Godot](https://github.com/Calinou/awesome-godot) *(game engine)*
 
 
 ## License
