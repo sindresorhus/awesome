@@ -3,6 +3,28 @@
 > A curated list of awesome lists
 
 
+## TOC
+
+- [Platforms](#platforms)
+- [Programming Languages](#programming-languages)
+- [Front-end Development](#front-end-development)
+- [Back-end Development](#back-end-development)
+- [Computer Science](#computer-science)
+- [Big Data](#big-data)
+- [Theory](#theory)
+- [Books](#books)
+- [Editors](#editors)
+- [Gaming](#gaming)
+- [Developer Environment](#developer-environment)
+- [Entertainment](#entertainment)
+- [Databases](#databases)
+- [Resources](#resources)
+- [Learn](#learn)
+- [Security](#security)
+- [Platforms](#platforms)
+- [Miscellaneous](#miscellaneous)
+
+
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
