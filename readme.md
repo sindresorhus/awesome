@@ -1,6 +1,6 @@
 # Awesome
 
-> A curated list of awesome lists
+ - [A curated list of awesome lists] (https://github.com/sindresorhus/awesome)
 
 
 ## TOC
