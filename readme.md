@@ -74,6 +74,7 @@
 - [CSS Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 - [Web Typography](https://github.com/deanhume/typography)
+- [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 
 
 ## Back-end Development
