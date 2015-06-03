@@ -139,7 +139,7 @@
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Database](https://github.com/numetriclabz/awesome-db)
-- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md) 
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Vim](http://vimawesome.com)
@@ -189,6 +189,7 @@
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin/)
 - [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
+- [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
 
 
 ## License
