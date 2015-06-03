@@ -157,7 +157,7 @@
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
-
+- [Atom](https://github.com/mehcode/awesome-atom)
 
 ## Gaming
 
