@@ -188,6 +188,7 @@
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin/)
+- [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
 
 
 ## License
