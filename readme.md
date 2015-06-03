@@ -11,6 +11,7 @@
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
 - [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
+- [Cordova](https://github.com/busterc/awesome-cordova)
 
 
 ## Programming Languages
@@ -75,12 +76,15 @@
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 - [Web Typography](https://github.com/deanhume/typography)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
+- [Material Design](https://github.com/sachin1092/awesome-material)
 
 
 ## Back-end Development
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
+- [Docker](https://github.com/veggiemonk/awesome-docker)
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 - [Pyramid](https://github.com/ITCase/awesome-pyramid)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
@@ -88,6 +92,7 @@
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
+- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 
 
 ## Computer Science
@@ -125,72 +130,99 @@
 - [GoBooks](https://github.com/dariubs/GoBooks)
 
 
+## Editors
+
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
+- [Vim](http://vimawesome.com)
+- [Emacs](https://github.com/emacs-tw/awesome-emacs)
+
+
+## Gaming
+
+- [Game Development](https://github.com/ellisonleao/magictools)
+- [Game Talks](https://github.com/hzoo/awesome-gametalks)
+- [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
+
+
+## Developer Environment
+
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
+- [Dev Env](https://github.com/jondot/awesome-devenv)
+- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [Shell](https://github.com/alebcay/awesome-shell)
+- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+
+
+## Entertainment
+
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
+- [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
+- [Podcasts](https://github.com/cv/awesome-geek-podcasts)
+
+
+## Databases
+
+- [Database](https://github.com/numetriclabz/awesome-db)
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
+- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
+
+
+## Resources
+
+- [Creative Commons Media](https://github.com/shime/creative-commons-media)
+- [Images](https://github.com/heyalexej/awesome-images)
+- [Fonts](https://github.com/brabadu/awesome-fonts)
+
+
+## Learn
+
+- [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
+- [Learn to Program](https://github.com/karlhorky/learn-to-program)
+
+
+## Security
+
+- [Security](https://github.com/sbilly/awesome-security)
+- [CTF](https://github.com/apsdehal/awesome-ctf)
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+- [Android Security](https://github.com/ashishb/android-security-awesome)
+
+
 ## Miscellaneous
 
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
-- [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin/)
 - [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
-- [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-- [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
-- [Cordova](https://github.com/busterc/awesome-cordova)
-- [Creative Commons Media](https://github.com/shime/creative-commons-media)
-- [CTF](https://github.com/apsdehal/awesome-ctf)
-- [Database](https://github.com/numetriclabz/awesome-db)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
-- [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
-- [Docker](https://github.com/veggiemonk/awesome-docker)
-- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
-- [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
-- [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
-- [Fonts](https://github.com/brabadu/awesome-fonts)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
-- [Game Development](https://github.com/ellisonleao/magictools)
-- [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-- [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
-- [Images](https://github.com/heyalexej/awesome-images)
 - [JSON](https://github.com/burningtree/awesome-json)
-- [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
 - [Maintainance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Material Design](https://github.com/sachin1092/awesome-material)
-- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
-- [Podcasts](https://github.com/cv/awesome-geek-podcasts)
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [REST](https://github.com/marmelab/awesome-rest)
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
-- [Security](https://github.com/sbilly/awesome-security)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
-- [Shell](https://github.com/alebcay/awesome-shell)
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
-- [Slack](https://github.com/filipelinhares/awesome-slack) *(Communities powered by Slack)*
+- [Slack Communities](https://github.com/filipelinhares/awesome-slack)
 - [Slack](https://github.com/matiassingers/awesome-slack)
-- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Sysadmin](https://github.com/kahun/awesome-sysadmin)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
-- [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant)
-- [Vim](http://vimawesome.com)
-- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 
 
 ## License
