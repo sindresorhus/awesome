@@ -164,6 +164,7 @@
 - [Game Development](https://github.com/ellisonleao/magictools)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
+- [Open Source Games](https://github.com/leereilly/games)
 
 
 ## Developer Environment
