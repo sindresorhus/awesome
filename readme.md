@@ -233,6 +233,7 @@
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
 - [Maintainance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
+- [Open Companies](https://github.com/waldyrious/awesome-open-company)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Readme](https://github.com/matiassingers/awesome-readme)
