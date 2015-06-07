@@ -158,6 +158,7 @@
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
+- [Brackets](https://github.com/adobe/brackets)
 - [Visual Studio Code](https://code.visualstudio.com)
 
 ## Gaming
