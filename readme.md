@@ -34,6 +34,7 @@
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
 - [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
 - [Cordova](https://github.com/busterc/awesome-cordova)
+- [React Native](https://github.com/jondot/awesome-react-native)
 
 
 ## Programming Languages
