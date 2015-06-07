@@ -158,7 +158,7 @@
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
-- [Visual Studio Code](https://code.visualstudio.com//)
+- [Visual Studio Code](https://code.visualstudio.com)
 
 ## Gaming
 
