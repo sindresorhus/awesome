@@ -151,6 +151,7 @@
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [GoBooks](https://github.com/dariubs/GoBooks)
+- [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 
 
 ## Editors
