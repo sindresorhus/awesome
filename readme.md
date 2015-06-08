@@ -127,6 +127,7 @@
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 
 
 ## Big Data
