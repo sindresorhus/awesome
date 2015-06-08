@@ -207,6 +207,7 @@
 
 ## Security
 
+- [Application Security](https://github.com/paragonie/awesome-appsec)
 - [Security](https://github.com/sbilly/awesome-security)
 - [CTF](https://github.com/apsdehal/awesome-ctf)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
