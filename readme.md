@@ -178,6 +178,7 @@
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+- [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 
 
 ## Entertainment
@@ -232,7 +233,6 @@
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
-- [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Mad Science Modules](https://github.com/feross/mad-science-modules)
