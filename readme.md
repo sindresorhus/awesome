@@ -200,6 +200,7 @@
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
+- [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
 
 
 ## Learn
