@@ -232,6 +232,7 @@
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
+- [FluidApp Resources](https://github.com/lborgav/awesome-fluidapp)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
