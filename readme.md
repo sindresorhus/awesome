@@ -251,7 +251,7 @@
 - [Slack Communities](https://github.com/filipelinhares/awesome-slack)
 - [Slack](https://github.com/matiassingers/awesome-slack)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-- [Sysadmin](https://github.com/kahun/awesome-sysadmin)
+- [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 
 
