@@ -34,6 +34,7 @@
 - [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
+- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 
 
 ## Programming Languages
