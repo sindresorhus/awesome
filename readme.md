@@ -21,7 +21,6 @@
 - [Resources](#resources)
 - [Learn](#learn)
 - [Security](#security)
-- [Platforms](#platforms)
 - [Miscellaneous](#miscellaneous)
 
 
