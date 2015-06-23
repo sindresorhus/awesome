@@ -226,6 +226,7 @@
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin/)
 - [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
+- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
