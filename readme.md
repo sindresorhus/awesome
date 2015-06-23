@@ -229,6 +229,7 @@
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Continuous Delivery](https://github.com/itech001/ciandcd)
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
