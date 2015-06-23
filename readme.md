@@ -35,7 +35,7 @@
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
-
+- [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 
 ## Programming Languages
 
