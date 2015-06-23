@@ -36,9 +36,13 @@
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+- [Linux resources](https://github.com/itech001/awesome-linux-resources)
+- [nginx](https://github.com/fcambus/nginx-resources)
 
 ## Programming Languages
 
+- [Assembler](https://github.com/mat0thew/awesome-asm)
+- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [Python](https://github.com/vinta/awesome-python)
@@ -73,6 +77,9 @@
 
 ## Front-end Development
 
+- [Accessibility](https://github.com/brunopulis/awesome-a11y)
+- [Bootstrap](https://github.com/therebelrobot/awesome-bootstrap)
+- [CSS](https://github.com/sota0805/awesome-css)
 - [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
@@ -217,6 +224,7 @@
 - [CTF](https://github.com/apsdehal/awesome-ctf)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
+- [Hacking](https://github.com/carpedm20/awesome-hacking)
 
 
 ## Miscellaneous
@@ -254,6 +262,12 @@
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+- [API](https://github.com/Kikobeats/awesome-api)
+- [Apple](https://github.com/joeljfischer/awesome-apple)
+- [Projects & Boilerplates](https://github.com/melvin0008/awesome-projects-boilerplates)
+- [Remote Work](https://github.com/hugo53/awesome-RemoteWork)
+- [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
+- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 
 
 ## License
