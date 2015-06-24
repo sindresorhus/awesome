@@ -254,6 +254,7 @@
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
+- [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
 
 ## License
