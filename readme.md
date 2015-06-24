@@ -136,6 +136,7 @@
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+- [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 
 
 ## Theory
