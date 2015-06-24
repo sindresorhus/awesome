@@ -69,6 +69,8 @@
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
+- [Assembler](https://github.com/mat0thew/awesome-asm)
+- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 
 
 ## Front-end Development
@@ -100,6 +102,7 @@
 - [Web Typography](https://github.com/deanhume/typography)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Material Design](https://github.com/sachin1092/awesome-material)
+- [CSS](https://github.com/sota0805/awesome-css)
 
 
 ## Back-end Development
@@ -116,6 +119,7 @@
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
+- [nginx](https://github.com/fcambus/nginx-resources)
 
 
 ## Computer Science
@@ -218,6 +222,7 @@
 - [CTF](https://github.com/apsdehal/awesome-ctf)
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
+- [Hacking](https://github.com/carpedm20/awesome-hacking)
 
 
 ## Miscellaneous
@@ -256,6 +261,7 @@
 - [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+- [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 
 
 ## License
