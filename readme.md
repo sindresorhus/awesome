@@ -221,39 +221,39 @@
 
 ## Miscellaneous
 
-- [Analytics](https://github.com/onurakpolat/awesome-analytics)
-- [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
-- [Awesome](https://github.com/sindresorhus/awesome)
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin/)
-- [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
-- [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
-- [Conferences](https://github.com/RichardLitt/awesome-conferences)
-- [Continuous Delivery](https://github.com/itech001/ciandcd)
-- [Design and Development Guides](https://github.com/NARKOZ/guides)
-- [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
-- [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
-- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- [Free for Developers](https://github.com/ripienaar/free-for-dev)
-- [GeoJSON](https://github.com/tmcw/awesome-geojson)
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [JSON](https://github.com/burningtree/awesome-json)
-- [Mad Science Modules](https://github.com/feross/mad-science-modules)
-- [Maintainance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
-- [Open Companies](https://github.com/waldyrious/awesome-open-company)
-- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
-- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
+- [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
+- [Slack](https://github.com/matiassingers/awesome-slack)
+- [Conferences](https://github.com/RichardLitt/awesome-conferences)
+- [GeoJSON](https://github.com/tmcw/awesome-geojson)
+- [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
-- [Readme](https://github.com/matiassingers/awesome-readme)
-- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
+- [Awesome](https://github.com/sindresorhus/awesome)
+- [Analytics](https://github.com/onurakpolat/awesome-analytics)
+- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [Open Companies](https://github.com/waldyrious/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
-- [Services Engineering](https://github.com/mmcgrana/services-engineering)
-- [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
+- [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 - [Slack Communities](https://github.com/filipelinhares/awesome-slack)
-- [Slack](https://github.com/matiassingers/awesome-slack)
-- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-- [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
+- [Continuous Delivery](https://github.com/itech001/ciandcd)
+- [Services Engineering](https://github.com/mmcgrana/services-engineering)
+- [Free for Developers](https://github.com/ripienaar/free-for-dev)
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin/)
+- [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
+- [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
+- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
+- [Maintainance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
+- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
+- [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
+- [Mad Science Modules](https://github.com/feross/mad-science-modules)
+- [Readme](https://github.com/matiassingers/awesome-readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
+- [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
+- [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
+- [Design and Development Guides](https://github.com/NARKOZ/guides)
 
 
 ## License
