@@ -48,7 +48,6 @@
 - [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
-- [Crystal](https://github.com/veelenga/awesome-crystal)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elm](https://github.com/isRuslan/awesome-elm)
@@ -72,6 +71,7 @@
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 - [Assembler](https://github.com/mat0thew/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+- [Crystal](https://github.com/veelenga/awesome-crystal)
 
 
 ## Front-end Development
