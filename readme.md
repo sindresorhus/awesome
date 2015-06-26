@@ -103,6 +103,7 @@
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [CSS](https://github.com/sota0805/awesome-css)
+- [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides/)
 
 
 ## Back-end Development
