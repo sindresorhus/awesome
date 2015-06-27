@@ -27,7 +27,7 @@ See [Choose a License](http://choosealicense.com/) for more details. Keep in min
 
 ## Include contribution guidelines
 
-People who are contributing to your list should have a clear understanding how they should do so. You could copy a contributing.md from another awesome repository you like.
+People who are contributing to your list should have a clear understanding how they should do so. You could copy a [contributing.md](contributing.md) from another awesome repository you like.
 
 ## Stylize your list properly
 
