@@ -25,7 +25,7 @@ Please be sure that you do your best to keep the list grammatically correct. Pay
 
 See [Choose a License](http://choosealicense.com/no-license/) for more details. Keep in mind that if you haven't selected a license, it basically means the people are not allowed to reproduce, distribute or create derivative works.
 
-### Include contribution guidelines
+## Include contribution guidelines
 
 People who are contributing to your list should have a clear understanding how they should do so. You could copy a contributing.md from another awesome repository you like.
 
