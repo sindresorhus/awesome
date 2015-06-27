@@ -71,6 +71,7 @@
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 - [Assembler](https://github.com/mat0thew/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+- [Crystal](https://github.com/veelenga/awesome-crystal)
 
 
 ## Front-end Development
