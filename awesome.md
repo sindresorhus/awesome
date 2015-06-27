@@ -23,7 +23,7 @@ Please be sure that you do your best to keep the list grammatically correct. Pay
 
 ## Choose an appropriate license
 
-See [Choose a License](http://choosealicense.com/no-license/) for more details. Keep in mind that if you haven't selected a license, it basically means the people are not allowed to reproduce, distribute or create derivative works.
+See [Choose a License](http://choosealicense.com/) for more details. Keep in mind that if you [haven't](http://choosealicense.com/no-license/) selected a license, it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
 
 ## Include contribution guidelines
 
