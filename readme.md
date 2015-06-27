@@ -262,6 +262,7 @@
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
+- [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 
 
 ## License
