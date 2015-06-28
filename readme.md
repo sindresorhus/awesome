@@ -110,6 +110,7 @@
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [CSS](https://github.com/sota0805/awesome-css)
+- [Appcelerator Titanium](https://github.com/TheSmiths/ComponentsDocumentationGuidelines)
 
 
 ## Back-end Development
