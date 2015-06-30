@@ -271,6 +271,7 @@
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
+- [Workflow engines](https://github.com/meirwah/awesome-workflow-engines)
 
 
 ## License
