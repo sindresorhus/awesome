@@ -2,6 +2,8 @@
 
 > A curated list of awesome lists
 
+We did a small document about [what awesome is](awesome.md).\\ If you want to contribute, please read the [contribution guidelines](contributing.md).
+
 
 ## TOC
 

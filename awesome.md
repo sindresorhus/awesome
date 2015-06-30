@@ -4,7 +4,7 @@ If you want your list to be included on `awesome`, you should really just includ
 
 But **what is awesome?**
 
-## Only awesome is awesome.
+## Only awesome is awesome
 
 Research if the stuff you're including is actually awesome. Put only stuff on the list you or another contributor can personally recommend and rather leave stuff out than include too much.
 
