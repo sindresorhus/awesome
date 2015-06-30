@@ -271,6 +271,7 @@
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
+- [Gulp](https://github.com/alferov/awesome-gulp)
 
 
 ## License
