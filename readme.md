@@ -111,6 +111,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [CSS](https://github.com/sota0805/awesome-css)
 - [D3](https://github.com/wbkd/awesome-d3)
+- [Cycle.js](https://github.com/vic/awesome-cyclejs)
 
 
 ## Back-end Development
