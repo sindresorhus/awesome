@@ -37,11 +37,12 @@
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
-- [Electron](https://github.com/sindresorhus/awesome-electron) *(formerly atom-shell)*
+- [Electron](https://github.com/sindresorhus/awesome-electron)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+
 
 ## Programming Languages
 
@@ -176,6 +177,7 @@
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
+
 
 ## Gaming
 
