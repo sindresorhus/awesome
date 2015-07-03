@@ -54,6 +54,7 @@
 - [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
+	- [Ruby Events](https://github.com/planetruby/awesome-events) *(Conferences, Meetups, etc.)*
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elm](https://github.com/isRuslan/awesome-elm)
