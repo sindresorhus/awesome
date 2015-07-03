@@ -276,7 +276,7 @@
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
-
+- [Collaborators](https://github.com/metadevfoundation/awesome-collaborators)
 
 ## License
 
