@@ -104,7 +104,7 @@
 - [Android UI](https://github.com/wasabeef/awesome-android-ui)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 - [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list)
-- [Meteor](https://github.com/gillesfabio/awesome-meteor)
+- [Meteor](https://github.com/Urigo/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
 - [CSS Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
