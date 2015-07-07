@@ -66,7 +66,6 @@
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
 - [R](https://github.com/qinwf/awesome-R)
 - [D](https://github.com/zhaopuming/awesome-d)
-- [Common Lisp](https://github.com/kozross/awesome-cl)
 - [Perl](https://github.com/hachiojipm/awesome-perl)
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Dart](https://github.com/yissachar/awesome-dart)
