@@ -150,6 +150,7 @@
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [GoBooks](https://github.com/dariubs/GoBooks)
+- [How To Make an Operating System](https://www.gitbook.com/book/samypesse/how-to-create-an-operating-system/details)
 
 
 ## Editors
