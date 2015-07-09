@@ -1,6 +1,6 @@
 # The awesome manifesto
 
-If you want your list to be included on `awesome`, you should really just include awesome stuff.
+If you want your list to be included on `awesome`, try to only include awesome stuff in your list. After all, it's a curation, not a collection.
 
 But **what is awesome?**
 
@@ -25,11 +25,13 @@ Please be sure that you do your best to keep the list grammatically correct. Pay
 
 See [Choose a License](http://choosealicense.com/) for more details. Keep in mind that if you [haven't](http://choosealicense.com/no-license/) selected a license, it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
 
+A good license for your `awesome` lists could be [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Include contribution guidelines
 
 People who are contributing to your list should have a clear understanding how they should do so.
 
-If you don't feel like writing one from scratch, you could copy a [contributing.md](contributing.md) from another awesome repository you like.
+If you don't feel like writing one from scratch, you could read a [contributing.md](contributing.md) from another awesome repository you like and base yours on it.
 
 ## Stylize your list properly
 
