@@ -133,6 +133,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
+- [Dropwizard](https://github.com/stve/awesome-dropwizard)
 
 
 ## Computer Science
