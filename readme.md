@@ -281,6 +281,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
+- [GIF](https://github.com/Syskaw/awesome-gif)
 
 
 ## License
