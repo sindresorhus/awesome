@@ -282,6 +282,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
 - [GIF](https://github.com/Syskaw/awesome-gif)
+- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
 
 
 ## License
