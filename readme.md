@@ -283,6 +283,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
 - [GIF](https://github.com/Syskaw/awesome-gif)
 - [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
+- [OpenGL](https://github.com/eug/awesome-opengl)
 
 
 ## License
