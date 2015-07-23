@@ -42,6 +42,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
 - [Electron](https://github.com/sindresorhus/awesome-electron)
+- [NW.js](https://github.com/fritx/awesome-nw)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
