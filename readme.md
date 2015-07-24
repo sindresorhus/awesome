@@ -285,6 +285,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [GIF](https://github.com/Syskaw/awesome-gif)
 - [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
+- [Data visualization tools](https://github.com/fasouto/awesome-dataviz)
 
 
 ## License
