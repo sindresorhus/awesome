@@ -252,6 +252,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome-motivation](https://github.com/akashnimare/motivation)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
