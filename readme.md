@@ -83,6 +83,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Assembler](https://github.com/mat0thew/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
+- [TypeScript](https://github.com/dzharii/awesome-typescript)
 
 
 ## Front-end Development
