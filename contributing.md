@@ -3,6 +3,7 @@
 Please ensure your pull request adheres to the following guidelines:
 
 - Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
+- Wait at least a couple of weeks after creating a list before submitting to give it a chance to mature.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
 - A link back to this list from yours, so users can discover more lists, would be appreciated.
