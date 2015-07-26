@@ -1,5 +1,14 @@
 <h1 align="center">
 	<br>
+	<strong>WARNING:</strong>
+	<br>
+	<br>
+	@sindresorhus and @arthurvr are FAGGGOOOOTZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+	<br>
+</h1>
+
+<h1 align="center">
+	<br>
 	<img width="400" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
 	<br>
