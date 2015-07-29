@@ -16,7 +16,7 @@ Apart from suggesting a particular item on your list, you should also inform you
 
 Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject good enough.
 
-## Pay attention to gramar
+## Pay attention to grammar
 
 Ensure your list is grammatically correct, typo free and has no Markdown formatting errors. This should also apply to pull requests.
 
@@ -24,7 +24,7 @@ Ensure your list is grammatically correct, typo free and has no Markdown formatt
 
 Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
 
-[Creative Commons licenses](https://creativecommons.org/) are perfect for this purpose. **We would recommend [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Code licenses like MIT, BSD, GPL, etc, are not recommended.
+[Creative Commons licenses](https://creativecommons.org/) are perfect for this purpose. **We would recommend [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Code licenses like MIT, BSD, GPL, and so forth are not recommended.
 
 ## Include contribution guidelines
 
@@ -34,7 +34,7 @@ If you don't feel like writing one from scratch, feel free to take our [contribu
 
 ## Stylize your list properly
 
-Create a table of contents, organize the content into different categories, use images if suitable. Ensure all entries are consistent, eg. all entry descriptions ending in a `.`.
+Create a table of contents, organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
 
 ## Accept other people's opinion
 
