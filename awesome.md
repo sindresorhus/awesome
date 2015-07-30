@@ -8,6 +8,16 @@ But **what is awesome?**
 
 Research if the stuff you're including is actually awesome. Put only stuff on the list you or another contributor can personally recommend and rather leave stuff out than include too much.
 
+## Awesome badge
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+Add an awesome badge to the top of your list, right to the title. [Example](https://github.com/sindresorhus/awesome-nodejs).
+
+```md
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+```
+
 ## Comment on why something is awesome
 
 Apart from suggesting a particular item on your list, you should also inform your readers *why* it's on the list and how they will benefit from it.
