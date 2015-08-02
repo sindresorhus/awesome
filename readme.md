@@ -239,6 +239,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Information security](https://github.com/onlurking/awesome-infosec)
 
 
 ## Miscellaneous
