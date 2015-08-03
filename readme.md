@@ -199,7 +199,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-- [Git Cheat Sheet](https://github.com/ArslanBilal/Git-Cheat-Sheet)
+- [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 
 ## Entertainment
