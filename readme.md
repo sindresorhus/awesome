@@ -13,8 +13,9 @@
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 
-## TOC
+## Table of Content
 
+- [Table of Content](#table-of-content)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-end Development](#front-end-development)
