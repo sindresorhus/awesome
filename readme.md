@@ -13,7 +13,7 @@
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
 
-## TOC
+## Table of Contents
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
