@@ -84,6 +84,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [Cobol](https://github.com/dshimy/awesome-cobol)
 
 
 ## Front-end Development
