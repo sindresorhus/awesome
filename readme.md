@@ -100,6 +100,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [SVG](https://github.com/willianjusten/awesome-svg)
+- [Canvas](https://github.com/raphamorim/awesome-canvas)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 - [Inspiration](https://github.com/NoahBuscher/Inspire)
