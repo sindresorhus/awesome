@@ -283,6 +283,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
+- [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
 - [GIF](https://github.com/Syskaw/awesome-gif)
 - [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
