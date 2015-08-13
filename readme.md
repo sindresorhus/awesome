@@ -46,6 +46,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+- [JVM](https://github.com/deephacks/awesome-jvm)
 
 
 ## Programming Languages
