@@ -39,6 +39,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
+- [Mac OS](https://github.com/AndrewSB/awesome-osx)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
 - [Electron](https://github.com/sindresorhus/awesome-electron)
