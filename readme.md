@@ -199,7 +199,9 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Shell](https://github.com/alebcay/awesome-shell)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- [Github](https://github.com/Kikobeats/awesome-github)
 - [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 
 
@@ -257,7 +259,6 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Open Companies](https://github.com/waldyrious/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
