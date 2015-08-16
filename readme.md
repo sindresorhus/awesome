@@ -292,6 +292,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [OpenGL](https://github.com/eug/awesome-opengl)
 - [JavaScript Standard Style](https://github.com/feross/awesome-standard)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
+- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 
 
 ## License
