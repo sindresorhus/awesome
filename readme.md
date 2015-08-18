@@ -75,6 +75,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Java](https://github.com/akullpp/awesome-java)
+- [Kotlin](https://github.com/JavaBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
