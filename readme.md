@@ -206,7 +206,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 ## Entertainment
 
-- [Science Fiction](https://github.com/sindresorhus/awesome-scifi)
+- [Science Fiction](https://github.com/sindresorhus/awesome-scifi) *(Scifi)*
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
