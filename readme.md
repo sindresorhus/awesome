@@ -107,6 +107,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Inspiration](https://github.com/NoahBuscher/Inspire)
 - [Ember](https://github.com/nmec/awesome-ember)
 - [Android UI](https://github.com/wasabeef/awesome-android-ui)
+- [Android Tools](https://github.com/wasabeef/awesome-android-tools)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 - [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list)
 - [Meteor](https://github.com/Urigo/awesome-meteor)
