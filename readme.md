@@ -12,6 +12,7 @@
 
 If you want to contribute, please read the [contribution guidelines](contributing.md).
 
+If you want to create your own list, please read the [create list instructions](create-list.md).
 
 ## Table of Contents
 

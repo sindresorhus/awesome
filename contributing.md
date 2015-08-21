@@ -1,12 +1,11 @@
 # Contribution Guidelines
 
+## Adding to this list
+
 Please ensure your pull request adheres to the following guidelines:
 
-- Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
-- Wait at least a couple of weeks after creating a list before submitting to give it a chance to mature.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
-- A link back to this list from yours, so users can discover more lists, would be appreciated.
+- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
 - Use the following format: `[List Name](link)`
@@ -17,6 +16,10 @@ Please ensure your pull request adheres to the following guidelines:
 - The pull request and commit should have a useful title.
 
 Thank you for your suggestions!
+
+## Creating your own awesome list
+
+To create your own list, check out the [instructions](create-list.md).
 
 ## Adding something to an Awesome list
 
