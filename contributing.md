@@ -17,3 +17,16 @@ Please ensure your pull request adheres to the following guidelines:
 - The pull request and commit should have a useful title.
 
 Thank you for your suggestions!
+
+## Adding something to an Awesome list
+
+If you have something awesome to contribute to an awesome list, this is how you do it.
+
+You'll need a GitHub account!
+
+1. Access the awesome list's GitHub page. For example: `https://github.com/sindresorhus/awesome/`
+2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](http://i.imgur.com/mLEnC9m.png)
+3. Now click on the edit icon ![Step 3 - Click on Edit](http://i.imgur.com/Z7P2gOP.png)
+4. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) ![Step 4 - Edit the file](http://i.imgur.com/YfdyOOI.png)
+5. Say why you're proposing the changes, and then click on "Propose file change" ![Step 5 - Propose Changes](http://i.imgur.com/InVqEP4.png)
+6. Submit the pull request!
