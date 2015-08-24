@@ -157,6 +157,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 
 
 ## Theory
