@@ -293,6 +293,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [JavaScript Standard Style](https://github.com/feross/awesome-standard)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
+- [WordPress](https://github.com/miziomon/awesome-wordpress)
 
 
 ## License
