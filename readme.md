@@ -202,6 +202,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+- [Git Addons](https://github.com/stevemao/awesome-git-addons)
 
 
 ## Entertainment
