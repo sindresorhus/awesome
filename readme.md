@@ -294,6 +294,7 @@ If you want to create your own list, please read the [create list instructions](
 - [JavaScript Standard Style](https://github.com/feross/awesome-standard)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
+- [Falcor](https://github.com/Netflix/falcor)
 
 
 ## License
