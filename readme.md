@@ -192,6 +192,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
 - [Open Source Games](https://github.com/leereilly/games)
+- [Retro Games](https://github.com/pusewicz/retro-games)
 
 
 ## Developer Environment
