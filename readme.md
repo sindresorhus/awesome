@@ -203,6 +203,7 @@ If you want to create your own list, please read the [create list instructions](
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
+- [Git Tips](https://github.com/git-tips/tips)
 
 
 ## Entertainment
