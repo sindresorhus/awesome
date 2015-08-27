@@ -138,6 +138,15 @@ If you want to create your own list, please read the [create list instructions](
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 
+## Node CMS Frameworks
+- [KeystoneJS](https://github.com/keystonejs/keystone)
+- [Ghost](https://github.com/tryghost/Ghost)
+- [We.js](https://github.com/wejs/we/)
+- [PencilBlue](https://github.com/pencilblue/pencilblue/)
+- [Cody](https://github.com/jcoppieters/cody)
+- [Apostrophe](https://github.com/punkave/apostrophe)
+- [Reaction Commerce](https://github.com/reactioncommerce/reaction)
+- [TaracotJS](https://github.com/xtremespb/taracotjs-generator/)
 
 ## Computer Science
 
