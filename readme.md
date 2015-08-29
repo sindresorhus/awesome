@@ -48,7 +48,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
-
+- [NativeScript](https://github.com/jbristowe/awesome-nativescript)
 
 ## Programming Languages
 
