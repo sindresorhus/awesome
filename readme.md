@@ -297,6 +297,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
+- [Community](https://github.com/peterkokot/awesome-community)
 
 ## License
 
