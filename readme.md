@@ -120,6 +120,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [CSS](https://github.com/sota0805/awesome-css)
 - [D3](https://github.com/wbkd/awesome-d3)
+- [Emails](https://github.com/jonathandion/awesome-emails)
 
 
 ## Back-end Development
