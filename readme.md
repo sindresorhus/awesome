@@ -220,6 +220,7 @@ If you want to create your own list, please read the [create list instructions](
 ## Databases
 
 - [Database](https://github.com/numetriclabz/awesome-db)
+- [GEDCOM](https://github.com/todrobbins/awesome-gedcom)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
