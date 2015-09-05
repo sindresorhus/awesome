@@ -39,6 +39,7 @@ If you want to create your own list, please read the [create list instructions](
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Mac OS X](https://github.com/xyNNN/awesome-mac)
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [Hybrid Apps](https://github.com/weblancaster/awesome-hybrid)
