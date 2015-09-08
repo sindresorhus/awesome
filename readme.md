@@ -302,6 +302,7 @@ If you want to create your own list, please read the [create list instructions](
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
+- [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
 
 ## License
 
