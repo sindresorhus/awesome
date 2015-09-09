@@ -303,6 +303,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Transit](https://github.com/luqmaan/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
 - [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
+- [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 
 ## License
 
