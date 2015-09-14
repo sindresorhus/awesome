@@ -306,6 +306,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/awesome-share-links)
+- [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 
 ## License
 
