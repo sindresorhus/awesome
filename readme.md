@@ -90,6 +90,7 @@ If you want to create your own list, please read the [create list instructions](
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [CoffeeScript](https://github.com/uhub/awesome-coffeescript)
 
 
 ## Front-end Development
