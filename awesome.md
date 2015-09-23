@@ -40,7 +40,7 @@ Keep in mind that if you [haven't selected a license](http://choosealicense.com/
 
 People who are contributing to your list should have a clear understanding how they should do so.
 
-If you don't feel like writing one from scratch, feel free to take our [contributing.md](contributing.md) and modify it to our own needs.
+If you don't feel like writing one from scratch, feel free to take our [contributing.md](contributing.md) and modify it to your own needs.
 
 ## Stylize your list properly
 
