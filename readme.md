@@ -218,6 +218,7 @@ If you want to create your own list, please read the [create list instructions](
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi) *(Scifi)*
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
+- [Anime](https://github.com/arkhamdev/awesome-anime)
 - [Podcasts](https://github.com/cv/awesome-geek-podcasts)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
 
