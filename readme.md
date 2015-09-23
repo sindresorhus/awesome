@@ -310,6 +310,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Social Media Share Links](https://github.com/vinkla/awesome-share-links)
 - [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
+- [GitHub](https://github.com/phillipadsmith/awesome-github)
 
 ## License
 
