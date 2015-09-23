@@ -124,6 +124,7 @@ If you want to create your own list, please read the [create list instructions](
 - [CSS](https://github.com/sota0805/awesome-css)
 - [D3](https://github.com/wbkd/awesome-d3)
 - [Emails](https://github.com/jonathandion/awesome-emails)
+- [jQuery](https://github.com/peterkokot/awesome-jquery)
 
 
 ## Back-end Development
