@@ -298,8 +298,8 @@ If you want to create your own list, please read the [create list instructions](
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
 - [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
-- [GIF](https://github.com/Syskaw/awesome-gif)
-- [Open Source Photography](https://github.com/Syskaw/awesome-OpenSourcePhotography/)
+- [GIF](https://github.com/ibaaj/awesome-gif)
+- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
 - [JavaScript Standard Style](https://github.com/feross/awesome-standard)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
