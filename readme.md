@@ -51,6 +51,7 @@ If you want to create your own list, please read the [create list instructions](
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
+- [Windows](https://github.com/RiseLedger/awesome-windows)
 
 
 ## Programming Languages
