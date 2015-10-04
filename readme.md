@@ -56,6 +56,7 @@ If you want to create your own list, please read the [create list instructions](
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
+	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
