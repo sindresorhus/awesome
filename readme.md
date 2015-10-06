@@ -127,7 +127,7 @@ If you want to create your own list, please read the [create list instructions](
 - [D3](https://github.com/wbkd/awesome-d3)
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
-
+- [Icons](https://github.com/mrzmyr/awesome-icons)
 
 ## Back-end Development
 
