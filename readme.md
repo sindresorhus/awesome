@@ -104,6 +104,7 @@ If you want to create your own list, please read the [create list instructions](
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
+- [Angular 2](https://github.com/angular-class/awesome-angular2)
 - [AngularJS](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
