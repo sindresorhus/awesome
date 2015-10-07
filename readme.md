@@ -67,6 +67,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Ruby](https://github.com/markets/awesome-ruby)
 	- [Ruby Events](https://github.com/planetruby/awesome-events) *(Conferences, Meetups, etc.)*
 - [Clojure](https://github.com/razum2um/awesome-clojure)
+- [ClojureScript](https://github.com/emrehan/awesome-clojurescript)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elm](https://github.com/isRuslan/awesome-elm)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
