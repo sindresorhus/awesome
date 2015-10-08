@@ -103,6 +103,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Above-the-fold CSS Tools](https://github.com/addyosmani/above-the-fold-css-tools)
 - [React](https://github.com/enaqx/awesome-react)
+- [Redux - Predictable state container for JavaScript apps](https://github.com/xgrommx/awesome-redux)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
 - [Angular 2](https://github.com/angular-class/awesome-angular2)
