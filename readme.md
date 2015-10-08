@@ -233,6 +233,7 @@ If you want to create your own list, please read the [create list instructions](
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
+- [Neo4j](https://github.com/GraphGeeks/awesome-neo4j)
 
 
 ## Resources
