@@ -250,6 +250,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
+- [Awesome Cookbooks](https://github.com/oguzhantasci/Awesome-Cookbooks)
 
 
 ## Security
