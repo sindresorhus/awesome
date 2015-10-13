@@ -48,6 +48,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [OS X](https://github.com/iCHAIT/awesome-osx)
+	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
