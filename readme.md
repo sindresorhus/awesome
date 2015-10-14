@@ -249,6 +249,7 @@ If you want to create your own list, please read the [create list instructions](
 
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
+- [Awesome coding resources](https://github.com/dreamtocode/awesome-resources)
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
 
