@@ -149,6 +149,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
+- [Slim](https://github.com/xssc/awesome-slim)
 
 
 ## Computer Science
