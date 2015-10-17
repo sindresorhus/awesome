@@ -149,7 +149,6 @@ If you want to create your own list, please read the [create list instructions](
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
-- [Slim](https://github.com/xssc/awesome-slim)
 
 
 ## Computer Science
@@ -236,6 +235,7 @@ If you want to create your own list, please read the [create list instructions](
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/GraphGeeks/awesome-neo4j)
+- [Redis](https://github.com/zmingwang/awesome-redis)
 
 
 ## Resources
