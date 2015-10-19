@@ -163,6 +163,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+- [Open Source Society University](https://github.com/open-source-society/computer-science)
 
 
 ## Big Data
