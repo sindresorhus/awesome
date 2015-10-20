@@ -264,7 +264,6 @@ If you want to create your own list, please read the [create list instructions](
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
-- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers#security)
 
 
 ## Miscellaneous
@@ -322,6 +321,7 @@ If you want to create your own list, please read the [create list instructions](
 - [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [GitHub](https://github.com/phillipadsmith/awesome-github)
+- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 
 ## License
 
