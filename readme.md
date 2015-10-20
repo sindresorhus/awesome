@@ -245,7 +245,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
-
+- [Strings](https://github.com/metasmile/awesome-strings) *(String resources for L10N)*
 
 ## Learn
 
