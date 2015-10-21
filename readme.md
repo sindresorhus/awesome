@@ -322,6 +322,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [GitHub](https://github.com/phillipadsmith/awesome-github)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
+- [Coding Style Conventions and Standards](https://github.com/SalGnt/cscs)
 
 ## License
 
