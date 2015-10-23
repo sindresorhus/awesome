@@ -164,6 +164,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
+- [Competitive Coding](https://github.com/hkirat/awesome-competitive-coding)
 
 
 ## Big Data
