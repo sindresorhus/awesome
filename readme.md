@@ -199,6 +199,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
+- [Brackets](https://github.com/adobe/brackets)
 
 
 ## Gaming
