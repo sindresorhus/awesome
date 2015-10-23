@@ -323,6 +323,8 @@ If you want to create your own list, please read the [create list instructions](
 - [GitHub](https://github.com/phillipadsmith/awesome-github)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
+- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
+
 
 ## License
 
