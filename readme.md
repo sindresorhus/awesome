@@ -131,6 +131,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
+- [Offline-First](https://github.com/pazguille/offline-first)
 
 
 ## Back-end Development
