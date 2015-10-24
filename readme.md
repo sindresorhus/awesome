@@ -246,6 +246,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
+- [Coding resources](https://github.com/dreamtocode/awesome-resources)
 
 
 ## Learn
