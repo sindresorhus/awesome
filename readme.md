@@ -325,6 +325,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
+- [Beginners-friendly repositories](https://github.com/MunGell/awesome-for-beginners)
 
 
 ## License
