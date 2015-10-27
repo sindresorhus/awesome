@@ -53,6 +53,7 @@ If you want to create your own list, please read the [create list instructions](
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
+- [Windows](https://github.com/RiseLedger/awesome-windows)
 
 
 ## Programming Languages
