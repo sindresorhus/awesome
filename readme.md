@@ -134,6 +134,7 @@ If you want to create your own list, please read the [create list instructions](
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
+- [Riot-JS] (https://github.com/riot/riot)
 
 
 ## Back-end Development
