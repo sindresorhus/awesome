@@ -329,6 +329,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
+- [WordPress](https://github.com/blindingstars/awesome-wordpress)
 
 
 ## License
