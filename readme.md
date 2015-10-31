@@ -307,6 +307,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
+- [Grunt](https://github.com/arnoldstoba/awesome-grunt)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
 - [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
