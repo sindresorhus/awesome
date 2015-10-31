@@ -54,6 +54,7 @@ If you want to create your own list, please read the [create list instructions](
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 - [Windows](https://github.com/RiseLedger/awesome-windows)
+- [WordPress](https://github.com/miziomon/awesome-wordpress)
 
 
 ## Programming Languages
