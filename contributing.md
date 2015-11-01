@@ -1,5 +1,11 @@
 # Contribution Guidelines
 
+## Table of Contents
+- [Adding to this list](#adding-to-this-list)
+- [Creating your own awesome list](#creating-your-own-awesome-list)
+- [Adding something to an Awesome list](#adding-something-to-an-awesome-list)
+- [Updating your Pull Request](#updating-your-pull-request)
+
 ## Adding to this list
 
 Please ensure your pull request adheres to the following guidelines:
@@ -21,7 +27,7 @@ Thank you for your suggestions!
 
 To create your own list, check out the [instructions](create-list.md).
 
-## Adding something to an Awesome list
+## Adding something to an awesome list
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
