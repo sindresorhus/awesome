@@ -10,9 +10,10 @@
 
 [What makes for an awesome list?](awesome.md)
 
-If you want to contribute, please read the [contribution guidelines](contributing.md).
+Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
 
-If you want to create your own list, please read the [create list instructions](create-list.md).
+**Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter](https://twitter.com/sindresorhus).**
+
 
 ## Table of Contents
 
