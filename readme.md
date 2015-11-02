@@ -245,6 +245,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Resources
 
+- [Creatives](https://github.com/afang/awesome-creatives)
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
