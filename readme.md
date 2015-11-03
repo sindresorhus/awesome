@@ -55,6 +55,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 - [Windows](https://github.com/RiseLedger/awesome-windows)
+- [IPFS](https://github.com/ipfs/awesome-ipfs)
 
 
 ## Programming Languages
