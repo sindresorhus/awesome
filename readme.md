@@ -1,4 +1,4 @@
-<h1 align="center">
+﻿<h1 align="center">
 	<br>
 	<img width="400" src="https://rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
@@ -243,6 +243,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/GraphGeeks/awesome-neo4j)
+- [Titan](https://github.com/thinkaurelius/titan)
 
 
 ## Resources
