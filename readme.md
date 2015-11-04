@@ -155,6 +155,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
 
 ## Computer Science
