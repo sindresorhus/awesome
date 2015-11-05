@@ -110,7 +110,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
-- [Angular 2](https://github.com/angular-class/awesome-angular2)
+- [Angular 2](https://github.com/AngularClass/awesome-angular2)
 - [Angular](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/instanceofpro/awesome-backbone)
 - [HTML5](https://github.com/diegocard/awesome-html5)
