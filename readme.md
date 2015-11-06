@@ -27,7 +27,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Books](#books)
 - [Editors](#editors)
 - [Gaming](#gaming)
-- [Developer Environment](#developer-environment)
+- [Development Environment](#development-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
 - [Resources](#resources)
@@ -215,7 +215,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Open Source Games](https://github.com/leereilly/games)
 
 
-## Developer Environment
+## Development Environment
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 - [Dev Env](https://github.com/jondot/awesome-devenv)
