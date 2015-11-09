@@ -136,6 +136,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
+- [Services For Static Websites](https://github.com/aharris88/awesome-services-for-static-websites)
 
 
 ## Back-end Development
