@@ -257,6 +257,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [CLI Workshoppers/Adventures](https://github.com/therebelrobot/awesome-workshopper)
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
 
