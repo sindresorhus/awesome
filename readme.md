@@ -332,7 +332,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
-- [Beginners-Friendly Repositories](https://github.com/MunGell/awesome-for-beginners)
+- [Beginners-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 
 
 ## License
