@@ -50,6 +50,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [OS X](https://github.com/iCHAIT/awesome-osx)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
+	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
