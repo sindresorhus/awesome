@@ -98,6 +98,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [COBOL](https://github.com/dshimy/awesome-cobol)
 
 
 ## Front-end Development
