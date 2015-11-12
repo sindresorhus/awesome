@@ -259,6 +259,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Learn to Program](https://github.com/karlhorky/learn-to-program)
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
+- [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
 
 ## Security
