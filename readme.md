@@ -228,6 +228,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git Tips](https://github.com/git-tips/tips)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
+- [Commands Git](https://github.com/theandersonn/comandos-git)
 
 
 ## Entertainment
