@@ -214,6 +214,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
 - [Open Source Games](https://github.com/leereilly/games)
+- [Roguelikes](https://github.com/DJgamer98/awesome-roguelikes)
 
 
 ## Development Environment
