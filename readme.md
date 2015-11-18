@@ -244,6 +244,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/GraphGeeks/awesome-neo4j)
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres)
 
 
 ## Resources
