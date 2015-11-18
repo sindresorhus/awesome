@@ -252,6 +252,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Images](https://github.com/heyalexej/awesome-images)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
+- [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 
 
 ## Learn
