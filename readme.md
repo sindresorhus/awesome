@@ -215,6 +215,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
 - [Open Source Games](https://github.com/leereilly/games)
+- [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 
 
 ## Development Environment
