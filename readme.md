@@ -57,6 +57,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 - [Windows](https://github.com/RiseLedger/awesome-windows)
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
+- [Fuse](https://github.com/vinkla/awesome-fuse)
 
 
 ## Programming Languages
