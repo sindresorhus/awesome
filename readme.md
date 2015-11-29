@@ -73,6 +73,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
 	- [Ruby Events](https://github.com/planetruby/awesome-events) *(Conferences, Meetups, etc.)*
+	- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [ClojureScript](https://github.com/emrehan/awesome-clojurescript)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
