@@ -276,6 +276,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Windows Exploitation](https://github.com/enddo/awesome-windows-exploitation)
 
 
 ## Miscellaneous
