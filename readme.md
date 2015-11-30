@@ -66,6 +66,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 - [Python](https://github.com/vinta/awesome-python)
+    - [PEP8](https://github.com/walidsa3d/awesome-pep8)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
