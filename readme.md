@@ -217,6 +217,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
 - [Open Source Games](https://github.com/leereilly/games)
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
+- [Chess](https://github.com/hkirat/awesome-chess)
 
 
 ## Development Environment
