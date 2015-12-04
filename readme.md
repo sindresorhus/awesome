@@ -191,6 +191,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
+- [Competitive Coding](https://github.com/hkirat/awesome-competitive-coding)
 
 
 ## Books
