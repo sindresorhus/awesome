@@ -110,6 +110,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [Critical-Path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools)
 - [React](https://github.com/enaqx/awesome-react)
+- [Relay](https://github.com/expede/awesome-relay)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
 - [Angular 2](https://github.com/AngularClass/awesome-angular2)
