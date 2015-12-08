@@ -146,7 +146,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
-- [Pyramid](https://github.com/ITCase/awesome-pyramid)
+- [Pyramid](https://github.com/uralbash/awesome-pyramid)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
 - [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
