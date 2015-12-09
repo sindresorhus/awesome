@@ -220,6 +220,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Open Source Games](https://github.com/leereilly/games)
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 - [Chess](https://github.com/hkirat/awesome-chess)
+- [Minecraft](https://github.com/Armored-Dragon/awesome-minecraft)
 
 
 ## Development Environment
