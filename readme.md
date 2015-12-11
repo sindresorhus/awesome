@@ -344,6 +344,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
+- [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
 
 ## License
 
