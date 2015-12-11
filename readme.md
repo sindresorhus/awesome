@@ -344,6 +344,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
+- [Peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer)
 
 ## License
 
