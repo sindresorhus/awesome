@@ -58,6 +58,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Windows](https://github.com/RiseLedger/awesome-windows)
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
+- [Decentralized P2P](https://github.com/steve-vincent/awesome-decentralized)
 
 
 ## Programming Languages
