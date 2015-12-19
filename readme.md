@@ -137,6 +137,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
+- [WebRTC](https://github.com/OpenRTC-IO/awesome-webrtc)
 - [Offline-First](https://github.com/pazguille/offline-first)
 
 
