@@ -174,7 +174,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
-- [Programming interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 
 
 ## Big Data
@@ -346,6 +345,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
+- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 
 ## License
 
