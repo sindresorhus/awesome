@@ -345,6 +345,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
+- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 
 ## License
 
