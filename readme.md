@@ -174,6 +174,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
+- [Static Analysis / Code Quality](https://github.com/mre/awesome-static-analysis/)
 
 
 ## Big Data
