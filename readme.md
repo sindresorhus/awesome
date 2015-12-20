@@ -221,7 +221,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 - [Chess](https://github.com/hkirat/awesome-chess)
 
-
 ## Development Environment
 
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
