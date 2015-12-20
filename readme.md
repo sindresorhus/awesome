@@ -27,6 +27,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Books](#books)
 - [Editors](#editors)
 - [Gaming](#gaming)
+- [Creating](#creating)
 - [Development Environment](#development-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
@@ -221,6 +222,9 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 - [Chess](https://github.com/hkirat/awesome-chess)
 
+## Creating
+
+- [Music](https://github.com/ciconia/awesome-music)
 
 ## Development Environment
 
