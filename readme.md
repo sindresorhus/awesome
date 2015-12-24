@@ -315,7 +315,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-- [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
