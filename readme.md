@@ -290,7 +290,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
-- [Startup](https://github.com/KrishMunot/awesome-startup)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
@@ -347,6 +346,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 - [Music](https://github.com/ciconia/awesome-music)
+- [Startup](https://github.com/KrishMunot/awesome-startup)
 
 ## License
 
