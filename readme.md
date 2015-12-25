@@ -158,6 +158,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [Grails](https://github.com/hitenpratap/awesome-grails)
 
 
 ## Computer Science
