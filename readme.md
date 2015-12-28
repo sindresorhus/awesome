@@ -347,7 +347,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 - [Music](https://github.com/ciconia/awesome-music)
-
+- [TechTalks on Youtube (Channels)](https://github.com/epoyraz/Awesome-Youtube-Channels)
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
