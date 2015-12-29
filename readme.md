@@ -65,6 +65,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
+	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 - [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
