@@ -211,6 +211,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Vim](http://vimawesome.com)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
+- [Brackets](https://github.com/planetabhi/awesome-brackets)
 
 
 ## Gaming
