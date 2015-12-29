@@ -348,6 +348,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 - [Music](https://github.com/ciconia/awesome-music)
+- [Ripple](https://github.com/vhpoet/awesome-ripple) *(open-source distributed settlement network)*
 
 ## License
 
