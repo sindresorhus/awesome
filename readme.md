@@ -190,7 +190,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
-- [Mathematics](https://github.com/rossant/awesome-math)
+- [Math](https://github.com/rossant/awesome-math)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
