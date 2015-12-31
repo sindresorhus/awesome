@@ -287,6 +287,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Miscellaneous
 
+- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Slack](https://github.com/matiassingers/awesome-slack)
