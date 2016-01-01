@@ -287,7 +287,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Miscellaneous
 
-- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Slack](https://github.com/matiassingers/awesome-slack)
@@ -351,7 +350,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 - [Music](https://github.com/ciconia/awesome-music)
 - [Ripple](https://github.com/vhpoet/awesome-ripple) *(Open-source distributed settlement network)*
-
+- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 
 ## License
 
