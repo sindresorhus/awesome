@@ -351,6 +351,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Music](https://github.com/ciconia/awesome-music)
 - [Ripple](https://github.com/vhpoet/awesome-ripple) *(Open-source distributed settlement network)*
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
+- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 
 
 ## License
