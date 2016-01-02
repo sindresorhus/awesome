@@ -140,6 +140,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
+- [JavaScript Design Patterns](https://github.com/mazzur/awesome-javascript-design-patterns)
 
 
 ## Back-end Development
