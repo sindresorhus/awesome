@@ -81,6 +81,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [Julia](https://github.com/svaksha/Julia.jl)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
+- [MATLAB](https://github.com/mikecroucher/awesome-MATLAB)
 - [C](https://github.com/aleksandar-todorovic/awesome-c)
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
 - [R](https://github.com/qinwf/awesome-R)
