@@ -354,6 +354,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [TAP](https://github.com/sindresorhus/awesome-tap) *(Test Anything Protocol)*
+- [Robotics](https://github.com/Kiloreux/awesome-robotics)
 
 
 ## License
