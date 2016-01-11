@@ -109,6 +109,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
+- [Aurelia](https://github.com/behzad888/awesome-Aurelia)
 - [Critical-Path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools)
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
