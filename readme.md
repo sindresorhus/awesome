@@ -64,7 +64,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
-	- [Network Layer](https://github.com/Kikobeats/awesome-network-js/blob/master/README.md#awesome-javascript-network--)
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 - [Python](https://github.com/vinta/awesome-python)
