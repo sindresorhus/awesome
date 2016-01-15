@@ -17,6 +17,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Table of Contents
 
+[![Join the chat at https://gitter.im/sindresorhus/awesome](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/sindresorhus/awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-end Development](#front-end-development)
