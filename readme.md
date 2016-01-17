@@ -215,7 +215,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
-- [Vim](http://vimawesome.com)
+- [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
 
