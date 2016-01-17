@@ -360,6 +360,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [TAP](https://github.com/sindresorhus/awesome-tap) *(Test Anything Protocol)*
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
+- [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 
 
 ## License
