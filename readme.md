@@ -68,6 +68,8 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
+	- [Standard Style](https://github.com/feross/awesome-standard)
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 - [Python](https://github.com/vinta/awesome-python)
@@ -109,7 +111,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Front-end Development
 
-- [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
@@ -334,7 +335,6 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [GIF](https://github.com/ibaaj/awesome-gif)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
-- [JavaScript Standard Style](https://github.com/feross/awesome-standard)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
