@@ -284,7 +284,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [Application Security](https://github.com/paragonie/awesome-appsec)
 - [Security](https://github.com/sbilly/awesome-security)
-- [CTF](https://github.com/apsdehal/awesome-ctf)
+- [CTF](https://github.com/apsdehal/awesome-ctf) *(Capture the Flag)*
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
