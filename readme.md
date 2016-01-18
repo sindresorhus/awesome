@@ -267,7 +267,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 ## Resources
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
-- [Images](https://github.com/heyalexej/awesome-images)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
