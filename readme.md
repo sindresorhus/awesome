@@ -8,15 +8,15 @@
 
 > A curated list of awesome lists
 
-[What makes for an awesome list?](awesome.md)
-
-Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+- [What is an awesome list?](awesome.md)
+- [Contribution guide](contributing.md)
+- [Creating a list](create-list.md)
 
 [![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/sindresorhus/awesome)
 
 -
 
-**Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter](https://twitter.com/sindresorhus).**
+Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
 
 
 ## Table of Contents
