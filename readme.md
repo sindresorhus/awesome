@@ -146,6 +146,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) *(Virtual reality)*
+- [Cycle.js](https://github.com/vic/awesome-cyclejs)
 
 
 ## Back-end Development
