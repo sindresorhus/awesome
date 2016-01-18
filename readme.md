@@ -185,6 +185,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
+- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 
 
 ## Big Data
