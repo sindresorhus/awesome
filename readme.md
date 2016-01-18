@@ -217,7 +217,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
-- [Vim](http://vimawesome.com)
+- [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
 
