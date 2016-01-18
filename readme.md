@@ -366,6 +366,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [TAP](https://github.com/sindresorhus/awesome-tap) *(Test Anything Protocol)*
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) *(an "Internet of Things" connectivity protocol)*
+- [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 
 
 ## License
