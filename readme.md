@@ -235,6 +235,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Open Source Games](https://github.com/leereilly/games)
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 - [Chess](https://github.com/hkirat/awesome-chess)
+- [LÖVE](https://github.com/JanWerder/awesome-love2d) *(Game engine)*
 
 
 ## Development Environment
