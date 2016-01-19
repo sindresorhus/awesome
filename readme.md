@@ -161,7 +161,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Pyramid](https://github.com/uralbash/awesome-pyramid)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
-- [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
+- [Symfony](https://github.com/sitepoint/awesome-symfony)
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
     - [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
