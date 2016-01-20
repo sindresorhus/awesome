@@ -341,7 +341,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
-- [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
+	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
