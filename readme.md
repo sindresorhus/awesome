@@ -278,6 +278,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+- [GIF](https://github.com/ibaaj/awesome-gif)
+- [Music](https://github.com/ciconia/awesome-music)
 
 
 ## Learn
@@ -340,7 +342,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
 - [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
-- [GIF](https://github.com/ibaaj/awesome-gif)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
@@ -360,7 +361,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
-- [Music](https://github.com/ciconia/awesome-music)
 - [Ripple](https://github.com/vhpoet/awesome-ripple) *(Open-source distributed settlement network)*
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
