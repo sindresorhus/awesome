@@ -35,7 +35,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Development Environment](#development-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
-- [Resources](#resources)
+- [Media](#media)
 - [Learn](#learn)
 - [Security](#security)
 - [Miscellaneous](#miscellaneous)
@@ -272,7 +272,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) *(PHP ORM)*
 
 
-## Resources
+## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
