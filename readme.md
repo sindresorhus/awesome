@@ -150,6 +150,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) *(Virtual reality)*
 - [Cycle.js](https://github.com/vic/awesome-cyclejs)
+- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 
 
 ## Back-end Development
