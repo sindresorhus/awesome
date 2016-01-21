@@ -369,7 +369,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) *(an "Internet of Things" connectivity protocol)*
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
-
+- [Rails Free Ruby](https://github.com/shime/rails-free-ruby)
 
 ## License
 
