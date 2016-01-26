@@ -351,6 +351,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Research Tools](https://github.com/emptymalei/awesome-research)
 - [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
+- [Data Journalism](https://github.com/infoculture/awesome-datajournalism)
 - [Social Media Share Links](https://github.com/vinkla/share-links)
 - [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
