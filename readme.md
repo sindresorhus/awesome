@@ -173,6 +173,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 
+
 ## Computer Science
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
@@ -370,6 +371,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal)
+
 
 ## License
 
