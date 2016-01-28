@@ -152,6 +152,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Cycle.js](https://github.com/vic/awesome-cyclejs)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 - [Vue.js](https://github.com/vuejs/awesome-vue)
+- [MarionetteJS](https://github.com/sadcitizen/awesome-marionette)
 
 
 ## Back-end Development
