@@ -73,6 +73,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Standard Style](https://github.com/feross/awesome-standard)
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 	- [Tips](https://github.com/loverajoel/jstips)
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 - [Python](https://github.com/vinta/awesome-python)
