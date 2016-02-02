@@ -26,6 +26,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Programming Languages](#programming-languages)
 - [Front-end Development](#front-end-development)
 - [Back-end Development](#back-end-development)
+- [Content Management System](#content-management-system)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
 - [Theory](#theory)
@@ -176,6 +177,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+
+
+## Content Management System
+
+- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
+- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 
 
 ## Computer Science
@@ -361,7 +368,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
-- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
