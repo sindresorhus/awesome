@@ -38,6 +38,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Media](#media)
 - [Learn](#learn)
 - [Security](#security)
+- [Content Management System](#content-management-system)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -73,8 +74,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Standard Style](https://github.com/feross/awesome-standard)
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 	- [Tips](https://github.com/loverajoel/jstips)
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
+	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
@@ -151,6 +154,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) *(Virtual reality)*
 - [Cycle.js](https://github.com/vic/awesome-cyclejs)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
+- [Vue.js](https://github.com/vuejs/awesome-vue)
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
 
 
 ## Back-end Development
@@ -304,6 +309,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 
 
+## Content Management System
+
+- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
+- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
+
+
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json)
@@ -357,7 +368,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
-- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
@@ -370,6 +380,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) *(an "Internet of Things" connectivity protocol)*
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
+- [Vorpal](https://github.com/vorpaljs/awesome-vorpal) *(Node.js CLI framework)*
 
 
 ## License
