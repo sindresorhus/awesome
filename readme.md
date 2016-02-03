@@ -381,7 +381,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal) *(Node.js CLI framework)*
-- [OKR](https://github.com/domenicosolazzo/awesome-okr)
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) *(Goal Setting and communication best practice)*
 
 
 ## License
