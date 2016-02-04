@@ -274,7 +274,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
-- [Neo4j](https://github.com/GraphGeeks/awesome-neo4j)
+- [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) *(PHP ORM)*
 
 
