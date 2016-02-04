@@ -177,6 +177,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [nginx](https://github.com/fcambus/nginx-resources)
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+- [Caddy](https://github.com/caddy-book/awesome-caddy)
 
 
 ## Computer Science
