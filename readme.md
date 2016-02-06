@@ -295,6 +295,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- [Computer History](https://github.com/watson/awesome-computer-history)
 
 
 ## Security
