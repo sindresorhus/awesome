@@ -8,11 +8,16 @@
 
 > A curated list of awesome lists
 
-[What makes for an awesome list?](awesome.md)
+- [What is an awesome list?](awesome.md)
+- [Contribution guide](contributing.md)
+- [Creating a list](create-list.md)
+- [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
 
-Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+[![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/sindresorhus/awesome)
 
-**Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter](https://twitter.com/sindresorhus).**
+-
+
+Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
 
 
 ## Table of Contents
@@ -30,9 +35,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Development Environment](#development-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
-- [Resources](#resources)
+- [Media](#media)
 - [Learn](#learn)
 - [Security](#security)
+- [Content Management System](#content-management-system)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -48,6 +54,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+    - [Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [OS X](https://github.com/iCHAIT/awesome-osx)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
 	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
@@ -64,7 +71,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
+	- [Standard Style](https://github.com/feross/awesome-standard)
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
+	- [Tips](https://github.com/loverajoel/jstips)
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
+	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
+	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
@@ -89,6 +102,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Java](https://github.com/akullpp/awesome-java)
+- [Kotlin](https://github.com/JavaBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
@@ -104,11 +118,13 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 
 ## Front-end Development
 
-- [JavaScript Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
-- [Critical-Path (Above-the-fold) CSS Tools](https://github.com/addyosmani/critical-path-css-tools)
+- [CSS](https://github.com/sotayamashita/awesome-css)
+	- [Critical-Path (Above-the-fold) Tools](https://github.com/addyosmani/critical-path-css-tools)
+	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
+	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 - [React](https://github.com/enaqx/awesome-react)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
@@ -124,20 +140,23 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Ember](https://github.com/nmec/awesome-ember)
 - [Android UI](https://github.com/wasabeef/awesome-android-ui)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
-- [Scalable CSS](https://github.com/davidtheclark/scalable-css-reading-list)
 - [Meteor](https://github.com/Urigo/awesome-meteor)
 - [BEM](https://github.com/sturobson/BEM-resources)
-- [CSS Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox)
 - [Web Typography](https://github.com/deanhume/typography)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Material Design](https://github.com/sachin1092/awesome-material)
-- [CSS](https://github.com/sotayamashita/awesome-css)
 - [D3](https://github.com/wbkd/awesome-d3)
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
+- [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
+- [A-Frame VR](https://github.com/aframevr/awesome-aframe) *(Virtual reality)*
+- [Cycle.js](https://github.com/vic/awesome-cyclejs)
+- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
+- [Vue.js](https://github.com/vuejs/awesome-vue)
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
 
 
 ## Back-end Development
@@ -146,13 +165,14 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
-- [Pyramid](https://github.com/ITCase/awesome-pyramid)
+- [Pyramid](https://github.com/uralbash/awesome-pyramid)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
-- [Symfony2](https://github.com/EmanueleMinotto/awesome-symfony2)
+- [Symfony](https://github.com/sitepoint/awesome-symfony)
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
+    - [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
-- [Rails Gem](https://github.com/hothero/awesome-rails-gem)
+	- [Gems](https://github.com/hothero/awesome-rails-gem)
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
@@ -174,6 +194,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
+- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 
 
 ## Big Data
@@ -193,6 +214,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
 - [Competitive Coding](https://github.com/hkirat/awesome-competitive-coding)
+- [Math](https://github.com/rossant/awesome-math)
 
 
 ## Books
@@ -207,7 +229,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
-- [Vim](http://vimawesome.com)
+- [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
 
@@ -220,6 +242,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Open Source Games](https://github.com/leereilly/games)
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 - [Chess](https://github.com/hkirat/awesome-chess)
+- [LÖVE](https://github.com/JanWerder/awesome-love2d) *(Game engine)*
 
 
 ## Development Environment
@@ -228,11 +251,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Shell](https://github.com/alebcay/awesome-shell)
+- [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
-- [Browser Extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+- [GitHub](https://github.com/phillipadsmith/awesome-github)
+    - [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+    - [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git Tips](https://github.com/git-tips/tips)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
+- [SSH](https://github.com/moul/awesome-ssh)
 
 
 ## Entertainment
@@ -249,16 +276,18 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
-- [Neo4j](https://github.com/GraphGeeks/awesome-neo4j)
+- [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
+- [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) *(PHP ORM)*
 
 
-## Resources
+## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
-- [Images](https://github.com/heyalexej/awesome-images)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+- [GIF](https://github.com/ibaaj/awesome-gif)
+- [Music](https://github.com/ciconia/awesome-music)
 
 
 ## Learn
@@ -268,17 +297,25 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- [Computer History](https://github.com/watson/awesome-computer-history)
 
 
 ## Security
 
 - [Application Security](https://github.com/paragonie/awesome-appsec)
 - [Security](https://github.com/sbilly/awesome-security)
-- [CTF](https://github.com/apsdehal/awesome-ctf)
+- [CTF](https://github.com/apsdehal/awesome-ctf) *(Capture the Flag)*
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Incident Response](https://github.com/meirwah/awesome-incident-response)
+
+
+## Content Management System
+
+- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
+- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 
 
 ## Miscellaneous
@@ -286,6 +323,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [JSON](https://github.com/burningtree/awesome-json)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Slack](https://github.com/matiassingers/awesome-slack)
+    - [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
@@ -293,12 +331,10 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
-- [Slack Communities](https://github.com/filipelinhares/awesome-slack)
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
@@ -314,18 +350,15 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
-- [Blogs](https://github.com/aleksandar-todorovic/awesome-blogs)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
-- [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
-- [GIF](https://github.com/ibaaj/awesome-gif)
+	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
-- [JavaScript Standard Style](https://github.com/feross/awesome-standard)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
@@ -335,13 +368,23 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Social Media Share Links](https://github.com/vinkla/share-links)
 - [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
-- [GitHub](https://github.com/phillipadsmith/awesome-github)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
-- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
-- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
+- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
+- [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
+- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
+- [Ripple](https://github.com/vhpoet/awesome-ripple) *(Open-source distributed settlement network)*
+- [Katas](https://github.com/gmontalvoriv/awesome-katas)
+- [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
+- [TAP](https://github.com/sindresorhus/awesome-tap) *(Test Anything Protocol)*
+- [Robotics](https://github.com/Kiloreux/awesome-robotics)
+- [MQTT](https://github.com/hobbyquaker/awesome-mqtt) *(an "Internet of Things" connectivity protocol)*
+- [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
+- [For Girls](https://github.com/cristianoliveira/awesome4girls)
+- [Vorpal](https://github.com/vorpaljs/awesome-vorpal) *(Node.js CLI framework)*
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) *(Goal setting & communication best practices)*
 
 
 ## License

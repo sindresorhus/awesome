@@ -44,7 +44,7 @@ If you don't feel like writing one from scratch, feel free to take our [contribu
 
 ## Stylize your list properly
 
-Create a table of contents, organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
+Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
 
 ## Accept other people's opinion
 
