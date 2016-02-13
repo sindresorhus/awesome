@@ -35,9 +35,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Development Environment](#development-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
-- [Resources](#resources)
+- [Media](#media)
 - [Learn](#learn)
 - [Security](#security)
+- [Content Management System](#content-management-system)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -73,8 +74,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Standard Style](https://github.com/feross/awesome-standard)
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 	- [Tips](https://github.com/loverajoel/jstips)
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
+	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
@@ -99,6 +102,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Groovy](https://github.com/kdabir/awesome-groovy)
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Java](https://github.com/akullpp/awesome-java)
+- [Kotlin](https://github.com/JavaBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
@@ -151,6 +155,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) *(Virtual reality)*
 - [Cycle.js](https://github.com/vic/awesome-cyclejs)
 - [Text Editing](https://github.com/dok/awesome-text-editing)
+- [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
+- [Vue.js](https://github.com/vuejs/awesome-vue)
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
 
 
 ## Back-end Development
@@ -166,7 +173,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
     - [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
-- [Rails Gem](https://github.com/hothero/awesome-rails-gem)
+	- [Gems](https://github.com/hothero/awesome-rails-gem)
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
@@ -189,6 +196,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
+- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
 
 
 ## Big Data
@@ -253,6 +261,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git Tips](https://github.com/git-tips/tips)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
+- [SSH](https://github.com/moul/awesome-ssh)
 
 
 ## Entertainment
@@ -269,16 +278,18 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
-- [Neo4j](https://github.com/GraphGeeks/awesome-neo4j)
+- [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) *(PHP ORM)*
 
 
-## Resources
+## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media)
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) *(Text editor fonts)*
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+- [GIF](https://github.com/ibaaj/awesome-gif)
+- [Music](https://github.com/ciconia/awesome-music)
 
 
 ## Learn
@@ -288,6 +299,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Speaking](https://github.com/matteofigus/awesome-speaking)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- [Computer History](https://github.com/watson/awesome-computer-history)
 
 
 ## Security
@@ -300,6 +312,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
+
+
+## Content Management System
+
+- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
+- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 
 
 ## Miscellaneous
@@ -340,8 +358,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
-- [AMA-answers](https://github.com/stoeffel/awesome-ama-answers)
-- [GIF](https://github.com/ibaaj/awesome-gif)
+	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
@@ -356,12 +373,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
-- [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
-- [Music](https://github.com/ciconia/awesome-music)
 - [Ripple](https://github.com/vhpoet/awesome-ripple) *(Open-source distributed settlement network)*
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
@@ -369,6 +384,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) *(an "Internet of Things" connectivity protocol)*
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
+- [For Girls](https://github.com/cristianoliveira/awesome4girls)
+- [Vorpal](https://github.com/vorpaljs/awesome-vorpal) *(Node.js CLI framework)*
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) *(Goal setting & communication best practices)*
 
 
 ## License
