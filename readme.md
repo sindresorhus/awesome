@@ -205,6 +205,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 - [Hadoop](https://github.com/youngwookim/awesome-hadoop)
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
+- [Streaming](https://github.com/manuzhang/awesome-streaming)
 
 
 ## Theory
