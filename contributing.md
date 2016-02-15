@@ -1,6 +1,9 @@
 # Contribution Guidelines
 
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
 ## Table of Contents
+
 - [Adding to this list](#adding-to-this-list)
 - [Creating your own awesome list](#creating-your-own-awesome-list)
 - [Adding something to an Awesome list](#adding-something-to-an-awesome-list)
