@@ -169,7 +169,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
-    - [Articles, Series & Books](https://github.com/Symfonisti/awesome-symfony)
+    - [Education](https://github.com/Symfonisti/awesome-symfony-education)
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
     - [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
