@@ -235,6 +235,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
 
 
 ## Gaming
