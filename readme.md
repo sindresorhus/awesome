@@ -346,7 +346,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
-- [Maintainance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
+- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
