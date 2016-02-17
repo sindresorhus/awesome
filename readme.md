@@ -363,6 +363,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
+- [Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
