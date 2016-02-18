@@ -159,6 +159,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 - [Vue.js](https://github.com/vuejs/awesome-vue)
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
+- [Aurelia](https://github.com/behzad888/awesome-aurelia)
 
 
 ## Back-end Development
