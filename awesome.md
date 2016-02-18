@@ -49,7 +49,3 @@ Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/t
 ## Accept other people's opinion
 
 If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
-
-## Discovery
-
-Link back to this list from your list so users can easily discover more lists.
