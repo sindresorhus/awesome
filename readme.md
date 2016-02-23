@@ -65,6 +65,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Windows](https://github.com/RiseLedger/awesome-windows)
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
+- [Ionic Framework](https://github.com/thompsonemerson/ionic-collection)
 
 
 ## Programming Languages
