@@ -239,6 +239,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom)
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
+- [Brackets](https://github.com/viatsko/awesome-brackets)
 
 
 ## Gaming
