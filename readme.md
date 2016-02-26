@@ -75,6 +75,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 	- [Tips](https://github.com/loverajoel/jstips)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
+	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
