@@ -247,6 +247,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Game Development](https://github.com/ellisonleao/magictools)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks)
 - [Godot](https://github.com/Calinou/awesome-godot) *(Game engine)*
+- [PICO-8](https://github.com/felipebueno/awesome-PICO-8) *(Fantasy console)*
 - [Open Source Games](https://github.com/leereilly/games)
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 - [Chess](https://github.com/hkirat/awesome-chess)
