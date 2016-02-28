@@ -269,6 +269,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Git Tips](https://github.com/git-tips/tips)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
 - [SSH](https://github.com/moul/awesome-ssh)
+- [Deployment](https://github.com/delirehberi/awesome-deployment)
 
 
 ## Entertainment
