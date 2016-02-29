@@ -163,7 +163,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vue.js](https://github.com/vuejs/awesome-vue)
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
 - [Aurelia](https://github.com/behzad888/awesome-aurelia)
-
+- [Serverless](https://github.com/anaibol/awesome-serverless/)
 
 ## Back-end Development
 
