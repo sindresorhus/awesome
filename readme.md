@@ -327,6 +327,13 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 
 
+## Open Source - Generic
+- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
+- [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
+- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
+- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
+
+
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json)
@@ -339,7 +346,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
-- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
@@ -361,11 +367,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
-- [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) *(Ask Me Anything)*
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
-- [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography/)
 - [OpenGL](https://github.com/eug/awesome-opengl)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
@@ -378,7 +382,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
-- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
