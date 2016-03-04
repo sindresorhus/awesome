@@ -222,7 +222,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
-- [Competitive Coding](https://github.com/hkirat/awesome-competitive-coding)
+- [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 - [Math](https://github.com/rossant/awesome-math)
 
 
