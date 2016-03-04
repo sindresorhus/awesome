@@ -253,6 +253,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Unity](https://github.com/RyanNielson/awesome-unity) *(Game engine)*
 - [Chess](https://github.com/hkirat/awesome-chess)
 - [LÖVE](https://github.com/JanWerder/awesome-love2d) *(Game engine)*
+- [PICO-8](https://github.com/felipebueno/awesome-PICO-8) *(Fantasy console)*
 
 
 ## Development Environment
