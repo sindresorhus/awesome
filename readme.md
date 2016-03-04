@@ -271,6 +271,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Git Tips](https://github.com/git-tips/tips)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
 - [SSH](https://github.com/moul/awesome-ssh)
+- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 
 
 ## Entertainment
@@ -299,6 +300,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [GIF](https://github.com/ibaaj/awesome-gif)
 - [Music](https://github.com/ciconia/awesome-music)
+- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 
 
 ## Learn
@@ -341,7 +343,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
-- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
@@ -380,7 +381,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
-- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Spanish Natural Language Processing (NLP)](https://github.com/dav009/awesome-spanish-nlp)
