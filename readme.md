@@ -77,6 +77,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
+	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
@@ -356,7 +357,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Answers](https://github.com/jugoncalves/awesome-answers) *(Stack Overflow, Quora, etc)*
 - [Sketch](https://github.com/diessica/awesome-sketch) *(OS X app)*
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
-- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
