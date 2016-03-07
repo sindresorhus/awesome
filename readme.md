@@ -78,6 +78,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
+	- [npm](https://github.com/sindresorhus/awesome-npm)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
