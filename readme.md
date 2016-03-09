@@ -294,6 +294,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) *(PHP ORM)*
+- [MongoDB](https://github.com/ramnes/awesome-mongodb)
 
 
 ## Media
