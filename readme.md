@@ -118,6 +118,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [Nim](https://github.com/VPashkov/awesome-nim)
 
 
 ## Front-end Development
