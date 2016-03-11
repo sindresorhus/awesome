@@ -125,6 +125,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
+- [Chrome Devtools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [CSS](https://github.com/sotayamashita/awesome-css)
 	- [Critical-Path (Above-the-fold) Tools](https://github.com/addyosmani/critical-path-css-tools)
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
