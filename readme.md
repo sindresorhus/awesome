@@ -238,6 +238,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
+- [Awesome Resources for Authors](https://github.com/TalAter/awesome-authoring/)
 
 
 ## Editors
