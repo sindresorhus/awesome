@@ -24,7 +24,7 @@ Apart from suggesting a particular item on your list, you should also inform you
 
 ## Make it clear what the list is about
 
-Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject good enough.
+Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
 
 ## Pay attention to grammar
 
