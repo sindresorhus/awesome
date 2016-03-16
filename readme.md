@@ -157,7 +157,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
     - [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
-- [Offline-First](https://github.com/pazguille/offline-first)
+- [Service Worker](https://github.com/cez-aug/awesome-service-worker/)
+    - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) *(Virtual reality)*
 - [Cycle.js](https://github.com/vic/awesome-cyclejs)
