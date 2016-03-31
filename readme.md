@@ -49,6 +49,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
+- [Tensorflow](https://github.com/jtoy/awesome-tensorflow/)
 - [Electron](https://github.com/sindresorhus/awesome-electron)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
