@@ -354,6 +354,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Awesome](https://github.com/sindresorhus/awesome)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
+- [Awesome Startup](https://github.com/KrishMunot/awesome-startup)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
