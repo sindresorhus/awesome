@@ -242,6 +242,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks)
+- [Python Books](https://github.com/Junnplus/awesome-python-books)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 
 
