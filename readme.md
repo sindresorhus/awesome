@@ -412,6 +412,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
+- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) *(Typesetting language)*
+- [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit
 
 
 ## License
