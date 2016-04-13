@@ -407,6 +407,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) *(Goal setting & communication best practices)*
 - [Vulkan](https://github.com/vinjn/awesome-vulkan)
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) *(Typesetting language)*
+- [Economics](https://github.com/antontarasenko/awesome-economics) *(An economist's starter kit)*
 
 
 ## License
