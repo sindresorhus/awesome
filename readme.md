@@ -335,7 +335,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
-
+- [OpenBSD Pledge](https://github.com/PeterTonoli/awesome-pledge)
 
 ## Content Management System
 
