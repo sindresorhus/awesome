@@ -391,6 +391,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
+- [Standards](https://github.com/KishanBagaria/awesome-standards)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
