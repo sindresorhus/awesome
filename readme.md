@@ -81,6 +81,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) *(for npm packages)*
 	- [npm](https://github.com/sindresorhus/awesome-npm)
 	- [AVA](https://github.com/sindresorhus/awesome-ava) *(Test runner)*
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
