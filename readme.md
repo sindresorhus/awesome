@@ -207,6 +207,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
+- [Computational Linguistics and NLP with Ruby](https://github.com/arbox/Awesome-Natural-Language-Processing-with-Ruby)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) *(Neural networks)*
