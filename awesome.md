@@ -24,7 +24,7 @@ Apart from suggesting a particular item on your list, you should also inform you
 
 ## Make it clear what the list is about
 
-Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject good enough.
+Have a succinct description at the top of your readme. Make sure your list covers a certain scope and nothing else. Link to other awesome lists if you think they already cover a certain subject well enough.
 
 ## Pay attention to grammar
 
@@ -40,16 +40,12 @@ Keep in mind that if you [haven't selected a license](http://choosealicense.com/
 
 People who are contributing to your list should have a clear understanding how they should do so.
 
-If you don't feel like writing one from scratch, feel free to take our [contributing.md](contributing.md) and modify it to our own needs.
+If you don't feel like writing one from scratch, feel free to take our [contributing.md](contributing.md) and modify it to your own needs.
 
 ## Stylize your list properly
 
-Create a table of contents, organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
+Create a [table of contents](https://github.com/sindresorhus/stuff/blob/master/toc-generators.md), organize the content into different categories, and use images if suitable. Ensure all entries are consistent (e.g. all entry descriptions end in a `.`).
 
 ## Accept other people's opinion
 
 If you're an owner of the list, respect other people's opinion. If there are plenty of users not agreeing to your decision, give it a second thought.
-
-## Discovery
-
-Link back to this list from your list so users can easily discover more lists.
