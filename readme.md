@@ -410,7 +410,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal) - Node.js CLI framework
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices
 - [Vulkan](https://github.com/vinjn/awesome-vulkan)
-- [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) *(Typesetting language)*
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit
