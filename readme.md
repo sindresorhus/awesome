@@ -170,6 +170,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vue.js](https://github.com/vuejs/awesome-vue)
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
 - [Aurelia](https://github.com/behzad888/awesome-aurelia)
+- [Grid](https://github.com/fancygrid/awesome-grid)
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
