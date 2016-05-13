@@ -82,6 +82,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [npm](https://github.com/sindresorhus/awesome-npm)
 	- [AVA](https://github.com/sindresorhus/awesome-ava) - Test runner
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint)
+	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
