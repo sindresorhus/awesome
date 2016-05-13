@@ -307,6 +307,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - PHP ORM
 - [MongoDB](https://github.com/ramnes/awesome-mongodb)
+- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 
 
 ## Media
