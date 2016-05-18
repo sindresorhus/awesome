@@ -26,6 +26,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Programming Languages](#programming-languages)
 - [Front-end Development](#front-end-development)
 - [Back-end Development](#back-end-development)
+- [One model everywhere](#one-model-everywhere)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
 - [Theory](#theory)
@@ -199,6 +200,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen)
 
+## One model everywhere
+- [FalcorJS](https://github.com/przeor/awesome-falcorjs)
 
 ## Computer Science
 
