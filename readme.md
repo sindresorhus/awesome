@@ -322,6 +322,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
+- [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 
 
 ## Learn
