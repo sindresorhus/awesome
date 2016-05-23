@@ -82,6 +82,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [npm](https://github.com/sindresorhus/awesome-npm)
 	- [AVA](https://github.com/sindresorhus/awesome-ava) - Test runner
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint)
+	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
+	- [Observables](https://github.com/sindresorhus/awesome-observables)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
@@ -116,6 +118,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
+	- [Composer](https://github.com/jakoch/awesome-composer)
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 - [Assembler](https://github.com/mat0thew/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
@@ -173,6 +176,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+- [PostCSS](https://github.com/jjaderg/awesome-postcss)
 
 
 ## Back-end Development
@@ -305,6 +309,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - PHP ORM
 - [MongoDB](https://github.com/ramnes/awesome-mongodb)
+- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 
 
 ## Media
@@ -317,6 +322,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
+- [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 
 
 ## Learn
@@ -414,6 +420,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar
+- [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 
 
 ## License
