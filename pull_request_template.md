@@ -1,4 +1,4 @@
-_Please tick all applicable boxes, fill in the **bold** fields, and remove these instructions from your PR._
+<!--Please fill in the **bold** fields, and tick all applicable boxes.-->
 
 Added **your URL here**.
 
