@@ -421,6 +421,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
+- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 
 
 ## License
