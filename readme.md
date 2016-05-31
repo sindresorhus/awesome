@@ -356,7 +356,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json)
-- [GeoJSON](https://github.com/tmcw/awesome-geojson)
+	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Slack](https://github.com/matiassingers/awesome-slack)
