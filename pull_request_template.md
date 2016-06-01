@@ -1,8 +1,8 @@
-<!-- Please fill in the **bold** fields and tick all applicable boxes in the "Preview" tab. -->
+<!-- Please fill in the **bold** fields and tick all applicable boxes by placing an "x" inside "[ ]". -->
 
-**URL to your list here.**
+**URL to the list here.**
 
-**Explain what your list is about and why it is awesome enough to be included here.**
+**Explain what this list is all about and why it should be included here.**
 
 - [ ] I have read and understood the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) and the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 - [ ] This pull request has a descriptive title.
