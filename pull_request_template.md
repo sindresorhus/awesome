@@ -1,6 +1,6 @@
 <!-- Please fill in the **bold** fields and tick all applicable boxes by placing an "x" inside "[ ]". -->
 
-**URL to your list here.**
+**URL to the list here.**
 
 **Explain what this list is all about and why it should be included here.**
 
