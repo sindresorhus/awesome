@@ -357,11 +357,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json)
+	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
+	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Slack](https://github.com/matiassingers/awesome-slack)
 	- [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
-- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome)
@@ -399,7 +400,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/share-links)
-- [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
