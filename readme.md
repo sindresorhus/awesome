@@ -24,8 +24,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
-- [Front-end Development](#front-end-development)
-- [Back-end Development](#back-end-development)
+- [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
 - [Theory](#theory)
@@ -127,7 +127,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
 
 
-## Front-end Development
+## Front-End Development
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
@@ -179,7 +179,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [PostCSS](https://github.com/jjaderg/awesome-postcss)
 
 
-## Back-end Development
+## Back-End Development
 
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
@@ -200,6 +200,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen)
+- [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 
 
 ## Computer Science
@@ -356,11 +357,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json)
+	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
+	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
 - [Slack](https://github.com/matiassingers/awesome-slack)
 	- [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
-- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome)
@@ -398,7 +400,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/share-links)
-- [JSON Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
@@ -422,6 +423,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
+- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 
 
 ## License
