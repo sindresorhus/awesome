@@ -310,7 +310,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - PHP ORM
 - [MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) Apache TinkerPop™ is a graph computing framework.
+- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework
 
 
 ## Media
