@@ -425,7 +425,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
-
+- [Monitoring](https://github.com/crazy-canux/awesome-monitoring) - Open source monitoring tools.
 
 ## License
 
