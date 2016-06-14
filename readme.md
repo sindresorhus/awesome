@@ -55,7 +55,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
-- [OS X](https://github.com/iCHAIT/awesome-osx)
+- [macOS](https://github.com/iCHAIT/awesome-osx)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
 	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
 - [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
@@ -277,7 +277,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 ## Development Environment
 
-- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - OS X.
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Shell](https://github.com/alebcay/awesome-shell)
@@ -377,7 +377,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 - [Answers](https://github.com/jugoncalves/awesome-answers) - Stack Overflow, Quora, etc.
-- [Sketch](https://github.com/diessica/awesome-sketch) - OS X design app.
+- [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
