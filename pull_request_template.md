@@ -1,8 +1,10 @@
 <!-- Please fill in the **bold** fields and tick all applicable boxes by placing an "x" inside "[ ]". -->
 
-**URL to the list here.**
+**[URL to the list here.]**
 
-**Explain what this list is all about and why it should be included here.**
+**[Explain what this list is all about and why it should be included here.]**
+
+# ALL THE BELOW CHECKBOXES SHOULD BE DONE AND CHECKED AND THE ABOVE PLACEHOLDERS SHOULD BE FILLED IN BEFORE SUBMITTING A PULL REQUEST!
 
 - [ ] I have read and understood the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) and the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 - [ ] This pull request has a descriptive title.
