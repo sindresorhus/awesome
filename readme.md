@@ -10,7 +10,7 @@
 
 - [What is an awesome list?](awesome.md)
 - [Contribution guide](contributing.md)
-- [Creating a list](create-list.md)<br><sup>Please take the time to read this and do an actual effort with your list. All the low-quality submissions are burning me out...</sup>
+- [Creating a list](create-list.md)
 - [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
 
 [![Awesome chat](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/sindresorhus/awesome)
