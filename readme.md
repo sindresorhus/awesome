@@ -426,6 +426,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
+- [AMQP 1.0](https://github.com/xinchen10/awesome-amqp) - Advanced Message Queuing Protocol 1.0.
 
 
 ## License
