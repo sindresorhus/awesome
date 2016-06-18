@@ -177,6 +177,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [PostCSS](https://github.com/jjaderg/awesome-postcss)
+- [DraftJS](https://github.com/nikgraf/awesome-draft-js) - a framework for building rich text editors in React
 
 
 ## Back-End Development
