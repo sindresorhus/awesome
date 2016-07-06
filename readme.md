@@ -115,7 +115,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
 - [Kotlin](https://github.com/JavaBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
-- [Coldfusion](https://github.com/seancoyne/awesome-coldfusion)
+- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 - [PHP](https://github.com/ziadoz/awesome-php)
