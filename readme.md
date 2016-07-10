@@ -180,6 +180,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [PostCSS](https://github.com/jjaderg/awesome-postcss)
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
+- [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 
 
 ## Back-End Development
