@@ -10,6 +10,7 @@
 - [ ] This pull request has a descriptive title. *(For example: `Add Node.js`)*
 - The list I added
 	- [ ] **has been around for at least 20 days,**
+	- [ ] is a non-generated Markdown file in a GitHub repo,
 	- [ ] is not a duplicate,
 	- [ ] only has awesome items with descriptions *(Awesome lists are curations of the best, not of everything)*,
 	- [ ] contains the [awesome badge](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-badge) on the right side of the list heading,
