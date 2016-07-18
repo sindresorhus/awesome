@@ -210,7 +210,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 ## RESTless data fetching
 
-- [FalcorJS](https://github.com/przeor/awesome-falcor)
+- [Falcor Netflix](https://github.com/przeor/awesome-falcor)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Relay](https://github.com/expede/awesome-relay)
 
