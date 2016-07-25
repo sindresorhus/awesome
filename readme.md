@@ -142,6 +142,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Relay](https://github.com/expede/awesome-relay)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
+- [Riot](https://github.com/pankajparashar/awesome-riotjs)
 - [Angular 2](https://github.com/AngularClass/awesome-angular2)
 - [Angular](https://github.com/gianarb/awesome-angularjs)
 - [Backbone](https://github.com/sadcitizen/awesome-backbone)
