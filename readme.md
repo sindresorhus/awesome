@@ -396,6 +396,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
+- [Grunt](https://github.com/arnoldstoba/awesome-grunt)
 - [Gulp](https://github.com/alferov/awesome-gulp)
 - [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
