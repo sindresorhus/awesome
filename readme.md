@@ -89,6 +89,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
+    - [PEP8](https://github.com/walidsa3d/awesome-pep8)
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
