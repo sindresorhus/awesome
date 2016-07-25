@@ -198,6 +198,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 	- [Gems](https://github.com/hothero/awesome-rails-gem)
+- [Serverless](https://github.com/pmuens/awesome-serverless)
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
