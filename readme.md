@@ -374,6 +374,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome-motivation](https://github.com/akashnimare/motivation)
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
