@@ -6,7 +6,7 @@
 	<br>
 </h1>
 
-> A curated list of awesome lists
+> A well curated list of awesome lists
 
 - [What is an awesome list?](awesome.md)
 - [Contribution guide](contributing.md)
