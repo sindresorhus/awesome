@@ -6,7 +6,7 @@
 	<br>
 </h1>
 
-> A curated list of awesome lists
+ - [A curated list of awesome lists] (https://github.com/sindresorhus/awesome)
 
 - [What is an awesome list?](awesome.md)
 - [Contribution guide](contributing.md)
