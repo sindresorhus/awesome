@@ -279,6 +279,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Chess](https://github.com/hkirat/awesome-chess)
 - [LÖVE](https://github.com/JanWerder/awesome-love2d) - Game engine.
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
+- [Opensource ASCII Games](https://github.com/ligurio/ttygames) - The most complete list of ASCII games.
 
 
 ## Development Environment
