@@ -67,6 +67,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
+- [Facebook Messenger](https://github.com/vs1682/awesome-fb-messenger-platform)
 
 
 ## Programming Languages
