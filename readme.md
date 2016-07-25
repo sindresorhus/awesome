@@ -227,7 +227,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
-
+- [Web Scraping] (https://github.com/duyetdev/awesome-web-scraper)
 
 ## Big Data
 
