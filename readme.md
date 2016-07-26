@@ -367,7 +367,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [JSON](https://github.com/burningtree/awesome-json)
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
-- [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
+- [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
 - [Slack](https://github.com/matiassingers/awesome-slack)
 	- [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
