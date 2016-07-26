@@ -56,10 +56,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
-- [macOS](https://github.com/iCHAIT/awesome-osx)
+- [macOS](https://github.com/iCHAIT/awesome-macOS)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
 	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
-- [watchOS](https://github.com/yenchenlin1994/awesome-watchos)
+- [watchOS](https://github.com/yenchenlin/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
@@ -81,7 +81,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) - For npm packages.
 	- [npm](https://github.com/sindresorhus/awesome-npm)
-	- [AVA](https://github.com/sindresorhus/awesome-ava) - Test runner.
+	- [AVA](https://github.com/avajs/awesome-ava) - Test runner.
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint)
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
 	- [Observables](https://github.com/sindresorhus/awesome-observables)
@@ -97,7 +97,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Ruby](https://github.com/markets/awesome-ruby)
 	- [Events](https://github.com/planetruby/awesome-events)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
-- [ClojureScript](https://github.com/emrehan/awesome-clojurescript)
+- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elm](https://github.com/isRuslan/awesome-elm)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
@@ -113,7 +113,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Java](https://github.com/akullpp/awesome-java)
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
-- [Kotlin](https://github.com/JavaBy/awesome-kotlin)
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
@@ -121,7 +121,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [PHP](https://github.com/ziadoz/awesome-php)
 	- [Composer](https://github.com/jakoch/awesome-composer)
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
-- [Assembler](https://github.com/mat0thew/awesome-asm)
+- [Assembler](https://github.com/brainblowjob/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
@@ -168,7 +168,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Virtual reality.
-- [Cycle.js](https://github.com/vic/awesome-cyclejs)
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs)
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 - [Vue.js](https://github.com/vuejs/awesome-vue)
@@ -277,7 +277,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Open Source Games](https://github.com/leereilly/games)
 - [Unity](https://github.com/RyanNielson/awesome-unity) - Game engine.
 - [Chess](https://github.com/hkirat/awesome-chess)
-- [LÖVE](https://github.com/JanWerder/awesome-love2d) - Game engine.
+- [LÖVE](https://github.com/love2d-community/awesome-love2d) - Game engine.
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
 
 
@@ -329,7 +329,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
 - [GIF](https://github.com/ibaaj/awesome-gif)
 - [Music](https://github.com/ciconia/awesome-music)
-- [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
+- [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 
@@ -367,7 +367,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [JSON](https://github.com/burningtree/awesome-json)
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
-- [Discounts for Student Developers](https://github.com/najela/discount-for-student-dev)
+- [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
 - [Slack](https://github.com/matiassingers/awesome-slack)
 	- [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
@@ -383,7 +383,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
-- [Answers](https://github.com/jugoncalves/awesome-answers) - Stack Overflow, Quora, etc.
+- [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc.
 - [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
@@ -413,7 +413,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
-- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
+- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
