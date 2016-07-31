@@ -430,7 +430,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit.
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
-- [UserScripts](https://github.com/brunocvcunha/awesome-userscripts) - UserScripts, improve browsing experience
+- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Improve your browsing experience.
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
