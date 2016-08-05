@@ -437,6 +437,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
+- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
 
 
 ## License
