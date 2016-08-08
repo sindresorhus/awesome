@@ -1,4 +1,4 @@
-	<h1 align="center">
+<h1 align="center">
 	<br>
 	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
