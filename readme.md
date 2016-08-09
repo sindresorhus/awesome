@@ -218,6 +218,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
+	- [Persian](https://github.com/mhbashari/awesome-persian-nlp-ir)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/MaciejCzyzewski/retter)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
