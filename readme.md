@@ -221,6 +221,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+        - [3D reconstruction from images](https://github.com/openMVG/awesome_3DReconstruction_list)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
