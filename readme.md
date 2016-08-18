@@ -181,6 +181,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
+- [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
 
 
 ## Back-End Development
@@ -218,7 +219,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
-- [Cryptography](https://github.com/MaciejCzyzewski/retter)
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow)
@@ -436,6 +437,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Bots](https://github.com/hackerkid/bots) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
+- [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
+- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
+- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
 
 
 ## License

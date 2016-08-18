@@ -17,5 +17,5 @@
 	- [ ] has a Table of Contents section named `Contents` as the first section,
 	- [ ] has an [appropriate license](https://github.com/sindresorhus/awesome/blob/master/awesome.md#choose-an-appropriate-license) *(Meaning something like CC0, NOT a code licence like MIT, BSD, Apache, etc)*,
 	- [ ] has [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/awesome.md#include-contribution-guidelines),
-	- [ ] has been checked for inconsistent formatting, spelling, and grammar *(This includes starting each link description with an uppercase character and ending it with a dot, and consistent naming)*,
+	- [ ] has been checked for inconsistent formatting, spelling, and grammar *(This includes starting each link description with an uppercase character and ending it with a period `.`, and consistent naming)*,
 	- [ ] has been added at the bottom of the appropriate category.
