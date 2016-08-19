@@ -440,6 +440,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
+- [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode tidbits, packages and resources.
 
 
 ## License
