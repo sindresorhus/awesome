@@ -379,7 +379,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium)
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Open source test automation tool for Android, iOS and Windows apps.
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
