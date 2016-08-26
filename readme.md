@@ -182,6 +182,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
+- [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
 
 
 ## Back-End Development
