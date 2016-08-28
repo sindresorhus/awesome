@@ -418,7 +418,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
-- [Tools for Citizen Science](https://github.com/dylanrees/toolsforcitizenscience)
+- [Tools for Citizen Science](https://github.com/dylanrees/citizen-science) - A collection of physical and digital resources for community-based and non-institutional scientists.
 - [TAP](https://github.com/sindresorhus/awesome-tap) - Test Anything Protocol.
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol.
