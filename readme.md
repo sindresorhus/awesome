@@ -416,7 +416,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/share-links)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
-- [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
+- [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources.
+	- [Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
