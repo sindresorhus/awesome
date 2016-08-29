@@ -445,6 +445,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
+- [Quora Collection](https://github.com/SandeepTuniki/awesome-quora) - Collection of interesting questions, answers & blog posts on Quora
 
 
 ## License
