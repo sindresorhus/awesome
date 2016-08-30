@@ -448,6 +448,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
 
 
 ## License
