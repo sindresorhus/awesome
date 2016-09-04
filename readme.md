@@ -282,7 +282,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Chess](https://github.com/hkirat/awesome-chess)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d) - Game engine.
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
-- [GBDev](https://github.com/avivace/awesome-gbdev) - Original Game Boy
+- [Game Boy Development](https://github.com/avivace/awesome-gbdev)
 
 
 ## Development Environment
