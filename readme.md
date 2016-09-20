@@ -367,6 +367,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern)
 
 
 ## Miscellaneous
