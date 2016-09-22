@@ -58,7 +58,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [macOS](https://github.com/iCHAIT/awesome-macOS)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
-	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
+	- [Screensavers](https://github.com/aharris88/awesome-macos-screensavers)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
