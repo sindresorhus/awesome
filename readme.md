@@ -368,6 +368,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
+- [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
 
 
 ## Miscellaneous
