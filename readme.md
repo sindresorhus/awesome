@@ -85,6 +85,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint)
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
 	- [Observables](https://github.com/sindresorhus/awesome-observables)
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
