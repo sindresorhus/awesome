@@ -39,7 +39,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Media](#media)
 - [Learn](#learn)
 - [Security](#security)
-- [Content Management System](#content-management-system)
+- [Content Management Systems](#content-management-systems)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -363,7 +363,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 
 
-## Content Management System
+## Content Management Systems
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
