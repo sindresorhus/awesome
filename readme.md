@@ -337,6 +337,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [International Image Interoperability Framework (IIIF)](https://github.com/IIIF/awesome-iiif) - standard APIs for sharing and presenting media
 
 
 ## Learn
