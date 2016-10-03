@@ -184,7 +184,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
-- [Awesome Browser Extensions and Apps](https://github.com/vitalets/awesome-browser-extensions-and-apps)
+- [Browser Extensions and Apps](https://github.com/vitalets/awesome-browser-extensions-and-apps)
 
 
 ## Back-End Development
