@@ -446,6 +446,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots) - Building bots.
+- [Telegram Bots](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
