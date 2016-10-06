@@ -303,7 +303,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- [HyperTerm](https://github.com/bnb/awesome-hyperterm)
+- [Hyper](https://github.com/bnb/awesome-hyper)
 
 
 ## Entertainment
