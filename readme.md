@@ -67,7 +67,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Affordable nano-computer aiming to teach programming through fun, practical projects
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Affordable nano-computer aiming to teach programming through fun, practical projects.
 
 
 ## Programming Languages
