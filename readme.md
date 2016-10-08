@@ -67,7 +67,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberrypi)
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Tools, projects and resources around Raspberry Pi
 
 
 ## Programming Languages
