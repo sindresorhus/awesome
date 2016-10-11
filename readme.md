@@ -259,13 +259,13 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 ## Books
 
-- [Elixir Books](https://github.com/sger/ElixirBooks)
 - [Free Programming Books](https://github.com/vhf/free-programming-books)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring)
+- [Elixir Books](https://github.com/sger/ElixirBooks)
 
 
 ## Editors
