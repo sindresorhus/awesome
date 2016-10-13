@@ -203,6 +203,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Education](https://github.com/Symfonisti/awesome-symfony-education)
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
+- [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - PHP ORM.
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 	- [Gems](https://github.com/hothero/awesome-rails-gem)
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
@@ -324,7 +325,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
-- [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - PHP ORM.
 - [MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
