@@ -103,6 +103,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Elm](https://github.com/isRuslan/awesome-elm)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [Julia](https://github.com/svaksha/Julia.jl)
+- [Liquid](https://github.com/simpyll/awesome-liquid)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
 - [C](https://github.com/aleksandar-todorovic/awesome-c)
 - [C/C++](https://github.com/fffaraz/awesome-cpp)
