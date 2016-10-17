@@ -303,7 +303,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git Tips](https://github.com/git-tips/tips)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Hyper](https://github.com/bnb/awesome-hyper)
