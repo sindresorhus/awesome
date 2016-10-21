@@ -386,7 +386,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Test automation tool for apps.
-- [JMeter](https://github.com/aliesbelik/jmeter-resources) - Load testing and performance measurement tool.
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
@@ -451,7 +450,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
-
+- [JMeter](https://github.com/aliesbelik/jmeter-resources) - Load testing and performance measurement tool.
 
 ## License
 
