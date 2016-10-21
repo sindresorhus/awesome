@@ -396,6 +396,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
+- [Blockchain](https://github.com/igorbarinov/awesome-blockchain)
 - [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc.
 - [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
