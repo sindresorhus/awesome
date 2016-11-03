@@ -457,6 +457,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 
 
 ## License
