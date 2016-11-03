@@ -39,7 +39,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Media](#media)
 - [Learn](#learn)
 - [Security](#security)
-- [Content Management System](#content-management-system)
+- [Content Management Systems](#content-management-systems)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -58,7 +58,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [macOS](https://github.com/iCHAIT/awesome-macOS)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
-	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
+	- [Screensavers](https://github.com/aharris88/awesome-macos-screensavers)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
@@ -67,6 +67,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 
 
 ## Programming Languages
@@ -127,6 +128,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
+- [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
 
 
 ## Front-End Development
@@ -184,6 +187,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
+- [webpack](https://github.com/d3viant0ne/awesome-webpack) - Module bundler.
 
 
 ## Back-End Development
@@ -299,10 +303,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git Tips](https://github.com/git-tips/tips)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- [HyperTerm](https://github.com/bnb/awesome-hyperterm)
+- [Hyper](https://github.com/bnb/awesome-hyper)
 
 
 ## Entertainment
@@ -363,11 +367,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 
 
-## Content Management System
+## Content Management Systems
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern)
+- [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
 
 
 ## Miscellaneous
@@ -451,6 +456,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 
 
 ## License
