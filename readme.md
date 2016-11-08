@@ -39,7 +39,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Media](#media)
 - [Learn](#learn)
 - [Security](#security)
-- [Content Management System](#content-management-system)
+- [Content Management Systems](#content-management-systems)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -58,7 +58,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [macOS](https://github.com/iCHAIT/awesome-macOS)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
-	- [Screensavers](https://github.com/aharris88/awesome-osx-screensavers)
+	- [Screensavers](https://github.com/aharris88/awesome-macos-screensavers)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos)
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
@@ -67,6 +67,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 
 
 ## Programming Languages
@@ -118,6 +119,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
+	- [Core](https://github.com/thangchung/awesome-dotnet-core)
 - [PHP](https://github.com/ziadoz/awesome-php)
 	- [Composer](https://github.com/jakoch/awesome-composer)
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
@@ -126,6 +128,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
+- [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
+- [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
 
 
 ## Front-End Development
@@ -181,6 +185,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
+- [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
+- [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
+- [webpack](https://github.com/d3viant0ne/awesome-webpack) - Module bundler.
+- [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
 
 
 ## Back-End Development
@@ -218,7 +226,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
-- [Cryptography](https://github.com/MaciejCzyzewski/retter)
+- [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow)
@@ -279,6 +287,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Chess](https://github.com/hkirat/awesome-chess)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d) - Game engine.
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
+- [Game Boy Development](https://github.com/avivace/awesome-gbdev)
 
 
 ## Development Environment
@@ -295,9 +304,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git Tips](https://github.com/git-tips/tips)
-- [Git Add-ons](https://github.com/stevemao/awesome-git-addons)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
+- [Hyper](https://github.com/bnb/awesome-hyper)
 
 
 ## Entertainment
@@ -342,6 +352,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Computer History](https://github.com/watson/awesome-computer-history)
+- [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 
 
 ## Security
@@ -354,12 +365,15 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
+- [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 
 
-## Content Management System
+## Content Management Systems
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
+- [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 
 
 ## Miscellaneous
@@ -378,6 +392,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Test automation tool for apps.
 - [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
@@ -409,7 +424,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/share-links)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
-- [Unicode Code Points](https://github.com/Codepoints/awesome-codepoints)
+- [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources.
+	- [Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
@@ -417,6 +433,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
+- [Citizen Science](https://github.com/dylanrees/citizen-science) - Resources for community-based and non-institutional scientists.
 - [TAP](https://github.com/sindresorhus/awesome-tap) - Test Anything Protocol.
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol.
@@ -436,6 +453,14 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Bots](https://github.com/hackerkid/bots) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
+- [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
+- [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
+- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
+- [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
+- [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
+- [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 
 
 ## License
