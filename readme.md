@@ -353,6 +353,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Computer History](https://github.com/watson/awesome-computer-history)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
+- [Educational Games](https://github.com/vinkla/awesome-educational-games) - Learn while playing.
 
 
 ## Security
