@@ -40,6 +40,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Learn](#learn)
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
+- [IT automation tools](#it-automation-tools)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -375,6 +376,11 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 - [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
+
+
+## IT automation tools
+
+- [SaltStack](https://github.com/hbokh/awesome-saltstack)
 
 
 ## Miscellaneous
