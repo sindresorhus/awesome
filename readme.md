@@ -192,6 +192,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [SCSS](https://github.com/Famolus/awesome-scss)
 - [Sass](https://github.com/Famolus/awesome-sass)
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessors.
+- [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 
 
 ## Back-End Development
