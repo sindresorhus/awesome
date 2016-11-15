@@ -40,7 +40,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Learn](#learn)
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
-- [IT automation tools](#it-automation-tools)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -378,11 +377,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 
 
-## IT automation tools
-
-- [SaltStack](https://github.com/hbokh/awesome-saltstack)
-
-
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json)
@@ -468,6 +462,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
+- [SaltStack](https://github.com/hbokh/awesome-saltstack)
 
 
 ## License
