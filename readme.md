@@ -188,7 +188,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
 - [webpack](https://github.com/d3viant0ne/awesome-webpack) - Module bundler.
-- [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessors.
+- [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 
 
 ## Back-End Development
