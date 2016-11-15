@@ -191,6 +191,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
 - [SCSS](https://github.com/Famolus/awesome-scss)
 - [Sass](https://github.com/Famolus/awesome-sass)
+- [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessors.
 
 
 ## Back-End Development
