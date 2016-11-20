@@ -375,6 +375,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 - [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
 
 ## Miscellaneous
