@@ -309,6 +309,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Hyper](https://github.com/bnb/awesome-hyper)
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
 
 
 ## Entertainment
