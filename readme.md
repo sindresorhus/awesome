@@ -27,6 +27,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
+- [RESTless data fetching](#restless-data-fetching)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
 - [Theory](#theory)
@@ -143,7 +144,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips)
 - [React](https://github.com/enaqx/awesome-react)
-	- [Relay](https://github.com/expede/awesome-relay)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
 - [Angular 2](https://github.com/AngularClass/awesome-angular2)
@@ -216,6 +216,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
+
+## RESTless data fetching
+
+- [Falcor Netflix](https://github.com/przeor/awesome-falcor)
+- [GraphQL](https://github.com/chentsulin/awesome-graphql)
+- [Relay](https://github.com/expede/awesome-relay)
 
 
 ## Computer Science
@@ -421,7 +427,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [OpenGL](https://github.com/eug/awesome-opengl)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
-- [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
 - [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
