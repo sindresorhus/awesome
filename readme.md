@@ -41,6 +41,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
 - [Miscellaneous](#miscellaneous)
+- [Events](#events)
 
 
 ## Platforms
@@ -466,6 +467,13 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers. 
+
+## Events
+
+- [Tech Events](https://github.com/eventil/awesome-tech-events)
+- [JavaScript Conferences](https://github.com/eventil/awesome-javascript-conferences)
+- [Python Conferences](https://github.com/eventil/awesome-python-conferences)
+- [Scala Conferences](https://github.com/eventil/awesome-scala-conferences)
 
 
 ## License
