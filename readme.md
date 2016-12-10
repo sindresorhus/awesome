@@ -369,6 +369,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Honeypots](https://github.com/paralax/awesome-honeypots)
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
+- [Penetration testing](https://github.com/enaqx/awesome-pentest)
 
 
 ## Content Management Systems
