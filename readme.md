@@ -462,7 +462,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
-- [SaltStack](https://github.com/hbokh/awesome-saltstack) - A Python-based config management system.
+- [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 
 
 ## License
