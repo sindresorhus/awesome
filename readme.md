@@ -356,6 +356,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Computer History](https://github.com/watson/awesome-computer-history)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [Educational Games](https://github.com/vinkla/awesome-educational-games) - Learn while playing.
+- [JavaScript Learning Resources](https://github.com/micromata/awesome-javascript-learning-resources)
 
 
 ## Security
