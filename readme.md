@@ -190,6 +190,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [webpack](https://github.com/d3viant0ne/awesome-webpack) - Module bundler.
 - [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
+- [Less](https://github.com/LucasBassetti/awesome-less) - Less preprocessor.
 
 
 ## Back-End Development
