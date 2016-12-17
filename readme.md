@@ -190,6 +190,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [webpack](https://github.com/d3viant0ne/awesome-webpack) - Module bundler.
 - [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
+- [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 
 
 ## Back-End Development
