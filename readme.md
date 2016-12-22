@@ -236,7 +236,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn and develop your very own Search Engine to fulfill your information need.
+- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own Search Engine.
 
 
 ## Big Data
