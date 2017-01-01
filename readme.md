@@ -142,6 +142,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips)
+	- [stylelint](https://github.com/ntwb/awesome-stylelint)
 - [React](https://github.com/enaqx/awesome-react)
 	- [Relay](https://github.com/expede/awesome-relay)
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
