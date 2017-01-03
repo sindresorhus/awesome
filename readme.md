@@ -333,6 +333,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [MongoDB](https://github.com/ramnes/awesome-mongodb)
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
+- [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database that Syncs
 
 
 ## Media
