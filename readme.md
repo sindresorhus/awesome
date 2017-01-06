@@ -469,7 +469,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers.
-- [Linters](https://github.com/caramelomartins/awesome-linters)
+- [Linters](https://github.com/caramelomartins/awesome-linters) - Programs performing static code analysis.
 
 
 ## License
