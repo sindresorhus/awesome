@@ -463,13 +463,13 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
-- [JMeter](https://github.com/aliesbelik/jmeter-resources) - Load testing and performance measurement tool.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
-- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers. 
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers.
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
 
 
 ## License
