@@ -188,6 +188,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
 - [webpack](https://github.com/d3viant0ne/awesome-webpack) - Module bundler.
+- [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
+- [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
+- [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 
 
 ## Back-End Development
@@ -224,6 +227,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
+	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
@@ -307,6 +311,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Hyper](https://github.com/bnb/awesome-hyper)
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
 
 
 ## Entertainment
@@ -352,6 +357,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Computer History](https://github.com/watson/awesome-computer-history)
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
+- [Educational Games](https://github.com/vinkla/awesome-educational-games) - Learn while playing.
 
 
 ## Security
@@ -372,6 +378,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
 - [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
+- [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
+- [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
 
 ## Miscellaneous
@@ -458,6 +466,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [JMeter](https://github.com/aliesbelik/jmeter-resources) - Load testing and performance measurement tool.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
+- [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers. 
 
 
 ## License
