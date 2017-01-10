@@ -90,6 +90,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
 - [Rust](https://github.com/kud1ing/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
