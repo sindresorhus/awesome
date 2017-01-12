@@ -271,6 +271,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [R Books](https://github.com/RomanTsegelskyi/rbooks)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring)
+- [Awesome Graphic Novels](https://github.com/SaptakS/Awesome-Graphic-Novels)
 
 
 ## Editors
