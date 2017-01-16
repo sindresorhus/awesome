@@ -68,7 +68,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Fuse](https://github.com/vinkla/awesome-fuse)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt)
+- [Qt](https://github.com/JesseTG/awesome-qt) - A powerful cross-platform GUI-centric application framework.
 
 ## Programming Languages
 
