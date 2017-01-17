@@ -192,6 +192,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
+- [AdonisJS](https://github.com/zgabievi/awesome-adonisjs) - MVC Framework For Node.js
 
 
 ## Back-End Development
