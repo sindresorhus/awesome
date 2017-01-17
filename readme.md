@@ -81,9 +81,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) - For npm packages.
-	- [npm](https://github.com/sindresorhus/awesome-npm)
+	- [npm](https://github.com/sindresorhus/awesome-npm) - Package manager.
 	- [AVA](https://github.com/avajs/awesome-ava) - Test runner.
-	- [ESLint](https://github.com/dustinspecker/awesome-eslint)
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint) - Linter.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
 	- [Observables](https://github.com/sindresorhus/awesome-observables)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
@@ -122,7 +122,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [.NET](https://github.com/quozd/awesome-dotnet)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core)
 - [PHP](https://github.com/ziadoz/awesome-php)
-	- [Composer](https://github.com/jakoch/awesome-composer)
+	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 - [Assembler](https://github.com/brainblowjob/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
@@ -143,20 +143,20 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips)
-- [React](https://github.com/enaqx/awesome-react)
-	- [Relay](https://github.com/expede/awesome-relay)
+- [React](https://github.com/enaqx/awesome-react) - App framework.
+	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
-- [Angular 2](https://github.com/AngularClass/awesome-angular2)
-- [Angular](https://github.com/gianarb/awesome-angularjs)
-- [Backbone](https://github.com/sadcitizen/awesome-backbone)
+- [Angular 2](https://github.com/AngularClass/awesome-angular2) - App framework.
+- [Angular](https://github.com/gianarb/awesome-angularjs) - App framework.
+- [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [Canvas](https://github.com/raphamorim/awesome-canvas)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
 - [Inspiration](https://github.com/NoahBuscher/Inspire)
-- [Ember](https://github.com/nmec/awesome-ember)
+- [Ember](https://github.com/nmec/awesome-ember) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui)
 - [Meteor](https://github.com/Urigo/awesome-meteor)
@@ -165,7 +165,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Web Typography](https://github.com/deanhume/typography)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Material Design](https://github.com/sachin1092/awesome-material)
-- [D3](https://github.com/wbkd/awesome-d3)
+- [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [jQuery](https://github.com/peterkokot/awesome-jquery)
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
@@ -176,9 +176,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs)
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
-- [Vue.js](https://github.com/vuejs/awesome-vue)
-- [Marionette.js](https://github.com/sadcitizen/awesome-marionette)
-- [Aurelia](https://github.com/behzad888/awesome-aurelia)
+- [Vue.js](https://github.com/vuejs/awesome-vue) - App framework.
+- [Marionette.js](https://github.com/sadcitizen/awesome-marionette) - App framework.
+- [Aurelia](https://github.com/behzad888/awesome-aurelia) - App framework.
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
@@ -208,7 +208,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
-	- [Gems](https://github.com/hothero/awesome-rails-gem)
+	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources)
@@ -233,7 +233,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow)
+	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
@@ -246,7 +246,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
 - [Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
-- [Hadoop](https://github.com/youngwookim/awesome-hadoop)
+- [Hadoop](https://github.com/youngwookim/awesome-hadoop) - Framework for distributed storage and processing of very large data sets.
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
 
@@ -302,7 +302,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Dev Env](https://github.com/jondot/awesome-devenv)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles)
 - [Shell](https://github.com/alebcay/awesome-shell)
-- [Fish](https://github.com/fisherman/awesome-fish)
+- [Fish](https://github.com/fisherman/awesome-fish) - User-friendly shell.
 - [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
 - [GitHub](https://github.com/phillipadsmith/awesome-github)
@@ -313,7 +313,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- [Hyper](https://github.com/bnb/awesome-hyper)
+- [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies.
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
 
 
@@ -333,7 +333,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
 - [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - PHP ORM.
-- [MongoDB](https://github.com/ramnes/awesome-mongodb)
+- [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
 
@@ -371,7 +371,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
-- [Honeypots](https://github.com/paralax/awesome-honeypots)
+- [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 
@@ -379,7 +379,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 ## Content Management Systems
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
-- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms)
+- [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
@@ -391,12 +391,12 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
-- [Slack](https://github.com/matiassingers/awesome-slack)
+- [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
-- [Awesome](https://github.com/sindresorhus/awesome)
+- [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
@@ -420,11 +420,11 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
-- [Gulp](https://github.com/alferov/awesome-gulp)
+- [Gulp](https://github.com/alferov/awesome-gulp) - Task runner.
 - [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
-- [OpenGL](https://github.com/eug/awesome-opengl)
+- [OpenGL](https://github.com/eug/awesome-opengl) - Cross-platform API for rendering 2D and 3D graphics.
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
@@ -442,7 +442,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
-- [Citizen Science](https://github.com/dylanrees/citizen-science) - Resources for community-based and non-institutional scientists.
+- [Citizen Science](https://github.com/dylanrees/citizen-science) - For community-based and non-institutional scientists.
 - [TAP](https://github.com/sindresorhus/awesome-tap) - Test Anything Protocol.
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol.
@@ -450,28 +450,28 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal) - Node.js CLI framework.
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
-- [Vulkan](https://github.com/vinjn/awesome-vulkan)
+- [Vulkan](https://github.com/vinjn/awesome-vulkan) - Low-overhead, cross-platform 3D graphics and compute API.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit.
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
-- [Colorful](https://github.com/Siddharth11/Colorful) - Resources to choose your next color scheme.
+- [Colorful](https://github.com/Siddharth11/Colorful) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre)
 - [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering) - Building and promoting more compassionate engineering cultures.
 - [DTrace](https://github.com/xen0l/awesome-dtrace) - Dynamic tracing framework.
 - [Userscripts](https://github.com/brunocvcunha/awesome-userscripts) - Enhance your browsing experience.
-- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO resources and tools.
+- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon) - Pokémon and Pokémon GO.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
-- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers.
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
 
 
