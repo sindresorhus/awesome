@@ -466,7 +466,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers.
-- [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Delightful Markdown resources.
+- [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
 
 
 ## License
