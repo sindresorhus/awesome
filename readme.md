@@ -40,6 +40,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Learn](#learn)
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
+- [DevOps](#devops)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -385,6 +386,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
+## DevOps
+
+- [Monitoring](https://github.com/crazy-canux/awesome-monitoring) - Monitoring tools.
 
 ## Miscellaneous
 
