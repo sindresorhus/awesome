@@ -40,6 +40,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Learn](#learn)
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
+- [Hardware](#hardware)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -386,6 +387,15 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
 
+## Hardware
+
+- [Robotics](https://github.com/Kiloreux/awesome-robotics)
+- [Internet of Things](https://github.com/HQarroum/awesome-iot)
+- [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
+- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
+
+
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json)
@@ -436,16 +446,13 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints)
-- [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
-- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - For community-based and non-institutional scientists.
 - [TAP](https://github.com/sindresorhus/awesome-tap) - Test Anything Protocol.
-- [Robotics](https://github.com/Kiloreux/awesome-robotics)
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt) - "Internet of Things" connectivity protocol.
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
@@ -455,7 +462,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit.
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Choose your next color scheme.
@@ -474,7 +480,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
-- [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
 
 
 ## License
