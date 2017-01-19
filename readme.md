@@ -474,6 +474,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
+- [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
 
 
 ## License
