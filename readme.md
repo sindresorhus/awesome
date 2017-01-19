@@ -386,13 +386,15 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
+
 ## Hardware
 
-- [Internet of Things](https://github.com/HQarroum/awesome-iot)
-- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Robotics](https://github.com/Kiloreux/awesome-robotics)
-- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
+- [Internet of Things](https://github.com/HQarroum/awesome-iot)
 - [Electronics](https://github.com/monostable/awesome-electronics) - For electronic engineers and hobbyists.
+- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
+- [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
+
 
 ## Miscellaneous
 
