@@ -346,7 +346,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
-- [GIF](https://github.com/ibaaj/awesome-gif)
+- [GIF](https://github.com/davisonio/awesome-gif)
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
