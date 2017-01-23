@@ -346,7 +346,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
-- [GIF](https://github.com/ibaaj/awesome-gif)
+- [GIF](https://github.com/davisonio/awesome-gif)
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
@@ -481,7 +481,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
+- [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
 - [Testing](https://github.com/TheJambo/awesome-testing) - Software Testing tools and resources.
+
 
 
 ## License
