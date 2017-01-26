@@ -482,7 +482,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
-- [Testing](https://github.com/TheJambo/awesome-testing) - Software Testing tools and resources.
+- [Testing](https://github.com/TheJambo/awesome-testing) - Software testing.
 
 
 
