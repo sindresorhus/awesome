@@ -156,7 +156,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [SVG](https://github.com/willianjusten/awesome-svg)
 - [Canvas](https://github.com/raphamorim/awesome-canvas)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
-- [Dojo Toolkit](https://github.com/peterkokot/awesome-dojo)
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo)
 - [Inspiration](https://github.com/NoahBuscher/Inspire)
 - [Ember](https://github.com/nmec/awesome-ember) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui)
@@ -169,7 +169,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails)
-- [jQuery](https://github.com/peterkokot/awesome-jquery)
+- [jQuery](https://github.com/petk/awesome-jquery)
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
