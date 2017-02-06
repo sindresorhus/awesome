@@ -377,6 +377,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
+- [WriteUps And POCs](https://github.com/dhaval17/awesome-writeups)
 
 
 ## Content Management Systems
