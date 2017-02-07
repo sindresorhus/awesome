@@ -195,7 +195,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 
-
 ## Back-End Development
 
 - [Django](https://github.com/rosarior/awesome-django)
@@ -220,6 +219,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
+- [restQL-core](https://github.com/B2W-BIT/restQL-core) - Java/Clojure microservice query language to fetch information from multiple services.
 
 
 ## Computer Science
