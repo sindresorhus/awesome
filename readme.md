@@ -469,7 +469,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers.
-- [Website Screenshots](https://github.com/deadcoder0904/awesome-website-screenshots) - Take Website Screenshots on different devices with different resolutions in different frames.
+- [Website Screenshots](https://github.com/deadcoder0904/awesome-website-screenshots) - Website Screenshots for different devices using different frames.
 
 ## License
 
