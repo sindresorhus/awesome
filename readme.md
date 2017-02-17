@@ -41,6 +41,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
 - [Hardware](#hardware)
+- [Emoji](#emoji)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -396,6 +397,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
 
+
+## Emoji
+
+- [Emoji Code Sheet](https://github.com/shanraisshan/EmojiCodeSheet) - Collection of emoji-unicodes in different programming languages
 
 ## Miscellaneous
 
