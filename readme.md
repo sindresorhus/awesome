@@ -41,6 +41,9 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Security](#security)
 - [Content Management Systems](#content-management-systems)
 - [Hardware](#hardware)
+- [Business](#business)
+- [Work](#work)
+- [Networking](#networking)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -240,7 +243,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
-- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
 
 
@@ -317,6 +319,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies.
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 
 
 ## Entertainment
@@ -397,20 +400,42 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs) - Checklist for building your own electric guitar.
 
 
+## Business
+
+- [Open Companies](https://github.com/opencompany/awesome-open-company)
+- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
+
+
+## Work
+
+- [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration.
+	- [Communities](https://github.com/filipelinhares/awesome-slack)
+- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
+- [Productivity](https://github.com/jyguyomarch/awesome-productivity)
+- [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
+- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+
+## Networking
+
+- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
+- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
+- [Network Analysis](https://github.com/briatte/awesome-network-analysis)
+- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
+
+
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json)
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
-- [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration.
-	- [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
-- [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Test automation tool for apps.
@@ -421,9 +446,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 - [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc.
 - [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
-- [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
-- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
-- [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
 - [Readme](https://github.com/matiassingers/awesome-readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade)
@@ -437,19 +459,15 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers)
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [OpenGL](https://github.com/eug/awesome-opengl) - Cross-platform API for rendering 2D and 3D graphics.
-- [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
 - [Transit](https://github.com/luqmaan/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
-- [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/share-links)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
-- [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
-- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Katas](https://github.com/gmontalvoriv/awesome-katas)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - For community-based and non-institutional scientists.
@@ -458,10 +476,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal) - Node.js CLI framework.
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan) - Low-overhead, cross-platform 3D graphics and compute API.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language.
-- [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
@@ -477,7 +493,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
-- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
