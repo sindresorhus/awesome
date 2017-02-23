@@ -34,6 +34,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Editors](#editors)
 - [Gaming](#gaming)
 - [Development Environment](#development-environment)
+- [Test Environment](#test-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
 - [Media](#media)
@@ -320,6 +321,11 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies.
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
+
+
+## Test Environment
+
+- [Robot Framework](https://github.com/fkromer/awesome-robotframework)
 
 
 ## Entertainment
