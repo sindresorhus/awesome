@@ -325,7 +325,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 
 ## Test Environment
 
-- [Robot Framework](https://github.com/fkromer/awesome-robotframework)
+- [Robot Framework](https://github.com/fkromer/awesome-robotframework) - Generic test automation framework for acceptance testing and ATDD.
 
 
 ## Entertainment
