@@ -34,7 +34,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Editors](#editors)
 - [Gaming](#gaming)
 - [Development Environment](#development-environment)
-- [Test Environment](#test-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
 - [Media](#media)
@@ -323,11 +322,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 
 
-## Test Environment
-
-- [Robot Framework](https://github.com/fkromer/awesome-robotframework) - Generic test automation framework for acceptance testing and ATDD.
-
-
 ## Entertainment
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi.
@@ -504,7 +498,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login.
-
+- [Robot Framework](https://github.com/fkromer/awesome-robotframework) - Generic test automation framework for acceptance testing and ATDD.
 
 ## License
 
