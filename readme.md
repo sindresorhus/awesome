@@ -500,6 +500,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login.
 - [Testing](https://github.com/TheJambo/awesome-testing) - Software testing.
 - [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
+- [Websockets](https://github.com/facundofarias/awesome-websockets)
 
 
 ## License
