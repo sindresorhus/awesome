@@ -150,7 +150,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Protips](https://github.com/AllThingsSmitty/css-protips)
 - [React](https://github.com/enaqx/awesome-react) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
-	- [Create React app](https://github.com/tuchk4/awesome-create-react-app) - Create React apps with no build configuration.
+	- [Create React App](https://github.com/tuchk4/awesome-create-react-app) - Build React apps without build config.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
 - [Angular 2](https://github.com/AngularClass/awesome-angular2) - App framework.
