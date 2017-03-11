@@ -341,7 +341,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
-
+- [Solr](https://github.com/xingh/awesome-solr) - Document Index.
+- [Elastic](https://github.com/dzharii/awesome-elasticsearch) - Elastic Search Index.
 
 ## Media
 
