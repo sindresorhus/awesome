@@ -328,6 +328,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
+- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes) - Best IT quotes over the history.
 
 
 ## Databases
