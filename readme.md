@@ -240,6 +240,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
