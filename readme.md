@@ -11,12 +11,12 @@
 - [What is an awesome list?](awesome.md)
 - [Contribution guide](contributing.md)
 - [Creating a list](create-list.md)
-- [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
+- [Sticker](https://www.stickermule.com/marketplace/10034-awesome)
 - [Chat](https://gitter.im/sindresorhus/awesome)
 
 Just type [`awesome.re`](https://awesome.re) to go here. ✨
 
--
+---
 
 Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
 
