@@ -14,7 +14,7 @@
 - [Sticker](https://www.stickermule.com/marketplace/10034-awesome)
 - [Chat](https://gitter.im/sindresorhus/awesome)
 
-Just type [`awesome.re`](https://awesome.re) to go here. ✨
+Just type [`awesome.re`](https://awesome.re) to come here. ✨
 
 ---
 
