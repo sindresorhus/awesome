@@ -495,8 +495,6 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
-- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
-- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
