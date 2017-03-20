@@ -504,6 +504,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
+- [Fun](https://github.com/mislavcimpersak/awesome-fun) - Libs/packages/languages that have no real purpose but to make a developer chuckle.
 
 
 ## License
