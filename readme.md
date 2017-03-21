@@ -1,24 +1,33 @@
 <h1 align="center">
-	<br>
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-	<br>
+	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
 	<br>
 	<br>
 </h1>
 
-> A curated list of awesome lists
+<br>
+<br>
 
-- [What is an awesome list?](awesome.md)
-- [Contribution guide](contributing.md)
-- [Creating a list](create-list.md)
-- [Sticker](https://www.stickermule.com/marketplace/10034-awesome)
-- [Chat](https://gitter.im/sindresorhus/awesome)
+<p align="center">
+	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
+</p>
 
-Just type [`awesome.re`](https://awesome.re) to go here. ✨
+<br>
 
 ---
 
-Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
+<p align="center">
+	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://gitter.im/sindresorhus/awesome">Chat</a>
+</p>
+
+<br>
+
+<p align="center">
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+</p>
 
 
 ## Contents
