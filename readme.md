@@ -339,6 +339,7 @@
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
+- [Home Media Center](https://github.com/danbovey/awesome-home-media-center)
 
 
 ## Databases
