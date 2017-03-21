@@ -161,6 +161,7 @@
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
+- [NextJS](https://github.com/unicodeveloper/awesome-nextjs)
 - [Angular 2](https://github.com/AngularClass/awesome-angular2) - App framework.
 - [Angular](https://github.com/gianarb/awesome-angularjs) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
