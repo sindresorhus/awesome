@@ -207,6 +207,7 @@
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
+- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources) - From concept and strategies to feature detection & testing methods. Complete with a list of (code) examples.
 
 
 ## Back-End Development
