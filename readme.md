@@ -331,6 +331,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers)
+- [R Blogs on the web](https://github.com/Jeet1994/awesome-R-blogs)
 
 
 ## License
