@@ -1,24 +1,32 @@
 <h1 align="center">
-	<br>
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-	<br>
+	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
 	<br>
 	<br>
 </h1>
 
-> A curated list of awesome lists
+<br>
+<br>
 
-- [What is an awesome list?](awesome.md)
-- [Contribution guide](contributing.md)
-- [Creating a list](create-list.md)
-- [Buy a sticker](https://www.stickermule.com/marketplace/10034-awesome)
-- [Chat](https://gitter.im/sindresorhus/awesome)
+<p align="center">
+	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
+</p>
 
-Just type [`awesome.re`](https://awesome.re) to go here. ✨
+<br>
 
--
+---
 
-Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](https://twitter.com/sindresorhus).
+<p align="center">
+	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
+</p>
+
+<br>
+
+<p align="center">
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+</p>
 
 
 ## Contents
@@ -152,8 +160,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
-- [Angular 2](https://github.com/AngularClass/awesome-angular2) - App framework.
-- [Angular](https://github.com/gianarb/awesome-angularjs) - App framework.
+- [Angular](https://github.com/AngularClass/awesome-angular) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5)
 - [SVG](https://github.com/willianjusten/awesome-svg)
@@ -197,8 +204,8 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
+- [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics. 
-
 
 ## Back-End Development
 
@@ -240,6 +247,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
@@ -499,6 +507,10 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login.
+- [Testing](https://github.com/TheJambo/awesome-testing) - Software testing.
+- [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
+- [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
+- [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
 
 
 ## License
