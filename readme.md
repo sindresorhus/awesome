@@ -511,6 +511,7 @@
 - [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
+- [Events (🇳🇱)](https://github.com/awkward/awesome-events) - Tech related events in The Netherlands like: conferences, meetups and parties.
 
 
 ## License
