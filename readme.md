@@ -199,7 +199,7 @@
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
-- [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
+[- [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack) - Module bundler.
 - [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
@@ -209,7 +209,7 @@
 
 ## Back-End Development
 
-- [Django](https://github.com/rosarior/awesome-django)
+ - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
@@ -242,6 +242,7 @@
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
+        - [Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
