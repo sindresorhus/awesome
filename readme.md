@@ -395,7 +395,7 @@
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
+- [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
