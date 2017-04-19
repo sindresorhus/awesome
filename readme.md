@@ -350,6 +350,7 @@
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) -  Object-relational database.
+- [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
 
 
 ## Media
