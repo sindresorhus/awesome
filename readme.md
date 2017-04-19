@@ -185,7 +185,7 @@
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Virtual reality.
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs)
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 - [Vue.js](https://github.com/vuejs/awesome-vue) - App framework.
@@ -194,7 +194,7 @@
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-- [PostCSS](https://github.com/jjaderg/awesome-postcss)
+- [PostCSS](https://github.com/jjaderg/awesome-postcss) - CSS preprocessor.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
@@ -349,7 +349,7 @@
 - [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) -  Object-relational database.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
 - [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
 
 
