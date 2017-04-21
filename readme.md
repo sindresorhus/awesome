@@ -185,7 +185,7 @@
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Virtual reality.
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs)
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 - [Vue.js](https://github.com/vuejs/awesome-vue) - App framework.
@@ -194,7 +194,7 @@
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-- [PostCSS](https://github.com/jjaderg/awesome-postcss)
+- [PostCSS](https://github.com/jjaderg/awesome-postcss) - CSS preprocessor.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
@@ -205,6 +205,7 @@
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
+- [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics. 
 
 
 ## Back-End Development
@@ -346,10 +347,11 @@
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
 - [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
-- [Doctrine](https://github.com/TomasVotruba/awesome-doctrine) - PHP ORM.
 - [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
+- [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
 
 
 ## Media
@@ -395,7 +397,7 @@
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
+- [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
@@ -512,6 +514,7 @@
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
 - [Events in The Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in The Netherlands.
+- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects.
 
 
 ## License
