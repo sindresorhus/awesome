@@ -308,6 +308,7 @@
 - [LÖVE](https://github.com/love2d-community/awesome-love2d) - Game engine.
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev)
+- [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine.
 
 
 ## Development Environment
