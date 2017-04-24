@@ -327,6 +327,7 @@
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
 - [Git Tips](https://github.com/git-tips/tips)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
+- [Git Hooks](http://githooks.com/) - Curated list of resources on and about git hooks.
 - [SSH](https://github.com/moul/awesome-ssh)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
 - [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies.
