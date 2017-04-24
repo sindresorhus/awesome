@@ -206,6 +206,7 @@
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
+- [Preact](https://github.com/ooade/awesome-preact) - App framework.
 
 
 ## Back-End Development
