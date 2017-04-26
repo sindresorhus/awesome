@@ -220,7 +220,7 @@ Check out my [blog](https://blog.sindresorhus.com) and follow me on [Twitter](ht
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
-- [Metrics](https://github.com/raulgomis/awesome-metrics) - Metrics platforms & frameworks for performance tuning & optimization.
+- [Metrics](https://github.com/raulgomis/awesome-metrics) - Learn how to integrate a metrics platform in your solution for performance & tunning and other use cases.
 
 
 ## Computer Science
