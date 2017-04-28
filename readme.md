@@ -85,6 +85,7 @@
 
 ## Programming Languages
 
+- [Common Lisp](https://github.com/kozross/awesome-cl)
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
 	- [Standard Style](https://github.com/feross/awesome-standard)
