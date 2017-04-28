@@ -150,6 +150,7 @@
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [Web Acessibility](https://github.com/brunopulis/awesome-a11y)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [CSS](https://github.com/sotayamashita/awesome-css)
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools)
