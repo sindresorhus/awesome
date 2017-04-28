@@ -234,6 +234,15 @@
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
 
+## Node CMS Frameworks
+- [KeystoneJS](https://github.com/keystonejs/keystone)
+- [Ghost](https://github.com/tryghost/Ghost)
+- [We.js](https://github.com/wejs/we/)
+- [PencilBlue](https://github.com/pencilblue/pencilblue/)
+- [Cody](https://github.com/jcoppieters/cody)
+- [Apostrophe](https://github.com/punkave/apostrophe)
+- [Reaction Commerce](https://github.com/reactioncommerce/reaction)
+- [TaracotJS](https://github.com/xtremespb/taracotjs-generator/)
 
 ## Computer Science
 
