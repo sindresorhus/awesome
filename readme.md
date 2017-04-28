@@ -477,6 +477,7 @@
 - [Transit](https://github.com/luqmaan/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
+- [Subreddits](https://github.com/iCHAIT/awesome-subreddits)
 - [Social Media Share Links](https://github.com/vinkla/share-links)
 - [Microservices](https://github.com/mfornos/awesome-microservices)
 - [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources.
