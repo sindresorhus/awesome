@@ -63,6 +63,7 @@
 - [Android](https://github.com/JStumpp/awesome-android)
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
 - [Electron](https://github.com/sindresorhus/awesome-electron)
+- [NW.js](https://github.com/fritx/awesome-nw)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
