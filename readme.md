@@ -87,6 +87,7 @@
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 	- [Standard Style](https://github.com/feross/awesome-standard)
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 	- [Tips](https://github.com/loverajoel/jstips)
