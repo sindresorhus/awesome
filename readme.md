@@ -145,6 +145,9 @@
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
 
+##Developer tools
+- [IDE and Text Editors] (https://github.com/thewhitetulip/awesome-devtools)
+ 
 
 ## Front-End Development
 
