@@ -247,6 +247,7 @@
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+        - [3D reconstruction from images](https://github.com/openMVG/awesome_3DReconstruction_list)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
