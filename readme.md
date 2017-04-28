@@ -237,6 +237,7 @@
 
 ## Computer Science
 
+- [Open Source Society](https://github.com/open-source-society/computer-science)
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
