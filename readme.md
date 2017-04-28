@@ -145,6 +145,9 @@
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
 
+## Material design
+
+- [Material design](http://ypereirareis.github.io/material-design-resources/)
 
 ## Front-End Development
 
