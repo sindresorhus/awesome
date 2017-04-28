@@ -31,6 +31,8 @@
 
 ## Contents
 
+[![Join the chat at https://gitter.im/sindresorhus/awesome](https://badges.gitter.im/sindresorhus/awesome.svg)](https://gitter.im/sindresorhus/awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
