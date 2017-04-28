@@ -60,6 +60,7 @@
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
+- [OSX](https://github.com/harryworld/awesome-osx-ui)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
 - [Electron](https://github.com/sindresorhus/awesome-electron)
