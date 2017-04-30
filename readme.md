@@ -205,7 +205,8 @@
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
-- [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics. 
+- [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
+- [Preact](https://github.com/ooade/awesome-preact) - App framework.
 
 
 ## Back-End Development
@@ -392,6 +393,7 @@
 - [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
 
 
 ## Content Management Systems
@@ -515,8 +517,8 @@
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
 - [Esoteric](https://github.com/angrykoala/awesome-esoteric) - Esoteric programming languages.
-
 
 ## License
 
