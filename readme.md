@@ -517,6 +517,7 @@
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
 
 
 ## License
