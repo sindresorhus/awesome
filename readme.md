@@ -367,6 +367,7 @@
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [Generative art](https://github.com/kosmos/awesome-generative-art)
 
 
 ## Learn
