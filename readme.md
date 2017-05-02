@@ -207,6 +207,7 @@
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
+- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 
 
 ## Back-End Development
