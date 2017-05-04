@@ -208,6 +208,7 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
+- [Grid Layout](https://github.com/simoneas02/awesome-grid-layout) - W3C Especification for CSS Layout
 
 
 ## Back-End Development
