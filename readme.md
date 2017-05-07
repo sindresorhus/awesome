@@ -420,6 +420,7 @@
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
+- [Indie](https://github.com/mezod/awesome-indie) - Resources to help independent developers make money.
 
 
 ## Work
