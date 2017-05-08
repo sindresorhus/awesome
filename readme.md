@@ -86,10 +86,10 @@
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises)
+	- [Promises](https://github.com/wbinnssmith/awesome-promises) - Resources for JavaScript Promises.
 	- [Standard Style](https://github.com/feross/awesome-standard)
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
-	- [Tips](https://github.com/loverajoel/jstips)
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch) - Videos of JavaScript talks.
+	- [Tips](https://github.com/loverajoel/jstips) - Useful JavaScript tips.
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
@@ -148,14 +148,14 @@
 
 ## Front-End Development
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
+- [ES6 Tools](https://github.com/addyosmani/es6-tools) - Tools for using ES6.
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) - List of resources for web optimization.
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [CSS](https://github.com/sotayamashita/awesome-css)
-	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools)
+	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools) - Tools for above-the-fold CSS.
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
-	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css)
-	- [Protips](https://github.com/AllThingsSmitty/css-protips)
+	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css) - Videos of CSS talks.
+	- [Protips](https://github.com/AllThingsSmitty/css-protips) - CSS tips.
 - [React](https://github.com/enaqx/awesome-react) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
@@ -180,7 +180,7 @@
 - [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails)
 - [jQuery](https://github.com/petk/awesome-jquery)
-	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
+	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know) - jQuery tips.
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
