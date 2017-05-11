@@ -104,7 +104,7 @@
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
-- [Rust](https://github.com/kud1ing/awesome-rust)
+- [Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
 - [Go](https://github.com/avelino/awesome-go)
