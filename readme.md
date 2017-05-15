@@ -65,6 +65,7 @@
 - [Electron](https://github.com/sindresorhus/awesome-electron)
 - [Cordova](https://github.com/busterc/awesome-cordova)
 - [React Native](https://github.com/jondot/awesome-react-native)
+- [NativeScript](https://github.com/DeviantJS/awesome-nativescript)
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
