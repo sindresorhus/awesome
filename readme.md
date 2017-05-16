@@ -234,6 +234,7 @@
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
+- [AdonisJS](https://github.com/zgabievi/awesome-adonisjs)
 
 
 ## Computer Science
