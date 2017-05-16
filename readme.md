@@ -76,6 +76,7 @@
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 - [Windows](https://github.com/Awesome-Windows/Awesome)
+	-[Command-Line](https://github.com/Awesome-Windows/awesome-windows-command-line)
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
