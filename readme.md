@@ -240,6 +240,7 @@
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
+ 	- [Use Cases](https://github.com/JosPolfliet/awesome-datascience-ideas)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
