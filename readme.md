@@ -520,7 +520,7 @@
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects.
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-
+- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
 
 ## License
 
