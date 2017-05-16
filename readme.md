@@ -509,6 +509,8 @@
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
+- [Web Design](https://github.com/nicolesaidy/awesome-web-design) - Resources for digital designers.
+- [Website Screenshots](https://github.com/deadcoder0904/awesome-website-screenshots) - Website Screenshots for different devices using different frames.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
