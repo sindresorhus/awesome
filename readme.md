@@ -9,6 +9,7 @@
 
 <p align="center">
 	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
+	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
 
 <br>
@@ -104,7 +105,7 @@
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
-- [Rust](https://github.com/kud1ing/awesome-rust)
+- [Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
 - [Go](https://github.com/avelino/awesome-go)
@@ -185,7 +186,7 @@
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
 - [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Virtual reality.
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs)
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 - [Vue.js](https://github.com/vuejs/awesome-vue) - App framework.
@@ -194,7 +195,7 @@
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-- [PostCSS](https://github.com/jjaderg/awesome-postcss)
+- [PostCSS](https://github.com/jjaderg/awesome-postcss) - CSS preprocessor.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
@@ -205,6 +206,9 @@
 - [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
+- [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
+- [Preact](https://github.com/ooade/awesome-preact) - App framework.
+- [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 
 
 ## Back-End Development
@@ -307,6 +311,7 @@
 - [LÖVE](https://github.com/love2d-community/awesome-love2d) - Game engine.
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev)
+- [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine.
 
 
 ## Development Environment
@@ -349,7 +354,8 @@
 - [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) -  Object-relational database.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
+- [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
 
 
 ## Media
@@ -389,13 +395,14 @@
 - [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
 
 
 ## Content Management Systems
 
 - [Umbraco](https://github.com/leekelleher/awesome-umbraco)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms) - Ruby on Rails CMS.
-- [Wagtail](https://github.com/springload/awesome-wagtail) – Django CMS focused on flexibility and user experience.
+- [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 
@@ -511,6 +518,9 @@
 - [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
+- [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
+- [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 
 
 ## License
