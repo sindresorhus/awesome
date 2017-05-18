@@ -508,6 +508,7 @@
 - [ChatOps](https://github.com/exAspArk/awesome-chatops) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Awesome English](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [Quantified Self](https://github.com/willempienaar/awesome-quantified-self) - Self-tracking through technology.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
