@@ -203,7 +203,8 @@
 - [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack) - Module bundler.
 - [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
-- [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor.
+- [Sass](https://github.com/Famolus/awesome-sass) - CSS preprocessor .
+- [Frontend Design Elements](https://github.com/gauthamzz/FrontendDesignElements) - Front-End design elements .
 - [Ant Design](https://github.com/websemantics/awesome-ant-design) - Enterprise-class UI design language.
 - [Less](https://github.com/LucasBassetti/awesome-less) - CSS preprocessor.
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
