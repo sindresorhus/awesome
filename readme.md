@@ -370,6 +370,7 @@
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [International Image Interoperability Framework](https://github.com/IIIF/awesome-iiif) - Standard APIs for sharing and presenting media.
 
 
 ## Learn
