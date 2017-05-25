@@ -129,6 +129,7 @@
 - [Dart](https://github.com/yissachar/awesome-dart)
 - [Java](https://github.com/akullpp/awesome-java)
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
+	- [JavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
