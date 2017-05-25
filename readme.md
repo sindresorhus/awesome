@@ -523,7 +523,7 @@
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
-- [Esoteric Programming Languages](https://github.com/angrykoala/awesome-esoteric) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 
 
 ## License
