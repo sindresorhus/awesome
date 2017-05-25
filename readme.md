@@ -406,7 +406,7 @@
 - [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
-- [Joomla!](https://github.com/anibalsanchez/awesome-joomla) - Joomla! The CMS Trusted By Millions for their Websites.
+- [Joomla!](https://github.com/anibalsanchez/awesome-joomla) - The CMS Trusted By Millions for their Websites.
 
 
 ## Hardware
