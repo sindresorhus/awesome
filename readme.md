@@ -422,6 +422,7 @@
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
+- [Startup Resources](https://github.com/ahmadnassri/awesome-startup-resources) - Useful resources for building a new startup business.
 
 
 ## Work
