@@ -159,6 +159,7 @@
 	- [Protips](https://github.com/AllThingsSmitty/css-protips)
 - [React](https://github.com/enaqx/awesome-react) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
+	- [Create React App](https://github.com/tuchk4/awesome-create-react-app) - Build React apps without build config.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer)
 - [Angular](https://github.com/AngularClass/awesome-angular) - App framework.
