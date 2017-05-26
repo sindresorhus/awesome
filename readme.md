@@ -267,6 +267,7 @@
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark) - Unified engine for large-scale data processing.
+- [Apache Flink](https://github.com/wuchong/awesome-flink) - A stream processing framework with powerful stream- and batch-processing capabilities.
 
 
 ## Theory
