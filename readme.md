@@ -383,7 +383,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [Educational Games](https://github.com/vinkla/awesome-educational-games) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
-
+- [Awesome android learner](https://github.com/MakinGiants/awesome-android-learner)
 
 ## Security
 
