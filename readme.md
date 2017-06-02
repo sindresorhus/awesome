@@ -70,6 +70,7 @@
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [macOS](https://github.com/iCHAIT/awesome-macOS)
+	- [Touchbar](https://github.com/ZakariaRidouh/awesome-touchbar)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
 	- [Screensavers](https://github.com/aharris88/awesome-macos-screensavers)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos)
