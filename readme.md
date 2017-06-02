@@ -395,9 +395,9 @@
 - [Hacking](https://github.com/carpedm20/awesome-hacking)
 - [Honeypots](https://github.com/paralax/awesome-honeypots) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
-- [OSINT](https://github.com/jivoi/awesome-osint) - Open source intelligence
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
+- [OSINT](https://github.com/jivoi/awesome-osint) - Open source intelligence.
 
 
 ## Content Management Systems
