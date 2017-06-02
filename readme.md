@@ -190,6 +190,7 @@
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
 - [Vue.js](https://github.com/vuejs/awesome-vue) - App framework.
+- [Nuxt.js](https://github.com/yuki-torii/awesome-nuxt) - App framework.
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette) - App framework.
 - [Aurelia](https://github.com/behzad888/awesome-aurelia) - App framework.
 - [Charting](https://github.com/zingchart/awesome-charting)
