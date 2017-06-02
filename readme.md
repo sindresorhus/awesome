@@ -224,6 +224,7 @@
 	- [Education](https://github.com/Symfonisti/awesome-symfony-education)
 - [Laravel](https://github.com/chiraggude/awesome-laravel)
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
+	- [Laravel Voyager](https://github.com/larapack/awesome-voyager)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
 - [Phalcon](https://github.com/sergeyklay/awesome-phalcon)
