@@ -210,7 +210,6 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 
-
 ## Back-End Development
 
 - [Django](https://github.com/rosarior/awesome-django)
@@ -235,6 +234,7 @@
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
+- [restQL-core](https://github.com/B2W-BIT/restQL-core) - Java/Clojure microservice query language to fetch information from multiple services.
 
 
 ## Computer Science
