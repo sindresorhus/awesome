@@ -208,7 +208,7 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
-- [Flutter](https://github.com/Solido/awesome-flutter)
+- [Flutter](https://github.com/Solido/awesome-flutter) - Modern mobile app SDK for iOS, Android and Fuchsia.
 
 
 ## Back-End Development
