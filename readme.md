@@ -81,6 +81,7 @@
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
+- [Flutter](https://github.com/Solido/awesome-flutter) - Modern mobile app SDK for iOS, Android and Fuchsia.
 
 
 ## Programming Languages
@@ -208,7 +209,6 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
-- [Flutter](https://github.com/Solido/awesome-flutter) - Modern mobile app SDK for iOS, Android and Fuchsia.
 
 
 ## Back-End Development
