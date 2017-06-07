@@ -422,6 +422,7 @@
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
+- [Leadership and Management](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit)
 
 
 ## Work
