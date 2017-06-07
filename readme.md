@@ -243,6 +243,7 @@
 - [Data Science](https://github.com/okulbilisim/awesome-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+	- [Kaggle Solutions](https://github.com/krishnakalyan3/awesome-kaggle)
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
