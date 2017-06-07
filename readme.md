@@ -100,6 +100,7 @@
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint) - Linter.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
 	- [Observables](https://github.com/sindresorhus/awesome-observables)
+	- [prettier](https://github.com/prettier/prettier)
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
