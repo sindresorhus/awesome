@@ -297,7 +297,7 @@
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [Atom](https://github.com/mehcode/awesome-atom)
+- [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
 
 
