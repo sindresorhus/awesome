@@ -145,6 +145,7 @@
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
+- [F#](https://github.com/VPashkov/awesome-fsharp)
 
 
 ## Front-End Development
