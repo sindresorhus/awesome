@@ -351,7 +351,8 @@
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
-- [Neo4j](https://github.com/Neueda4j/awesome-neo4j)
+- [Neo4j](https://github.com/Neueda4j/awesome-neo4j) - Graph database
+- [Doctrine](https://github.com/biberlabs/awesome-doctrine) - PHP ORM
 - [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
 - [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
