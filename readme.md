@@ -209,6 +209,7 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
+- [Next.js](https://https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
 
 
 ## Back-End Development
