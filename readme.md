@@ -272,6 +272,7 @@
 
 ## Theory
 
+- [Compilers](https://github.com/aalhour/awesome-compilers).
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
