@@ -434,6 +434,7 @@
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [Niche Job Boards](https://github.com/wfhio/awesome-job-boards)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [Digital Nomads](https://github.com/cbovis/awesome-digital-nomads)
 
 
 ## Networking
