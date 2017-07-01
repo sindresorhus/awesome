@@ -399,7 +399,7 @@
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
-- [Bug Bounty Programs](https://github.com/djadmin/awesome-bug-bounty)
+- [Bug Bounty Programs](https://github.com/djadmin/awesome-bug-bounty) - Bug Bounty Programs and Security Write-ups
 
 
 ## Content Management Systems
