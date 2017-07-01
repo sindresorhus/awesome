@@ -82,6 +82,7 @@
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
+- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
 
 
 ## Programming Languages
@@ -297,7 +298,7 @@
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [Atom](https://github.com/mehcode/awesome-atom)
+- [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
 
 
@@ -343,6 +344,7 @@
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
+- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes)
 
 
 ## Databases
@@ -523,6 +525,7 @@
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
+- [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Effective Altruism](https://github.com/sheonhan/awesome-effective-altruism) - Evidence-driven philanthropy.
 
 
