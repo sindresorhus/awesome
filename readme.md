@@ -58,7 +58,7 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs)
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine. 
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
@@ -82,6 +82,7 @@
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
+- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
 
 
 ## Programming Languages
@@ -100,11 +101,13 @@
 	- [ESLint](https://github.com/dustinspecker/awesome-eslint) - Linter.
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
 	- [Observables](https://github.com/sindresorhus/awesome-observables)
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) - Task runner.
 - [Swift](https://github.com/matteocrippa/awesome-swift)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 - [Python](https://github.com/vinta/awesome-python)
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
+	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - Scientific research in audio/music.
 - [Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Haskell](https://github.com/krispo/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
@@ -297,7 +300,7 @@
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
 - [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
-- [Atom](https://github.com/mehcode/awesome-atom)
+- [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
 
 
@@ -343,6 +346,7 @@
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
+- [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes)
 
 
 ## Databases
@@ -456,7 +460,6 @@
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Test automation tool for apps.
-- [Endangered Languages](https://github.com/RichardLitt/endangered-languages)
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
@@ -523,6 +526,7 @@
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events) - Tech-related events in the Netherlands.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
+- [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
 
 
