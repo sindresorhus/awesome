@@ -519,6 +519,7 @@
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login.
 - [Testing](https://github.com/TheJambo/awesome-testing) - Software testing.
 - [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
+- [Name conflicts](https://github.com/konopski/awsome-name-conflicts) - Name conflicts in various projects. Are they really awesome?
 - [Framer](https://github.com/podo/awesome-framer) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown) - Markup language.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun) - Funny developer projects.
