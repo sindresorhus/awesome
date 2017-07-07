@@ -282,6 +282,7 @@
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 - [Math](https://github.com/rossant/awesome-math)
+- [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - Traversing nested data structures.
 
 
 ## Books
