@@ -532,6 +532,7 @@
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
+- [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
 
 
 ## License
