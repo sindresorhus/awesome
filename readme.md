@@ -272,6 +272,7 @@
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark) - Unified engine for large-scale data processing.
+- [Elasticsearch](https://github.com/dzharii/awesome-elasticsearch) - Search and analytics engine based on Apache Lucene.
 
 
 ## Theory
