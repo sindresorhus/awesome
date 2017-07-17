@@ -143,6 +143,7 @@
 - [PHP](https://github.com/ziadoz/awesome-php)
 	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
+- [ActionScript 3](https://github.com/hgupta9/awesome-actionscript3/)
 - [Assembler](https://github.com/brainblowjob/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
