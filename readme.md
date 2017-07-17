@@ -143,7 +143,6 @@
 - [PHP](https://github.com/ziadoz/awesome-php)
 	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
-- [ActionScript 3](https://github.com/hgupta9/awesome-actionscript3/)
 - [Assembler](https://github.com/brainblowjob/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
@@ -151,6 +150,7 @@
 - [TypeScript](https://github.com/dzharii/awesome-typescript)
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
+- [ActionScript 3](https://github.com/hgupta9/awesome-actionscript3/)
 
 
 ## Front-End Development
