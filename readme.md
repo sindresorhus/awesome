@@ -406,6 +406,7 @@
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredmichaelsmith/awesome-vehicle-security)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking)
 
 
 ## Content Management Systems
