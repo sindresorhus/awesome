@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-	<b>✨ Prelaunching the <a href="http://sindresorhus.us4.list-manage.com/subscribe?u=922c1a220064caff62fe6bb28&id=0371a265e7">Awesome Weekly</a> newsletter! ✨</b>
+	<b>✨ Prelaunching the <a href="https://awesomeweekly.co/">Awesome Weekly</a> newsletter! ✨</b>
 	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
 
@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://github.com/sindresorhus/awesome"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>Just type <a href="https://awesome.re/"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 
 
