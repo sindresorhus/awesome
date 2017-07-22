@@ -430,7 +430,7 @@
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment.
 
 
 ## Work
