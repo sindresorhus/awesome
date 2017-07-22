@@ -81,7 +81,7 @@
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
-- [Flutter](https://github.com/Solido/awesome-flutter) - Modern mobile app SDK for iOS, Android and Fuchsia.
+- [Flutter](https://github.com/Solido/awesome-flutter) - Modern mobile app SDK for iOS, Android, and Fuchsia.
 
 
 ## Programming Languages
