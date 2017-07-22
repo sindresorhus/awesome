@@ -534,6 +534,7 @@
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
 - [Effective Altruism](https://github.com/sheonhan/awesome-effective-altruism) - Evidence-driven philanthropy.
+- [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
 
 
 ## License
