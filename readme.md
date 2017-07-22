@@ -225,10 +225,10 @@
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 - [Pyramid](https://github.com/uralbash/awesome-pyramid)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp) - PHP framework.
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
 	- [Education](https://github.com/pehapkari/awesome-symfony-education)
-- [Laravel](https://github.com/chiraggude/awesome-laravel)
+- [Laravel](https://github.com/chiraggude/awesome-laravel) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
