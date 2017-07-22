@@ -407,6 +407,7 @@
 - [Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
+- [OSINT](https://github.com/jivoi/awesome-osint) - Open source intelligence.
 
 
 ## Content Management Systems
