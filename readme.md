@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-	<b>✨ Prelaunching the <a href="https://awesomeweekly.co/">Awesome Weekly</a> newsletter! ✨</b>
+	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
 	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
 
@@ -26,7 +26,7 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re/"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 
 
@@ -214,6 +214,7 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
 
 
 ## Back-End Development
@@ -224,10 +225,10 @@
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
 - [Pyramid](https://github.com/uralbash/awesome-pyramid)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1)
-- [CakePHP](https://github.com/friendsofcake/awesome-cakephp)
+- [CakePHP](https://github.com/friendsofcake/awesome-cakephp) - PHP framework.
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
 	- [Education](https://github.com/pehapkari/awesome-symfony-education)
-- [Laravel](https://github.com/chiraggude/awesome-laravel)
+- [Laravel](https://github.com/chiraggude/awesome-laravel) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
 - [Rails](https://github.com/ekremkaraca/awesome-rails)
 	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
@@ -407,6 +408,7 @@
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
 - [Penetration Testing](https://github.com/enaqx/awesome-pentest)
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking) - The art of unlocking a lock by manipulating its components without the key.
 
 
 ## Content Management Systems
@@ -432,6 +434,7 @@
 - [Open Companies](https://github.com/opencompany/awesome-open-company)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
+- [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses.
 
 
 ## Work
@@ -534,10 +537,13 @@
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience) - Study of the nervous system and brain.
+- [Effective Altruism](https://github.com/sheonhan/awesome-effective-altruism) - Evidence-driven philanthropy.
+- [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com/) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
