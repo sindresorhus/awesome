@@ -418,6 +418,7 @@
 - [Wagtail](https://github.com/springload/awesome-wagtail) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
+- [Craft CMS](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
 
 
 ## Hardware
