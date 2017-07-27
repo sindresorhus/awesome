@@ -542,6 +542,7 @@
 - [Effective Altruism](https://github.com/sheonhan/awesome-effective-altruism) - Evidence-driven philanthropy.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
 
 
 ## License
