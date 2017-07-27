@@ -322,6 +322,7 @@
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8) - Fantasy console.
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev)
 - [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine.
+- [Gideros](https://github.com/stetso/awesome-gideros) - Game engine.
 
 
 ## Development Environment
