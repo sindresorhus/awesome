@@ -551,6 +551,7 @@
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
+- [Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Automated (Visual) Regression Testing.
 
 
 ## License
