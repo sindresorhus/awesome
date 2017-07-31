@@ -544,6 +544,7 @@
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
+- [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
 
 
 ## License
