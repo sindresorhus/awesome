@@ -223,6 +223,7 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
+- [Hexo](https://github.com/hexojs/awesome-hexo) - A fast, simple & powerful blog framework.
 
 
 ## Back-End Development
