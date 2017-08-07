@@ -60,6 +60,7 @@
 - [Business](#business)
 - [Work](#work)
 - [Networking](#networking)
+- [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -389,6 +390,7 @@
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
 
 
 ## Learn
@@ -460,10 +462,14 @@
 ## Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
-- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 
+## Decentralized Systems
+
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
+- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
 
 ## Miscellaneous
 
@@ -482,7 +488,6 @@
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 - [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc.
 - [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
@@ -551,6 +556,7 @@
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free) - Ad-free alternatives.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
+- [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
 - [Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Automated (Visual) Regression Testing.
 
 
