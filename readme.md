@@ -382,6 +382,7 @@
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
 
 
 ## Learn
