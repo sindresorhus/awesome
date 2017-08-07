@@ -7,10 +7,17 @@
 <br>
 <br>
 
+<h4 align="center">My new <a href="https://www.producthunt.com/posts/lungo">macOS app is on Product Hunt</a>. It's free. Could use some feedback.</h4>
+
+<!--
+<br>
+<br>
+
 <p align="center">
 	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
 	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
+-->
 
 <br>
 
@@ -152,7 +159,7 @@
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
 - [ActionScript 3](https://github.com/hgupta9/awesome-actionscript3/) - Object-oriented language targeting Adobe AIR.
-
+- [Idris](https://github.com/joaomilho/awesome-idris)
 
 ## Front-End Development
 
