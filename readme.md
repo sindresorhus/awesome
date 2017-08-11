@@ -159,6 +159,7 @@
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
 - [ActionScript 3](https://github.com/hgupta9/awesome-actionscript3/) - Object-oriented language targeting Adobe AIR.
+- [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM.
 
 
 ## Front-End Development
@@ -557,6 +558,7 @@
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
+- [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Automated (Visual) Regression Testing.
 
 
