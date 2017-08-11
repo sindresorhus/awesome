@@ -31,7 +31,9 @@
 		- The image should link to the project website or any relevant website.
 		- The image should be high-DPI. Set it to maximum half the width of the original image.
 	- Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
-	- Has the [Awesome badge](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-badge) on the right side of the list heading,
+	- Includes the [Awesome badge](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-badge).
+		- Should be placed on the right side of the readme heading.
+		- Should link back to this list.
 	- Has a Table of Contents section.
 		- Should be named `Contents`, not `Table of Contents`.
 		- Should be the first section in the list.
