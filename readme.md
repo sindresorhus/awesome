@@ -552,7 +552,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
-
+- [Free for Open Source Projects](https://github.com/zachflower/awesome-freeforopensource) - Commercial services that offer free tiers for open source projects.
 
 ## License
 
