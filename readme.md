@@ -267,6 +267,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
+- [Decentralized P2P](https://github.com/steve-vincent/awesome-decentralized)Decentralized, peer-to-peer, and distributed platforms and applications.
 
 
 ## Big Data
