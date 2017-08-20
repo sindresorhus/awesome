@@ -267,7 +267,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
-
+- [Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 
 ## Big Data
 
