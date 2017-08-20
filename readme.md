@@ -7,10 +7,17 @@
 <br>
 <br>
 
+<h4 align="center">My new <a href="https://www.producthunt.com/posts/lungo">macOS app is on Product Hunt</a>. It's free. Could use some feedback.</h4>
+
+<!--
+<br>
+<br>
+
 <p align="center">
 	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
 	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
+-->
 
 <br>
 
@@ -83,6 +90,7 @@
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
+- [Flutter](https://github.com/Solido/awesome-flutter) - Modern mobile app SDK for iOS, Android, and Fuchsia.
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
