@@ -244,6 +244,7 @@
 - [Serverless Framework](https://github.com/JustServerless/awesome-serverless)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
+- [Claudia](https://github.com/claudiajs/claudia) - Deploy Node.js projects to AWS Lambda and API Gateway easily
 
 
 ## Computer Science
