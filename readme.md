@@ -535,6 +535,7 @@
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter) - Load testing and performance measurement tool.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding) - Programming something expressive instead of something functional.
+- [Livecoding](https://github.com/lvm/awesome-livecoding) - All things livecoding.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps) - Web apps that work without login.
 - [Testing](https://github.com/TheJambo/awesome-testing) - Software testing.
 - [Free Software](https://github.com/johnjago/awesome-free-software) - Free as in freedom.
