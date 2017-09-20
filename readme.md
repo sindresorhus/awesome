@@ -463,6 +463,7 @@
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
+- [Etherium](https://www.ethereum.org/) - Blockchain App platform
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
 
 ## Miscellaneous
