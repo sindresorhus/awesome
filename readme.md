@@ -397,6 +397,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [Educational Games](https://github.com/yrgo/awesome-eg) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [Computer Science for Teachers](https://github.com/zamansky/awesome-cs-education)
 
 
 ## Security
