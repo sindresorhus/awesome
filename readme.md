@@ -150,7 +150,7 @@
 - [Crystal](https://github.com/veelenga/awesome-crystal)
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
-- [ActionScript 3](https://github.com/hgupta9/awesome-actionscript3/) - Object-oriented language targeting Adobe AIR.
+- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - Object-oriented language targeting Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM.
 
 
