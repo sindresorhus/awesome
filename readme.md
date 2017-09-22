@@ -105,24 +105,24 @@
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
 	- [Observables](https://github.com/sindresorhus/awesome-observables)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) - Task runner.
-- [Swift](https://github.com/matteocrippa/awesome-swift)
+- [Swift](https://github.com/matteocrippa/awesome-swift)-  Powerful and intuitive programming language for macOS, iOS, watchOS and tvOS.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
-- [Python](https://github.com/vinta/awesome-python)
+- [Python](https://github.com/vinta/awesome-python) -  General purpose programming language, easy-to-use, that runs anywhere, closely resembles the English language.
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - Scientific research in audio/music.
-- [Rust](https://github.com/rust-unofficial/awesome-rust)
-- [Haskell](https://github.com/krispo/awesome-haskell)
+- [Rust](https://github.com/rust-unofficial/awesome-rust) - a systems programming language sponsored by Mozilla Research.
+- [Haskell](https://github.com/krispo/awesome-haskell)-  a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.
 - [PureScript](https://github.com/passy/awesome-purescript)
-- [Go](https://github.com/avelino/awesome-go)
+- [Go](https://github.com/avelino/awesome-go) - is a free and open source  programming language created at Google.
 - [Scala](https://github.com/lauris/awesome-scala)
-- [Ruby](https://github.com/markets/awesome-ruby)
+- [Ruby](https://github.com/markets/awesome-ruby) - a dynamic, reflective, object-oriented, general-purpose programming language.
 	- [Events](https://github.com/planetruby/awesome-events)
-- [Clojure](https://github.com/razum2um/awesome-clojure)
+- [Clojure](https://github.com/razum2um/awesome-clojure). - A general-purpose programming language with an emphasis on functional programming.
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
-- [Elm](https://github.com/isRuslan/awesome-elm)
-- [Erlang](https://github.com/drobakowski/awesome-erlang)
+- [Elm](https://github.com/isRuslan/awesome-elm) - a domain-specific programming language for declaratively creating web browser-based graphical user interfaces.
+- [Erlang](https://github.com/drobakowski/awesome-erlang) - a general-purpose, concurrent, functional programming language, as well as a garbage-collected runtime system.
 - [Julia](https://github.com/svaksha/Julia.jl)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
 - [C](https://github.com/aleksandar-todorovic/awesome-c)
@@ -130,9 +130,9 @@
 - [R](https://github.com/qinwf/awesome-R)
 - [D](https://github.com/zhaopuming/awesome-d)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl)
-- [Perl](https://github.com/hachiojipm/awesome-perl)
-- [Groovy](https://github.com/kdabir/awesome-groovy)
-- [Dart](https://github.com/yissachar/awesome-dart)
+- [Perl](https://github.com/hachiojipm/awesome-perl) - Perl is a family of high-level, general-purpose, interpreted, dynamic programming languages.
+- [Groovy](https://github.com/kdabir/awesome-groovy) - Groovy is an object-oriented programming language for the Java platform.
+- [Dart](https://github.com/yissachar/awesome-dart) - Dart is a general-purpose programming language originally developed by Google.
 - [Java](https://github.com/akullpp/awesome-java)
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
@@ -141,13 +141,14 @@
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core)
-- [PHP](https://github.com/ziadoz/awesome-php)
+- [PHP](https://github.com/ziadoz/awesome-php) - a server-side scripting language designed primarily for web development but also used as a general-purpose programming language.
 	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
 - [Assembler](https://github.com/jaspergould/awesome-asm)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
+- [TypeScript](https://github.com/dzharii/awesome-typescript) - a free and open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript.
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - Object-oriented language targeting Adobe AIR.
@@ -156,7 +157,7 @@
 
 ## Front-End Development
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools)
+- [ES6 Tools](https://github.com/addyosmani/es6-tools) - ECMAScript 2015 transpilers and plugings for automation, testing, modules loaders, boilerplates, generators, Polyfills, editors,etc.
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
 - [CSS](https://github.com/sotayamashita/awesome-css)
@@ -187,7 +188,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails)
-- [jQuery](https://github.com/petk/awesome-jquery)
+- [jQuery](https://github.com/petk/awesome-jquery) - A cross-platform JavaScript library that makes things like HTML Document traversal and manipulation, event handling, animation, and Ajax much simpler.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
@@ -303,12 +304,13 @@
 
 
 ## Editors
+- [Comparasion of text Editors](https://en.wikipedia.org/wiki/Comparison_of_text_editors) - Text Editors comparison  and other options.
 
-- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks)
-- [Vim](https://github.com/mhinz/vim-galore)
-- [Emacs](https://github.com/emacs-tw/awesome-emacs)
+- [Sublime Text](https://github.com/dreikanter/sublime-bookmarks) - Sophisticated text editor for code, markup and prose.
+- [Vim](https://github.com/mhinz/vim-galore) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient.
+- [Emacs](https://github.com/emacs-tw/awesome-emacs) - Popular text editor used mainly on Unix-based systems by programmers.
 - [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor.
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode) - Free open source Microsoft IDE built on web technologies.
 
 
 ## Gaming
@@ -505,7 +507,7 @@
 - [Unicode](https://github.com/jagracey/Awesome-Unicode) - Unicode standards, quirks, packages and resources.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners)
-- [Katas](https://github.com/gamontalvo/awesome-katas)
+- [Katas](https://github.com/gamontalvo/awesome-katas)  - Code katas,  Programming exercises to practice problem solving.
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism)
 - [Citizen Science](https://github.com/dylanrees/citizen-science) - For community-based and non-institutional scientists.
 - [TAP](https://github.com/sindresorhus/awesome-tap) - Test Anything Protocol.
