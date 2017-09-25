@@ -217,6 +217,7 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
+- [Three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library. 
 
 
 ## Back-End Development
