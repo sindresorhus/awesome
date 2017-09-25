@@ -27,7 +27,7 @@
 	- Not a duplicate.
 	- Only has awesome items. Awesome lists are curations of the best, not everything.
 	- Includes a project logo/illustration whenever possible.
-		- Placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
+		- Either fullwidth or placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
 		- The image should link to the project website or any relevant website.
 		- The image should be high-DPI. Set it to maximum half the width of the original image.
 	- Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
@@ -44,7 +44,8 @@
 	- Has [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/awesome.md#include-contribution-guidelines).
 		- The file should be named `contributing.md`. Casing is up to you.
 	- Has consistent formatting and proper spelling/grammar.
-		- Each link description starts with an uppercase character and ends with a period.<br>Example: `- [AVA](…) - JavaScript test runner.`
+		- The link and description are separated by a dash. <br>Example: `- [AVA](…) - JavaScript test runner.`
+		- The description starts with an uppercase character and ends with a period.
 		- Drop all the `A` / `An` prefixes in the descriptions.
 		- Consistent and correct naming. For example, `Node.js`, not `NodeJS` or `node.js`.
 	- Doesn't include a Travis badge.<br>You can still use Travis for list linting, but the badge has no value in the readme.
