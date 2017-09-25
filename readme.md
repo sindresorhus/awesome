@@ -553,6 +553,7 @@
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Product Design](https://github.com/teoga/awesome-product-design) — A collection of bookmarks, resources, articles for product designers.
 
 
 ## License
