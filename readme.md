@@ -554,7 +554,7 @@
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Documentation Built with Static Site Generators](https://github.com/derberg/awesome-docs-with-static-site-generators) - List of great portals or templates build with various different [Static Site Generators](https://www.staticgen.com/) instead of some CMS systems
+- [Documentation Built with Static Site Generators](https://github.com/derberg/awesome-docs-with-static-site-generators) - List of great documentation portals and templates built with various [Static Site Generators](https://www.staticgen.com/) instead of some CMS systems.
 
 
 ## License
