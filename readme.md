@@ -217,6 +217,7 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
+- [R-Shiny](https://github.com/grabear/awesome-rshiny) - Web Framework built with R.
 
 
 ## Back-End Development
