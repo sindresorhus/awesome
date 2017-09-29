@@ -553,7 +553,7 @@
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
-- [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Design and user experience principles.
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
 
 
 ## License
