@@ -554,6 +554,7 @@
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [OpenAPI 3.x Tools](https://github.com/Mermade/awesome-openapi3) - Projects related to the Open API Specification 3.x
 
 
 ## License
