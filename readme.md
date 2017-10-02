@@ -398,6 +398,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [Educational Games](https://github.com/yrgo/awesome-eg) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
+- [Scotch](https://scotch.io/) - The best tutorials for web developtment using Angular.js, node.js, etc
 
 
 ## Security
