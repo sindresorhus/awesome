@@ -555,7 +555,7 @@
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
-
+- [Privacy Conferences](https://github.com/cryptoaustralia/awesome-privacy-conferences) - A curated list of upcoming privacy conferences
 
 ## License
 
