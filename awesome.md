@@ -28,7 +28,7 @@ Have a succinct description at the top of your readme. Make sure your list cover
 
 ## Pay attention to grammar
 
-Ensure your list is grammatically correct, typo free and has no Markdown formatting errors. This should also apply to pull requests.
+Ensure your list is grammatically correct, typo-free and has no Markdown formatting errors. This should also apply to pull requests.
 
 ## Choose an appropriate license
 
