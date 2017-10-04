@@ -409,7 +409,7 @@
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking) - The art of unlocking a lock by manipulating its components without the key.
-- [Privacy](https://github.com/KevinColemanInc/awesome-privacy) - Modern privacy tools
+- [Privacy](https://github.com/KevinColemanInc/awesome-privacy) - Limiting personal data leaks on the internet
 
 
 ## Content Management Systems
