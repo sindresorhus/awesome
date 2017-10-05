@@ -86,7 +86,7 @@
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
-- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean) - A simple and robust cloud computing platform, designed for developers.
+- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean) - Simple cloud computing platform designed for developers.
 
 
 ## Programming Languages
