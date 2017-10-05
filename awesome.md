@@ -6,7 +6,7 @@ But **what is awesome?**
 
 ## Only awesome is awesome
 
-Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You would rather leave stuff out than include too much.
+Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 
 ## Awesome badge
 
