@@ -382,6 +382,7 @@
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
 - [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
+- [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
 
 
 ## Media
