@@ -271,6 +271,7 @@
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
+	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
