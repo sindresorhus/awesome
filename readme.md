@@ -5,14 +5,15 @@
 </h1>
 
 <br>
-<br>
 
-<h4 align="center">My new <a href="https://www.producthunt.com/posts/lungo">macOS app is on Product Hunt</a>. It's free. Could use some feedback.</h4>
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome.svg' />
+</a>
+
+<br>
+<br>
 
 <!--
-<br>
-<br>
-
 <p align="center">
 	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
 	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
@@ -20,6 +21,7 @@
 -->
 
 <br>
+-->
 
 ---
 
@@ -60,6 +62,7 @@
 - [Business](#business)
 - [Work](#work)
 - [Networking](#networking)
+- [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -92,6 +95,7 @@
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
 
 
 ## Programming Languages
@@ -154,10 +158,10 @@
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
 - [Crystal](https://github.com/veelenga/awesome-crystal)
-- [TypeScript](https://github.com/dzharii/awesome-typescript)
 - [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
-- [ActionScript 3](https://github.com/hgupta9/awesome-actionscript3/) - Object-oriented language targeting Adobe AIR.
+- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - Object-oriented language targeting Adobe AIR.
+- [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM.
 
 
 ## Front-End Development
@@ -256,9 +260,11 @@
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/bulutyazilim/awesome-datascience)
+	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Learning, implementing, and applying Machine Learning using Ruby.
+	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - Models for Apple's machine learning framework.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
@@ -268,6 +274,7 @@
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
+	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
@@ -377,6 +384,7 @@
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
 - [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
+- [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
 
 
 ## Media
@@ -390,6 +398,7 @@
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
+- [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
 
 
 ## Learn
@@ -461,10 +470,15 @@
 ## Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
-- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 
+## Decentralized Systems
+
+- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
+- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
+- [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
 
 ## Miscellaneous
 
@@ -483,7 +497,6 @@
 - [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin)
 - [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc.
 - [Sketch](https://github.com/diessica/awesome-sketch) - Design app for macOS.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates)
@@ -553,6 +566,11 @@
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus) - Open-source monitoring system.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic) - Smart home devices.
+- [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
+- [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
+- [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - Companies that offer their tools and services for free to open source projects.
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
 
 
 ## License
