@@ -6,13 +6,13 @@ But **what is awesome?**
 
 ## Only awesome is awesome
 
-Research if the stuff you're including is actually awesome. Put only stuff on the list you or another contributor can personally recommend and rather leave stuff out than include too much.
+Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 
 ## Awesome badge
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Add an awesome badge to the top of your list, right to the title. [Example](https://github.com/sindresorhus/awesome-nodejs).
+Add an awesome badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/awesome-nodejs).
 
 ```md
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -28,7 +28,7 @@ Have a succinct description at the top of your readme. Make sure your list cover
 
 ## Pay attention to grammar
 
-Ensure your list is grammatically correct, typo free and has no Markdown formatting errors. This should also apply to pull requests.
+Ensure your list is grammatically correct, typo-free and has no Markdown formatting errors. This should also apply to pull requests.
 
 ## Choose an appropriate license
 
@@ -38,7 +38,7 @@ Keep in mind that if you [haven't selected a license](http://choosealicense.com/
 
 ## Include contribution guidelines
 
-People who are contributing to your list should have a clear understanding how they should do so.
+People who are contributing to your list should have a clear understanding of how they should do so.
 
 If you don't feel like writing one from scratch, feel free to take our [contributing.md](contributing.md) and modify it to your own needs.
 
