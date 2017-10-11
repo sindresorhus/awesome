@@ -85,6 +85,7 @@
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
+- [Amazon Web Services Alternatives](https://github.com/ro31337/awesome-aws-alternatives)
 - [Windows](https://github.com/Awesome-Windows/Awesome)
 - [IPFS](https://github.com/ipfs/awesome-ipfs)
 - [Fuse](https://github.com/vinkla/awesome-fuse)
