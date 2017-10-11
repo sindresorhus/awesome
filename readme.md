@@ -5,14 +5,22 @@
 </h1>
 
 <br>
+
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome.svg' />
+</a>
+
+<br>
 <br>
 
+<!--
 <p align="center">
 	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
 	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
 
 <br>
+-->
 
 ---
 
@@ -86,6 +94,7 @@
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
 
 
 ## Programming Languages
@@ -249,6 +258,7 @@
 
 - [University Courses](https://github.com/prakhar1989/awesome-courses)
 - [Data Science](https://github.com/bulutyazilim/awesome-datascience)
+	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Learning, implementing, and applying Machine Learning using Ruby.
@@ -262,6 +272,7 @@
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
+	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
@@ -371,6 +382,7 @@
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
 - [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
+- [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
 
 
 ## Media
@@ -464,6 +476,7 @@
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
+- [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
 
 ## Miscellaneous
 
@@ -554,6 +567,8 @@
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - Companies that offer their tools and services for free to open source projects.
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
 - [OpenAPI 3.x Tools](https://github.com/Mermade/awesome-openapi3) - Projects related to the Open API Specification 3.x
 
 
