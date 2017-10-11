@@ -441,7 +441,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment.
 - [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses.
-- [small dev shops](https://github.com/gilbertginsberg/awesome-small-dev-shops) - Software engineering expertise.
+- [Small Dev Shops](https://github.com/gilbertginsberg/awesome-small-dev-shops) - Software engineering expertise.
 
 
 ## Work
