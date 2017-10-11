@@ -165,6 +165,7 @@
 
 ## Front-End Development
 
+- [Mobile Web Specialist](https://github.com/PolymerNinja/awesome-mobile-web-specialist) - Resources for Google's Mobile Web Specialist certification.
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo)
 - [Web Tools](https://github.com/lvwzhen/tools)
