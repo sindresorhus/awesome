@@ -453,7 +453,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment.
 - [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses.
-
+- [Investing Resources](https://github.com/mr-karan/awesome-investing) - Curated list of investment & finance related resources. 
 
 ## Work
 
