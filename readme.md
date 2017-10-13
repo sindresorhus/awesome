@@ -453,6 +453,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr) - Goal setting & communication best practices.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing) - Leading people and being a manager in a technology company/environment.
 - [Indie](https://github.com/mezod/awesome-indie) - Independent developer businesses.
+- [Landing page resources](https://github.com/eibrahim/landing-pages-resources) - A list of platforms, books and blogs on landing pages
 
 
 ## Work
