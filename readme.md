@@ -293,6 +293,7 @@
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering)
 - [Streaming](https://github.com/manuzhang/awesome-streaming)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark) - Unified engine for large-scale data processing.
+- [Genetic Algorithm](https://github.com/NicolleLouis/awesome-genetic-algorithm) - Bio-inspired optimization algorithm.
 
 
 ## Theory
