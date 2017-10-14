@@ -569,7 +569,7 @@
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
-- [Web Caching](https://github.com/zvaraondrej/awesome-cache) - Storing of a web resources.
+- [Web Caching](https://github.com/zvaraondrej/awesome-web-cache) - Storing of a web resources.
 
 
 ## License
