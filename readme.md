@@ -11,7 +11,6 @@
 </a>
 
 <br>
-<br>
 
 <!--
 <p align="center">
@@ -31,6 +30,12 @@
 	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
 </p>
 
+<br>
+
+<p align="center">
+	<b>A project of mine is on Product Hunt and could use some feedback 🙌<br>
+	<a href="https://www.producthunt.com/posts/speed-test-cli">speed-test-cli - Test your download speed on the command-line</a></b>
+</p>
 <br>
 
 <p align="center">
