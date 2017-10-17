@@ -221,6 +221,7 @@
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
 - [choo](https://github.com/YerkoPalma/awesome-choo) - App framework.
+- [Flux](https://github.com/yanmagale/awesome-flux/) - Application Architecture for building user interfaces for Javascript apps.
 - [Redux](https://github.com/brillout/awesome-redux) - State container for JavaScript apps.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack) - Module bundler.
 - [Browserify](https://github.com/ungoldman/awesome-browserify) - Module bundler.
