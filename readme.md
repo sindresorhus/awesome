@@ -164,6 +164,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - Object-oriented language targeting Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM.
 - [Idris](https://github.com/joaomilho/awesome-idris) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Nim](https://github.com/VPashkov/awesome-nim) - Concise, fast programming language that compiles to C, C++ and JavaScript.
 
 
 ## Front-End Development
