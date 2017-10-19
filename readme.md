@@ -226,7 +226,7 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
-- [React VR](https://github.com/nikgraf/awesome-react-vr) - Virtual reality
+- [React VR](https://github.com/nikgraf/awesome-react-vr) - Virtual reality with React.
 
 
 ## Back-End Development
