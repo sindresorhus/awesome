@@ -234,6 +234,7 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
+- [Styled-Components](https://github.com/styled-components/awesome-styled-components) - Visual primitives for the component age.
 
 
 ## Back-End Development
