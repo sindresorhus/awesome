@@ -234,6 +234,7 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
+- [Vulcan.js](https://github.com/amandeepmittal/awesome-vulcan) - The full-stack React+GraphQL framework.
 
 
 ## Back-End Development
