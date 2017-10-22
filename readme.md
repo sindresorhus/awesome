@@ -27,15 +27,18 @@
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
 </p>
 
 <br>
 
-<p align="center">
-	<b>A project of mine is on Product Hunt and could use some feedback 🙌<br>
-	<a href="https://www.producthunt.com/posts/speed-test-cli">speed-test-cli - Test your download speed on the command-line</a></b>
-</p>
+<div align="center">
+	<span>🐦</span>
+	<b>We now have a Twitter account: <a href="https://twitter.com/awesome__re">@awesome__re</a></b>
+	<br>
+	<span>Follow for updates on new lists, community news, and other awesome stuff.</span>
+</div>
 <br>
 
 <p align="center">
