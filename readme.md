@@ -329,6 +329,7 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
+- [Brackets](http://brackets.io/)
 
 
 ## Gaming
