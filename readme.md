@@ -418,7 +418,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [Educational Games](https://github.com/yrgo/awesome-eg) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
-- [Agile Software Development](https://github.com/lorabv/awesome-agile-software-development) - Learn everythong about agile software development.
+- [Agile Software Development](https://github.com/lorabv/awesome-agile-software-development) - Learn everything about agile software development.
 
 
 ## Security
