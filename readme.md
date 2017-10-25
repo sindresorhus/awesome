@@ -181,7 +181,7 @@
 - [React](https://github.com/enaqx/awesome-react) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
-- [Polymer](https://github.com/Granze/awesome-polymer) - JavaScript library for progressive web apps.
+- [Polymer](https://github.com/Granze/awesome-polymer) - JavaScript library to develop WebComponents.
 - [Angular](https://github.com/AngularClass/awesome-angular) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5)
