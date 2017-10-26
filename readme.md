@@ -38,7 +38,7 @@
 
 <p align="center">
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome'>
-  <img alt='awesome is proudly sponsored by Code Sponsor' width='255' height='56' src='https://staging.codesponsor.io/c/tmkVF4Qm7RNE8e9RVwnim6gU/r/12110/banner.png' />
+  <img alt='awesome is proudly sponsored by Code Sponsor' width='255' height='56' src='https://app.codesponsor.io/c/tmkVF4Qm7RNE8e9RVwnim6gU/r/12110/banner.png' />
 </a>
 </p>
 
