@@ -4,14 +4,6 @@
 	<br>
 </h1>
 
-<br>
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome.svg' />
-</a>
-
-<br>
-
 <!--
 <p align="center">
 	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
@@ -44,7 +36,13 @@
 <p align="center">
 	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
+<br>
 
+<p align="center">
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome'>
+  <img alt='awesome is proudly sponsored by Code Sponsor' width='255' height='56' src='https://staging.codesponsor.io/c/tmkVF4Qm7RNE8e9RVwnim6gU/r/12110/banner.png' />
+</a>
+</p>
 
 ## Contents
 
