@@ -6,17 +6,43 @@ But **what is awesome?**
 
 ## Only awesome is awesome
 
-Research if the stuff you're including is actually awesome. Put only stuff on the list you or another contributor can personally recommend and rather leave stuff out than include too much.
+Research if the stuff you're including is actually awesome. Only put stuff on the list that you or another contributor can personally recommend. You should rather leave stuff out than include too much.
 
 ## Awesome badge
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+This badge is for Awesome lists.
 
-Add an awesome badge to the top of your list, right to the title. [Example](https://github.com/sindresorhus/awesome-nodejs).
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+Add an awesome badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/awesome-nodejs).
 
 ```md
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ```
+
+*The badge should not be modified in any way.*
+
+## Awesome mentioned badge
+
+This badge is for projects being mentioned in an Awesome list (**NOT for use in Awesome lists**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list.
+
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
+
+**Fill in the placeholders (Name and URL):**
+
+```md
+[![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
+```
+
+Example:
+
+```md
+[![Mentioned in Awesome Node.js](https://awesome.re/mentioned-badge.svg)](https://github.com/sindresorhus/awesome-nodejs)
+```
+
+If you're an Awesome list maintainer, you could encourage projects in your list to add the badge.
+
+*The badge should not be modified in any way.*
 
 ## Comment on why something is awesome
 
@@ -28,7 +54,7 @@ Have a succinct description at the top of your readme. Make sure your list cover
 
 ## Pay attention to grammar
 
-Ensure your list is grammatically correct, typo free and has no Markdown formatting errors. This should also apply to pull requests.
+Ensure your list is grammatically correct, typo-free and has no Markdown formatting errors. This should also apply to pull requests.
 
 ## Choose an appropriate license
 
@@ -38,7 +64,7 @@ Keep in mind that if you [haven't selected a license](http://choosealicense.com/
 
 ## Include contribution guidelines
 
-People who are contributing to your list should have a clear understanding how they should do so.
+People who are contributing to your list should have a clear understanding of how they should do so.
 
 If you don't feel like writing one from scratch, feel free to take our [contributing.md](contributing.md) and modify it to your own needs.
 
