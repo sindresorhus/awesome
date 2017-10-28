@@ -233,6 +233,8 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
 - [Mithril.js](https://github.com/orbitbot/awesome-mithril) - App framework.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps.
+- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps.
+- [Mithril](https://github.com/orbitbot/awesome-mithril) - App framework.
 
 
 ## Back-End Development
