@@ -77,10 +77,10 @@
 - [iOS](https://github.com/vsouza/awesome-ios)
 - [Android](https://github.com/JStumpp/awesome-android)
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
-- [Electron](https://github.com/sindresorhus/awesome-electron)
-- [Cordova](https://github.com/busterc/awesome-cordova)
+- [Electron](https://github.com/sindresorhus/awesome-electron) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [Cordova](https://github.com/busterc/awesome-cordova) - JavaScript API for hybrid apps.
 - [React Native](https://github.com/jondot/awesome-react-native)
-- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin)
+- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - Mobile app development IDE, testing, and distribution.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
 - [macOS](https://github.com/iCHAIT/awesome-macOS)
@@ -91,9 +91,9 @@
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
 - [Windows](https://github.com/Awesome-Windows/Awesome)
-- [IPFS](https://github.com/ipfs/awesome-ipfs)
-- [Fuse](https://github.com/vinkla/awesome-fuse)
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku)
+- [IPFS](https://github.com/ipfs/awesome-ipfs) - P2P hypermedia protocol.
+- [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools.
+- [Heroku](https://github.com/ianstormtaylor/awesome-heroku) - Cloud platform as a service.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
@@ -106,12 +106,12 @@
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
 	- [Promises](https://github.com/wbinnssmith/awesome-promises)
-	- [Standard Style](https://github.com/standard/awesome-standard)
+	- [Standard Style](https://github.com/standard/awesome-standard) - Style guide and linter.
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
 	- [Tips](https://github.com/loverajoel/jstips)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science)
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) - Impossible sounding projects that exist.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) - For npm packages.
 	- [npm](https://github.com/sindresorhus/awesome-npm) - Package manager.
 	- [AVA](https://github.com/avajs/awesome-ava) - Test runner.
@@ -181,11 +181,11 @@
 - [React](https://github.com/enaqx/awesome-react) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
-- [Polymer](https://github.com/Granze/awesome-polymer)
+- [Polymer](https://github.com/Granze/awesome-polymer) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/AngularClass/awesome-angular) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5)
-- [SVG](https://github.com/willianjusten/awesome-svg)
+- [SVG](https://github.com/willianjusten/awesome-svg) - XML-based vector image format.
 - [Canvas](https://github.com/raphamorim/awesome-canvas)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo)
@@ -206,7 +206,7 @@
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
-- [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Virtual reality.
+- [A-Frame VR](https://github.com/aframevr/awesome-aframe) - Virtual reality for web browsers.
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design)
