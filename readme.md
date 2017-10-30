@@ -155,6 +155,7 @@
 - [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM.
 - [Idris](https://github.com/joaomilho/awesome-idris) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
+
 ## Front-End Development
 
 - [ES6 Tools](https://github.com/addyosmani/es6-tools)
