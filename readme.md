@@ -566,7 +566,7 @@
 - [Ledger](https://github.com/sfischer13/awesome-ledger) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Diversity](https://github.com/folkswhocode/awesome-diversity) - Resources about diversity in technology to create a more rich and diverse tech community.
+- [Diversity](https://github.com/folkswhocode/awesome-diversity) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - Companies that offer their tools and services for free to open source projects.
 
 
