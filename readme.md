@@ -575,6 +575,7 @@
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
+- [Documentation Built with Static Site Generators](https://github.com/derberg/awesome-docs-with-static-site-generators) - List of great documentation portals and templates built with various [Static Site Generators](https://www.staticgen.com/) instead of some CMS systems.
 
 
 ## License
