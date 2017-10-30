@@ -577,6 +577,7 @@
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
+- [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 
 
 ## License
