@@ -578,7 +578,7 @@
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles) - Create better and more consistent designs and experiences.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
-- [Product Design](https://github.com/teoga/awesome-product-design) — A collection of bookmarks, resources, articles for product designers.
+- [Product Design](https://github.com/teoga/awesome-product-design) — Links and articles to guide digital product designers.
 
 
 ## License
