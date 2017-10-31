@@ -36,11 +36,9 @@
 </p>
 <br>
 
-<p align="center">
-	<a target="_blank" rel="nofollow" href="https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome">
-		<img alt="Awesome is proudly sponsored by Code Sponsor" width="255" height="56" src="https://app.codesponsor.io/c/tmkVF4Qm7RNE8e9RVwnim6gU/r/12110/banner.png">
-	</a>
-</p>
+<a target='_blank' rel='nofollow' href='http://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome'>
+  <img alt='Sponsor' width='888' height='68' src='http://app.codesponsor.io/embed/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome.svg' />
+</a>
 
 
 ## Contents
