@@ -202,7 +202,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails)
-- [jQuery](https://github.com/petk/awesome-jquery) - JavaScript library designed for ease of use.
+- [jQuery](https://github.com/petk/awesome-jquery) - Easy to use JavaScript library for DOM manipulation.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
@@ -487,7 +487,7 @@
 
 ## Miscellaneous
 
-- [JSON](https://github.com/burningtree/awesome-json) - Object notation system.
+- [JSON](https://github.com/burningtree/awesome-json) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
