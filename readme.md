@@ -373,7 +373,7 @@
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi) - Scifi.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy)
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
-- [Email Newsletters](https://github.com/vredniy/awesome-newsletters) 
+- [Email Newsletters](https://github.com/vredniy/awesome-newsletters)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes)
 
 
