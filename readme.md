@@ -72,7 +72,7 @@
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [iOS](https://github.com/vsouza/awesome-ios)
+- [iOS](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
 - [Android](https://github.com/JStumpp/awesome-android)
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
 - [Electron](https://github.com/sindresorhus/awesome-electron) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
@@ -84,7 +84,7 @@
 - [macOS](https://github.com/iCHAIT/awesome-macOS)
 	- [Command-Line](https://github.com/herrbischoff/awesome-osx-command-line)
 	- [Screensavers](https://github.com/aharris88/awesome-macos-screensavers)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos)
+- [watchOS](https://github.com/yenchenlin/awesome-watchos) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
@@ -183,7 +183,7 @@
 - [Polymer](https://github.com/Granze/awesome-polymer) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/AngularClass/awesome-angular) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
-- [HTML5](https://github.com/diegocard/awesome-html5)
+- [HTML5](https://github.com/diegocard/awesome-html5) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg) - XML-based vector image format.
 - [Canvas](https://github.com/raphamorim/awesome-canvas)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
@@ -200,7 +200,7 @@
 - [Material Design](https://github.com/sachin1092/awesome-material)
 - [D3](https://github.com/wbkd/awesome-d3) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails)
-- [jQuery](https://github.com/petk/awesome-jquery)
+- [jQuery](https://github.com/petk/awesome-jquery) - Easy to use JavaScript library for DOM manipulation.
 	- [Tips](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know)
 - [Web Audio](https://github.com/notthetup/awesome-webaudio)
 - [Offline-First](https://github.com/pazguille/offline-first)
@@ -246,11 +246,11 @@
 	- [Education](https://github.com/pehapkari/awesome-symfony-education)
 - [Laravel](https://github.com/chiraggude/awesome-laravel) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/en_US.md)
-- [Rails](https://github.com/ekremkaraca/awesome-rails)
+- [Rails](https://github.com/ekremkaraca/awesome-rails) - Web app framework for Ruby.
 	- [Gems](https://github.com/hothero/awesome-rails-gem) - Packages.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
-- [nginx](https://github.com/fcambus/nginx-resources)
+- [nginx](https://github.com/fcambus/nginx-resources) - Web server.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen)
@@ -325,7 +325,7 @@
 - [Vim](https://github.com/mhinz/vim-galore)
 - [Emacs](https://github.com/emacs-tw/awesome-emacs)
 - [Atom](https://github.com/mehcode/awesome-atom) - Open-source and hackable text editor.
-- [Visual Studio Code](https://github.com/viatsko/awesome-vscode)
+- [Visual Studio Code](https://github.com/viatsko/awesome-vscode) - Cross-platform open-source text editor.
 
 
 ## Gaming
@@ -352,7 +352,7 @@
 - [Fish](https://github.com/jbucaran/awesome-fish) - User-friendly shell.
 - [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
-- [GitHub](https://github.com/phillipadsmith/awesome-github)
+- [GitHub](https://github.com/phillipadsmith/awesome-github) - Hosting service for Git repositories.
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
@@ -396,7 +396,7 @@
 - [Fonts](https://github.com/brabadu/awesome-fonts)
 - [Codeface](https://github.com/chrissimpkins/codeface) - Text editor fonts.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
-- [GIF](https://github.com/davisonio/awesome-gif)
+- [GIF](https://github.com/davisonio/awesome-gif) - Image format known for animated images.
 - [Music](https://github.com/ciconia/awesome-music)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
@@ -485,7 +485,7 @@
 
 ## Miscellaneous
 
-- [JSON](https://github.com/burningtree/awesome-json)
+- [JSON](https://github.com/burningtree/awesome-json) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
