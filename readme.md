@@ -65,6 +65,7 @@
 - [Work](#work)
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
+- [Conferences, Meetups](#conferences-meetups)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -483,13 +484,16 @@
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
 
+## Conferences, Meetups
+- [Conferences](https://github.com/RichardLitt/awesome-conferences)
+- [Speakers](https://github.com/karlhorky/awesome-speakers)
+
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
-- [Conferences](https://github.com/RichardLitt/awesome-conferences)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated.
