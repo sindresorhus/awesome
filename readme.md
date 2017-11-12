@@ -153,6 +153,7 @@
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
 - [.NET](https://github.com/quozd/awesome-dotnet)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core)
+	- [Bridge.NET](https://github.com/bridgedotnet/Awesome) - C# to JavaScript Compiler
 - [PHP](https://github.com/ziadoz/awesome-php)
 	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
