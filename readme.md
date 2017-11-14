@@ -577,6 +577,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
+- [Twitter Bots](https://github.com/amandeepmittal/awesome-twitter-bots) - Complete Resource of Twitter Bots built with Node.js.
 
 
 ## License
