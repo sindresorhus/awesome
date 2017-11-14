@@ -181,7 +181,7 @@
 	- [Relay](https://github.com/expede/awesome-relay) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
 - [Polymer](https://github.com/Granze/awesome-polymer) - JavaScript library to develop Web Components.
-- [Angular](https://github.com/AngularClass/awesome-angular) - App framework.
+- [Angular](https://github.com/gdi2290/awesome-angular) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg) - XML-based vector image format.
