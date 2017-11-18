@@ -477,11 +477,15 @@
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
 
 ## Decentralized Systems
-
-- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
-- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
+- [Blockchain](https://github.com/Xel/Blockchain-stuff) - Curated list of blockchain and general cryptocurrency resources.
+	- [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Bitcoin services and tools for software developers.
+	- [Ethereum](https://github.com/btomashvili/awesome-ethereum) - Ethereum and dApps resources.
+	- [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
+	- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
+- [peer-to-peer](https://github.com/kgryte/awesome-peer-to-peer) - P2P modules, apps ,resources, librarys, people and others.
+	- [IPFS](https://github.com/ipfs/awesome-ipfs) - IPFS resources, apps and tools.
 - [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
+
 
 ## Miscellaneous
 
