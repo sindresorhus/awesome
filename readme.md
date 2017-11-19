@@ -23,12 +23,17 @@
 
 <br>
 
+<!--
 <div align="center">
 	<span>🐦</span>
 	<b>We now have a Twitter account: <a href="https://twitter.com/awesome__re">@awesome__re</a></b>
 	<br>
 	<span>Follow for updates on new lists, community news, and other awesome stuff.</span>
 </div>
+<br>
+-->
+
+<h4 align="center">My free macOS app <a href="https://www.producthunt.com/posts/heic-converter">HEIC Converter</a> is on Product Hunt</a>. Could use some feedback.</h4>
 <br>
 
 <p align="center">
