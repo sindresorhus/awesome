@@ -495,7 +495,7 @@
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev)
 - [Conferences](https://github.com/RichardLitt/awesome-conferences)
-- [Sysadmin](https://github.com/n1trux/awesome-sysadmin)
+- [Sysadmin](https://github.com/n1trux/awesome-sysadmin) - Free Software for system administrators.
 - [Radio](https://github.com/kyleterry/awesome-radio)
 - [Awesome](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics)
@@ -513,7 +513,7 @@
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides)
 - [Design and Development Guides](https://github.com/NARKOZ/guides)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
-- [Self Hosted](https://github.com/Kickball/awesome-selfhosted)
+- [Self Hosted](https://github.com/Kickball/awesome-selfhosted) - Free Software network services and Web applications.
 - [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps)
 - [Gulp](https://github.com/alferov/awesome-gulp) - Task runner.
 - [AMA](https://github.com/sindresorhus/amas) - Ask Me Anything.
