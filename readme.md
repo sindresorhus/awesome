@@ -346,7 +346,7 @@
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev)
 - [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros) - Game engine.
-
+- [Discord](https://github.com/jacc/awesome-discord) - Chat platform for gamers.
 
 ## Development Environment
 
