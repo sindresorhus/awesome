@@ -189,6 +189,7 @@
 - [Angular](https://github.com/gdi2290/awesome-angular) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5) - Markup language used for websites & web apps.
+	- [Meta tags](https://github.com/RALMAZ/Awesome-meta-tags) - Collection of all used meta tags.
 - [SVG](https://github.com/willianjusten/awesome-svg) - XML-based vector image format.
 - [Canvas](https://github.com/raphamorim/awesome-canvas)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout)
