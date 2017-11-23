@@ -40,6 +40,7 @@
 		- Should only have one level of sub-lists, preferably none.
 	- Has an [appropriate license](https://github.com/sindresorhus/awesome/blob/master/awesome.md#choose-an-appropriate-license).
 		- That means something like CC0, **not a code licence like MIT, BSD, Apache, etc.**
+		- [WTFPL](http://www.wtfpl.net) and [Unlicense](http://unlicense.org) are not acceptable licenses.
 		- If you use a license badge, it should be SVG, not PNG.
 	- Has [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/awesome.md#include-contribution-guidelines).
 		- The file should be named `contributing.md`. Casing is up to you.
