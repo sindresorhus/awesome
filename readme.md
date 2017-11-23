@@ -467,6 +467,7 @@
 
 ## Work
 
+- [Cisco Spark](https://github.com/CiscoDevNet/awesome-ciscospark) - Calls, Video & Messaging for Teams collaboration.
 - [Slack](https://github.com/matiassingers/awesome-slack) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
