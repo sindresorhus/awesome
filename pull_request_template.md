@@ -1,12 +1,12 @@
 
-<!-- Congrats on creating an Awesome list! 🎉 -->
+<!-- Congrats on creating an Awesome list!  -->
 
 
 <!-- Please fill in the below placeholders -->
 
-**[Insert URL to the list here]**
+**[https://github.com/RALMAZ/Awesome-meta-tags]**
 
-**[Explain what this list is about and why it should be included here]**
+**[A collection of all possible meta tags]**
 
 
 # By submitting this pull request I confirm I've read and complied with the below requirements.
