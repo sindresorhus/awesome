@@ -288,7 +288,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
-
+- [Language Engineering](https://github.com/NLKNguyen/awesome-language-engineering/) - Programming language design theory and practice.
 
 ## Big Data
 
