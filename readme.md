@@ -480,7 +480,7 @@
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
-- [Network Automation](https://github.com/itdependsnetworks/awesome-network-automation)
+- [Network Automation](https://github.com/itdependsnetworks/awesome-network-automation) - The best network automation material in the universe.
 
 ## Decentralized Systems
 
