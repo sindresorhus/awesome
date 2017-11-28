@@ -267,7 +267,7 @@
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
-- [Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - focusing on theoretical background (papers, books) for using cryptographic algorithms for non-cryptographers.
+	- [Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - focusing on theoretical background (papers, books) for using cryptographic algorithms for non-cryptographers.
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
