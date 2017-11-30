@@ -23,7 +23,6 @@
 
 <br>
 
-<!--
 <div align="center">
 	<span>🐦</span>
 	<b>We now have a Twitter account: <a href="https://twitter.com/awesome__re">@awesome__re</a></b>
@@ -31,19 +30,11 @@
 	<span>Follow for updates on new lists, community news, and other awesome stuff.</span>
 </div>
 <br>
--->
-
-<h4 align="center">My free macOS app <a href="https://www.producthunt.com/posts/heic-converter">HEIC Converter</a> is on Product Hunt</a>. Could use some feedback.</h4>
-<br>
 
 <p align="center">
 	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
-
-<a target='_blank' rel='nofollow' href='http://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome'>
-  <img alt='Sponsor' width='888' height='68' src='http://app.codesponsor.io/embed/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome.svg' />
-</a>
 
 
 ## Contents
