@@ -227,6 +227,7 @@
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps.
+- [Tailwind CSS](https://github.com/merchedhq/awesome-tailwindcss) - Utility-first CSS framework for rapidly building custom UI.
 
 
 ## Back-End Development
