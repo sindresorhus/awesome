@@ -94,6 +94,7 @@
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
+- [Starcounter](https://github.com/Starcounter/awesome-starcounter) - Software platform that combines an in-memory database with a web server.
 
 
 ## Programming Languages
