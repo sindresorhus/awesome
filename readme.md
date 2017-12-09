@@ -307,7 +307,7 @@
 ## Books
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
-- [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
+- [Free Software Testing Books](https://github.com/ligurio/awesome-software-quality)
 - [Go Books](https://github.com/dariubs/GoBooks)
 - [R Books](https://github.com/RomanTsegelskyi/rbooks)
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books)
