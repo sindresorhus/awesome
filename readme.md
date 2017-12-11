@@ -308,6 +308,7 @@
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming)
 - [Math](https://github.com/rossant/awesome-math)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes) - Traversing nested data structures.
+- [Physics](https://github.com/wbierbower/awesome-physics) - Software for exploring Physics concepts
 
 
 ## Books
