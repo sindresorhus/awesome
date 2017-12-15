@@ -284,7 +284,11 @@
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
+
+
+## Information Science
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
+- [Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) - Go from raw data to results in a repeatable and transparent manner
 
 
 ## Big Data
