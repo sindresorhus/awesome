@@ -33,7 +33,7 @@
 <br>
 -->
 
-<h4 align="center">My free macOS app <a href="https://www.producthunt.com/posts/black-out">Black Out</a> is on Product Hunt</a>.<br><sub>It makes it easy to hide sensitive parts of an image.</sub></h4>
+<h4 align="center"><a href="https://www.patreon.com/sindresorhus">Support my work with the Awesome project and open source in general</a></h4>
 <br>
 
 <p align="center">
