@@ -404,7 +404,7 @@
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
-
+- [Hiking Resources for hackers](https://github.com/OpenHikingMaps/awesome-hiking)
 
 ## Learn
 
