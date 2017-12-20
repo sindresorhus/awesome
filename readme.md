@@ -33,7 +33,7 @@
 <br>
 -->
 
-<h4 align="center">My free macOS app <a href="https://www.producthunt.com/posts/black-out">Black Out</a> is on Product Hunt</a>.<br><sub>It makes it easy to hide sensitive parts of an image.</sub></h4>
+<h4 align="center"><a href="https://www.patreon.com/sindresorhus">Support my work with the Awesome project and open source in general</a></h4>
 <br>
 
 <p align="center">
@@ -216,7 +216,7 @@
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-- [PostCSS](https://github.com/jjaderg/awesome-postcss) - CSS preprocessor.
+- [PostCSS](https://github.com/jjaderg/awesome-postcss) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
 - [Service Workers](https://github.com/TalAter/awesome-service-workers)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps)
