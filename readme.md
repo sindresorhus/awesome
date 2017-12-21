@@ -404,7 +404,7 @@
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
-
+- [Hiking Resources for hackers](https://github.com/OpenHikingMaps/awesome-hiking)
 
 ## Learn
 
@@ -484,6 +484,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
+- [Blockchains](https://github.com/openblockchains/awesome-blockchains) - A collection of open distributed public databases w/ crypto hashes
 
 ## Miscellaneous
 
