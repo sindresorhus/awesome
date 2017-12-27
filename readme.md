@@ -99,6 +99,7 @@
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
+- [UNIX](https://github.com/sirredbeard/Awesome-UNIX) - A family of computer operating systems and principles derived from AT&T UNIX.
 
 
 ## Programming Languages
