@@ -237,6 +237,7 @@
 ## Back-End Development
 
 - [Django](https://github.com/rosarior/awesome-django)
+	- [Django REST Framework](https://github.com/nioperas06/awesome-django-rest-framework)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant)
