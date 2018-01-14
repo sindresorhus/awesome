@@ -1,0 +1,3 @@
+* text=auto
+*.ai binary
+readme.md merge=union
