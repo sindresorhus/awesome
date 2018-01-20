@@ -94,12 +94,12 @@
 - [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku) - Cloud platform as a service.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Micro:bit](https://github.com/carlosperate/awesome-microbit) - Programmable chip on a board aimed at teaching kids programming.
 - [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
+- [Micro:bit](https://github.com/carlosperate/awesome-microbit) - Programmable chip on a board aimed at teaching kids programming.
 
 
 ## Programming Languages
