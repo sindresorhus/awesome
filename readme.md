@@ -580,7 +580,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
-- [XMPP](https://github.com/bluszcz/awesome-xmpp) - Extensible Messaging and Presence Protocol.
+- [XMPP](https://github.com/bluszcz/awesome-xmpp) - Communication protocol based on XML.
 
 
 ## License
