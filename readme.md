@@ -484,6 +484,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
+- [Stellar](https://github.com/francescomalatesta/awesome-stellar) - A curated list of Stellar resources 
 
 ## Miscellaneous
 
