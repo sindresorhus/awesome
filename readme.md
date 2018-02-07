@@ -518,7 +518,7 @@
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography)
 - [OpenGL](https://github.com/eug/awesome-opengl) - Cross-platform API for rendering 2D and 3D graphics.
 - [GraphQL](https://github.com/chentsulin/awesome-graphql)
-- [Transit](https://github.com/luqmaan/awesome-transit)
+- [Transit](https://github.com/CUTR-at-USF/awesome-transit)
 - [Research Tools](https://github.com/emptymalei/awesome-research)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz)
 - [Social Media Share Links](https://github.com/vinkla/awesome-share)
