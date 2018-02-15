@@ -218,6 +218,7 @@
 - [Aurelia](https://github.com/behzad888/awesome-aurelia) - App framework.
 - [Charting](https://github.com/zingchart/awesome-charting)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic)
+- [Quasar Framework](https://github.com/quasarframework/quasar-awesome)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools)
 - [PostCSS](https://github.com/jjaderg/awesome-postcss) - CSS tool.
 - [Draft.js](https://github.com/nikgraf/awesome-draft-js) - Rich text editor framework for React.
