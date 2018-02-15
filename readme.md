@@ -31,9 +31,12 @@
 	<span>Follow for updates on new lists, community news, and other awesome stuff.</span>
 </div>
 <br>
+
+<h4 align="center"><a href="https://www.producthunt.com/posts/refined-twitter">Support my work with the Awesome project and open source in general</a></h4>
+<br>
 -->
 
-<h4 align="center"><a href="https://www.patreon.com/sindresorhus">Support my work with the Awesome project and open source in general</a></h4>
+<h4 align="center">🐦<br><a href="https://www.producthunt.com/posts/refined-twitter">Improve your Twitter experience with this browser extension I made</a></h4>
 <br>
 
 <p align="center">
