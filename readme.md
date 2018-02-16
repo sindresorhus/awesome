@@ -380,6 +380,26 @@
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
+- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS.
+- [Dev Env](https://github.com/jondot/awesome-devenv)
+- [Dotfiles](https://github.com/webpro/awesome-dotfiles)
+- [Shell](https://github.com/alebcay/awesome-shell)
+- [Fish](https://github.com/jbucaran/awesome-fish) - User-friendly shell.
+- [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
+- [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins)
+- [GitHub](https://github.com/phillipadsmith/awesome-github) - Hosting service for Git repositories.
+	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet)
+- [Git Tips](https://github.com/git-tips/tips)
+- [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI.
+- [SSH](https://github.com/moul/awesome-ssh)
+- [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
+- [Hyper](https://github.com/bnb/awesome-hyper) - Cross-platform terminal app built on web technologies.
+- [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
+- [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
+- [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
+- [Monorepos](https://github.com/korfuri/awesome-monorepo) - Monolithic repositories of source code.
 
 
 ## Entertainment
