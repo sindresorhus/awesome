@@ -290,6 +290,12 @@
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
 
 
+## Natural sciences
+
+- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+- [Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics)
+
+
 ## Big Data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata)
@@ -541,7 +547,6 @@
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX) - Typesetting language.
 - [Economics](https://github.com/antontarasenko/awesome-economics) - An economist's starter kit.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov)
-- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
 - [Colorful](https://github.com/Siddharth11/Colorful) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots) - Building bots.
