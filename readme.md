@@ -399,7 +399,7 @@
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy)
-- [Monorepos](https://github.com/korfuri/awesome-monorepo) - Monolithic repositories of source code.
+- [Monorepos](https://github.com/korfuri/awesome-monorepo) - Monolithic repositories, large source-control repositories containing multiple projects.
 
 
 ## Entertainment
