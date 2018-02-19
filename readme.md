@@ -18,7 +18,7 @@
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
+	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
 </p>
 
 <br>
@@ -31,9 +31,12 @@
 	<span>Follow for updates on new lists, community news, and other awesome stuff.</span>
 </div>
 <br>
+
+<h4 align="center"><a href="https://www.producthunt.com/posts/refined-twitter">Support my work with the Awesome project and open source in general</a></h4>
+<br>
 -->
 
-<h4 align="center"><a href="https://www.patreon.com/sindresorhus">Support my work with the Awesome project and open source in general</a></h4>
+<h4 align="center">🐦<br><a href="https://www.producthunt.com/posts/refined-twitter">Improve your Twitter experience with this browser extension I made</a></h4>
 <br>
 
 <p align="center">
