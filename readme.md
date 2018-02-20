@@ -417,7 +417,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [Educational Games](https://github.com/yrgo/awesome-eg) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
-- [Awesome Explorables](https://github.com/sp4ke/awesome-explorables) - Explorable explanations.
+- [Explorable Explanations](https://github.com/sp4ke/awesome-explorables)
 
 
 ## Security
