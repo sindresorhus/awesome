@@ -417,7 +417,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids)
 - [Educational Games](https://github.com/yrgo/awesome-eg) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning)
-- [Explorable Explanations](https://github.com/sp4ke/awesome-explorables)
+- [Explorable Explanations](https://github.com/sp4ke/awesome-explorables) - Learn through active reading and reactive documents as defined by Bret Victor. 
 
 
 ## Security
