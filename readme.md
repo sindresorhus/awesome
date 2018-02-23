@@ -36,7 +36,7 @@
 <br>
 -->
 
-<h4 align="center">🐦<br><a href="https://www.producthunt.com/posts/refined-twitter">Improve your Twitter experience with this browser extension I made</a></h4>
+<h4 align="center">🌈<br><a href="https://www.producthunt.com/posts/gifski">Convert videos to high-quality GIFs with this free & open source Mac app I made</a></h4>
 <br>
 
 <p align="center">
