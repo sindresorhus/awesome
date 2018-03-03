@@ -287,6 +287,7 @@
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
+- [Mutation Testing](https://github.com/theofidry/mutation-testing)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
 
 
