@@ -480,6 +480,7 @@
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools)
+- [Computer Networking](https://github.com/nyquist/awesome-networking)
 
 ## Decentralized Systems
 
