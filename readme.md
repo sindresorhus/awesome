@@ -407,7 +407,7 @@
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
-- [Typography](https://github.com/Jolg42/awesome-typography) Resources on Typography, TrueType & OpenType.
+- [Typography](https://github.com/Jolg42/awesome-typography) - Resources on Typography, TrueType & OpenType.
 
 
 ## Learn
