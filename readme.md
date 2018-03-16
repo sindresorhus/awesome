@@ -346,6 +346,7 @@
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev)
 - [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros) - Game engine.
+- [Overwatch](https://github.com/max214878/awesome-overwatch) - Overwatch tools.
 
 
 ## Development Environment
