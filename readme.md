@@ -445,6 +445,7 @@
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
+- [Swastika I/O Core CMS](https://github.com/Swastika-IO/Swastika-IO-Core) - ASP.Net/Dotnet Core CMS.
 
 
 ## Hardware
