@@ -262,6 +262,7 @@
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform) - Tool for building, changing, and versioning infrastructure.
+- [AdonisJs](https://github.com/zgabievi/awesome-adonisjs) - Node.js web framework with breath of fresh air and drizzle of elegant syntax on top of it.
 
 
 ## Computer Science
