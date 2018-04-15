@@ -128,7 +128,7 @@
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - Scientific research in audio/music.
 - [Rust](https://github.com/rust-unofficial/awesome-rust)
-- [Haskell](https://github.com/krispo/awesome-haskell)
+- [Haskell](https://github.com/uhub/awesome-haskell)
 - [PureScript](https://github.com/passy/awesome-purescript)
 - [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
