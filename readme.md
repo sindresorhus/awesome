@@ -588,6 +588,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
+- [Emulators & Simulators](https://github.com/mcicolella/awesome-emulators-simulators/blob/master/README.md) - Awesome software emulators and simulators of PCs, home computers, mainframes, consoles, robots and much more.
 
 
 ## License
