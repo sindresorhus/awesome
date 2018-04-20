@@ -1,8 +1,20 @@
-<h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+<div align="center">
+	<img width="500" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
-</h1>
+	<p>
+		<a href="https://www.patreon.com/sindresorhus">My open source work is supported by the community</a>
+	</p>
+	<p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<a href="https://github.com/wtgtybhertgeghgtwtg">
+			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260" alt="wtgtybhertgeghgtwtg">
+		</a>
+	</p>
+	<br>
+	<br>
+</div>
 
 <!--
 <p align="center">
@@ -32,9 +44,6 @@
 </div>
 <br>
 -->
-
-<h4 align="center"><a href="https://www.producthunt.com/posts/refined-twitter">Support my work with the Awesome project and open source in general</a></h4>
-<br>
 
 <p align="center">
 	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
