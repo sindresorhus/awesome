@@ -508,7 +508,7 @@
 - [REST](https://github.com/marmelab/awesome-rest)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium) - Test automation tool for apps.
-- [Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
+- [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev)
 - [Answers](https://github.com/cyberglot/awesome-answers) - Stack Overflow, Quora, etc.
