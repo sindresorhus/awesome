@@ -451,6 +451,7 @@
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
+- [Hugo](https://github.com/cnych/awesome-hugo) - A popular open-source static site generators.
 
 
 ## Hardware
