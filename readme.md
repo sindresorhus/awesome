@@ -88,7 +88,6 @@
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
-- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa) - Virtual Home Assistant.
 - [Windows](https://github.com/Awesome-Windows/Awesome)
 - [IPFS](https://github.com/ipfs/awesome-ipfs) - P2P hypermedia protocol.
 - [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools.
@@ -99,6 +98,7 @@
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
+- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa) - Virtual Home Assistant.
 
 
 ## Programming Languages
