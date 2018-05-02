@@ -129,7 +129,6 @@
 - [Go](https://github.com/avelino/awesome-go)
 - [Scala](https://github.com/lauris/awesome-scala)
 - [Ruby](https://github.com/markets/awesome-ruby)
-	- [Event Calendar](https://github.com/planetruby/calendar)
 - [Clojure](https://github.com/razum2um/awesome-clojure)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
