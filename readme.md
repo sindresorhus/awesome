@@ -577,7 +577,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
-- [Web cache] - Web cache
+- [Web cache](https://en.wikipedia.org/wiki/Web_cache) - Web cache
     - [varnish](https://github.com/varnishcache/varnish-cache) - varnish cache
     - [squid](https://github.com/squid-cache/squid) - squid cache
     - [nuster](https://github.com/jiangwenyuan/nuster) - nuster cache
