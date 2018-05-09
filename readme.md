@@ -341,6 +341,7 @@
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev)
 - [Construct 2](https://github.com/armaldio/awesome-construct) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros) - Game engine.
+- [Minetest](https://github.com/minetest/minetest) - An open source infinite-world block sandbox game engine with support for survival and crafting.
 
 
 ## Development Environment
