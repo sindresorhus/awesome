@@ -588,7 +588,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
-- [Open Computational Neuroscience Resources](https://github.com/asoplata/open-computational-neuroscience-resources) - Computational neuroscience tools and data are much more accessible than you would think, and all anyone needs to learn from or contribute to the field is passion and a computer.
+- [Open Computational Neuroscience Resources](https://github.com/asoplata/open-computational-neuroscience-resources) - Freely accessible scientific data and analysis/simulation tools for studying the brain using computers.
 
 
 ## License
