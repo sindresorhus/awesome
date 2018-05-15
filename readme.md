@@ -588,7 +588,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
-- [Open Science Resources](https://github.com/asoplata/open-science-resources) - Anyone can learn and contribute to science using publicly-accessible data and tools, no PhD required!
+- [Open Science Resources](https://github.com/asoplata/open-science-resources) - Freely-accessible scientific data and analysis/simulation tools, useful for both learning and contributing to science.
 
 ## License
 
