@@ -305,7 +305,7 @@
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms)
-	- [Education](https://github.com/gaerae/awesome-algorithms) - Learning and Practicing
+	- [Education](https://github.com/gaerae/awesome-algorithms) - Learning and Practicing.
 - [Algorithm Visualizations](https://github.com/enjalot/algovis)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization)
