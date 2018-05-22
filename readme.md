@@ -488,6 +488,7 @@
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
+- [Engineering Team Principles](https://github.com/posquit0/awesome-engineering-team-principles) - Define how we respond to situations and how we make decisions as a team player.
 
 
 ## Networking
