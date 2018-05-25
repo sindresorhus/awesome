@@ -402,6 +402,7 @@
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
+- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg) - Cross-platform solution to record, convert and stream audio and video.
 
 
 ## Learn
