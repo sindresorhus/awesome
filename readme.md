@@ -176,6 +176,69 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) - Functional programming language for the JVM.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [JavaScript](https://github.com/sorrycc/awesome-javascript)
+	- [Promises](https://github.com/wbinnssmith/awesome-promises)
+	- [Standard Style](https://github.com/standard/awesome-standard) - Style guide and linter.
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
+	- [Tips](https://github.com/loverajoel/jstips)
+	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
+	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) - Impossible sounding projects that exist.
+	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules) - For npm packages.
+	- [npm](https://github.com/sindresorhus/awesome-npm) - Package manager.
+	- [AVA](https://github.com/avajs/awesome-ava) - Test runner.
+	- [ESLint](https://github.com/dustinspecker/awesome-eslint) - Linter.
+	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js)
+	- [Observables](https://github.com/sindresorhus/awesome-observables)
+	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts) - Task runner.
+- [Swift](https://github.com/matteocrippa/awesome-swift)
+	- [Education](https://github.com/hsavit1/Awesome-Swift-Education)
+	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
+- [Python](https://github.com/vinta/awesome-python)
+	- [Asyncio](https://github.com/timofurrer/awesome-asyncio) - Asynchronous I/O in Python 3.
+	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio) - Scientific research in audio/music.
+	- [Micropython](https://github.com/ikuamike/Awesome_Micropython) - A lean implementation of python 3 optimised to run on microcontrollers.
+- [Rust](https://github.com/rust-unofficial/awesome-rust)
+- [Haskell](https://github.com/krispo/awesome-haskell)
+- [PureScript](https://github.com/passy/awesome-purescript)
+- [Go](https://github.com/avelino/awesome-go)
+- [Scala](https://github.com/lauris/awesome-scala)
+- [Ruby](https://github.com/markets/awesome-ruby)
+- [Clojure](https://github.com/razum2um/awesome-clojure)
+- [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
+- [Elixir](https://github.com/h4cc/awesome-elixir)
+- [Elm](https://github.com/isRuslan/awesome-elm)
+- [Erlang](https://github.com/drobakowski/awesome-erlang)
+- [Julia](https://github.com/svaksha/Julia.jl)
+- [Lua](https://github.com/LewisJEllis/awesome-lua)
+- [C](https://github.com/aleksandar-todorovic/awesome-c)
+- [C/C++](https://github.com/fffaraz/awesome-cpp)
+- [R](https://github.com/qinwf/awesome-R)
+- [D](https://github.com/zhaopuming/awesome-d)
+- [Common Lisp](https://github.com/CodyReichert/awesome-cl)
+- [Perl](https://github.com/hachiojipm/awesome-perl)
+- [Groovy](https://github.com/kdabir/awesome-groovy)
+- [Dart](https://github.com/yissachar/awesome-dart)
+- [Java](https://github.com/akullpp/awesome-java)
+	- [RxJava](https://github.com/eleventigers/awesome-rxjava)
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin)
+- [OCaml](https://github.com/rizo/awesome-ocaml)
+- [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
+- [Fortran](https://github.com/rabbiabram/awesome-fortran)
+- [.NET](https://github.com/quozd/awesome-dotnet)
+	- [Core](https://github.com/thangchung/awesome-dotnet-core)
+- [PHP](https://github.com/ziadoz/awesome-php)
+	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
+- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
+- [Assembler](https://github.com/jaspergould/awesome-asm)
+- [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey)
+- [AutoIt](https://github.com/J2TeaM/awesome-AutoIt)
+- [Crystal](https://github.com/veelenga/awesome-crystal)
+- [Frege](https://github.com/sfischer13/awesome-frege) - Haskell for the JVM.
+- [CMake](https://github.com/onqtam/awesome-cmake) - Build, test, and package software.
+- [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3) - Object-oriented language targeting Adobe AIR.
+- [Eta](https://github.com/sfischer13/awesome-eta) - Functional programming language for the JVM.
+- [Idris](https://github.com/joaomilho/awesome-idris) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 
 ## Front-End Development
