@@ -73,22 +73,22 @@
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [iOS](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android)
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
+- [Android](https://github.com/JStumpp/awesome-android) - Mobile operating system for phones and tablets. 
+- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid) - Interconnection via the Internet of devices embedded in everyday objects.
 - [Electron](https://github.com/sindresorhus/awesome-electron) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](https://github.com/busterc/awesome-cordova) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native)
+- [React Native](https://github.com/jondot/awesome-react-native) - React-based library for developing native mobile applications. 
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
+- [Linux](https://github.com/aleksandar-todorovic/awesome-linux) - Open-source operating system modelled on UNIX.
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
-- [macOS](https://github.com/iCHAIT/awesome-macOS)
+- [macOS](https://github.com/iCHAIT/awesome-macOS) - Operating system for Apple's Macintosh line.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos) - Operating system for the Apple Watch.
-- [JVM](https://github.com/deephacks/awesome-jvm)
-- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
-- [Windows](https://github.com/Awesome-Windows/Awesome)
+- [JVM](https://github.com/deephacks/awesome-jvm) - Virtual machine that enables a computer to run Java programs.
+- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)- Customer relationship management platform.
+- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)- Amazon's secure cloud services platform.
+- [Windows](https://github.com/Awesome-Windows/Awesome)- Operating system with a graphical user interface developed by Microsoft.
 - [IPFS](https://github.com/ipfs/awesome-ipfs) - P2P hypermedia protocol.
 - [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku) - Cloud platform as a service.
@@ -103,10 +103,10 @@
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript)
-	- [Promises](https://github.com/wbinnssmith/awesome-promises)
+	- [Promises](https://github.com/wbinnssmith/awesome-promises) - The eventual result of an asynchronous operation.
 	- [Standard Style](https://github.com/standard/awesome-standard) - Style guide and linter.
-	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch)
-	- [Tips](https://github.com/loverajoel/jstips)
+	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch) - Must-watch videos devoted to JavaScript.
+	- [Tips](https://github.com/loverajoel/jstips) - JavaScript tips that allow code writing improvements.
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science) - Impossible sounding projects that exist.
