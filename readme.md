@@ -356,7 +356,9 @@
 	- [PowerShell](https://github.com/janikvonrotz/awesome-powershell) - Cross-platform object-oriented shell.
 - **Source-Control / Version-Control**
 	- [Git](https://github.com/dictcp/awesome-git) - distributed version control system (DVCS)
-		- [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the `git` CLI
+		- [Git Add-ons](https://github.com/stevemao/awesome-git-addons) - Enhance the git CLI
+		- [GitHub](https://github.com/phillipadsmith/awesome-github) - Hosting service for git repositories.	
+			- [GitHub Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
 	- [MonoRepos](https://github.com/korfuri/awesome-monorepo/) - repositories that contain multiple projects, usually related to each other
 - **MacOS**
 	- [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins) - For macOS.
