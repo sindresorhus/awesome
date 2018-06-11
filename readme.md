@@ -272,7 +272,7 @@
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
-- [Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
+- [Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code) - resources for doing Machine Learning with source code as input data.
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography)
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
