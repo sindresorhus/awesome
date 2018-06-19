@@ -98,6 +98,8 @@
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
+- [.NET](https://github.com/quozd/awesome-dotnet)
+	- [Core](https://github.com/thangchung/awesome-dotnet-core)
 
 
 ## Programming Languages
@@ -150,8 +152,6 @@
 - [OCaml](https://github.com/rizo/awesome-ocaml)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran)
-- [.NET](https://github.com/quozd/awesome-dotnet)
-	- [Core](https://github.com/thangchung/awesome-dotnet-core)
 - [PHP](https://github.com/ziadoz/awesome-php)
 	- [Composer](https://github.com/jakoch/awesome-composer) - Package manager.
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi)
