@@ -135,6 +135,7 @@
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript)
 - [Elixir](https://github.com/h4cc/awesome-elixir)
 - [Elm](https://github.com/isRuslan/awesome-elm)
+- [Ring](https://github.com/devmohamedamr/awesome-ring)
 - [Erlang](https://github.com/drobakowski/awesome-erlang)
 - [Julia](https://github.com/svaksha/Julia.jl)
 - [Lua](https://github.com/LewisJEllis/awesome-lua)
