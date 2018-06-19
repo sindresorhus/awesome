@@ -430,6 +430,7 @@
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security) - Security of web apps & services.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking) - The art of unlocking a lock by manipulating its components without the key.
+- [JSON Web Tokens](https://github.com/iamchathu/awesome-jwt) - Token based authentication.
 
 
 ## Content Management Systems
