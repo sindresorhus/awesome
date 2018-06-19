@@ -402,6 +402,7 @@
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art) - Pixel-level digital art.
+- [Twitter Bots](https://github.com/zntfdr/awesome-twitter-bots)
 
 
 ## Learn
