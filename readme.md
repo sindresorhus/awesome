@@ -229,6 +229,7 @@
 - [Preact](https://github.com/ooade/awesome-preact) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
+- [Nuxt.js](https://github.com/nuxt-community/awesome-nuxt) - The Vue.js Developers Framework.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps.
 
 
