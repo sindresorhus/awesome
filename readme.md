@@ -81,6 +81,7 @@
 - [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - Mobile app development IDE, testing, and distribution.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
+- [Mac OSX](https://github.com/jaywcjlove/awesome-mac)
 - [macOS](https://github.com/iCHAIT/awesome-macOS)
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers)
