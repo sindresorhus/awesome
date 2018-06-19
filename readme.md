@@ -468,6 +468,7 @@
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+- [Pair Programming](https://github.com/kkemple/awesome-pair-programming)
 
 
 ## Networking
