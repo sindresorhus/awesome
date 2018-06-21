@@ -84,6 +84,7 @@
 - [macOS](https://github.com/iCHAIT/awesome-macOS)
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers)
+	- [Macadmin Tools](https://github.com/smashism/awesome-macadmin-tools)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
