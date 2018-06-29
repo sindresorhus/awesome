@@ -577,7 +577,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
-
+- [Call For Papers](https://github.com/lauthieb/awesome-cfp) - Call For Papers to never miss to speak anymore.
 
 ## License
 
