@@ -250,6 +250,7 @@
 - [Phalcon](https://github.com/phalcon/awesome-phalcon)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess)
 - [nginx](https://github.com/fcambus/nginx-resources) - Web server.
+	- [nginx security](https://github.com/wallarm/awesome-nginx-security) - app security with NGINX
 - [Dropwizard](https://github.com/stve/awesome-dropwizard)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen)
