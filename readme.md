@@ -234,6 +234,7 @@
 
 ## Back-End Development
 
+- [Phoenix](https://github.com/droptheplot/awesome-phoenix) - Elixir framework.
 - [Django](https://github.com/rosarior/awesome-django)
 - [Flask](https://github.com/humiaozuzu/awesome-flask)
 - [Docker](https://github.com/veggiemonk/awesome-docker)
