@@ -577,7 +577,7 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
-- [Numerical software](https://github.com/nschloe/awesome-numerical-software) - Software for mathematical analysis using numerical approximations.
+- [Numerical software](https://github.com/nschloe/awesome-numerical-software#readme) - Software for mathematical analysis using numerical approximations.
 
 ## License
 
