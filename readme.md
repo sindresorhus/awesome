@@ -48,6 +48,7 @@
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
+- [Natural Sciences](#natural-sciences)
 - [Big Data](#big-data)
 - [Theory](#theory)
 - [Books](#books)
@@ -283,6 +284,12 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+
+
+## Natural Sciences
+
+- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
+- [Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics)
 
 
 ## Big Data
@@ -536,7 +543,6 @@
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - Typesetting language.
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
-- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
