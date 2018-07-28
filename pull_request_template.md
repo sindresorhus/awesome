@@ -15,12 +15,12 @@
 
 ## Requirements for your pull request
 
-- I have read and understood the [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/contributing.md) and the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
-- This pull request has a descriptive title.<br>For example, `Add Name of List`, not `Update readme.md` or `Add awesome list`.
+- I have read and understood the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
+- This pull request has a descriptive title in the format `Add Name of List` (Example: `Add Swift`), not `Update readme.md` or `Add awesome list`.
 - The entry in the Awesome list should:
 	- Include a short description about the project/theme of the list. **It should not describe the list itself.**<br>Example: `- [Fish](…) - User-friendly shell.`, not `- [Fish](…) - Resources for Fish.`.
 	- Be added at the bottom of the appropriate category.
-- The list I'm submitting complies with these requirements:
+- The list I'm submitting complies with the below requirements.
 
 
 ## Requirements for your Awesome list
