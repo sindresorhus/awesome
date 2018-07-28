@@ -15,6 +15,7 @@
 
 ## Requirements for your pull request
 
+- **You have to review at least 2 other [open pull requests](https://github.com/sindresorhus/awesome/pulls?q=is%3Apr+is%3Aopen).** Try to prioritize unreviewed PRs, but you can also add more comments to reviewed PRs. Go through the below list when reviewing. This requirement is meant to help make the Awesome project self-sustaining. Comment here which PRs you reviewed. You're expected to put a good effort into this and to be thorough. Look at previous PR reviews for inspiration.
 - I have read and understood the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
 - This pull request has a descriptive title in the format `Add Name of List` (Example: `Add Swift`), not `Update readme.md` or `Add awesome list`.
 - The entry in the Awesome list should:
