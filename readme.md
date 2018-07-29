@@ -84,6 +84,7 @@
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
@@ -100,6 +101,7 @@
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
+- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 
 ## Programming Languages
@@ -468,6 +470,7 @@
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 
 ## Networking
@@ -577,6 +580,9 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
+- [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
+- [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 - [Numerical software](https://github.com/nschloe/awesome-numerical-software#readme) - Software for mathematical analysis using numerical approximations.
 
 ## License
