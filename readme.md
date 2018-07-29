@@ -469,6 +469,7 @@
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 
 ## Networking
