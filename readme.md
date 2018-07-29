@@ -340,6 +340,7 @@
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
+- [One person Games](https://github.com/Yonaba/awesome-one-person-games#readme) - Games developed by lone developers
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev#readme)
 - [Construct 2](https://github.com/armaldio/awesome-construct#readme) - Game engine.
