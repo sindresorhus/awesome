@@ -66,6 +66,7 @@
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
+- [Awesome Related lists](#related-lists)
 
 
 ## Platforms
@@ -584,6 +585,9 @@
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
+## Awesome related lists
+
+- [Awesome lists, search as a service](https://awesome.paulrossethings.com/) - Navigating between Awesome list has never been so easy!
 
 ## License
 
