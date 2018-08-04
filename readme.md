@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" src="media/logo.svg" alt="Awesome">
+	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
 	<p>
@@ -8,8 +8,14 @@
 	<p>
 		<sup>Special thanks to:</sup>
 		<br>
+		<br>
 		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260" alt="wtgtybhertgeghgtwtg">
+			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
+		</a>
+		<br>
+		<br>
+		<a href="https://github.com/botpress/botpress">
+			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="240" alt="Botpress">
 		</a>
 	</p>
 	<br>
@@ -70,35 +76,39 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs) - JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
-- [iOS](https://github.com/vsouza/awesome-ios) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android)
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid)
-- [Electron](https://github.com/sindresorhus/awesome-electron) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
-- [Cordova](https://github.com/busterc/awesome-cordova) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native)
-- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers)
-- [macOS](https://github.com/iCHAIT/awesome-macOS)
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line)
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers)
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
+- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+- [Android](https://github.com/JStumpp/awesome-android#readme)
+- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+- [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
+- [React Native](https://github.com/jondot/awesome-react-native#readme)
+- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+- [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
+	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
+	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 	- [Open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos) - Operating system for the Apple Watch.
-- [JVM](https://github.com/deephacks/awesome-jvm)
-- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce)
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws)
-- [Windows](https://github.com/Awesome-Windows/Awesome)
-- [IPFS](https://github.com/ipfs/awesome-ipfs) - P2P hypermedia protocol.
-- [Fuse](https://github.com/vinkla/awesome-fuse) - Mobile development tools.
-- [Heroku](https://github.com/ianstormtaylor/awesome-heroku) - Cloud platform as a service.
-- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
-- [Qt](https://github.com/JesseTG/awesome-qt) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions) - Cross-browser extension system.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv) - Create apps for different TV platforms.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome) - Simple and distraction-free desktop environment for Linux.
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+- [JVM](https://github.com/deephacks/awesome-jvm#readme)
+- [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
+- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
+- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
+- [Fuse](https://github.com/vinkla/awesome-fuse#readme) - Mobile development tools.
+- [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
+- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions#readme) - Cross-browser extension system.
+- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
+- [.NET](https://github.com/quozd/awesome-dotnet#readme)
+	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
+- [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 
 ## Programming Languages
 
@@ -123,6 +133,7 @@
 - [Python](https://github.com/vinta/awesome-python#readme)
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
+  - [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -255,6 +266,7 @@
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 
 
 ## Computer Science
@@ -466,6 +478,7 @@
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
+- [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
 
 ## Networking
@@ -575,6 +588,9 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
+- [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
+- [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
+- [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 
 
 ## License
