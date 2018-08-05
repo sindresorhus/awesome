@@ -91,7 +91,7 @@
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Fuse](https://github.com/vinkla/awesome-fuse#readme) - Mobile development tools.
-- [Flutter] (https://github.com/Solido/awesome-flutter#readme) - Build beautiful native apps in record time.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Build beautiful native apps in record time.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
