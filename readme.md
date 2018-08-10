@@ -152,7 +152,6 @@
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme)
-- [Scheme](https://github.com/theodesp/awesome-scheme#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
@@ -174,6 +173,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - Object-oriented language targeting Adobe AIR.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) - Functional programming language for the JVM.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Scheme](https://github.com/theodesp/awesome-scheme#readme) - Minimalistic prophet and pioneer programming language to be with lexical scope, lambda caculus, block structure, proper tail recursion, and first class continuations.
 
 
 ## Front-End Development
