@@ -20,7 +20,6 @@
 	</p>
 	<br>
 	<br>
-</div>
 
 <!--
 <p align="center">
@@ -450,6 +449,7 @@
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
+- [October CMS](https://github.com/octobercms/october#readme) - CMS Based on Laravel.
 
 
 ## Hardware
