@@ -250,7 +250,6 @@
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme)
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
-- [Swoft](https://github.com/wujunze/awesome-swoft#readme) -  Modern High performance AOP and Coroutine PHP Framework, base on Swoole.
 - [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme)
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
 - [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
@@ -268,6 +267,7 @@
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
+- [Swoft](https://github.com/wujunze/awesome-swoft#readme) -  Modern High performance AOP and Coroutine PHP Framework, base on Swoole.
 
 
 ## Computer Science
