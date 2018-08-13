@@ -493,6 +493,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+- [EOSIO](https://github.com/ptalmeida/awesome-EOS#readme) - Software designed to enable scaling of decentralized applications.
 
 ## Miscellaneous
 
