@@ -351,6 +351,7 @@
 - [Game Boy Development](https://github.com/avivace/awesome-gbdev#readme)
 - [Construct 2](https://github.com/armaldio/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+- [Phaser](https://github.com/photonstorm/phaser#readme) - Game engine.
 
 
 ## Development Environment
