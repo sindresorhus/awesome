@@ -10,13 +10,43 @@ Research if the stuff you're including is actually awesome. Only put stuff on th
 
 ## Awesome badge
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+This badge is for Awesome lists.
 
-Add an awesome badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/awesome-nodejs).
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+Add an awesome badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/awesome-nodejs). You can choose either the regular badge or the flat one.
 
 ```md
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 ```
+
+*The badges should not be modified in any way.*
+
+## Awesome mentioned badge
+
+This badge is for projects being mentioned in an Awesome list (**NOT for use in Awesome lists**). For example, the [Chalk](https://github.com/chalk/chalk) project could feature this badge because it's listed in [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs). It's totally optional for projects, but it's a nice way to show they've been featured in an Awesome list. You can choose either the regular badge or the flat one.
+
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge-flat.svg)](https://awesome.re)
+
+**Fill in the placeholders (Name and URL):**
+
+```md
+[![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge.svg)](https://github.com/<INSERT LIST URL>)
+[![Mentioned in Awesome <INSERT LIST NAME>](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/<INSERT LIST URL>)
+```
+
+Example:
+
+```md
+[![Mentioned in Awesome Node.js](https://awesome.re/mentioned-badge.svg)](https://github.com/sindresorhus/awesome-nodejs)
+```
+
+If you're an Awesome list maintainer, you could encourage projects in your list to add the badge.
+
+*The badges should not be modified in any way.*
 
 ## Comment on why something is awesome
 
