@@ -398,6 +398,7 @@
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
+- [Time Series](https://github.com/xephonhq/awesome-time-series-database) - Time series databases, benchmarks and papers
 
 
 ## Media
