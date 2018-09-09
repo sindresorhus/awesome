@@ -139,6 +139,7 @@
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
+- [Racket](https://github.com/avelino/awesome-racket#readme)
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
