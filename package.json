@@ -1,0 +1,31 @@
+{
+	"name": "awesome",
+	"private": true,
+	"description": "Curated list of awesome lists",
+	"license": "MIT",
+	"repository": "sindresorhus/awesome",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"keywords": [
+		"awesome",
+		"list"
+	],
+	"devDependencies": {
+		"array-uniq": "^2.0.0",
+		"ava": "*",
+		"awesome-lint": "^0.7.0",
+		"is-relative-url": "^2.0.0",
+		"remark": "^9.0.0",
+		"unist-util-visit": "^1.4.0",
+		"xo": "*"
+	}
+}
