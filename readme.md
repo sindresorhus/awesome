@@ -108,7 +108,7 @@
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
-
+- [Flutter](https://github.com/Solido/awesome-flutter) - Beautiful native apps in record time.
 
 ## Programming Languages
 
