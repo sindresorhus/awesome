@@ -108,6 +108,7 @@
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+- [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 
 
 ## Programming Languages
