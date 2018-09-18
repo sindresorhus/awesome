@@ -55,6 +55,7 @@
 - [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
+- [Scalability](#scalability)
 - [Theory](#theory)
 - [Books](#books)
 - [Editors](#editors)
@@ -306,6 +307,11 @@
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
+
+
+## Scalability
+
+- [Scalability](https://github.com/binhnguyennus/awesome-scalability#readme)
 
 
 ## Theory
