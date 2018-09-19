@@ -102,6 +102,7 @@
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
+- [Flutter](https://github.com/Solido/awesome-flutter) - Google’s mobile SDK for crafting native interfaces on iOS and Android
 
 
 ## Programming Languages
