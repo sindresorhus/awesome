@@ -149,6 +149,7 @@
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
+- [Perl 6](https://github.com/sfischer13/awesome-perl6) - New standard for Perl, a multi-paradigm language with exceptional string-processing support.
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
 - [Java](https://github.com/akullpp/awesome-java#readme)
