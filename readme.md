@@ -71,7 +71,6 @@
 - [Work](#work)
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
-- [Conferences, Meetups](#conferences-meetups)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -499,9 +498,6 @@
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
 
-## Conferences, Meetups
-- [Speakers](https://github.com/karlhorky/awesome-speakers)
-
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
@@ -602,6 +598,7 @@
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 - [Humane Technology](https://github.com/engagingspaces/awesome-humane-tech#readme) - Open source projects that help improve society.
+- [Speakers](https://github.com/karlhorky/awesome-speakers)
 
 
 ## License
