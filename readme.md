@@ -595,7 +595,6 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit) - Open source Java app performance management tool.
-- [XMPP](https://github.com/bluszcz/awesome-xmpp) - Communication protocol based on XML.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
@@ -694,7 +693,7 @@
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 - [Humane Technology](https://github.com/engagingspaces/awesome-humane-tech#readme) - Open source projects that help improve society.
-
+- [XMPP](https://github.com/bluszcz/awesome-xmpp) - Communication protocol based on XML.
 
 ## License
 
