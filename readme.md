@@ -262,6 +262,7 @@
 - [Phalcon](https://github.com/phalcon/awesome-phalcon#readme)
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
+- [Kong](https://github.com/posquit0/awesome-kong#readme) - API Gateway.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme)
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
