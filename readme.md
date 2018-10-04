@@ -602,6 +602,7 @@
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 - [Humane Technology](https://github.com/engagingspaces/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+- [Design patterns](https://github.com/DovAmir/awesome-design-patterns#readme) - List of software and architecture related design patterns.
 
 
 ## License
