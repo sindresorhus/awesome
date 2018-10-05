@@ -70,6 +70,7 @@
 - [Business](#business)
 - [Work](#work)
 - [Networking](#networking)
+- [Distributed Systems](distributed-systems)
 - [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
 
