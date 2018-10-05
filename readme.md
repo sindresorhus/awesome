@@ -494,6 +494,11 @@
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 
+## Distributed Systems
+
+- [Distibuted Systems](https://github.com/theanalyst/awesome-distributed-systems) - Curated list on awesome material on distributed systems.
+- [Consensus](https://github.com/dgryski/awesome-consensus) - Awesome list for Paxos and friends.
+
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
