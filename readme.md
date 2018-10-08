@@ -357,6 +357,7 @@
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/armaldio/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+- [Game Networking](https://github.com/mfatihmar/awesome-game-networking#readme) - Resources for multiplayer online game development.
 
 
 ## Development Environment
