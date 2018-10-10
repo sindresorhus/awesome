@@ -278,6 +278,7 @@
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 - [Data Science](https://github.com/bulutyazilim/awesome-datascience#readme)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
+	- [Data Science in Python](https://github.com/krzjoa/awesome-python-datascience#readme)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
