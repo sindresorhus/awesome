@@ -380,6 +380,7 @@
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
+- [Online IDEs](https://github.com/styfle/awesome-online-ide#readme) - Online Integrated Development Environments.
 
 
 ## Entertainment
