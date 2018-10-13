@@ -243,7 +243,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
-- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Articles, tools and other stuff related to mobile web development.
+- [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - All that you need to create a great mobile web experience.
 
 
 ## Back-End Development
