@@ -318,6 +318,7 @@
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
 - [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+- [Artificial General Intelligence](https://github.com/fairy-tale-agi-solutions/awesome-artificial-general-intelligence#readme)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
