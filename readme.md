@@ -299,8 +299,8 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-
-
+- [JavaScript snippets ] (https://github.com/30-seconds/30-seconds-of-code) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. 
+) - Curated collection of useful JavaScript snippets that you can understand in 30 seconds or less. 
 ## Big Data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
