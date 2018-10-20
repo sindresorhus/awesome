@@ -191,6 +191,7 @@
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
 - [React](https://github.com/enaqx/awesome-react#readme) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
+	- [Design Systems](https://github.com/jbranchaud/awesome-react-design-systems#readme) - Collection of React-based, reusable components.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/gdi2290/awesome-angular#readme) - App framework.
