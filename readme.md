@@ -112,7 +112,7 @@
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google’s mobile SDK for crafting native interfaces on iOS and Android.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
-- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2) - Set of software libraries and tools that help you build robot applications.
+- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2) - Set of software libraries and tools that help you build robot apps.
 
 
 ## Programming Languages
