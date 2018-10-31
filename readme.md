@@ -267,6 +267,7 @@
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme)
+- [Service Mesh](https://github.com/Festum/awesome-servicemesh#readme) -  Next generation service mesh for serverless apps.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
@@ -520,6 +521,7 @@
 - [Answers](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
 - [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
+- [Badge](https://github.com/Festum/awesome-badge#readme) - README badges.
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade#readme)
 - [Styleguides](https://github.com/RichardLitt/awesome-styleguides#readme)
