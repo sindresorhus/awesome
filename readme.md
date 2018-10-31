@@ -333,6 +333,7 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
+- [Free Programming Books from goalkicker](https://books.goalkicker.com/)
 
 
 ## Editors
@@ -342,6 +343,7 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
 - [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+- [Code Sandbox](https://codesandbox.io/) - Online code editor that support multi files, github, frameworks and node dependencies
 
 
 ## Gaming
