@@ -299,6 +299,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
+- [Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding#readme) - Learn representations of graphs.
 
 
 ## Big Data
