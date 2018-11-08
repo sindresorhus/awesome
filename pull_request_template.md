@@ -34,17 +34,18 @@
 - Not a duplicate.
 - Only has awesome items. Awesome lists are curations of the best, not everything.
 - Includes a project logo/illustration whenever possible.
-	- Either fullwidth or placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
+	- Either centered, fullwidth, or placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
 	- The image should link to the project website or any relevant website.
 	- The image should be high-DPI. Set it to maximum half the width of the original image.
 - Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
 - Includes the [Awesome badge](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-badge).
 	- Should be placed on the right side of the readme heading.
+		- Can be placed centered if the list has a centered graphics header.
 	- Should link back to this list.
 - Has a Table of Contents section.
 	- Should be named `Contents`, not `Table of Contents`.
 	- Should be the first section in the list.
-	- Should only have one level of sub-lists, preferably none.
+	- Should only have one level of [nested lists](https://commonmark.org/help/tutorial/10-nestedLists.html), preferably none.
 - Has an [appropriate license](https://github.com/sindresorhus/awesome/blob/master/awesome.md#choose-an-appropriate-license).
 	- That means something like CC0, **not a code licence like MIT, BSD, Apache, etc.**
 	- [WTFPL](http://www.wtfpl.net) and [Unlicense](http://unlicense.org) are not acceptable licenses.

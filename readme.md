@@ -111,6 +111,7 @@
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google’s mobile SDK for crafting native interfaces on iOS and Android.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 
 ## Programming Languages
@@ -216,7 +217,6 @@
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [A-Frame VR](https://github.com/aframevr/awesome-aframe#readme) - Virtual reality for web browsers.
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
@@ -508,7 +508,6 @@
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
-- [Conferences](https://github.com/RichardLitt/awesome-conferences#readme)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin#readme)
 - [Radio](https://github.com/kyleterry/awesome-radio#readme)
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
