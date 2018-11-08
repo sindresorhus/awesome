@@ -243,7 +243,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
-- [Nuxt.js](https://github.com/nuxt-community/awesome-nuxt#readme) - The Vue.js Developers Framework.
+- [Nuxt.js](https://github.com/nuxt-community/awesome-nuxt#readme) - Framework for creating universal, static generated or single page Vue.js apps.
 
 
 ## Back-End Development
