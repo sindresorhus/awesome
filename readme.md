@@ -466,6 +466,7 @@
 - [Electronics](https://github.com/monostable/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
+- [Mechanical Keyboards](https://github.com/BenRoe/awesome-mechanical-keyboard#readme) - Open Source mechanical keyboard pcb's, cases and other resources.
 
 
 ## Business
