@@ -167,6 +167,7 @@
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme)
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
+	- [jPHP](https://github.com/jphp-group/awesome-jphp#readme) - An alternative to Zend PHP on JVM
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi#readme)
 - [Assembler](https://github.com/jaspergould/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
