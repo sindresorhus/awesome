@@ -10,7 +10,7 @@
 		<br>
 		<br>
 		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
+			<img src="https://cdn.jsdelivr.net/gh/sindresorhus/stuff@daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
 		</a>
 		<br>
 		<br>
@@ -91,6 +91,7 @@
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
+	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
@@ -109,6 +110,8 @@
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - Cloud computing platform designed for developers.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google’s mobile SDK for crafting native interfaces on iOS and Android.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 
 
 ## Programming Languages
@@ -214,7 +217,6 @@
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [A-Frame VR](https://github.com/aframevr/awesome-aframe#readme) - Virtual reality for web browsers.
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
@@ -280,6 +282,7 @@
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
 	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
+	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
@@ -504,7 +507,6 @@
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
-- [Conferences](https://github.com/RichardLitt/awesome-conferences#readme)
 - [Sysadmin](https://github.com/n1trux/awesome-sysadmin#readme)
 - [Radio](https://github.com/kyleterry/awesome-radio#readme)
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
@@ -598,6 +600,8 @@
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 - [Humane Technology](https://github.com/engagingspaces/awesome-humane-tech#readme) - Open source projects that help improve society.
+- [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
+- [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 
 
 ## License
