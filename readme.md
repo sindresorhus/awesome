@@ -243,6 +243,7 @@
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
+- [Svelte](https://github.com/sveltejs/awesome#readme) - The magical disappearing UI framework.
 
 
 ## Back-End Development
