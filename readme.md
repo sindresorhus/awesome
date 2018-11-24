@@ -381,7 +381,7 @@
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
-- [GitHub Actions](https://github.com/sdras/awesome-actions#readme)
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows as autoscaled containers in response.
 
 
 ## Entertainment
