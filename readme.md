@@ -500,6 +500,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+- [Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics#readme) - Cryptoeconomic research and learning materials.
 
 ## Miscellaneous
 
