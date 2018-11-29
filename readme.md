@@ -171,6 +171,7 @@
 - [Assembler](https://github.com/jaspergould/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
+- [Ring](https://github.com/devmohamedamr/awesome-ring#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
 - [Frege](https://github.com/sfischer13/awesome-frege#readme) - Haskell for the JVM.
 - [CMake](https://github.com/onqtam/awesome-cmake#readme) - Build, test, and package software.
