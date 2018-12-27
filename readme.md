@@ -448,6 +448,13 @@
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 
+### Security per Languages
+
+- [Awesome PHP Security](https://github.com/guardrailsio/awesome-php-security)
+- [Awesome Node.js Security](https://github.com/lirantal/awesome-nodejs-security)
+- [Awesome Golang Security](https://github.com/guardrailsio/awesome-golang-security)
+- [Awesome Ruby Security](https://github.com/pxlpnk/awesome-ruby-security)
+
 
 ## Content Management Systems
 
