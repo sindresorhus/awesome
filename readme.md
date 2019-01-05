@@ -356,6 +356,7 @@
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/armaldio/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+- [Corona SDK](https://github.com/bogomazon/awesome-corona#readme) - Game engine.
 
 
 ## Development Environment
