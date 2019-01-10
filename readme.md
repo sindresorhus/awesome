@@ -247,6 +247,7 @@
 
 ## Back-End Development
 
+- [Django](https://github.com/wsvincent/awesome#readme)
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme)
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme)
