@@ -291,7 +291,7 @@
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
-	- [PyTorch](https://github.com/bharathgs/Awesome-pytorch-list)- DeepLearing Library by Facebook
+	- [PyTorch](https://github.com/bharathgs/Awesome-pytorch-list)- Deep Learning Library by Facebook
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
