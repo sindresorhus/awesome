@@ -409,6 +409,7 @@
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts#readme)
+- [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/Font icon projects.
 - [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
 - [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
