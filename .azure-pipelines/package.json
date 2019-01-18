@@ -1,0 +1,11 @@
+{
+  "name": "awesome-ci",
+  "version": "1.0.0",
+  "description": "ci for awesome",
+  "scripts": {
+    "lint": "node validate-requirements.js"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.8.0"
+  }
+}

@@ -1,0 +1,30 @@
+trigger:
+- master
+  
+jobs:
+- job: run_linter
+  displayName: 'Run awesome-lint'
+  variables:
+    publishTests: false
+
+  steps:
+    - task: NodeTool@0
+      displayName: Use node 10
+      inputs:
+        versionSpec: "10.x"
+
+    # - task: Npm@1
+    #   inputs:
+    #     command: 'install'
+    #     workingDir: '.azure-pipelines'
+    #   displayName: 'npm install'
+
+    # - script: 'node validate-requirements.js'
+    #   workingDirectory: '.azure-pipelines'
+    #   displayName: 'Run linter'
+
+    - task: PublishTestResults@2
+      inputs:
+        testResultsFormat: 'JUnit'
+        testResultsFiles: '.azure-pipelines/test-results.xml'
+      condition: eq(variables.publishTests, true)
