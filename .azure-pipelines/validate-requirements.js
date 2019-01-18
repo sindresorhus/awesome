@@ -91,5 +91,5 @@ if (buildReason == 'pullrequest') {
     runAwesomeLint(awesomeRepoUrls);
 }
 else {
-    runAwesomeLint(['../readme.md', 'https://github.com/ianstormtaylor/awesome-heroku']);
+    runAwesomeLint(['../readme.md']);
 }

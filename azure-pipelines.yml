@@ -5,7 +5,7 @@ jobs:
 - job: run_linter
   displayName: 'Run awesome-lint'
   variables:
-    publishTests: true
+    publishTests: false
 
   steps:
     - task: NodeTool@0
@@ -13,15 +13,15 @@ jobs:
       inputs:
         versionSpec: "10.x"
 
-    # - task: Npm@1
-    #   inputs:
-    #     command: 'install'
-    #     workingDir: '.azure-pipelines'
-    #   displayName: 'npm install'
+    - task: Npm@1
+      inputs:
+        command: 'install'
+        workingDir: '.azure-pipelines'
+      displayName: 'npm install'
 
-    # - script: 'node validate-requirements.js'
-    #   workingDirectory: '.azure-pipelines'
-    #   displayName: 'Run linter'
+    - script: 'node validate-requirements.js'
+      workingDirectory: '.azure-pipelines'
+      displayName: 'Run linter'
 
     - task: PublishTestResults@2
       inputs:
