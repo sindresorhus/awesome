@@ -6,7 +6,7 @@ const vfileReporterPretty = require('vfile-reporter-pretty');
 
 const testFileName = path.join(__dirname, 'test-results.xml');
 
-// Function to pull out urls of awesome lists added
+// Pull out urls of awesome lists added
 var getAwesomeRepoUrlsFromPR = function () {
     var awesomeRepoUrls = ['../readme.md'];
     var prId = process.env['SYSTEM_PULLREQUEST_PULLREQUESTNUMBER'];
@@ -32,6 +32,7 @@ var getAwesomeRepoUrlsFromPR = function () {
     return awesomeRepoUrls;
 }
 
+// Function to write test results to file if publishTests is enabled
 var writeToTestFile = function(text) {
     if (process.env['PUBLISHTESTS']) {
         fs.appendFileSync(testFileName, text, function (err) {
@@ -40,6 +41,8 @@ var writeToTestFile = function(text) {
     }
 } 
 
+// Custom reporter that appends test results to a file if publish tests is enabled.
+// Returns nicely formatted results for the console.
 var appendTestResults = function (vFileArr) {
     var appendToFile = '';
     if (vFileArr.length > 0) {
@@ -59,7 +62,7 @@ var appendTestResults = function (vFileArr) {
     return vfileReporterPretty(vFileArr);
 }
 
-// Function to run awesome-lint on all repos we've pulled out
+// Run awesome-lint on all repos we've pulled out
 var runAwesomeLint = function (awesomeRepoUrls) {
     if (awesomeRepoUrls.length != 0) {
         var url = awesomeRepoUrls[awesomeRepoUrls.length - 1];
