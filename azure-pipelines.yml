@@ -5,7 +5,7 @@ jobs:
 - job: run_linter
   displayName: 'Run awesome-lint'
   variables:
-    publishTests: false
+    publishTests: true
 
   steps:
     - task: NodeTool@0
