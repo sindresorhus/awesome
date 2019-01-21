@@ -84,7 +84,7 @@
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 - [React Native](https://github.com/jondot/awesome-react-native#readme)
-- [Xamarin](https://github.com/benoitjadinon/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
+- [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
@@ -162,7 +162,7 @@
 - [Java](https://github.com/akullpp/awesome-java#readme)
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
-- [OCaml](https://github.com/rizo/awesome-ocaml#readme)
+- [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme)
@@ -222,7 +222,7 @@
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
-- [Aurelia](https://github.com/behzad888/awesome-aurelia#readme) - App framework.
+- [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
 - [Ionic Framework 2](https://github.com/candelibas/awesome-ionic#readme)
 - [Chrome DevTools](https://github.com/ChromeDevTools/awesome-chrome-devtools#readme)
@@ -355,7 +355,7 @@
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
-- [Construct 2](https://github.com/armaldio/awesome-construct#readme) - Game engine.
+- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 
 
@@ -365,7 +365,7 @@
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
-- [Fish](https://github.com/fisherman/awesome-fish-shell#readme) - User-friendly shell.
+- [Fish](https://github.com/jorgebucaran/awesome-fish#readme) - User-friendly shell.
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
@@ -387,7 +387,7 @@
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
-- [Email Newsletters](https://github.com/vredniy/awesome-newsletters#readme)
+- [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
 
 
@@ -463,7 +463,7 @@
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
-- [Electronics](https://github.com/monostable/awesome-electronics#readme) - For electronic engineers and hobbyists.
+- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
 
@@ -526,7 +526,7 @@
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted#readme)
-- [FOSS Production Apps](https://github.com/jwaterfaucett/awesome-foss-apps#readme)
+- [FOSS Production Apps](https://github.com/johnfaucett/awesome-foss-apps#readme)
 - [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
 - [AMA](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
@@ -546,7 +546,7 @@
 - [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
 - [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
-- [Hacking Spots](https://github.com/diasdavid/awesome-hacking-spots#readme)
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
