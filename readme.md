@@ -394,7 +394,7 @@
 ## Databases
 
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
-- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
 - [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
