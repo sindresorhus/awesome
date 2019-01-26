@@ -602,7 +602,7 @@
 - [Humane Technology](https://github.com/engagingspaces/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
-- [Cerebro](https://github.com/lubien/awesome-cerebro#readme) - Open-source productivity booster with a brain.
+- [Cerebro](https://github.com/lubien/awesome-cerebro#readme) - Pluggable quick search bar app for desktops.
 
 
 ## License
