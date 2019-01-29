@@ -281,6 +281,7 @@
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
 - [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning#readme)
 	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials#readme)
+	- [ML with Python](https://github.com/r0f1/datascience#readme)
 	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby#readme) - Learning, implementing, and applying Machine Learning using Ruby.
 	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models#readme) - Models for Apple's machine learning framework.
 	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
