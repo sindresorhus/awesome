@@ -392,18 +392,19 @@
 
 ## Databases
 
-- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [Db2](https://github.com/angoca/awesome-db2#readme)
-- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
-- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
-- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
-- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
+- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
+- [Neo4j](https://github.com/neueda/awesome-neo4j#readme)
+- [MongoDB](https://github.com/ramnes/awesome-mongodb#readme) - NoSQL database.
+- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb#readme)
 - [TinkerPop](https://github.com/mohataher/awesome-tinkerpop#readme) - Graph computing framework.
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
+- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
+- [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
+- [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
 
 
 ## Media
