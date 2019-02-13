@@ -4,8 +4,6 @@ trigger:
 jobs:
 - job: run_linter
   displayName: 'Run awesome-lint'
-  variables:
-    publishTests: false
 
   steps:
     - task: NodeTool@0
@@ -27,4 +25,3 @@ jobs:
       inputs:
         testResultsFormat: 'JUnit'
         testResultsFiles: '.azure-pipelines/test-results.xml'
-      condition: eq(variables.publishTests, true)
