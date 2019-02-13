@@ -34,11 +34,9 @@ var getAwesomeRepoUrlsFromPR = function () {
 
 // Function to write test results to file if publishTests is enabled
 var writeToTestFile = function(text) {
-    if (process.env['PUBLISHTESTS']) {
-        fs.appendFileSync(testFileName, text, function (err) {
-            if (err) throw err;
-        });
-    }
+    fs.appendFileSync(testFileName, text, function (err) {
+        if (err) throw err;
+    });
 } 
 
 // Custom reporter that appends test results to a file if publish tests is enabled.
@@ -71,7 +69,7 @@ var runAwesomeLint = function (awesomeRepoUrls) {
         console.log('\n---------------------------------------------------------------------');
         console.log('Running awesome-lint on', url);
         console.log('---------------------------------------------------------------------\n');
-        var options = { config: require(path.join(__dirname, 'config')), filename: url, customReporter: appendTestResults };
+        var options = { config: require(path.join(__dirname, 'config')), filename: url, reporter: appendTestResults };
         awesomeLint.report(options).then((vFile) => {
             runAwesomeLint(awesomeRepoUrls);
         });
@@ -81,7 +79,7 @@ var runAwesomeLint = function (awesomeRepoUrls) {
     }
 }
 
-if (fs.existsSync(testFileName) && process.env['PUBLISHTESTS']) {
+if (fs.existsSync(testFileName)) {
     fs.unlinkSync(testFileName, function (err) {
         if (err) throw err;
     });
