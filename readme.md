@@ -525,7 +525,6 @@
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade#readme)
-- [Styleguides](https://github.com/RichardLitt/awesome-styleguides#readme)
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted#readme)
