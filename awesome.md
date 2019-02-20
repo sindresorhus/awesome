@@ -14,12 +14,14 @@ This badge is for Awesome lists.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Add an awesome badge to the top of your list, right next to the title. [Example](https://github.com/sindresorhus/awesome-nodejs). You can choose either the regular badge or the flat one.
 
 ```md
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ```
 
 *The badges should not be modified in any way.*
