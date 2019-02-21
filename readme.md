@@ -607,6 +607,9 @@
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 
+## Awesome Related Tools
+
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - A way to search over the Awesome dataset. Great for discovery and finding alternative tools.
 
 ## License
 
