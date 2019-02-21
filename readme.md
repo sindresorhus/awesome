@@ -415,7 +415,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 - [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
-- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme)
+- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Learning ressources regarding CSS – the language and the modules.
 
 
 ## Security
