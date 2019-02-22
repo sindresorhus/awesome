@@ -56,6 +56,7 @@
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
+- [Related](#related)
 
 
 ## Platforms
@@ -595,6 +596,11 @@
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+
+
+## Related
+
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 
 
 ## License
