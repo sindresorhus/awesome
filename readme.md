@@ -72,7 +72,7 @@
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
 - [Miscellaneous](#miscellaneous)
-- [Awesome Related Tools](#awesome-related-tools)
+- [Related](#related)
 
 
 ## Platforms
@@ -609,7 +609,7 @@
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 
 
-## Awesome Related Tools
+## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 
