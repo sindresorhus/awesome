@@ -390,6 +390,7 @@
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
+- [IT-Films](https://github.com/greybax/awesome-it-films#readme)
 
 
 ## Databases
@@ -415,7 +416,6 @@
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
 - [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
 - [Music](https://github.com/ciconia/awesome-music#readme)
-- [IT-Films](https://github.com/greybax/awesome-it-films#readme)
 - [Open Source Documents](https://github.com/hubtee/awesome-opensource-documents#readme)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
