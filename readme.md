@@ -609,7 +609,7 @@
 
 ## Awesome Related Tools
 
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - A way to search over the Awesome dataset. Great for discovery and finding alternative tools.
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - A way to search over the Awesome dataset.
 
 ## License
 
