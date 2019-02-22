@@ -99,7 +99,7 @@
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
-
+- [Deno](https://github.com/denolib/awesome-deno#readme) - "Browser-like", secure TypeScript/JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ## Programming Languages
 
