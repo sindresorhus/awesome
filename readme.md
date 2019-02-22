@@ -586,7 +586,7 @@
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - Ad-free alternatives.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
-- [Prometheus-Alerts](https://github.com/samber/awesome-prometheus-alerts) - Prometheus queries and rules for alerting.
+	- [Alerts](https://github.com/samber/awesome-prometheus-alerts) - Prometheus queries and rules for alerting.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) - Smart home devices.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
