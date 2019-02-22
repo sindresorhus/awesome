@@ -443,6 +443,9 @@
 - [Awesome Node.js Security](https://github.com/lirantal/awesome-nodejs-security)
 - [Awesome Golang Security](https://github.com/guardrailsio/awesome-golang-security)
 - [Awesome Ruby Security](https://github.com/pxlpnk/awesome-ruby-security)
+- [Awesome Python Security](https://github.com/guardrailsio/awesome-python-security)
+- [Awesome .NET Security](https://github.com/guardrailsio/awesome-dotnet-security)
+- [Awesome Java Security](https://github.com/guardrailsio/awesome-java-security)
 
 
 ## Content Management Systems
