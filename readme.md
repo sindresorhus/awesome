@@ -606,7 +606,7 @@
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
-- [Product Design](https://github.com/teoga/awesome-product-design) — Links and articles to guide digital product designers.
+- [Product Design](https://github.com/teoga/awesome-product-design#readme) — Links and articles to guide digital product designers.
 
 
 ## Related
