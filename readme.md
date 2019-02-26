@@ -235,7 +235,7 @@
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs) - Framework for server-rendered React apps.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps.
-- [Blazor](https://github.com/AdrienTorris/awesome-blazor) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - Experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 
 ## Back-End Development
