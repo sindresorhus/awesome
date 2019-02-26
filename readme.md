@@ -493,7 +493,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon) - Open source decentralized microblogging network.
-- [NEM Projects](https://github.com/Sateetje/awesome-nem-projects) - Companies, projects and ICO's using the NEM blockchain.
+- [NEM Projects](https://github.com/Sateetje/awesome-nem-projects) - NEM's blockchain platform was designed and coded from the ground up for scale and speed. List of projects using NEM.
 
 ## Miscellaneous
 
