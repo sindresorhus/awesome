@@ -288,8 +288,8 @@
 
 ## Natural Sciences
 
-- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics)
-- [Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics)
+- [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
+- [Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics#readme)
 
 
 ## Big Data
