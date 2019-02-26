@@ -99,6 +99,7 @@
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+- [Starcounter](https://github.com/Starcounter/awesome-starcounter) - Software platform that combines an in-memory database with a web server.
 
 
 ## Programming Languages
