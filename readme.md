@@ -495,7 +495,7 @@
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
-- [ActivityPub](https://github.com/BasixKOR/awesome-activitypub) - Open standard decentralized and federated protocol.
+- [ActivityPub](https://github.com/BasixKOR/awesome-activitypub#readme) - Open standard decentralized and federated protocol.
 
 ## Miscellaneous
 
