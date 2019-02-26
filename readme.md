@@ -380,8 +380,7 @@
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
 - [Alfred Workflows](https://github.com/derimagia/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
-- [Git Hooks](https://github.com/aitemr/awesome-git-hooks#readme) - A curated list of awesome Git Hooks.
-
+- [Git Hooks](https://github.com/aitemr/awesome-git-hooks#readme) - Useful git hook scripts & links.
 
 ## Entertainment
 
