@@ -383,18 +383,6 @@
 
 ## Databases
 
-- [Database](https://github.com/numetriclabz/awesome-db)
-- [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy)
-- [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb)
-- [Neo4j](https://github.com/neueda/awesome-neo4j)
-- [MongoDB](https://github.com/ramnes/awesome-mongodb) - NoSQL database.
-- [RethinkDB](https://github.com/d3viant0ne/awesome-rethinkdb)
-- [TinkerPop](https://github.com/mohataher/awesome-tinkerpop) - Graph computing framework.
-- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
-- [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
-- [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
-- [Database tools](https://github.com/mgramin/awesome-db-tools) - List of database tools (IDE, CLI, managing, monitoring, migrations, modelers, visualization etc).
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
@@ -407,6 +395,7 @@
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+- [Database tools](https://github.com/mgramin/awesome-db-tools) - List of database tools (IDE, CLI, managing, monitoring, migrations, modelers, visualization etc).
 
 
 ## Media
