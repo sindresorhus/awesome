@@ -394,7 +394,7 @@
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres) - Object-relational database.
 - [CouchDB](https://github.com/quangv/awesome-couchdb) - Document-oriented NoSQL database.
 - [HBase](https://github.com/rayokota/awesome-hbase) - Distributed, scalable, big data store.
-- [DB tools](https://github.com/mgramin/awesome-db-tools) - List of database tools (IDE, CLI, managing, monitoring, migrations, modelers, visualization etc).
+- [Database tools](https://github.com/mgramin/awesome-db-tools) - List of database tools (IDE, CLI, managing, monitoring, migrations, modelers, visualization etc).
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
