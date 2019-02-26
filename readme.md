@@ -587,7 +587,6 @@
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
-- [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - Agriculture related open source software, tools and APIs.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
@@ -601,6 +600,7 @@
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+- [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - Open source software for agriculture.
 
 
 ## Related
