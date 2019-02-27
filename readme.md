@@ -392,7 +392,6 @@
 ## Databases
 
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
-- [Db2](https://github.com/angoca/awesome-db2#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [SQLAlchemy](https://github.com/dahlia/awesome-sqlalchemy#readme)
 - [InfluxDB](https://github.com/mark-rushakoff/awesome-influxdb#readme)
@@ -404,6 +403,7 @@
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
+- [Db2](https://github.com/angoca/awesome-db2#readme) - A relational database manager system from IBM.
 
 
 ## Media
