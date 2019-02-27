@@ -390,7 +390,7 @@
 - [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/vredniy/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
-- [IT-Films](https://github.com/greybax/awesome-it-films#readme)
+- [IT Films](https://github.com/greybax/awesome-it-films#readme)
 
 
 ## Databases
