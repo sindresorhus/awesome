@@ -595,7 +595,7 @@
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - Calculators for every platform.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
-- [Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
+- [Software Design Patterns](https://github.com/DovAmir/awesome-design-patterns) - Software and architecture related design patterns.
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
 - [Humane Technology](https://github.com/engagingspaces/awesome-humane-tech#readme) - Open source projects that help improve society.
