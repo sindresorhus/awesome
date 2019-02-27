@@ -395,7 +395,7 @@
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - Document-oriented NoSQL database.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
-- [Database tools](https://github.com/mgramin/awesome-db-tools#readme) - IDE, CLI, managing, monitoring, migrations, modelers, visualization tools and scripts for DBA, Developers and mere mortals.
+- [Database tools](https://github.com/mgramin/awesome-db-tools#readme) - Software and scripts for DBA, Developers and mere mortals.
 
 
 ## Media
