@@ -273,32 +273,6 @@
 
 ## Computer Science
 
-- [University Courses](https://github.com/prakhar1989/awesome-courses)
-- [Data Science](https://github.com/bulutyazilim/awesome-datascience)
-	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience)
-- [Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-	- [Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
-	- [ML with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models](https://github.com/likedan/Awesome-CoreML-Models) - Models for Apple's machine learning framework.
-- [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing)
-	- [Spanish](https://github.com/dav009/awesome-spanish-nlp)
-	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby)
-- [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
-- [Cryptography](https://github.com/sobolevn/awesome-cryptography)
-- [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) - Neural networks.
-	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow) - Library for machine intelligence.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers) - The most cited deep learning papers.
-	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
-- [Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
-- [Open Source Society University](https://github.com/open-source-society/computer-science)
-- [Functional Programming](https://github.com/lucasviola/awesome-functional-programming)
-- [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
-
-
-## Information Science
-- [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval) - Learn to develop your own search engine.
-- [Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) - Go from raw data to results in a repeatable and transparent manner
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 - [Data Science](https://github.com/bulutyazilim/awesome-datascience#readme)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
@@ -324,7 +298,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-
+- [Reproducible Research](https://github.com/leipzig/awesome-reproducible-research) - Go from raw data to results in a repeatable and transparent manner
 
 ## Big Data
 
