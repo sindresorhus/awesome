@@ -103,6 +103,7 @@
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 
 
 ## Programming Languages
@@ -183,6 +184,7 @@
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
+	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
 - [React](https://github.com/enaqx/awesome-react#readme) - App framework.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
@@ -266,6 +268,7 @@
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
+- [Dash](https://github.com/Acrotrend/awesome-dash#readme) - Python web app framework.
 
 
 ## Computer Science
@@ -350,7 +353,7 @@
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
-- [PICO-8](https://github.com/felipebueno/awesome-PICO-8#readme) - Fantasy console.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
@@ -502,6 +505,7 @@
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
+- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
 ## Miscellaneous
 
@@ -608,6 +612,7 @@
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+- [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 
