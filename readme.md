@@ -607,8 +607,8 @@
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
-- [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme) - Amazon sellers.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
+- [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 
 
 ## Related
