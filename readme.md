@@ -345,6 +345,7 @@
 
 ## Gaming
 
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets) - Game datasets and tools.
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - Network programming for multiplayer online games.
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
