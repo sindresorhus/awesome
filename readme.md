@@ -386,6 +386,7 @@
 
 ## Entertainment
 
+- [Flash Briefings](https://github.com/davidsouza/awesome-flash-briefings) - Alexa Flash Briefings
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
