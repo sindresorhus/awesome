@@ -436,7 +436,7 @@
 - [Educational Games](https://github.com/yrgo/awesome-eg#readme) - Learn while playing.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
-- [Product Management](https://github.com/dend/awesome-product-management) - Learn how to be a better product manager.
+- [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 
 
 ## Security
