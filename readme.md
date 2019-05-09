@@ -618,6 +618,7 @@
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
+
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
