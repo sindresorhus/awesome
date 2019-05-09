@@ -96,6 +96,7 @@
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
+- [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
