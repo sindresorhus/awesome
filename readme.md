@@ -561,6 +561,7 @@
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
+- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
