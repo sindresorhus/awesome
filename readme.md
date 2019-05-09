@@ -609,7 +609,6 @@
 - [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
-- [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
@@ -617,11 +616,13 @@
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - Open source technology for farming and gardening.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
+- [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+
 
 ## License
 
