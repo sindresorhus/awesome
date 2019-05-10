@@ -624,6 +624,7 @@
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) — Design a product from the initial concept to production.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
+- [Chinese Programming Terms](https://github.com/pohzipohzi/awesome-chinese-programming-terms#readme) - A list of useful programming terms in chinese
 
 
 ## Related
