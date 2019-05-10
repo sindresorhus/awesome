@@ -126,6 +126,7 @@
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
+	- [JavaScript Beginners: Friendly Intro & Exercises](https://snipcart.com/blog/javascript-beginner-intro-exercises) - A great guide for beginners in JavaScript and a good way to progress for intermediate JS developers. 
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
