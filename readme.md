@@ -621,7 +621,7 @@
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - Open source technology for farming and gardening.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
-- [Product Design](https://github.com/teoga/awesome-product-design#readme) — Design a product from the initial concept to production.
+- [Product Design](https://github.com/teoga/awesome-product-design#readme) - Design a product from the initial concept to production.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 
