@@ -301,9 +301,9 @@
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+- [Energy Efficiency for Mobile Applications](https://github.com/luiscruz/awesome-mobile-app-energy-papers) – Research papers on energy efficient mobile app development.
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-
 
 ## Big Data
 
