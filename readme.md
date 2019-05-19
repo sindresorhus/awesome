@@ -69,15 +69,15 @@
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme)
+- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
-- [React Native](https://github.com/jondot/awesome-react-native#readme)
+- [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
@@ -127,10 +127,10 @@
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-- [Swift](https://github.com/matteocrippa/awesome-swift#readme)
+- [Swift](https://github.com/matteocrippa/awesome-swift#readme) -  Compiled programming language for iOS, macOS, watchOS, tvOS, and Linux applications.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-- [Python](https://github.com/vinta/awesome-python#readme)
+- [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
@@ -182,7 +182,7 @@
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme)
+- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
@@ -265,7 +265,7 @@
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme)
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
