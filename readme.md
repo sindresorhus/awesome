@@ -128,7 +128,7 @@
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
-- [Swift](https://github.com/matteocrippa/awesome-swift#readme) -  Compiled programming language for iOS, macOS, watchOS, tvOS, and Linux applications.
+- [Swift](https://github.com/matteocrippa/awesome-swift#readme) -  Compiled programming language widely used for developing secure and fast apps for iOS.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
 - [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
@@ -149,14 +149,14 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose object-oriented language.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language best for projects focused on low-level processing and fast applications for server-side software.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
-- [Java](https://github.com/akullpp/awesome-java#readme) - Object-oriented language that produces software for multiple platforms.
+- [Java](https://github.com/akullpp/awesome-java#readme) - Secure and platform-independent object-oriented language.
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
