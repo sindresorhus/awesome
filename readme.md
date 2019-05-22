@@ -529,6 +529,7 @@
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics#readme)
 - [REST](https://github.com/marmelab/awesome-rest#readme)
+- [gRPC](https://github.com/grpc-ecosystem/awesome-grpc#readme) - A curated list of useful resources for gRPC
 - [Selenium](https://github.com/christian-bromann/awesome-selenium#readme)
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
 - [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd#readme)
