@@ -298,7 +298,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-- [Quantum Computing](http://github.com/desireevl/awesome-quantum-computing#readme) - Learn about and develop for quantum computers.
+- [Quantum Computing](http://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilises quantum mechanics and qubits on quantum computers.
 
 
 ## Big Data
