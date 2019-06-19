@@ -1,7 +1,7 @@
 {
 	"name": "awesome",
 	"private": true,
-	"description": "Curated list of awesome lists",
+	"description": "Awesome lists about all kinds of interesting topics",
 	"license": "MIT",
 	"repository": "sindresorhus/awesome",
 	"author": {
@@ -15,17 +15,13 @@
 	"scripts": {
 		"test": "xo && ava"
 	},
-	"keywords": [
-		"awesome",
-		"list"
-	],
 	"devDependencies": {
 		"array-uniq": "^2.0.0",
-		"ava": "*",
-		"awesome-lint": "^0.7.0",
-		"is-relative-url": "^2.0.0",
+		"ava": "^2.1.0",
+		"awesome-lint": "^0.10.0",
+		"is-relative-url": "^3.0.0",
 		"remark": "^9.0.0",
 		"unist-util-visit": "^1.4.0",
-		"xo": "*"
+		"xo": "^0.24.0"
 	}
 }
