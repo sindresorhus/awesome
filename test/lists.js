@@ -22,7 +22,7 @@ const getAwesomeListUrl = url => {
 		protocol,
 		host,
 		pathname
-	}	= parse(url);
+	} = parse(url);
 
 	const sanitizedUrl = format({
 		protocol,
@@ -54,7 +54,7 @@ remark()
 	})
 	.processSync(readme);
 
-unique(links).forEach(link => {
+for (const link of unique(links)) {
 	test.serial(link, async t => {
 		console.log(link);
 		await lint.report({
@@ -63,9 +63,9 @@ unique(links).forEach(link => {
 
 		t.pass();
 	});
-});
+}
 
-// Default to including a single passing test just in case there are no awesome
+// Default to including a single passing test just in case there are no Awesome
 // lists that are not in the whitelist.
 test('noop', t => {
 	t.pass();
