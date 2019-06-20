@@ -360,8 +360,8 @@
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
-- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - Game development for Haxe, the cross-platform toolkit.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high level strictly typed programming language which is used to produce cross-platform native code.
 
 
 ## Development Environment
