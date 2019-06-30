@@ -195,7 +195,7 @@
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme)
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme)
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/nmec/awesome-ember#readme) - App framework.
+- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
