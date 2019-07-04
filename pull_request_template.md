@@ -41,6 +41,7 @@
 
 - **Has been around for at least 30 days.**<br>That means 30 days from either the first real commit or when it was open-sourced. Whatever is most recent.
 - Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
+- Run [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) on your list and fix the reported issues. If there are false-positives or things that cannot/shouldn't be fixed, please [report it](https://github.com/sindresorhus/awesome-lint/issues/new).
 - **Includes a succinct description of the project/theme at the top of the readme.** [(Example)](https://github.com/willempienaar/awesome-quantified-self)
 	- ✅ `Mobile operating system for Apple phones and tablets.`
 	- ✅ `Prototyping interactive UI designs.`
@@ -48,11 +49,16 @@
 	- ❌ `Awesome Framer packages and tools.`
 - It's the result of hard work and the best I could possibly produce.
 	**If you have not put in considerable effort into your list, your pull request will be immediately closed.**
-- The heading title of your list should be in the following format: `# Awesome Name of List`
+- The repo name of your list should be in lowercase slug format: `awesome-name-of-list`.
+	- ✅ `awesome-swift`
+	- ✅ `awesome-web-typography`
+	- ❌ `awesome-Swift`
+	- ❌ `AwesomeWebTypography`
+- The heading title of your list should be in [title case](https://capitalizemytitle.com/) format: `# Awesome Name of List`.
 	- ✅ `# Awesome Swift`
 	- ✅ `# Awesome Web Typography`
 	- ❌ `# awesome-swift`
-	- ❌ `# `
+	- ❌ `# AwesomeSwift`
 - Non-generated Markdown file in a GitHub repo.
 - The repo should have `awesome-list` & `awesome` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics.
 - Not a duplicate. Please search for existing submissions.
