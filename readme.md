@@ -495,6 +495,7 @@
 - [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
+- [Open Source Jobs](https://github.com/t9tio/open-source-jobs#readme) - A list of Open Source projects offering jobs
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
