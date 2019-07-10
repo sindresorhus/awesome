@@ -153,6 +153,7 @@
 - [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
+- [Kotlin/Native](https://github.com/bipinvaylu/awesome-kotlin-native#readme) - A curated list of Kotlin/Native multiplatform libraries & resouces that support full stack: Mobile(Android/iOS), Web(JavaScript), Backed and Desktop.
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
