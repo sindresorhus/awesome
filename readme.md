@@ -447,19 +447,22 @@
 
 ## Security
 
-- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
-- [Security](https://github.com/sbilly/awesome-security#readme)
-- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
-- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
+- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
+- [OSINT](https://github.com/jivoi/awesome-osint#readme) - Open Source Intelligence Tools and Resources
+- [Security](https://github.com/sbilly/awesome-security#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
-- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [YARA](https://github.com/InQuest/awesome-yara#readme) - The pattern matching swiss knife for malware researchers (and everyone else)
+
 
 
 ## Content Management Systems
