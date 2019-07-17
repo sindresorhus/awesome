@@ -51,6 +51,7 @@
 - [Work](#work)
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
+- [Higher Education](#higher-education)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
@@ -507,6 +508,7 @@
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 
+
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
@@ -516,6 +518,12 @@
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+
+
+## Higher Education
+
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) 
+
 
 ## Miscellaneous
 
