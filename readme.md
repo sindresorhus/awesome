@@ -522,7 +522,7 @@
 
 ## Higher Education
 
-- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) 
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) - Computational neuroscience institutions and researchers.
 
 
 ## Miscellaneous
