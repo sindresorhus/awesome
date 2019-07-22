@@ -241,7 +241,7 @@
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
-
+- [Mithril](https://github.com/orbitbot/awesome-mithril) - A modern, tiny, and fast framework for building Single Page Applications
 
 ## Back-End Development
 
