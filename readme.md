@@ -633,6 +633,7 @@
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+- [Yocto Project](https://github.com/fkromer/awesome-yocto-project) - It’s not an embedded Linux Distribution, It creates a custom one for you.
 
 
 ## Related
