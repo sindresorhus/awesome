@@ -517,6 +517,7 @@
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+- [Libra](https://github.com/learndapp/awesome-libra#readme) - Facebook Libra is built on a secure, scalable, and reliable blockchain.
 
 ## Miscellaneous
 
