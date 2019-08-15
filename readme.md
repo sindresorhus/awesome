@@ -522,7 +522,7 @@
 
 ## Higher Education
 
-- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) - Computational neuroscience institutions and researchers.
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience) - A multidisciplinary science which uses computational approaches to study the nervous system.
 
 
 ## Miscellaneous
