@@ -365,6 +365,7 @@
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 
 ## Development Environment
