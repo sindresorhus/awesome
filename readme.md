@@ -645,7 +645,7 @@
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
-
+- [Tech Talks](https://github.com/fsjoyti/Awesome-Tech-Talks#readme) - Videos from various tech conferences
 
 ## Related
 
