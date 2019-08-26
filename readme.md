@@ -644,7 +644,7 @@
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
-- [Morphological Profiling](https://github.com/cytodata/awesome-cytodata) - Resources for computational biologists to acquire and disseminate knowledge about image-based profiling of biological phenotypes.
+- [Morphological Profiling](https://github.com/cytodata/awesome-cytodata) - Image-based profiling of biological phenotypes for computational biologists.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
 
