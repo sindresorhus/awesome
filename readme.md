@@ -51,6 +51,7 @@
 - [Work](#work)
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
+- [Higher Education](#higher-education)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
@@ -85,7 +86,7 @@
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
-- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions#readme) - Cross-browser extension system.
+- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - Cross-browser extension system.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
@@ -101,6 +102,7 @@
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
+- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 
 
 ## Programming Languages
@@ -138,7 +140,7 @@
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
 - [Elixir](https://github.com/h4cc/awesome-elixir#readme)
-- [Elm](https://github.com/isRuslan/awesome-elm#readme)
+- [Elm](https://github.com/sporto/awesome-elm#readme)
 - [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
@@ -159,7 +161,7 @@
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
-- [Assembler](https://github.com/jaspergould/awesome-asm#readme)
+- [Assembler](https://github.com/lurumdare/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
@@ -188,7 +190,7 @@
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - A new feature that lets you use state and other React features without writing a class.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
-- [Angular](https://github.com/gdi2290/awesome-angular#readme) - App framework.
+- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
@@ -236,11 +238,12 @@
 - [Preact](https://github.com/ooade/awesome-preact#readme) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
-- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
+- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
+- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 
 ## Back-End Development
@@ -268,7 +271,7 @@
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
-- [Dash](https://github.com/Acrotrend/awesome-dash#readme) - Python web app framework.
+- [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 
 
 ## Computer Science
@@ -362,6 +365,7 @@
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 
 ## Development Environment
@@ -477,7 +481,7 @@
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
-- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon#readme)
+- [Bluetooth Beacons](https://github.com/squaremetrics/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
 
 
@@ -488,6 +492,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
 - [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 
 
 ## Work
@@ -507,6 +512,7 @@
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 
+
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
@@ -516,6 +522,12 @@
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
+
+
+## Higher Education
+
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+
 
 ## Miscellaneous
 
@@ -538,11 +550,10 @@
 - [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
-- [Tools](https://github.com/cjbarber/ToolsOfTheTrade#readme)
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted#readme)
-- [FOSS Production Apps](https://github.com/johnfaucett/awesome-foss-apps#readme)
+- [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 - [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
 - [AMA](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
@@ -554,7 +565,7 @@
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
 - [Social Media Share Links](https://github.com/vinkla/shareable-links#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
-- [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
+- [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
@@ -604,7 +615,7 @@
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) - Smart home devices.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
-- [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
@@ -634,6 +645,7 @@
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
 - [Morphological Profiling](https://github.com/cytodata/awesome-cytodata) - Resources for computational biologists to acquire and disseminate knowledge about image-based profiling of biological phenotypes.
+- [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 
 
 ## Related
