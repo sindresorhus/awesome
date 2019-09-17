@@ -194,9 +194,9 @@
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
-- [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
-- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme)
-- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme)
+- [Canvas](https://github.com/raphamorim/awesome-canvas#readme) - HTML5 and Javascript Charting library.
+- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
 - [Ember](https://github.com/nmec/awesome-ember#readme) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
@@ -260,13 +260,13 @@
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
 - [Rails](https://github.com/ekremkaraca/awesome-rails#readme) - Web app framework for Ruby.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme)
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme)
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme)
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
