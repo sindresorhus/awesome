@@ -194,7 +194,7 @@
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - App framework.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
-- [Canvas](https://github.com/raphamorim/awesome-canvas#readme) - HTML5 and javascript charting library.
+- [Canvas](https://github.com/raphamorim/awesome-canvas#readme) - HTML5 and JavaScript charting library.
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
