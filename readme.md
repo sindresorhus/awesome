@@ -200,7 +200,7 @@
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/nmec/awesome-ember#readme) - App framework.
+- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
