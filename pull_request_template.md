@@ -63,6 +63,7 @@
 - The repo should have `awesome-list` & `awesome` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics.
 - Not a duplicate. Please search for existing submissions.
 - Only has awesome items. Awesome lists are curations of the best, not everything.
+- Does not contain items that are unmaintained, has archived repo, deprecated, or missing docs. If you really need to include such items, they should be in a separate Markdown file.
 - Includes a project logo/illustration whenever possible.
 	- Either centered, fullwidth, or placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
 	- The image should link to the project website or any relevant website.
