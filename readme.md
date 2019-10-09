@@ -330,7 +330,6 @@
 - [Data Engineering](https://github.com/igorbarinov/awesome-data-engineering#readme)
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
-- [Splunk](https://github.com/sduff/awesome-splunk) - Splunk provides multiple products for searching, monitoring, and analyzing machine-generated big data in real-time.
 
 
 ## Theory
