@@ -565,6 +565,7 @@
 - [REST](https://github.com/marmelab/awesome-rest#readme)
 - [Selenium](https://github.com/christian-bromann/awesome-selenium#readme)
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+- [Awesome Continuous Integration](https://github.com/ligurio/awesome-ci)
 - [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd#readme)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
@@ -621,6 +622,7 @@
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Web apps that work without login.
+- [Software Quality (Testing, Verification)](https://github.com/ligurio/awesome-software-quality)
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) - Free as in freedom.
 - [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
