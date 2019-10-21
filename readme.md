@@ -549,6 +549,7 @@
 ## Higher Education
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+- [Digital History](https://github.com/maehr/awesome-digital-history#readme) - This collection brings together the best tools, source collections and platforms for digital history and related disciplines.
 
 
 ## Miscellaneous
