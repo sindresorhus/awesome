@@ -188,6 +188,7 @@
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 - [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+- [F#](https://github.com/fsprojects/awesome-fsharp) - Is a mature, open source, cross-platform, functional-first programming language.
 
 
 ## Front-End Development
