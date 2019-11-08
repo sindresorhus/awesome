@@ -68,6 +68,7 @@
 - [Higher Education](#higher-education)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
+- [Events](#events)
 
 
 ## Platforms
@@ -677,6 +678,9 @@
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 
+## Events
+
+- [Awesome Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## License
 
