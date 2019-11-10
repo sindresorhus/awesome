@@ -467,7 +467,7 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
-
+- [Hacker Laws](https://github.com/dwmkerr/hacker-laws) - Laws, theories, principles and patterns that developers and techies useful and come across in the industry.
 
 ## Security
 
