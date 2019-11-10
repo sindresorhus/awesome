@@ -2,6 +2,20 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
+	<p>
+		<a href="https://triplebyte.com/a/aZxgKGg/d">
+			<b>Looking for a job?</b>
+			<br>
+			No resume needed. Just prove you can code.
+			<br>
+			<div>
+				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
+			</div>
+		</a>
+		<sub><i>Clicking this helps fund the Awesome project</i></sub>
+	</p>
+	<br>
+	<br>
 	<br>
 </div>
 
@@ -103,6 +117,7 @@
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 
 
 ## Programming Languages
@@ -130,6 +145,7 @@
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
+	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -172,6 +188,7 @@
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 - [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - Modern programming language designed for large, long-lived apps where reliability and efficiency are essential.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
+- [Imba](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 
 
 ## Front-End Development
@@ -195,10 +212,10 @@
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
-- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme)
-- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme)
+- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
-- [Ember](https://github.com/nmec/awesome-ember#readme) - App framework.
+- [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
@@ -244,29 +261,30 @@
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - Creating a great mobile web experience.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
+- [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) - Metrics to help understand page speed and user experience.
 
 
 ## Back-End Development
 
-- [Flask](https://github.com/humiaozuzu/awesome-flask#readme)
+- [Flask](https://github.com/humiaozuzu/awesome-flask#readme) - Python framework.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme)
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme)
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme)
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
 - [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
 - [Rails](https://github.com/ekremkaraca/awesome-rails#readme) - Web app framework for Ruby.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme)
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
-- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme)
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme)
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
@@ -365,6 +383,7 @@
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
+- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 
 
@@ -384,6 +403,7 @@
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
@@ -464,6 +484,8 @@
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 
 
 ## Content Management Systems
@@ -493,6 +515,7 @@
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
 - [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
+- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 
 
 ## Work
@@ -644,7 +667,9 @@
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - Tech stacks for building different apps and features.
+- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) - Image-based profiling of biological phenotypes for computational biologists.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
+- [Advertising](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 
 
 ## Related
