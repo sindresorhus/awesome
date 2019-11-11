@@ -356,7 +356,6 @@
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
-- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
@@ -367,6 +366,7 @@
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - Sandbox video game.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - Materials and datasets for Artificial Intelligence in games.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
+- [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 
 
 ## Development Environment
