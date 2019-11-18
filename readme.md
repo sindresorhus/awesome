@@ -119,6 +119,7 @@
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
+- [Web Browsers](https://github.com/cliffordfajardo/awesome-web-browsers#readme) - Various web browsers to use or develop for.
 
 
 ## Programming Languages
