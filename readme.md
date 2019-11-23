@@ -709,3 +709,4 @@
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
+ [Tech-Referrals](https://github.com/rubayet170746/Tech-Referrals) - We made a spreadsheet for tech referrals :) It would be great if anyone is willing to add their name and offer referrals for your current or previous companies!
