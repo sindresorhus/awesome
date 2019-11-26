@@ -704,6 +704,7 @@
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
+- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 
 
 ## Related
