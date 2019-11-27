@@ -171,6 +171,7 @@
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
+	- [Lucid](https://github.com/lucid-kv/lucid) - High performance and distributed KV store accessible through an HTTP API. 🦀
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
