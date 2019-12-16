@@ -2,6 +2,7 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
+	<hr>
 	<p>
 		<p>
 			<sup>
@@ -14,7 +15,13 @@
 		<a href="https://github.com/botpress/botpress">
 			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="260" alt="Botpress">
 		</a>
+		<br>
+		<sub><b>Botpress is an open-source conversational assistant creation platform.</b></sub>
+		<br>
+		<sub>They <a href="https://github.com/botpress/botpress/blob/master/.github/CONTRIBUTING.md">welcome contributions</a> from anyone, whether you're into machine learning,<br>want to get started in open-source, or just have an improvement idea.</sub>
+		<br>
 	</p>
+	<hr>
 	<br>
 	<br>
 	<br>
@@ -41,7 +48,6 @@
 	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
-
 
 ## Contents
 
@@ -71,7 +77,6 @@
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
-
 ---
 
 <div align="center">
@@ -90,7 +95,6 @@
 </div>
 
 ---
-
 
 ## Platforms
 
@@ -141,7 +145,6 @@
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
-
 
 ## Programming Languages
 
@@ -214,7 +217,6 @@
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
-
 
 ## Front-End Development
 
@@ -291,7 +293,6 @@
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 
-
 ## Back-End Development
 
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme) - Python framework.
@@ -318,7 +319,6 @@
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
-
 
 ## Computer Science
 
@@ -350,7 +350,6 @@
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
 
-
 ## Big Data
 
 - [Big Data](https://github.com/onurakpolat/awesome-bigdata#readme)
@@ -360,7 +359,6 @@
 - [Streaming](https://github.com/manuzhang/awesome-streaming#readme)
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
-
 
 ## Theory
 
@@ -375,7 +373,6 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 
-
 ## Books
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
@@ -386,7 +383,6 @@
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
 
-
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
@@ -394,7 +390,6 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
 - [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
-
 
 ## Gaming
 
@@ -415,7 +410,6 @@
 - [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) - A high-level strongly typed programming language used to produce cross-platform native code.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 - [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
-
 
 ## Development Environment
 
@@ -442,7 +436,6 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
-
 ## Entertainment
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
@@ -450,7 +443,6 @@
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
-
 
 ## Databases
 
@@ -467,7 +459,6 @@
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - Distributed, scalable, big data store.
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 
-
 ## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
@@ -483,7 +474,6 @@
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 
-
 ## Learn
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
@@ -498,7 +488,6 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
-
 
 ## Security
 
@@ -518,7 +507,6 @@
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 
-
 ## Content Management Systems
 
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
@@ -528,7 +516,6 @@
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
 
-
 ## Hardware
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
@@ -536,7 +523,6 @@
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/squaremetrics/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
-
 
 ## Business
 
@@ -549,7 +535,6 @@
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
 
-
 ## Work
 
 - [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
@@ -560,13 +545,11 @@
 - [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 
-
 ## Networking
 
 - [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
-
 
 ## Decentralized Systems
 
@@ -578,12 +561,10 @@
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 
-
 ## Higher Education
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
-
 
 ## Miscellaneous
 
@@ -707,7 +688,6 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-
 
 ## Related
 
