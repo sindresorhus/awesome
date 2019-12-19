@@ -534,7 +534,7 @@
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/squaremetrics/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
-- [Mechatronics Engineering](https://github.com/engyasin/awesome-mechatronics#readme) - Mechatroincs engineering resources
+- [Mechatronics Engineering](https://github.com/engyasin/awesome-mechatronics#readme) - Mechatroincs engineering and Mechatronic applications resources.
 
 
 ## Business
