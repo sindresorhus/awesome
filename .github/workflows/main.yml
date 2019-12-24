@@ -1,0 +1,20 @@
+on: [push, pull_request]
+
+name: Lint with awesome-lint
+
+jobs:
+  awesome-lint-workflow:
+    runs-on: ubuntu-latest
+    name: Linting with awesome-lint
+    steps:
+      - name: checkout repo
+        id: checkout
+        uses: actions/checkout@v2
+      - name: awesome-lint-action
+        uses: squadcastHQ/awesome-lint-action@master
+        id: awesome-lint
+        with:
+          readme-file: "README.md"
+          workspace-dir: "${{ steps.checkout.env.GITHUB_WORKSPACE }}"
+      - name: awesome-lint report
+        run: echo "${{ steps.awesome-lint.outputs.report }}"
