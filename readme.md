@@ -277,7 +277,6 @@
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
 - [Ant Design](https://github.com/websemantics/awesome-ant-design#readme) - Enterprise-class UI design language.
-- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - React components for faster and easier web development.
 - [Less](https://github.com/LucasBassetti/awesome-less#readme) - CSS preprocessor.
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/ooade/awesome-preact#readme) - App framework.
@@ -294,6 +293,7 @@
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 - [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design react components for faster and easier web development.
 
 ## Back-End Development
 
