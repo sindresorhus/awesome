@@ -689,7 +689,7 @@
 
 ## Events
 
-- [Awesome Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 
 ## License
