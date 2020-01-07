@@ -1,13 +1,10 @@
-
 <!-- Congrats on creating an Awesome list! 🎉 -->
-
 
 <!-- Please fill in the below placeholders -->
 
 **[Insert URL to the list here]**
 
 **[Explain what this list is about and why it should be included here]**
-
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
@@ -36,7 +33,6 @@
 - Your entry should be added at the bottom of the appropriate category.
 - The suggested Awesome list complies with the below requirements.
 
-
 ## Requirements for your Awesome list
 
 - **Has been around for at least 30 days.**<br>That means 30 days from either the first real commit or when it was open-sourced. Whatever is most recent.
@@ -63,6 +59,7 @@
 - The repo should have `awesome-list` & `awesome` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics.
 - Not a duplicate. Please search for existing submissions.
 - Only has awesome items. Awesome lists are curations of the best, not everything.
+- Does not contain items that are unmaintained, has archived repo, deprecated, or missing docs. If you really need to include such items, they should be in a separate Markdown file.
 - Includes a project logo/illustration whenever possible.
 	- Either centered, fullwidth, or placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
 	- The image should link to the project website or any relevant website.
@@ -76,11 +73,13 @@
 	- Should be named `Contents`, not `Table of Contents`.
 	- Should be the first section in the list.
 	- Should only have one level of [nested lists](https://commonmark.org/help/tutorial/10-nestedLists.html), preferably none.
-- Has an [appropriate license](https://github.com/sindresorhus/awesome/blob/master/awesome.md#choose-an-appropriate-license).
-	- That means something like CC0, **not a code licence like MIT, BSD, Apache, etc.**
-	- [WTFPL](http://www.wtfpl.net) and [Unlicense](http://unlicense.org) are not acceptable licenses.
-	- **If you use a license badge, it should be SVG, not PNG.**
-	- To verify that you've read all the guidelines, please add comment with just the word `unicorn`.
+- Has an appropriate license.
+	- **We strongly recommend the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/), but any [Creative Commons license](https://creativecommons.org/choose/) will work.**
+		- Tip: You can quickly add it to your repo by going to this URL: `https://github.com/<user>/<repo>/community/license/new?branch=master&template=cc0-1.0` (replace `<user>` and `<repo>` accordingly).
+	- A code license like MIT, BSD, Apache, GPL, etc, is not acceptable. Neither are [WTFPL](http://www.wtfpl.net) and [Unlicense](http://unlicense.org).
+	- Place a file named `license` or `LICENSE` in the repo root with the license text.
+	- **Do not** add the license name or text to the readme. GitHub already shows the license name at the top of the repo.
+	- To verify that you've read all the guidelines, please comment on your pull request with just the word `unicorn`.
 - Has [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/awesome.md#include-contribution-guidelines).
 	- The file should be named `contributing.md`. Casing is up to you.
 - Has consistent formatting and proper spelling/grammar.
