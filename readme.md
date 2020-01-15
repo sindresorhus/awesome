@@ -306,6 +306,7 @@
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
 - [Laravel](https://github.com/chiraggude/awesome-laravel#readme) - PHP framework.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
+- [SilverStripe](https://github.com/wernerkrauss/awesome-silverstripe#readme) - PHP framework.	
 - [Rails](https://github.com/ekremkaraca/awesome-rails#readme) - Web app framework for Ruby.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) - Packages.
 - [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) - PHP framework.
