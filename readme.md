@@ -74,6 +74,7 @@
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
 - [Higher Education](#higher-education)
+- [Events](#events)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
@@ -569,6 +570,10 @@
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
+
+## Events
+
+- [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
 
 ## Miscellaneous
 
