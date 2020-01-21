@@ -1,13 +1,10 @@
-
 <!-- Congrats on creating an Awesome list! 🎉 -->
-
 
 <!-- Please fill in the below placeholders -->
 
 **[Insert URL to the list here]**
 
 **[Explain what this list is about and why it should be included here]**
-
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
@@ -35,7 +32,6 @@
 	- ❌ `- [Framer](…) - prototyping interactive UI designs`
 - Your entry should be added at the bottom of the appropriate category.
 - The suggested Awesome list complies with the below requirements.
-
 
 ## Requirements for your Awesome list
 
