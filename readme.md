@@ -295,6 +295,7 @@
 - [Tailwind CSS](https://github.com/aniftyco/awesome-tailwindcss#readme) - Utility-first CSS framework for rapid UI development.
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 - [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
+- [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
 
 ## Back-End Development
 
