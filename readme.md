@@ -570,6 +570,7 @@
 
 ## Higher Education
 
+- [Academic Writing](https://github.com/maehr/awesome-academic-writing) - Open source tools for painless academic writing.
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 
