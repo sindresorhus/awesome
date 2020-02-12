@@ -1,17 +1,13 @@
 on:
-  push:
-    branches: [master]
-  pull_request:
-    types: [opened, synchronize]
-
+  - push
+  - pull_request
 jobs:
   lint:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v1
         with:
-          node-version: 10.x
-      - run: npm i -g awesome-lint
+          node-version: 12
+      - run: npm install --global awesome-lint
       - run: awesome-lint
