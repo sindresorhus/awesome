@@ -701,6 +701,7 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+- [Figma](https://github.com/figma-community/awesome-figma) - The collaborative interface design tool.
 
 ## Related
 
