@@ -146,6 +146,7 @@
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
+- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 
 ## Programming Languages
 
@@ -219,6 +220,7 @@
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - Domain-specific programming language used for expressing quantum algorithms.
 - [Imba](https://github.com/koolamusic/awesome-imba#readme) - Programming language inspired by Ruby and Python and compiles to performant JavaScript.
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
+- [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 
 ## Front-End Development
 
@@ -296,6 +298,7 @@
 - [Seed](https://github.com/seed-rs/awesome-seed-rs#readme) - Rust framework for creating web apps running in WebAssembly.
 - [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
+- [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 
 ## Back-End Development
 
@@ -576,6 +579,8 @@
 ## Events
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
+- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
+- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
 ## Miscellaneous
 
@@ -652,8 +657,6 @@
 - [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - Markup language.
 - [Dev Fun](https://github.com/mislavcimpersak/awesome-dev-fun#readme) - Funny developer projects.
-- [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
-- [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - Graph drawing packages for TeX/LaTeX/ConTeXt.
