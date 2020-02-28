@@ -702,6 +702,7 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+- [Technical Debt](https://github.com/labcodes/awesome-technical-debt) - A curated list of Technical Debt talks, articles and books.
 
 ## Related
 
