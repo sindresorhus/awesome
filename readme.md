@@ -650,7 +650,6 @@
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
-- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Web apps that work without login.
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
@@ -703,6 +702,7 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## Related
 
