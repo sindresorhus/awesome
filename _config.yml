@@ -1,0 +1,1 @@
+theme: jekyll-theme-hacker
