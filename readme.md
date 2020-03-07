@@ -478,6 +478,7 @@
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - Mainly about CSS – the language and the modules.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+- [Azure Learning](https://github.com/ddneves/awesome-azure-learning#readme) - Everything Azure Learning, especially Azure Certs, Azure Architecture, and much more.
 
 ## Security
 
