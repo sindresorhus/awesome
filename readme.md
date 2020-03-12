@@ -75,6 +75,7 @@
 - [Decentralized Systems](#decentralized-systems)
 - [Higher Education](#higher-education)
 - [Events](#events)
+- [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
@@ -564,6 +565,16 @@
 - [Events in Italy](https://github.com/ildoc/awesome-italy-events#readme) - Tech-related events in Italy.
 - [Events in the Netherlands](https://github.com/awkward/awesome-netherlands-events#readme) - Tech-related events in the Netherlands.
 
+## Testing
+
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
+- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
+- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
+- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
+- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
+
 ## Miscellaneous
 
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
@@ -576,8 +587,6 @@
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics#readme)
 - [REST](https://github.com/marmelab/awesome-rest#readme)
-- [Selenium](https://github.com/christian-bromann/awesome-selenium#readme)
-- [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
 - [Continuous Integration and Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd#readme)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
@@ -606,7 +615,6 @@
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
 - [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
-- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
@@ -631,10 +639,8 @@
 - [Quantified Self](https://github.com/woop/awesome-quantified-self#readme) - Self-tracking through technology.
 - [SaltStack](https://github.com/hbokh/awesome-saltstack#readme) - Python-based config management system.
 - [Web Design](https://github.com/nicolesaidy/awesome-web-design#readme) - For digital designers.
-- [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 - [Creative Coding](https://github.com/terkelg/awesome-creative-coding#readme) - Programming something expressive instead of something functional.
 - [No-Login Web Apps](https://github.com/aviaryan/awesome-no-login-web-apps#readme) - Web apps that work without login.
-- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 - [Free Software](https://github.com/johnjago/awesome-free-software#readme) - Free as in freedom.
 - [Framer](https://github.com/podo/awesome-framer#readme) - Prototyping interactive UI designs.
 - [Markdown](https://github.com/BubuAnabelas/awesome-markdown#readme) - Markup language.
@@ -653,7 +659,6 @@
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - The experience of being an open source maintainer.
@@ -684,7 +689,6 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ## Related
 
