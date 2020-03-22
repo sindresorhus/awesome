@@ -281,6 +281,7 @@
 - [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) - Techniques to ensure certain performance metrics for a website.
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
+- [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 
 ## Back-End Development
 
