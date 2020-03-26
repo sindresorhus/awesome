@@ -689,7 +689,7 @@
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-- [Tools For Open Source Maintainers](https://github.com/WOSPM/tool-list#readme) - How to manage open source projects.
+- [Tools for Open Source Maintainers](https://github.com/WOSPM/tool-list#readme) - How to manage open source projects.
 
 ## Related
 
