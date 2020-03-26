@@ -282,6 +282,8 @@
 - [Web Animation](https://github.com/sergey-pimenov/awesome-web-animation#readme) - Animations in the browser with JavaScript, CSS, SVG, etc.
 - [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
+- [Gatsby](https://github.com/gatsbyjs/gatsby#readme) - Gatsby is an SSG (Static Site Generator) OpenSource based on React that aims to make development easier and more efficient. Gatsby is a framework that brings together the main features of React and several other modern tools in the same package, facilitating the creation of fast and powerful websites and web applications. 
+
 
 ## Back-End Development
 
