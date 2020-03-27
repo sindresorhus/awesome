@@ -691,7 +691,7 @@
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
-- [Tools for Open Source Maintainers](https://github.com/WOSPM/tool-list#readme) - How to manage open source projects.
+- [Tools for Open Source Maintainers](https://github.com/WOSPM/awesome-oss-maintainers-tools-list#readme) - How to maintain open source software.
 
 ## Related
 
