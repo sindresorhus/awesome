@@ -309,6 +309,7 @@
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
+- [Docker Compose](https://github.com/docker/awesome-compose#readme) - Docker Compose-based setups ready to use.
 
 ## Computer Science
 
