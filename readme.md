@@ -502,6 +502,7 @@
 
 ## Content Management Systems
 
+- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore)
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
