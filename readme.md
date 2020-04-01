@@ -413,6 +413,7 @@
 - [Fish](https://github.com/jorgebucaran/awesome-fish#readme) - User-friendly shell.
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
 - [ZSH Plugins](https://github.com/unixorn/awesome-zsh-plugins#readme)
+- [Gitea](https://gitea.com/gitea/awesome-gitea) - Community managed lightweight code hosting solution written in Go.
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
