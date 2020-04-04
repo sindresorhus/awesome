@@ -500,6 +500,7 @@
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+- [Just Delete Me](https://justdeleteme.xyz/) - A directory of direct links to delete your account from web services.
 
 ## Content Management Systems
 
