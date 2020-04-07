@@ -518,6 +518,7 @@
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/squaremetrics/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - Checklist for building your own electric guitar.
+- [Software running on old hardware](https://github.com/arthurlutz/awesome-software-running-on-old-hardware#readme) - Extending the life span of theses products.
 
 ## Business
 
