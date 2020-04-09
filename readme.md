@@ -502,13 +502,13 @@
 
 ## Content Management Systems
 
-- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore)
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
+- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore) - Sitecore Experience Platform.
 
 ## Hardware
 
