@@ -693,6 +693,7 @@
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
+- [Coronavirus](https://github.com/soroushchehresa/awesome-coronavirus#readme) - Useful projects and resources for COVID-19 (2019 novel Coronavirus).
 
 ## Related
 
