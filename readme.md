@@ -501,6 +501,7 @@
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops) - Integration of security practices into DevOps.
 
 ## Content Management Systems
 
