@@ -64,7 +64,7 @@ Ensure your list is grammatically correct, typo-free and has no Markdown formatt
 
 ## Choose an appropriate license
 
-Keep in mind that if you [haven't selected a license](http://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
+Keep in mind that if you [haven't selected a license](https://choosealicense.com/no-license/), it basically means the people are *not* allowed to reproduce, distribute or create derivative works.
 
 [Creative Commons licenses](https://creativecommons.org/) are perfect for this purpose. **We would recommend [`CC0`](https://creativecommons.org/publicdomain/zero/1.0/).** Code licenses like MIT, BSD, GPL, and so forth are not recommended.
 
