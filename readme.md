@@ -508,7 +508,7 @@
 - [Textpattern](https://github.com/drmonkeyninja/awesome-textpattern#readme) - Lightweight PHP-based CMS.
 - [Drupal](https://github.com/nirgn975/awesome-drupal#readme) - Extensible PHP-based CMS.
 - [Craft CMS](https://github.com/craftcms/awesome#readme) - Content-first CMS.
-- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore) - A robust digital marketing system that combines CMS with contextual intelligence and omnichannel automation technologies. It also offers a rich variety of tools out of the box for emailing, analytics, campaigns and marketing automation tools for managing website(s).
+- [Sitecore](https://github.com/MartinMiles/Awesome-Sitecore) - .NET digital marketing platform that combines CMS with a variety of tools for managing multiple websites.
 
 ## Hardware
 
