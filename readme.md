@@ -483,7 +483,7 @@
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
-	- [Cheat Sheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#readme.md) - Tips and Tricks to solve CTF's and HacktheBox Challenges.
+	- [Cheat Sheet](https://github.com/uppusaikiran/awesome-ctf-cheatsheet#readme.md) - Tips and strategies to solve CTF and HacktheBox Challenges.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
