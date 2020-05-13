@@ -380,7 +380,6 @@
 ## Gaming
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
-- [Game Networking](https://github.com/MFatihMAR/Game-Networking-Resources#readme) - Network programming for multiplayer online games.
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
