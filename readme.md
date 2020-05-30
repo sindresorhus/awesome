@@ -1,22 +1,15 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
-	<br>
-	<!-- <hr> -->
 	<p>
-		<!-- <p>
+		<p>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
 			</sup>
-		</p> -->
+		</p>
 		<br>
-		<br>
-		<h3 align="center"><a href="https://www.producthunt.com/posts/jiffy-2">My new macOS app for discovering & sharing GIFs is on Product Hunt</h3></h3>
 		<br>
 	</p>
-	<hr>
-	<br>
-	<br>
 	<br>
 	<br>
 </div>
