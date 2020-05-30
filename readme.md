@@ -496,6 +496,7 @@
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
+- [Reversing](https://github.com/ReversingID/awesome-reversing#readme) - Reverse Engineering tools, techniques, and references for various topics.
 
 ## Content Management Systems
 
