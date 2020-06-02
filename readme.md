@@ -192,6 +192,7 @@
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 - [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
+- [Solidity](https://github.com/bkrem/awesome-solidity) - Object-oriented, high-level language for implementing Ethereum smart contracts.
 
 ## Front-End Development
 
