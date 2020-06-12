@@ -386,7 +386,7 @@
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
-- [Chess](https://github.com/hkirat/awesome-chess#readme)
+- [Chess](https://github.com/mbiesiad/awesome-chess#readme)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
 - [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
