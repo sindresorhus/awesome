@@ -15,7 +15,7 @@
 - **Don't waste my time.** Do a good job, adhere to all the guidelines, and be responsive.
 - **You have to review at least 2 other [open pull requests](https://github.com/sindresorhus/awesome/pulls?q=is%3Apr+is%3Aopen).**
 	Try to prioritize unreviewed PRs, but you can also add more comments to reviewed PRs. Go through the below list when reviewing. This requirement is meant to help make the Awesome project self-sustaining. Comment here which PRs you reviewed. You're expected to put a good effort into this and to be thorough. Look at previous PR reviews for inspiration.
-- You have read and understood the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/master/create-list.md).
+- You have read and understood the [instructions for creating a list](create-list.md).
 - This pull request has a title in the format `Add Name of List`.
 	- ✅ `Add Swift`
 	- ✅ `Add Software Architecture`
@@ -38,6 +38,7 @@
 - **Has been around for at least 30 days.**<br>That means 30 days from either the first real commit or when it was open-sourced. Whatever is most recent.
 - Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
 - Run [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) on your list and fix the reported issues. If there are false-positives or things that cannot/shouldn't be fixed, please [report it](https://github.com/sindresorhus/awesome-lint/issues/new).
+- The default branch should be named [`main`, not `master`](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/).
 - **Includes a succinct description of the project/theme at the top of the readme.** [(Example)](https://github.com/willempienaar/awesome-quantified-self)
 	- ✅ `Mobile operating system for Apple phones and tablets.`
 	- ✅ `Prototyping interactive UI designs.`
@@ -65,7 +66,7 @@
 	- The image should link to the project website or any relevant website.
 	- **The image should be high-DPI.** Set it to maximum half the width of the original image.
 - Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
-- Includes the [Awesome badge](https://github.com/sindresorhus/awesome/blob/master/awesome.md#awesome-badge).
+- Includes the [Awesome badge](awesome.md#awesome-badge).
 	- Should be placed on the right side of the readme heading.
 		- Can be placed centered if the list has a centered graphics header.
 	- Should link back to this list.
@@ -80,7 +81,7 @@
 	- Place a file named `license` or `LICENSE` in the repo root with the license text.
 	- **Do not** add the license name or text to the readme. GitHub already shows the license name at the top of the repo.
 	- To verify that you've read all the guidelines, please comment on your pull request with just the word `unicorn`.
-- Has [contribution guidelines](https://github.com/sindresorhus/awesome/blob/master/awesome.md#include-contribution-guidelines).
+- Has [contribution guidelines](awesome.md#include-contribution-guidelines).
 	- The file should be named `contributing.md`. Casing is up to you.
 - Has consistent formatting and proper spelling/grammar.
 	- The link and description are separated by a dash. <br>Example: `- [AVA](…) - JavaScript test runner.`
