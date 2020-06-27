@@ -394,6 +394,7 @@
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) - Java game framework.
 - [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 - [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
+- [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 
 ## Development Environment
 
