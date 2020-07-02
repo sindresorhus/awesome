@@ -1,0 +1,17 @@
+name: Awesome readme lint double link action
+on:
+  pull_request:
+    types: [opened, synchronize]
+    branches:
+      - main
+jobs:
+  build:
+    name: awesome readme lint double link
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Scrum/awesome-readme-lint-double-link-action@v0.1.10
+        with:
+          entry: 'readme.md'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
