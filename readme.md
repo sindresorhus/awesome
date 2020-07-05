@@ -556,6 +556,7 @@
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+- [Hive](https://github.com/ledgerconnect/awesome-hive#readme) - Open, fast, scalable, powerful blockchain for Web 3.0 and list of services, tools, apps built on it.
 
 ## Higher Education
 
