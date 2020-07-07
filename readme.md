@@ -386,7 +386,7 @@
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
-- [Chess](https://github.com/mbiesiad/awesome-chess#readme)
+- [Chess](https://github.com/mbiesiad/awesome-chess#readme) - A two-player strategy board game played on a checkered board with 64 squares arranged in an 8×8 grid.
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
 - [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
