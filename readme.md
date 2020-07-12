@@ -105,7 +105,7 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
-- [Cloud Native](https://github.com/rootsongjc/awesome-cloud-native) - A curated list of cloud native tools, software, and tutorials.
+- [Cloud Native](https://github.com/rootsongjc/awesome-cloud-native#readme) - A curated list of cloud native tools, software, and tutorials.
 
 
 ## Programming Languages
