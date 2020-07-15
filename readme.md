@@ -294,7 +294,7 @@
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
-- [Financial AI](https://github.com/georgezouq/awesome-ai-in-finance) - Library for AI algorithm used in financial market.
+- [Financial AI](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Library for AI algorithm used in financial market.
 
 
 ## Big Data
