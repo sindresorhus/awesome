@@ -527,6 +527,7 @@
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
+- [Outsourcing](https://github.com/morenoh149/awesome-outsourcing#readme) - The practice of hiring a business to perform work that might usually be done in-house.
 
 ## Work
 
