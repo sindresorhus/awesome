@@ -411,6 +411,7 @@
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
 	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) - Dynamic pinned gists for your GitHub profile.
+	- [Profile readme_stats](https://github.com/anmol098/waka-readme-stats#readme) - Dynamically Generated Stats for your GitHub Profile readme.	
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - Enhance the `git` CLI.
