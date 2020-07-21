@@ -695,7 +695,7 @@
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
-
+- [Cambio por el clima](https://github.com/adriamarcet/awesome-cambio-para-el-clima#readme) - Day to day changes and resources against climate change.
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
