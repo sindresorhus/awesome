@@ -200,6 +200,7 @@
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
+    - [BalmJS](https://github.com/balmjs/balm#readme) - A flexible Front-End workflow for webapps.
 - [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
@@ -274,7 +275,6 @@
 - [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
-- [BalmJS](https://github.com/balmjs/balm#readme) - A flexible Front-End workflow for webapps.
 
 ## Back-End Development
 
