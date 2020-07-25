@@ -695,7 +695,7 @@
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
-- [Knative](https://github.com/anksos/awesome-knative#readme) - Knative resources and events list.
+- [Knative](https://github.com/anksos/awesome-knative#readme) - Knative is a kubernetes-based platform to deploy and manage serverless workloads.
 
 ## Related
 
