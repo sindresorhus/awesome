@@ -689,7 +689,7 @@
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
-- [Astronomy](https://github.com/mbiesiad/awesome-astronomy#readme) - Everything related to the astronomy, a natural science that studies celestial objects and phenomena using mathematics, physics, and chemistry in order to explain their origin and evolution.
+- [Astronomy](https://github.com/mbiesiad/awesome-astronomy#readme) - Astronomy, astronomical phenomenons and celestial mechanics.
 
 ## Related
 
