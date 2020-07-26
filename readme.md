@@ -334,6 +334,7 @@
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [Formal Languages & Compilers](https://github.com/patrickporto/awesome-compilers-languages#readme) - Programming language design, domain specific languages and homebrew compilers.
 
 ## Big Data
 
