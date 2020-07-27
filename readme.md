@@ -301,7 +301,7 @@
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
-- [CDK](https://github.com/eladb/awesome-cdk) - Open-source software development framework for defining cloud infrastructure in code.
+- [CDK](https://github.com/eladb/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 
 ## Computer Science
 
