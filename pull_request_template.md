@@ -87,6 +87,7 @@
 	- The link and description are separated by a dash. <br>Example: `- [AVA](…) - JavaScript test runner.`
 	- The description starts with an uppercase character and ends with a period.
 	- Consistent and correct naming. For example, `Node.js`, not `NodeJS` or `node.js`.
+- Doesn't use [hard-wrapping](https://stackoverflow.com/questions/319925/difference-between-hard-wrap-and-soft-wrap).
 - Doesn't include a Travis badge.<br>You can still use Travis for list linting, but the badge has no value in the readme.
 - Doesn't include an `Inspired by awesome-foo` or `Inspired by the Awesome project` kinda link at the top of the readme. The Awesome badge is enough.
 
