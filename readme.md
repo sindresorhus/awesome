@@ -463,6 +463,8 @@
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+- [Jitsi](https://github.com/easyjitsi/awesome-jitsi/#readme) - Secure, fully featured, and completely free video conferencing.
+
 
 ## Learn
 
