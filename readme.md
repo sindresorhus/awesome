@@ -215,6 +215,7 @@
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - Markup language used for websites & web apps.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
+- [Web Effect](https://github.com/lindelof/awesome-web-effect#readme) - A series of exquisite and compact web page cool effects
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) - JavaScript library.
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) - JavaScript toolkit.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
