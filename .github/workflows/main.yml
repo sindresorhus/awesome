@@ -32,9 +32,13 @@ jobs:
       - name: diff
         run: git diff main readme.md | grep ^+
 
+      - name: Set selected color
+        run: echo '::set-env name=SELECTED_COLOR::green'
+      - name: Get color
+        run: echo 'The selected color is' $SELECTED_COLOR
+
       - name: diff2
         run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' |  sed 's/#readme//'
-
       
       - name: find repo
         run: REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//') && echo "::set-env name={REPO_TO_LINT}::{$REPO_TO_LINT}"
