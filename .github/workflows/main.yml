@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: find repo
-        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I {} echo "::set-env name=REPO_TO_LINT::{}"
+        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' #| xargs -I {} echo "::set-env name=REPO_TO_LINT::{}"
 
       # - name: validate repo
       #   run: if [ -z ${REPO_TO_LINT+x} ]; then echo "var is unset"; else echo "var is set to '$var'"; fi
