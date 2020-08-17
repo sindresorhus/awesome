@@ -1,12 +1,14 @@
 # This is a basic workflow for github actions
 
-name: CI
+name: LINT_NEW_LIST
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
   pull_request:
     branches: [main]
+    paths:
+      - 'readme.md'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -27,7 +29,7 @@ jobs:
         run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I {} echo "::set-env name=REPO_TO_LINT::{}"
 
       - name: validate repo
-        run: if [ -z ${REPO_TO_LINTT+x} ]; then echo "Link to your list using the form https://....#readme" && exit 1; else echo "Repo detected '$var'"; fi
+        run: if [ -z ${REPO_TO_LINT+x} ]; then echo "Link to your list using the form https://....#readme" && exit 1; else echo "Repo detected '$var'"; fi
 
       - name: clone
         run: echo "Cloning $REPO_TO_LINT" && mkdir cloned && cd cloned && git clone "$REPO_TO_LINT" .
