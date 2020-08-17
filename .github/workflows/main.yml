@@ -29,6 +29,9 @@ jobs:
       - name: fetch
         run: git fetch origin main:main && git diff --name-only main
 
+      - name: diff
+        run: git diff main readme.md
+
       
       - name: find repo
         run: export REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//')
