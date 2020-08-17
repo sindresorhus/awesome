@@ -37,7 +37,7 @@ jobs:
 
       
       - name: find repo
-        run: REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//') && ::set-env name={REPO_TO_LINT}::{$REPO_TO_LINT}
+        run: REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//') && echo "::set-env name={REPO_TO_LINT}::{$REPO_TO_LINT}"
       
       - name: echo repo
         run: echo "$REPO_TO_LINT"
