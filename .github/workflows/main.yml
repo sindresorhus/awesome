@@ -33,7 +33,7 @@ jobs:
         run: git diff main readme.md | grep ^+
 
       - name: diff2
-        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme'
+        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' |  sed 's/#readme//'
 
       
       - name: find repo
