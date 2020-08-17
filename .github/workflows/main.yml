@@ -23,14 +23,14 @@ jobs:
       - name: find repo
         run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I {} echo "::set-env name=REPO_TO_LINT::{}"
 
-      - name: validate repo
-        run: if [ -z ${REPO_TO_LINT+x} ]; then echo "var is unset"; else echo "var is set to '$var'"; fi
+      # - name: validate repo
+      #   run: if [ -z ${REPO_TO_LINT+x} ]; then echo "var is unset"; else echo "var is set to '$var'"; fi
       
       - name: fetch
         run: git fetch origin main:main
 
       - name: clone
-        run: echo "about to clone $REPO_TO_LINT" && mkdir cloned && cd cloned && git clone "$REPO_TO_LINT" .
+        run: echo "cloning $REPO_TO_LINT" && mkdir cloned && cd cloned && git clone "$REPO_TO_LINT" .
       
       - name: lint
         run: npx awesome-lint      
