@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v2
       
       - name: find repo
-        run: REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//')
+        run: export REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//')
       
       - name: echo repo
         run: echo "$REPO_TO_LINT"
