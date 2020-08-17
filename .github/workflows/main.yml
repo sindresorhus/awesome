@@ -25,20 +25,14 @@ jobs:
       - name: fetch
         run: git fetch origin main:main
 
-      - name: Set selected color
-        run: echo '::set-env name=SELECTED_COLOR::green'
-
-      - name: Get color
-        run: echo 'The selected color is' $SELECTED_COLOR
-
       - name: diff2
         run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' |  sed 's/#readme//'
       
       - name: find repo
-        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I OUT echo "::set-env name=REPO_TO_LINT::$OUT"
+        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I OUT echo "::set-env name=REPO_TO_LINT::OUT"
       
       - name: echo repo
-        run: echo "$REPO_TO_LINT"
+        run: echo "about to clone $REPO_TO_LINT"
       
       - name: clone
         run: mkdir cloned && cd cloned && git clone "$REPO_TO_LINT" .
