@@ -27,7 +27,7 @@ jobs:
         run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I {} echo "::set-env name=REPO_TO_LINT::{}"
 
       - name: validate repo
-        run: if [ -z ${REPO_TO_LINTT+x} ]; then echo 'Link to your list starting with https and ending with \#readme' && exit 1; else echo "var is set to '$var'"; fi
+        run: if [ -z ${REPO_TO_LINTT+x} ]; then echo "Link to your list using the form https://....#readme" && exit 1; else echo "Repo detected '$var'"; fi
 
       - name: clone
         run: echo "Cloning $REPO_TO_LINT" && mkdir cloned && cd cloned && git clone "$REPO_TO_LINT" .
