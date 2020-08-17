@@ -30,7 +30,10 @@ jobs:
         run: git fetch origin main:main && git diff --name-only main
 
       - name: diff
-        run: git diff main readme.md
+        run: git diff main readme.md | grep ^+
+
+      - name: diff2
+        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme'
 
       
       - name: find repo
