@@ -25,6 +25,10 @@ jobs:
 
       - name: status
         run: git status
+
+      - name: fetch
+        run: git fetch origin master:master && git diff --name-only master
+
       
       - name: find repo
         run: export REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//')
