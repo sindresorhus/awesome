@@ -19,9 +19,15 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-        with:
-          ## fetch depth 0 (aka fetch all) is needed to check repo age
-          fetch-depth: 0
       
-      - name: Run awesome-lint
-        run: npx awesome-lint
+      - name: find repo
+        run: REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//')
+      
+      - name: echo repo
+        run: echo "$REPO_TO_LINT"
+      
+      - name: clone
+        run: mkdir cloned && cd cloned && git clone "$REPO_TO_LINT" .
+      
+      - name: lint
+        run: npx awesome-lint      
