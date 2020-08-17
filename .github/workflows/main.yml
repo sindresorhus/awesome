@@ -19,6 +19,10 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+
+
+      - name: status
+        run: git status
       
       - name: find repo
         run: export REPO_TO_LINT=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//')
