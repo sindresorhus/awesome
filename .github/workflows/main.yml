@@ -27,7 +27,7 @@ jobs:
         run: git status
 
       - name: fetch
-        run: git fetch origin master:master && git diff --name-only master
+        run: git fetch origin main:main && git diff --name-only main
 
       
       - name: find repo
