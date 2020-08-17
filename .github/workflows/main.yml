@@ -1,12 +1,13 @@
 # This is a basic workflow for github actions
 
-name: LINT_NEW_LIST
+name: lint_new_list
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
   pull_request:
     branches: [main]
+    ## only run this job when readme changes
     paths:
       - 'readme.md'
 
