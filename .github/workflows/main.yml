@@ -35,7 +35,7 @@ jobs:
         run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' |  sed 's/#readme//'
       
       - name: find repo
-        run: OUTTER=$(git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//') && echo "::set-env name=REPO_TO_LINT::$OUTTER"
+        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I OUT echo "::set-env name=REPO_TO_LINT::$OUT"
       
       - name: echo repo
         run: echo "$REPO_TO_LINT"
