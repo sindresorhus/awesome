@@ -220,6 +220,7 @@
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
 - [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
+- [Android Learning Resources](https://github.com/androiddevnotes/awesome-android-learning-resources)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
 - [Meteor](https://github.com/Urigo/awesome-meteor#readme)
 - [BEM](https://github.com/sturobson/BEM-resources#readme)
