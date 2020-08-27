@@ -178,7 +178,6 @@
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - Server-side scripting language.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - Package manager.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
-- [Assembler](https://github.com/lurumdare/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
