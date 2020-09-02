@@ -397,6 +397,7 @@
 - [PlayCanvas](https://github.com/playcanvas/awesome-playcanvas#readme) - Game engine.
 - [Game Remakes](https://github.com/radek-sprta/awesome-game-remakes#readme) - Actively maintained open-source game remakes.
 - [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
+- [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 
 ## Development Environment
 
