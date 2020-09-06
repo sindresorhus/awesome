@@ -695,7 +695,7 @@
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
-- [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - Ansible is a Python-based, open source IT configuration management (CM) and automation platform.
+- [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - A Python-based, open source IT configuration management (CM) and automation platform.
 
 ## Related
 
