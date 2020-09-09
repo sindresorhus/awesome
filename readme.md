@@ -391,6 +391,7 @@
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
+- [Flash Briefings](https://github.com/davidsouza/awesome-flash-briefings) - Flash briefing sources
 
 
 ## Databases
