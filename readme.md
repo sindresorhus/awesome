@@ -1,15 +1,26 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
+	<h3>
+		<a href="https://www.producthunt.com/posts/recordia">My latest macOS app is on Product Hunt</a>
+	</h3>
+	<br>
+	<br>
+	<br>
 	<p>
 		<p>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
 			</sup>
 		</p>
+		<sup>Special thanks to:</sup>
 		<br>
 		<br>
+		<a href="https://standardresume.co">
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+		</a>
 	</p>
+	<br>
 	<br>
 	<br>
 </div>

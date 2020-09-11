@@ -22,6 +22,7 @@
 	- ❌ `Update readme.md`
 	- ❌ `Add Awesome Swift`
 	- ❌ `Add swift`
+	- ❌ `add Swift`
 	- ❌ `Adding Swift`
 	- ❌ `Added Swift`
 - Your entry here should include a short description about the project/theme of the list. **It should not describe the list itself.** The first character should be uppercase and the description should end in a dot. It should be an objective description and not a tagline or marketing blurb.
