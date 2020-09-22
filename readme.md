@@ -1,9 +1,9 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
-	<h3>
-		<a href="https://www.producthunt.com/posts/recordia">My latest macOS app is on Product Hunt</a>
-	</h3>
+	<h4>
+		Check out my latest iPhone app <a href="https://apps.apple.com/app/id1532588789">Photo Widget</a> which lets you add photos to your home screen
+	</h4>
 	<br>
 	<br>
 	<br>
