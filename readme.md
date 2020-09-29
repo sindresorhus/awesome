@@ -727,6 +727,7 @@
 - [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 - [QR codes](https://github.com/aureooms/awesome-qr-code) - QR code is the trademark for a type of matrix barcode.
+- [QR codes](https://github.com/aureooms/awesome-qr-code#readme) - QR code is the trademark for a type of matrix barcode.
 
 ## Related
 
