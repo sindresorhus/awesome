@@ -88,7 +88,7 @@
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - JavaScript API for hybrid apps.
 - [React Native](https://github.com/jondot/awesome-react-native#readme) - JavaScript framework for writing natively rendering mobile apps for iOS and Android.
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - Mobile app development IDE, testing, and distribution.
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
+- [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme) - World's most used operating system developed by Linus Torvalds
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
@@ -98,10 +98,10 @@
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
 - [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
-- [JVM](https://github.com/deephacks/awesome-jvm#readme)
+- [JVM](https://github.com/deephacks/awesome-jvm#readme) -Java Virtual Machine (JVM) is a engine that provides runtime environment to drive the Java Code or applications.
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
-- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+- [Windows](https://github.com/Awesome-Windows/Awesome#readme)- Operating System Developed by Microsoft.inc
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
@@ -112,7 +112,7 @@
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
 - [KDE](https://github.com/francoism90/awesome-kde#readme) - A free software community dedicated to creating an open and user-friendly computing experience.
-- [.NET](https://github.com/quozd/awesome-dotnet#readme)
+- [.NET](https://github.com/quozd/awesome-dotnet#readme) - Developer Platform developed by Microsoft. Open Source
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
@@ -179,10 +179,10 @@
 	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
-- [Dart](https://github.com/yissachar/awesome-dart#readme)
+- [Dart](https://github.com/yissachar/awesome-dart#readme)- Programming language by Google
 - [Java](https://github.com/akullpp/awesome-java#readme) - Popular secure object-oriented language designed for flexibility to "write once, run anywhere".
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
-- [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
+- [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme) - Programming language developed by Google
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
