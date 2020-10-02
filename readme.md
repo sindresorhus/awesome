@@ -285,7 +285,6 @@
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 - [Design systems](https://github.com/klaufel/awesome-design-system#readme) - An ever evolving collection of reusable components, guided by rules that ensure consistency and speed, by being the single source of truth for any product development.
 
-
 ## Back-End Development
 
 - [Flask](https://github.com/humiaozuzu/awesome-flask#readme) - Python framework.
