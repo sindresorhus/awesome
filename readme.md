@@ -17,7 +17,7 @@
 		<br>
 		<br>
 		<a href="https://standardresume.co">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="200"/>
 		</a>
 	</p>
 	<br>
