@@ -84,7 +84,7 @@
 	- To verify that you've read all the guidelines, please comment on your pull request with just the word `unicorn`.
 - Has [contribution guidelines](awesome.md#include-contribution-guidelines).
 	- The file should be named `contributing.md`. Casing is up to you.
-	- It can optionally be linked from the readme in a dedicated section titled `Contributing`, positionned at the top or bottom of the main content.
+	- It can optionally be linked from the readme in a dedicated section titled `Contributing`, positioned at the top or bottom of the main content.
 	- The section should not appear in the Table of Contents.
 - All non-important but necessary content (like extra-copyright notices, hyperlinks to sources, pointers to expansive content, ...) should be grouped in a `Footnotes` section at the bottom of the readme. The section should not be present in the Table of Contents.
 - Has consistent formatting and proper spelling/grammar.
