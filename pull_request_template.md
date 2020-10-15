@@ -75,15 +75,19 @@
 	- Should be named `Contents`, not `Table of Contents`.
 	- Should be the first section in the list.
 	- Should only have one level of [nested lists](https://commonmark.org/help/tutorial/10-nestedLists.html), preferably none.
+	- Must not feature `Contributing` or `Footnotes` sections.
 - Has an appropriate license.
 	- **We strongly recommend the [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/), but any [Creative Commons license](https://creativecommons.org/choose/) will work.**
 		- Tip: You can quickly add it to your repo by going to this URL: `https://github.com/<user>/<repo>/community/license/new?branch=master&template=cc0-1.0` (replace `<user>` and `<repo>` accordingly).
 	- A code license like MIT, BSD, Apache, GPL, etc, is not acceptable. Neither are WTFPL and [Unlicense](https://unlicense.org).
 	- Place a file named `license` or `LICENSE` in the repo root with the license text.
-	- **Do not** add the license name or text to the readme. GitHub already shows the license name at the top of the repo.
+	- **Do not** add the license name, text, or a `Licence` section to the readme. GitHub already shows the license name and link to the full text at the top of the repo.
 	- To verify that you've read all the guidelines, please comment on your pull request with just the word `unicorn`.
 - Has [contribution guidelines](awesome.md#include-contribution-guidelines).
 	- The file should be named `contributing.md`. Casing is up to you.
+	- It can optionally be linked from the readme in a dedicated section titled `Contributing`, positioned at the top or bottom of the main content.
+	- The section should not appear in the Table of Contents.
+- All non-important but necessary content (like extra copyright notices, hyperlinks to sources, pointers to expansive content, etc) should be grouped in a `Footnotes` section at the bottom of the readme. The section should not be present in the Table of Contents.
 - Has consistent formatting and proper spelling/grammar.
 	- The link and description are separated by a dash. <br>Example: `- [AVA](…) - JavaScript test runner.`
 	- The description starts with an uppercase character and ends with a period.
