@@ -631,6 +631,7 @@
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
+- [Deepnote](https://github.com/ramene/awesome-deepnote#readme) - Data science notebooks for teams
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
 - [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
