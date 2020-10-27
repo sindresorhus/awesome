@@ -475,6 +475,7 @@
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+- [icons-font-customization](https://github.com/uuware/icons-font-customization) - &#x1F536;A collection of over 33,000 high-quality free svg icons and tools for generating customized icon font. All icons are completely free for personal or business requirements. Open [All icons](https://uuware.github.io/icons-font-customization/dist/), to view all of them.
 
 ## Learn
 
