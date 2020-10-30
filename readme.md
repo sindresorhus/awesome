@@ -127,6 +127,7 @@
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 - [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+- [Home Assistant Francophone](https://github.com/hacf-fr/awesome-francophone-home-assistant#readme) - Open source home automation for french speakers
 
 ## Programming Languages
 
