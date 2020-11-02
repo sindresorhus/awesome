@@ -630,6 +630,7 @@
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
 - [Social Media Share Links](https://github.com/vinkla/shareable-links#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
+- [Minimalist frameworks](https://github.com/neiesc/awesome-minimalist)
 - [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
