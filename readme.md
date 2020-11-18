@@ -285,6 +285,7 @@
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 - [concent](https://github.com/concentjs/concent) - State management that tailored for react, it is simple、predictable、progressive and efficient.
+- [FFCreator](https://github.com/tnfe/FFCreator) - A fast short video processing library based on node.js.
 
 ## Back-End Development
 
