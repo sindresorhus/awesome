@@ -341,6 +341,7 @@
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
 	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
+	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
@@ -509,8 +510,8 @@
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
-- [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
-- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
+- [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
+- [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
@@ -576,6 +577,7 @@
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
+- [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 
 ## Higher Education
 
@@ -608,7 +610,6 @@
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
 - [CSV](https://github.com/secretGeek/awesomeCSV#readme) - A text file format that stores tabular data and uses a comma to separate values.
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
-- [Sysadmin](https://github.com/n1trux/awesome-sysadmin#readme)
 - [Radio](https://github.com/kyleterry/awesome-radio#readme)
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
 - [Analytics](https://github.com/onurakpolat/awesome-analytics#readme)
