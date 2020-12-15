@@ -715,7 +715,7 @@
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 - [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
-- [Translations](https://github.com/mbiesiad/awesome-translations#readme) - Adaptation of a text from one language to many others.
+- [Translations](https://github.com/mbiesiad/awesome-translations#readme) - Adaptation of a text or a speech from one language to many others.
 
 ## Related
 
