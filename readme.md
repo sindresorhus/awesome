@@ -373,6 +373,7 @@
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
+- [Awesome Protocols](https://github.com/chrvadala/awesome-protocols) - Main protocols and open standards with RFC links.
 
 ## Books
 
