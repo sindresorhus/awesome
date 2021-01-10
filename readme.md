@@ -728,6 +728,7 @@
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 - [QR codes](https://github.com/aureooms/awesome-qr-code) - QR code is the trademark for a type of matrix barcode.
 - [QR codes](https://github.com/aureooms/awesome-qr-code#readme) - QR code is the trademark for a type of matrix barcode.
+- [QR Code](https://github.com/aureooms/awesome-qr-code#readme) - A QR code is a type of matrix barcode that can be used to store and share a small amount of arbitrary information.
 
 ## Related
 
