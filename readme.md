@@ -585,7 +585,6 @@
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Hive](https://github.com/ecency/awesome-hive#readme) - Open source platform built for blockchain social networks, games and more financial applications.
 
-
 ## Higher Education
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
