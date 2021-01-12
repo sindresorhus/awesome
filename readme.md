@@ -726,7 +726,7 @@
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 - [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
-- [QR Code](https://github.com/aureooms/awesome-qr-code#readme) - A QR code is a type of matrix barcode that can be used to store and share up to 2953 bytes of arbitrary information.
+- [QR Code](https://github.com/aureooms/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 
 ## Related
 
