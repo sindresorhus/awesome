@@ -1,10 +1,6 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
-	<h4>
-		Check out my latest iPhone app <a href="https://apps.apple.com/app/id1532588789">Photo Widget</a> which lets you add photos to your home screen
-	</h4>
-	<br>
 	<br>
 	<br>
 	<p>
