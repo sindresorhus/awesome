@@ -1,5 +1,6 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<h3><a href="https://www.producthunt.com/posts/shareful">My macOS app Shareful is on Product Hunt</a></h3>
 	<br>
 	<br>
 	<br>
@@ -14,6 +15,11 @@
 		<br>
 		<a href="https://standardresume.co/tech">
 			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+		</a>
+		<br>
+		<br>
+		<a href="https://retool.com/?utm_campaign=sindresorhus">
+			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
 		</a>
 	</p>
 	<br>
