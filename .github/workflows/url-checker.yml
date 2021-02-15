@@ -7,7 +7,7 @@ on:
     branches: [ '**' ]
     types: [ opened, reopened, synchronize ]
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "23 23 * * *"
 
 jobs:
   check:
