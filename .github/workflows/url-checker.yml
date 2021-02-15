@@ -1,0 +1,39 @@
+name: URL Checker
+
+on:
+  push:
+    branches: [ '**' ]
+  pull_request:
+    branches: [ '**' ]
+    types: [ opened, reopened, synchronize ]
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  check:
+    name: Check
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Code
+      uses: actions/checkout@master
+    - name: urls-checker
+      uses: urlstechie/urlchecker-action@master
+      with:
+        # A subfolder or path to navigate to in the present or cloned repository
+        # subfolder: docs
+
+        # A comma-separated list of file types to cover in the URL checks
+        file_types: .md
+
+        # Choose whether to include file with no URLs in the prints.
+        print_all: true
+
+        # The timeout seconds to provide to requests, defaults to 5 seconds
+        timeout: 5
+
+        # How many times to retry a failed request (each is logged, defaults to 1)
+        retry_count: 3
+
+        # choose if the force pass or not
+        # force_pass : true
