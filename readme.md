@@ -137,6 +137,7 @@
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
+	- [CLI](https://github.com/Kikobeats/awesome-cli#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - For npm packages.
