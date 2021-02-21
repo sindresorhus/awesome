@@ -136,6 +136,7 @@
 	- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter.
 	- [Must Watch Talks](https://github.com/bolshchikov/js-must-watch#readme)
 	- [Tips](https://github.com/loverajoel/jstips#readme)
+	- [Full-text search](https://github.com/Kikobeats/awesome-full-text-search#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
 	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
