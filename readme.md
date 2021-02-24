@@ -1,11 +1,6 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
-	<h4>
-		Check out my latest iPhone app <a href="https://apps.apple.com/app/id1532588789">Photo Widget</a> which lets you add photos to your home screen
-	</h4>
-	<br>
-	<br>
 	<br>
 	<p>
 		<p>
@@ -16,8 +11,13 @@
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co">
+		<a href="https://standardresume.co/tech">
 			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
+		</a>
+		<br>
+		<br>
+		<a href="https://retool.com/?utm_campaign=sindresorhus">
+			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
 		</a>
 	</p>
 	<br>
@@ -127,6 +127,7 @@
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) - Developer platform for Google Assistant.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 - [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+- [DOS](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 
 ## Programming Languages
 
@@ -285,6 +286,7 @@
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
 - [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+- [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 
 ## Back-End Development
 
@@ -415,6 +417,7 @@
 - [Flame](https://github.com/flame-engine/awesome-flame#readme) - Game engine for Flutter.
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
+- [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 
 ## Development Environment
 
@@ -686,7 +689,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
-- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser. 
+- [Web Monetization](https://github.com/thomasbnt/awesome-web-monetization#readme) - A free open web standard service that allows you to send money directly in your browser.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
@@ -727,6 +730,7 @@
 - [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 - [QR Code](https://github.com/aureooms/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+- [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 
 ## Related
 
