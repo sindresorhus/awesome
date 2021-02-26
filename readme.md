@@ -399,6 +399,7 @@
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
+- [raylib](https://github.com/Rabios/awesome-raylib), A simple and easy-to-use library to enjoy videogames programming.
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
