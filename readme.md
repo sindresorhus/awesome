@@ -334,7 +334,7 @@
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
-- [Egocentric Vision](https://github.com/Sid2697/awesome-egocentric#readme) - A sub-field of computer vision that analyses image/video data obtained using a wearable camera simulating a person's visual field.
+- [Egocentric Vision](https://github.com/Sid2697/awesome-egocentric#readme) - A sub-field of computer vision that analyses image/video from a wearable camera simulating a person‘s visual field.
 
 ## Big Data
 
