@@ -723,10 +723,9 @@
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
 - [Ansible](https://github.com/KeyboardInterrupt/awesome-ansible#readme) - A Python-based, open source IT configuration management and automation platform.
-- [Startpage](https://github.com/jnmcfly/awesome-startpage) - Startpages for more productivity and efficiency.
+- [Startpage](https://github.com/jnmcfly/awesome-startpage#readme) - A startpage will be shown when you start your browser, new tab or window
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
-
 
 ## Related
 
