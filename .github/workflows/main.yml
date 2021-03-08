@@ -1,0 +1,43 @@
+# This is a basic workflow for github actions
+
+name: lint_new_list
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  pull_request:
+    branches: [main]
+    ## only run this job when readme changes
+    paths:
+      - 'readme.md'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  run_awesome_lint:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # by default github actions doesn't fetch the whole repo so we are getting the latest commit on main
+      - name: fetch
+        run: git fetch origin main:main --depth=1
+
+      # find the repo in the git diff and then set it to an env variables
+      - name: find repo
+        run: git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I {} echo "::set-env name=REPO_TO_LINT::{}"
+
+      # If there's no repo found leave an error message
+      - name: validate repo
+        run: if [ -z ${REPO_TO_LINT+x} ]; then echo "Link to your list using the form https://....#readme" && exit 0; else echo "Repo detected '$var'"; fi
+
+      # Clone the repo into a new folder
+      - name: clone
+        run: echo "Cloning $REPO_TO_LINT" && mkdir cloned && cd cloned && git clone --depth=1 "$REPO_TO_LINT" .
+      
+      - name: lint
+        run: npx awesome-lint      
