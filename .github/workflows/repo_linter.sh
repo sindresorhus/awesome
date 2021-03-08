@@ -18,7 +18,6 @@ if [ -z ${REPO_TO_LINT+x} ];
 then 
     echo "No new link found in the format:  https://....#readme"
 else
-    echo "Repo detected '$var'"
     echo "Cloning $REPO_TO_LINT"
     mkdir cloned
     cd cloned
