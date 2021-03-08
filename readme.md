@@ -599,7 +599,7 @@
 - [JMeter](https://github.com/aliesbelik/awesome-jmeter#readme) - Load testing and performance measurement tool.
 - [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
-- [Software Testing & QA Roadmap](https://github.com/fityanos/Quality-Assurance-Road-Map#readme) - How to start & build a career in software testing.
+- [Quality Assurance Road Map](https://github.com/fityanos/awesome-quality-assurance-road-map#readme) - How to start & build a career in software testing.
 
 ## Miscellaneous
 
