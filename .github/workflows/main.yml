@@ -40,4 +40,4 @@ jobs:
         run: echo "Cloning $REPO_TO_LINT" && mkdir cloned && cd cloned && git clone --depth=1 "$REPO_TO_LINT" .
       
       - name: lint
-        run: npx awesome-lint      
+        run: npx awesome-lint
