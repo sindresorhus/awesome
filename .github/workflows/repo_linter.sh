@@ -9,10 +9,12 @@ git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//
 # If there's no repo found leave an error message
 if [ -z ${REPO_TO_LINT+x} ];
 then 
-    echo "Link to your list using the form https://....#readme" && exit 0; 
+    echo "No new link found in the format:  https://....#readme"
 else
-    echo "Repo detected '$var'"; 
-    # Clone the repo into a new folder
-    echo "Cloning $REPO_TO_LINT" && mkdir cloned && cd cloned && git clone --depth=1 "$REPO_TO_LINT" .
+    echo "Repo detected '$var'"
+    echo "Cloning $REPO_TO_LINT"
+    mkdir cloned
+    cd cloned
+    git clone --depth=1 "$REPO_TO_LINT" .
     npx awesome-lint
 fi
