@@ -4,7 +4,14 @@
 git fetch origin main:main --depth=1
 
 # find the repo in the git diff and then set it to an env variables
-git diff main readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//' | xargs -I {} echo "::set-env name=REPO_TO_LINT::{}"
+REPO_TO_LINT=$(
+    git diff main readme.md | 
+    # Look for changes (indicated by lines startingi with +)
+    grep ^+ | 
+    # Get the line that includes the readme
+    grep -Eo 'https.*#readme' | 
+    # Get just the url
+    sed 's/#readme//')
 
 # If there's no repo found leave an error message
 if [ -z ${REPO_TO_LINT+x} ];
