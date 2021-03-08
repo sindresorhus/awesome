@@ -13,7 +13,7 @@ REPO_TO_LINT=$(
     # Get just the url
     sed 's/#readme//')
 
-# If there's no repo found leave an error message
+# If there's no repo found exit quietly
 if [ -z ${REPO_TO_LINT+x} ];
 then 
     echo "No new link found in the format:  https://....#readme"
