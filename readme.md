@@ -158,7 +158,7 @@
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
-	- [Full-text search](https://github.com/Kikobeats/awesome-full-text-search#readme)
+	- [Full-text search](https://github.com/Kikobeats/awesome-full-text-search#readme) - Quickly find all instances of text with in-memory and database solutions.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
