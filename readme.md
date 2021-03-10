@@ -354,6 +354,7 @@
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
+- [GPT-3](https://github.com/elyase/awesome-gpt3) - An autoregressive language model that uses deep learning to produce human-like text
 
 ## Big Data
 
