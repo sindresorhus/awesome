@@ -1,28 +1,14 @@
-# This is a basic workflow for github actions
-
-name: lint_new_list
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   pull_request:
     branches: [main]
-    ## only run this job when readme changes
     paths:
       - 'readme.md'
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  run_awesome_lint:
-    # The type of runner that the job will run on
+  lint:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      # Run the script that will lint any new repo added to readme
+        with:
+          fetch-depth: 0
       - name: run lint script
         run: ./.github/workflows/repo_linter.sh

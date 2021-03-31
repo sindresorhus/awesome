@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# by default github actions doesn't fetch the whole repo so we are getting the latest commit on main
-git fetch origin main:main --depth=1
-
 # Find the repo in the git diff and then set it to an env variables.
 REPO_TO_LINT=$(
 	git diff main readme.md |
