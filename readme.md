@@ -332,6 +332,7 @@
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+- [Projen](https://github.com/p6m7g8/awesome-projen#readme) - Open-source; define and maintain complex project configuration through code.
 
 ## Computer Science
 
