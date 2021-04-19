@@ -3,11 +3,11 @@
 # Find the repo in the git diff and then set it to an env variables.
 REPO_TO_LINT=$(
 	git diff main readme.md |
-	# Look for changes (indicated by lines startingi with +)
+	# Look for changes (indicated by lines starting with +).
 	grep ^+ |
-	# Get the line that includes the readme
+	# Get the line that includes the readme.
 	grep -Eo 'https.*#readme' |
-	# Get just the url
+	# Get just the URL.
 	sed 's/#readme//')
 
 # If there's no repo found, exit quietly.
