@@ -1,0 +1,14 @@
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'readme.md'
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: awesome-lint
+        run: ./.github/workflows/repo_linter.sh
