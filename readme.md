@@ -191,6 +191,7 @@
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
 - [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
 	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
+	- [Blogs from the web](https://github.com/Jeet1994/awesome-R-blogs/blob/master/README.md)
 - [D](https://github.com/dlang-community/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme) - Powerful dynamic multiparadigm language that facilitates iterative and interactive development.
 	- [Learning](https://github.com/GustavBertram/awesome-common-lisp-learning#readme)
