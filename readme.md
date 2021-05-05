@@ -2,6 +2,7 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
+	<hr>
 	<p>
 		<p>
 			<sup>
@@ -23,7 +24,7 @@
 		<br>
 		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
 			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
+				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="230" alt="Doppler">
 			</div>
 			<b>All your environment variables, in one place</b>
 			<div>
@@ -32,7 +33,20 @@
 				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
+			</div>
+			<b>Your app, enterprise-ready.</b>
+			<div>
+				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
+				<br>
+				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
+			</div>
+		</a>
 	</p>
+	<hr>
 	<br>
 	<br>
 	<br>
