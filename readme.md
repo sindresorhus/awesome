@@ -593,6 +593,7 @@
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+- [Developer Experience](https://github.com/prokopsimek/awesome-developer-experience#readme) - Developer experience resources, tools and practices.
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
