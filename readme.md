@@ -290,6 +290,7 @@
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
 - [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
+- [Rome](https://github.com/romeland/awesome-rome#readme) - A linter, compiler, bundler, and more for JavaScript, TypeScript, JSON, HTML, Markdown, and CSS. 
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Module bundler.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
