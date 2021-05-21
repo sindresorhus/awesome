@@ -45,6 +45,16 @@
 				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://strapi.io/?ref=sindresorhus">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/strapi-logo-white-bg.png" width="200" alt="Strapi">
+			</div>
+			<b>Strapi is the leading open-source headless CMS.</b>
+			<div>
+				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
