@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Find the repo in the git diff and then set it to an env variables.
-
+git --version
 git diff main -- readme.md
 git diff main -- readme.md | grep ^+
 git diff main -- readme.md | grep ^+ | grep -Eo 'https.*#readme' |
