@@ -2,13 +2,13 @@
 
 # Find the repo in the git diff and then set it to an env variables.
 git --version
-git diff main -- readme.md
-git diff main -- readme.md | grep ^+
-git diff main -- readme.md | grep ^+ | grep -Eo 'https.*#readme' |
-git diff main -- readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//'
+git diff origin/main -- readme.md
+git diff origin/main -- readme.md | grep ^+
+git diff origin/main -- readme.md | grep ^+ | grep -Eo 'https.*#readme' |
+git diff origin/main -- readme.md | grep ^+ | grep -Eo 'https.*#readme' | sed 's/#readme//'
 
 REPO_TO_LINT=$(
-	git diff main -- readme.md |
+	git diff origin/main -- readme.md |
 	# Look for changes (indicated by lines starting with +).
 	grep ^+ |
 	# Get the line that includes the readme.
