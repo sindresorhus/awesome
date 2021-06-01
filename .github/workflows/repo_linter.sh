@@ -17,7 +17,7 @@ else
 	echo "Cloning $REPO_TO_LINT"
 	mkdir cloned
 	cd cloned
-	git clone --depth=1 "$REPO_TO_LINT" $(pwd)
+	git clone "$REPO_TO_LINT" $(pwd)
 	ls -lax
 	npx awesome-lint
 fi
