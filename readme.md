@@ -682,6 +682,7 @@
 - [Open Source Photography](https://github.com/ibaaj/awesome-OpenSourcePhotography#readme)
 - [OpenGL](https://github.com/eug/awesome-opengl#readme) - Cross-platform API for rendering 2D and 3D graphics.
 - [GraphQL](https://github.com/chentsulin/awesome-graphql#readme)
+- [Urban & Regional Planning](https://github.com/APA-Technology-Division/urban-and-regional-planning-resources#readme) - Concerning the built environment and communities.
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
