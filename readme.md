@@ -55,6 +55,26 @@
 				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://oss.capital">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
+			</div>
+			<div>
+				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://bit.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/bitio-logo.svg" width="190" alt="bit.io">
+			</div>
+			<b>Instant, shareable cloud PostgreSQL database</b>
+			<div>
+				<sup>Import any dataset in seconds, share with anyone with a click, try without signing up</sup>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
