@@ -55,6 +55,26 @@
 				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://oss.capital">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
+			</div>
+			<div>
+				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://bit.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/bitio-logo.svg" width="190" alt="bit.io">
+			</div>
+			<b>Instant, shareable cloud PostgreSQL database</b>
+			<div>
+				<sup>Import any dataset in seconds, share with anyone with a click, try without signing up</sup>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -629,6 +649,7 @@
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source blockchain platform designed for business.
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
+- [Stacks Chain](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ## Higher Education
 
