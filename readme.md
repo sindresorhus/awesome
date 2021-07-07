@@ -104,6 +104,12 @@
 </p>
 <br>
 
+<div align="center">
+	<h2>
+		<a href="https://www.producthunt.com/posts/system-color-picker">My color picker app is on Product Hunt</a>
+	</h2>
+</div>
+
 ## Contents
 
 - [Platforms](#platforms)
@@ -631,6 +637,7 @@
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+- [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ## Networking
 
