@@ -32,6 +32,8 @@
 	- ❌ `- [Framer](…)`
 	- ❌ `- [Framer](…) - prototyping interactive UI designs`
 - Your entry should be added at the bottom of the appropriate category.
+- The title of your entry should be title-cased and the URL to your list should end in `#readme`.
+	- Example: `- [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - The discipline of designing and building software.`
 - The suggested Awesome list complies with the below requirements.
 
 ## Requirements for your Awesome list
