@@ -498,6 +498,8 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+- [VRChat](https://github.com/madjin/awesome-vrchat) - One-stop shop for people interested in developing content for VRchat
+
 
 ## Development Environment
 
@@ -821,6 +823,7 @@
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
+- [Metaverse](https://github.com/m3-org/awesome-metaverse) - Projects and information resources about the Metaverse
 
 ## Related
 
