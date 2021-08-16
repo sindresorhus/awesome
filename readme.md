@@ -92,6 +92,14 @@
 				</sub>
 			</div>
 		</a>
+		<br>
+		<br>
+		<a href="https://keygen.sh">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
+			</div>
+			<b>A dead-simple software licensing and distribution API built for developers</b>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -479,7 +487,7 @@
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
+- [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
