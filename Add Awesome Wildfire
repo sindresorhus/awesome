@@ -2,9 +2,15 @@
 
 <!-- Please fill in the below placeholders -->
 
-**[Insert URL to the list here]**
+**[https://github.com/ubc-lib-geo/awesome-wildfire]**
 
-**[Explain what this list is about and why it should be included here]**
+**[This list is a compilation of wildland fire resources in Canada, including where to find maps, data, research, podcasts, and Twitter accounts for Canada-wide and regional information.]**
+
+I reviewed 
+- [#2001](https://github.com/sindresorhus/awesome/pull/2001)
+- [#1985](https://github.com/sindresorhus/awesome/pull/1985)
+
+Just a note that I am aware not all my entries have a description. In those cases, I believe the title is descriptive enough and a description would be repetitive.
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
@@ -68,7 +74,7 @@
 	- Either centered, fullwidth, or placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
 	- The image should link to the project website or any relevant website.
 	- **The image should be high-DPI.** Set it to maximum half the width of the original image.
-- Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
+- Entries have a description, unless the title is descriptive enough by itself. It rarely is though. 
 - Includes the [Awesome badge](awesome.md#awesome-badge).
 	- Should be placed on the right side of the readme heading.
 		- Can be placed centered if the list has a centered graphics header.
