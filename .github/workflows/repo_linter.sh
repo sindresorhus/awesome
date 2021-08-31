@@ -11,7 +11,7 @@ REPO_TO_LINT=$(
 	sed 's/#readme//')
 
 # If there's no repo found, exit quietly.
-if [ -z ${REPO_TO_LINT+x} ]; then
+if [ -z "$REPO_TO_LINT" ]; then
 	echo "No new link found in the format:  https://....#readme"
 else
 	echo "Cloning $REPO_TO_LINT"
