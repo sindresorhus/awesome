@@ -796,7 +796,7 @@
 - [QR Code](https://github.com/aureooms/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
-- [Awesome Fetch](https://github.com/beucismis/awesome-fetch#readme) - Command-line fetch tools for system information.
+- [Fetch](https://github.com/beucismis/awesome-fetch#readme) - Command-line fetch tools for system information.
 
 ## Related
 
