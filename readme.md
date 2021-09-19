@@ -175,6 +175,7 @@
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
+	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
