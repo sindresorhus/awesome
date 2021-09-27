@@ -369,7 +369,8 @@
 - [Yew](https://github.com/jetli/awesome-yew#readme) - Rust framework inspired by Elm and React for creating multi-threaded frontend web apps with WebAssembly.
 - [Material-UI](https://github.com/nadunindunil/awesome-material-ui#readme) - Material Design React components for faster and easier web development.
 - [Building Blocks for Web Apps](https://github.com/componently-com/awesome-building-blocks-for-web-apps#readme) - Standalone features to be integrated into web apps.
-- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - App framework.
+- [Svelte](https://github.com/TheComputerM/awesome-svelte#readme) - Compiler that converts declarative component syntax into efficient JavaScript.
+- [SvelteKit](https://github.com/janosh/awesome-svelte-kit#readme) - Websites built with the SvelteKit app framework.
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
