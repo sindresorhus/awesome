@@ -672,7 +672,6 @@
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
-- [XRPL](https://github.com/yyolk/awesome-xrpl#readme) - Cool and Open Source XRP Ledger tools, applications, and services for users, operators, and developers.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
@@ -683,6 +682,8 @@
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
+- [XRPL](https://github.com/yyolk/awesome-xrpl#readme) - Decentralized, public, censorship-resistant blockchain led by a global developer community.
+
 
 ## Higher Education
 
