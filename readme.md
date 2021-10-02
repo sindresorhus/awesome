@@ -684,7 +684,6 @@
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [XRPL](https://github.com/yyolk/awesome-xrpl#readme) - Decentralized, public, censorship-resistant blockchain led by a global developer community.
 
-
 ## Higher Education
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
