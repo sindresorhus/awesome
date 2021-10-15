@@ -558,7 +558,8 @@
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
 - [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
-
+- [BerylDB](https://github.com/beryldb/beryldb) - A modular key-value database.
+ 
 ## Media
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
