@@ -613,6 +613,7 @@
 
 ## Content Management Systems
 
+- [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and App dashboard for managing SQL database content.
 - [Umbraco](https://github.com/umbraco-community/awesome-umbraco#readme)
 - [Refinery CMS](https://github.com/refinerycms-contrib/awesome-refinerycms#readme) - Ruby on Rails CMS.
 - [Wagtail](https://github.com/springload/awesome-wagtail#readme) - Django CMS focused on flexibility and user experience.
