@@ -830,6 +830,7 @@
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 - [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
+- [HIGH-TO-LOW](https://github.com/zakarialaoui10/HIGH-TO-LOW#readme) - codes in C and their equivalence in MIPS Assembly.
 
 ## Related
 
