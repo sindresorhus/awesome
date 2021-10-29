@@ -404,6 +404,8 @@
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
 - [CDK](https://github.com/kolomied/awesome-cdk#readme) - Open-source software development framework for defining cloud infrastructure in code.
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
+- [Express](https://github.com/expressjs/express#readme) - A simple Node.js framework for single, multi-page, and hybrid web applications.
+
 
 ## Computer Science
 
