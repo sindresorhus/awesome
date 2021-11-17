@@ -1,5 +1,7 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<h3><a href="https://www.producthunt.com/posts/actions-4">My Actions app is on Product Hunt</a></h3>
+	<br>
 	<br>
 	<br>
 	<hr>
