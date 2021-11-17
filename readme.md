@@ -1,5 +1,7 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<h3><a href="https://www.producthunt.com/posts/pandan">My macOS app Pandan is on Product Hunt</a></h3>
+	<br>
 	<br>
 	<br>
 	<hr>
