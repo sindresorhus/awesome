@@ -439,6 +439,7 @@
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - Evidence-based research on software systems.
+- [Graphics Programming](https://github.com/Graphics-Programming-Virtual-Meetup/awesome-graphics-programming#readme) - Write programs to synthesize and manipulate visual information.
 - [Static Analysis & Code Quality](https://github.com/analysis-tools-dev/static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - Learn to develop your own search engine.
 - [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - Computing which utilizes quantum mechanics and qubits on quantum computers.
