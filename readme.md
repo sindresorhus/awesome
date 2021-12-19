@@ -326,6 +326,7 @@
 - [Web Typography](https://github.com/deanhume/typography#readme)
 - [Web Accessibility](https://github.com/brunopulis/awesome-a11y#readme)
 - [Material Design](https://github.com/sachin1092/awesome-material#readme)
+- [GradientGenerator](https://github.com/stupid-kid-af/Gradient-Generator-Javascript/) - Generate your gradients
 - [D3](https://github.com/wbkd/awesome-d3#readme) - Library for producing dynamic, interactive data visualizations.
 - [Emails](https://github.com/jonathandion/awesome-emails#readme)
 - [jQuery](https://github.com/petk/awesome-jquery#readme) - Easy to use JavaScript library for DOM manipulation.
