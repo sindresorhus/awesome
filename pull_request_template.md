@@ -2,9 +2,9 @@
 
 <!-- Please fill in the below placeholders -->
 
-**[Insert URL to the list here]**
+https://github.com/suhwan-cho/awesome-video-object-segmentation
 
-**[Explain what this list is about and why it should be included here]**
+This list contains video object segmentation (VOS) papers that are accepted by leading computer vision conferences (CVPR, ICCV, ECCV, WACV, NeurIPS, and AAAI). Although VOS has attractive extensive attentions in recent years, there is no well-organized page that contains a list of recent VOS papers. I believe this list will be helpful to the newcomers and existing researchers that are interested in this field.
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
