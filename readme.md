@@ -290,7 +290,7 @@
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 - [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
-- [Peregrine](https://github.com/peregrine-lang/Peregrine#readme) - A Blazing-Fast Language for the Blazing-Fast world..
+- [Peregrine](https://github.com/peregrine-lang/Peregrine#readme) - A Blazing-Fast Language for the Blazing-Fast world...
 
 ## Front-End Development
 
