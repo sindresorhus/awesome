@@ -601,7 +601,6 @@
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
-- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing/unpacking executable formats (PE, ELF, ...).
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
@@ -614,6 +613,7 @@
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+- [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing/unpacking executable formats (PE, ELF, ...).
 
 ## Content Management Systems
 
