@@ -635,6 +635,8 @@
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots.
 - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
+- [Eurorack Modules](https://github.com/newdigate/eurorack-awesome#readme) - Eurorack modules projects. DIY and open-source.
+- [DIY Synths](https://github.com/Atarity/diy-synths#readme) - List of standalone (non-modular) synths projects. All open-source.
 
 ## Business
 
@@ -730,6 +732,7 @@
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
+- [Deploy Your Own SaaS](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs.
 - [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 - [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
 - [AMA](https://github.com/sindresorhus/amas#readme) - Ask Me Anything.
