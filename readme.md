@@ -102,6 +102,30 @@
 			</div>
 			<b>A dead-simple software licensing and distribution API built for developers</b>
 		</a>
+		<br>
+		<br>
+		<br>
+		<br>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="260" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
+			</div>
+		</a>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="260" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
+			</div>
+		</a>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
