@@ -1,6 +1,7 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<h3><a href="https://www.producthunt.com/posts/pandan">My macOS app Pandan is on Product Hunt</a></h3>
+	<h3><a href="https://www.producthunt.com/posts/actions-4">My Actions app is on Product Hunt</a></h3>
 	<br>
 	<br>
 	<br>
@@ -102,6 +103,30 @@
 			</div>
 			<b>A dead-simple software licensing and distribution API built for developers</b>
 		</a>
+		<br>
+		<br>
+		<br>
+		<br>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="260" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
+			</div>
+		</a>
+		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="260" alt="Stream">
+			</div>
+			<br>
+			<div>
+				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
+			</div>
+		</a>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -215,6 +240,7 @@
 - [DOS](https://github.com/balintkissdev/awesome-dos#readme) - Operating system for x86-based personal computers that was popular during the 1980s and early 1990s.
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
+- [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 
 ## Programming Languages
 
