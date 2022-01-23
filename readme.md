@@ -534,7 +534,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
-- [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sports.
+- [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ## Development Environment
 
