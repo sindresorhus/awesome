@@ -1,7 +1,5 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<h3><a href="https://www.producthunt.com/posts/actions-4">My Actions app is on Product Hunt</a></h3>
-	<br>
 	<br>
 	<br>
 	<hr>
@@ -105,10 +103,9 @@
 		<br>
 		<br>
 		<br>
-		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="260" alt="Stream">
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
 			</div>
 			<br>
 			<div>
@@ -117,7 +114,7 @@
 		</a>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-dark-mode-only">
 			<div>
-				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="260" alt="Stream">
+				<img src="https://sindresorhus.com/assets/thanks/stream-logo-dark.svg" width="220" alt="Stream">
 			</div>
 			<br>
 			<div>
@@ -535,6 +532,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+- [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ## Development Environment
 
@@ -734,6 +732,7 @@
 - [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 - [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
+- [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
 ## Miscellaneous
 
