@@ -237,7 +237,7 @@
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
-- [Capacitor](https://github.com/riderx/awesome-capacitor) - A cross-platform native runtime for web apps.
+- [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform native runtime for web apps.
 
 ## Programming Languages
 
