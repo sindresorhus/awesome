@@ -237,6 +237,7 @@
 - [Nix](https://github.com/nix-community/awesome-nix#readme) - Package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
+- [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
 - [Capacitor](https://github.com/riderx/awesome-capacitor#readme) - Cross-platform native runtime for web apps.
 
 ## Programming Languages
@@ -532,6 +533,7 @@
 - [Discord Communities](https://github.com/mhxion/awesome-discord-communities#readme) - Chat with friends and communities.
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
+- [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 
 ## Development Environment
 
