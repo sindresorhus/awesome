@@ -207,6 +207,7 @@
 - [JVM](https://github.com/deephacks/awesome-jvm#readme)
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
+- [Azure Architecture](https://github.com/lukemurraynz/awesome-azure-architecture#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
