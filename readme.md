@@ -748,7 +748,7 @@
 - [Discounts for Student Developers](https://github.com/AchoArnold/discount-for-student-dev#readme)
 - [Radio](https://github.com/kyleterry/awesome-radio#readme)
 - [Awesome](https://github.com/sindresorhus/awesome#readme) - Recursion illustrated.
-- [Analytics](https://github.com/onurakpolat/awesome-analytics#readme)
+- [Analytics](https://github.com/0xnr/awesome-analytics#readme)
 - [REST](https://github.com/marmelab/awesome-rest#readme)
 - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme)
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
