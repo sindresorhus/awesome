@@ -2,9 +2,6 @@
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
 	<br>
-	<h1><a href="https://posthog.com/blog/send-love-to-open-source">Send love to open-source projects</a></h1>
-	<br>
-	<br>
 	<hr>
 	<p>
 		<p>
