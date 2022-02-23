@@ -510,6 +510,7 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
 - [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+    - [Development Containers (devcontainers)](https://github.com/manekinekko/awesome-devcontainers#readme) - Well-defined development environments for Visual Studio Code and Github Codespaces.
 
 ## Gaming
 
