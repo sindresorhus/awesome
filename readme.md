@@ -1,8 +1,13 @@
 <div align="center">
-	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
+	<a href="https://vshymanskyy.github.io/StandWithUkraine">
+		<img width="500" height="350" src="media/logo-ua.svg" alt="Awesome">
+		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
+	</a>
 	<br>
 	<br>
-	<h2><a href="https://www.producthunt.com/posts/pure-paste">Paste as plain text by default on macOS</a></h2>
+	<br>
+	<br>
+	<br>
 	<br>
 	<br>
 	<hr>
