@@ -245,6 +245,7 @@
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 - [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
+- [ArcGIS Developer](https://github.com/Esri/awesome-arcgis-developer#readme) - Esri's platform for mapping and location analysis for developers.
 
 ## Programming Languages
 
