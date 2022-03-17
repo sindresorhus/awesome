@@ -646,6 +646,7 @@
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 - [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+- [Web3 Security](https://github.com/kareniel/awesome-web3-security#readme) - Understanding the blockchain security ecosystem.
 
 ## Content Management Systems
 
