@@ -52,7 +52,7 @@
 			</div>
 			<b>Strapi is the leading open-source headless CMS.</b>
 			<div>
-				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
+				<sup>It's 100% JavaScript, fully customizable, and developer-first.</sup>
 			</div>
 		</a>
 		<br>
