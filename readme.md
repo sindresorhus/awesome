@@ -775,7 +775,6 @@
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme)
-- [Social Media Share Links](https://github.com/vinkla/shareable-links#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
 - [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
