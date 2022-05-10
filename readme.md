@@ -629,6 +629,7 @@
 ## Security
 
 - [Smart Contract Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security)
+- [Awesome-Android-Security](https://github.com/saeidshirazi/awesome-android-security)
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
