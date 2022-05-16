@@ -842,6 +842,7 @@
 
 ## Miscellaneous
 
+- [beautify github profile](https://github.com/rzashakeri/beautify-github-profile) - Create a beautiful and attractive github profile very easy
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
