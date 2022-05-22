@@ -722,7 +722,7 @@
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
-- [Cyber Security University](https://github.com/brootware/Cyber-Security-University) - Cyber Security University is A curated list of awesome and free educational resources that focuses on learn by doing.
+- [Cyber Security University](https://github.com/brootware/Cyber-Security-University#readme) - Free educational resources that focus on learning by doing.
 
 ## Security
 
