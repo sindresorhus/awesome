@@ -742,6 +742,7 @@
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 - [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
+- [iOS Security](https://github.com/Cy-clon3/awesome-ios-security#readme) - Security of iOS mobile applications.
 
 ## Content Management Systems
 
