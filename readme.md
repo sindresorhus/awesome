@@ -240,7 +240,7 @@
 - [Integration](https://github.com/stn1slv/awesome-integration#readme) - Linking together different IT systems (components) to functionally cooperate as a whole.
 - [Node-RED](https://github.com/naimo84/awesome-nodered#readme) - A programming tool for wiring together hardware devices, APIs, and online services.
 - [Low Code](https://github.com/zenitysec/awesome-low-code#readme) - Allowing business professionals to address their needs on their own with little to no coding skills.
-- [Clubhouse](https://github.com/ehsanghaffarii/awesome-clubhouse#readme) - A useful of tools, APIs, and resources for the Clubhouse social app.
+- [Clubhouse](https://github.com/ehsanghaffarii/awesome-clubhouse#readme) - helpful tools, and resources for developers and users.
 
 ## Programming Languages
 
