@@ -456,7 +456,6 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - JavaScript API for rendering 3D graphics.
 - [Preact](https://github.com/preactjs/awesome-preact#readme) - App framework.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
 - [lit](https://github.com/web-padawan/awesome-lit#readme) - Library for building web components with a declarative template system.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
@@ -476,6 +475,7 @@
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
+- [Hydrogen](https://github.com/shopify/awesome-hydrogen#readme) - Edge-first framework for building Shopify storefronts with React
 
 <br>
 
