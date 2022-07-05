@@ -601,6 +601,7 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
+- [Quantitative Finance](https://github.com/yabdellah/Finance#readme) - The field of applied mathematics, concerned with mathematical modeling of financial markets.
 
 ## Books
 
