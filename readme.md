@@ -792,7 +792,7 @@
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
-- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy) - Books, blog posts and open architectures about Engineering Strategy
+- [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - Books, blog posts and open architectures about Engineering Strategy.
 
 ## Work
 
