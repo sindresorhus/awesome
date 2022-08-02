@@ -10,6 +10,17 @@
 	<br>
 	<br>
 	<br>
+	<br>
+	<br>
+	<br>
+	<h2><a href="https://www.producthunt.com/posts/one-thing">Check out: One Thing — Put a single task or goal in your menu bar</a></h2>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<hr>
 	<p>
 		<p>
@@ -129,41 +140,6 @@
 			<br>
 			<div>
 				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>All your favourite IDE's now available on the cloud</b>
-			<div>
-				<sub>
-				Neverinstall gives you an uninterrupted development experience and improved accessibility,
-				<br>
-				allowing you to code faster, better and on-the-go on your favourite IDEs like
-				<br>
-				Android Studio, VS Code, Jupyter and PyCharm using your browser.
-				</sub>
-			</div>
-		</a>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>All your favourite IDE's now available on the cloud</b>
-			<div>
-				<sub>
-				Neverinstall gives you an uninterrupted development experience and improved accessibility,
-				<br>
-				allowing you to code faster, better and on-the-go on your favourite IDEs like
-				<br>
-				Android Studio, VS Code, Jupyter and PyCharm using your browser.
-				</sub>
 			</div>
 		</a>
 		<br>
@@ -475,35 +451,6 @@
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
-
-<br>
-
----
-
-<br>
-
-<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
-	<div>
-		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="120" alt="neverinstall">
-	</div>
-	<br>
-	<sup>All your favourite IDE's now available on the cloud</sup>
-	<br>
-</a>
-<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
-	<div>
-		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="120" alt="neverinstall">
-	</div>
-	<br>
-	<sup>All your favourite IDE's now available on the cloud</sup>
-	<br>
-</a>
-
-<br>
-
----
-
-<br>
 
 ## Back-End Development
 
