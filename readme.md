@@ -10,6 +10,17 @@
 	<br>
 	<br>
 	<br>
+	<br>
+	<br>
+	<br>
+	<h2><a href="https://www.producthunt.com/posts/one-thing">Check out: One Thing — Put a single task or goal in your menu bar</a></h2>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<hr>
 	<p>
 		<p>
@@ -103,15 +114,6 @@
 		<br>
 		<br>
 		<br>
-		<a href="https://keygen.sh">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
-			</div>
-			<b>A dead-simple software licensing and distribution API built for developers</b>
-		</a>
-		<br>
-		<br>
-		<br>
 		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
 			<div>
@@ -129,41 +131,6 @@
 			<br>
 			<div>
 				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>All your favourite IDE's now available on the cloud</b>
-			<div>
-				<sub>
-				Neverinstall gives you an uninterrupted development experience and improved accessibility,
-				<br>
-				allowing you to code faster, better and on-the-go on your favourite IDEs like
-				<br>
-				Android Studio, VS Code, Jupyter and PyCharm using your browser.
-				</sub>
-			</div>
-		</a>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>All your favourite IDE's now available on the cloud</b>
-			<div>
-				<sub>
-				Neverinstall gives you an uninterrupted development experience and improved accessibility,
-				<br>
-				allowing you to code faster, better and on-the-go on your favourite IDEs like
-				<br>
-				Android Studio, VS Code, Jupyter and PyCharm using your browser.
-				</sub>
 			</div>
 		</a>
 		<br>
@@ -194,6 +161,21 @@
 				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
 				<br>
 				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://sizzy.co/?utm_campaign=github_repo&utm_source=github&utm_medium=referral&utm_content=awesome&utm_term=sindre">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/sizzy-logo.png" width="240" alt="Sizzy">
+			</div>
+			<div>
+				<sub>
+				<b>Before Sizzy:</b> web development is stressing you out, responsive design is hard, you have an overwhelming amount of opened tabs & apps.
+				<br>
+				<b>After Sizzy:</b> all the tools you need in one place, responsive design is a breeze, no more context switching.
 				</sub>
 			</div>
 		</a>
@@ -475,35 +457,6 @@
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
-
-<br>
-
----
-
-<br>
-
-<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
-	<div>
-		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="120" alt="neverinstall">
-	</div>
-	<br>
-	<sup>All your favourite IDE's now available on the cloud</sup>
-	<br>
-</a>
-<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
-	<div>
-		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="120" alt="neverinstall">
-	</div>
-	<br>
-	<sup>All your favourite IDE's now available on the cloud</sup>
-	<br>
-</a>
-
-<br>
-
----
-
-<br>
 
 ## Back-End Development
 
