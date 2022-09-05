@@ -10,6 +10,17 @@
 	<br>
 	<br>
 	<br>
+	<br>
+	<br>
+	<br>
+	<h2><a href="https://www.producthunt.com/posts/one-thing">Check out: One Thing — Put a single task or goal in your menu bar</a></h2>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
 	<hr>
 	<p>
 		<p>
@@ -103,15 +114,6 @@
 		<br>
 		<br>
 		<br>
-		<a href="https://keygen.sh">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/keygen-logo.svg" width="210" alt="Keygen">
-			</div>
-			<b>A dead-simple software licensing and distribution API built for developers</b>
-		</a>
-		<br>
-		<br>
-		<br>
 		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
 			<div>
@@ -129,41 +131,6 @@
 			<br>
 			<div>
 				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>All your favourite IDE's now available on the cloud</b>
-			<div>
-				<sub>
-				Neverinstall gives you an uninterrupted development experience and improved accessibility,
-				<br>
-				allowing you to code faster, better and on-the-go on your favourite IDEs like
-				<br>
-				Android Studio, VS Code, Jupyter and PyCharm using your browser.
-				</sub>
-			</div>
-		</a>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>All your favourite IDE's now available on the cloud</b>
-			<div>
-				<sub>
-				Neverinstall gives you an uninterrupted development experience and improved accessibility,
-				<br>
-				allowing you to code faster, better and on-the-go on your favourite IDEs like
-				<br>
-				Android Studio, VS Code, Jupyter and PyCharm using your browser.
-				</sub>
 			</div>
 		</a>
 		<br>
@@ -194,6 +161,21 @@
 				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
 				<br>
 				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://sizzy.co/?utm_campaign=github_repo&utm_source=github&utm_medium=referral&utm_content=awesome&utm_term=sindre">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/sizzy-logo.png" width="240" alt="Sizzy">
+			</div>
+			<div>
+				<sub>
+				<b>Before Sizzy:</b> web development is stressing you out, responsive design is hard, you have an overwhelming amount of opened tabs & apps.
+				<br>
+				<b>After Sizzy:</b> all the tools you need in one place, responsive design is a breeze, no more context switching.
 				</sub>
 			</div>
 		</a>
@@ -476,35 +458,6 @@
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
 
-<br>
-
----
-
-<br>
-
-<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
-	<div>
-		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="120" alt="neverinstall">
-	</div>
-	<br>
-	<sup>All your favourite IDE's now available on the cloud</sup>
-	<br>
-</a>
-<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
-	<div>
-		<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="120" alt="neverinstall">
-	</div>
-	<br>
-	<sup>All your favourite IDE's now available on the cloud</sup>
-	<br>
-</a>
-
-<br>
-
----
-
-<br>
-
 ## Back-End Development
 
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
@@ -601,6 +554,7 @@
 - [Math](https://github.com/rossant/awesome-math#readme)
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
+- [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 
 ## Books
 
@@ -729,16 +683,17 @@
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
-- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 
 ## Security
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [CTF](https://github.com/apsdehal/awesome-ctf#readme) - Capture The Flag.
+- [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
+- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
@@ -895,7 +850,6 @@
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
 - [Citizen Science](https://github.com/dylanrees/citizen-science#readme) - For community-based and non-institutional scientists.
 - [MQTT](https://github.com/hobbyquaker/awesome-mqtt#readme) - "Internet of Things" connectivity protocol.
-- [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [For Girls](https://github.com/cristianoliveira/awesome4girls#readme)
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) - Node.js CLI framework.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - Low-overhead, cross-platform 3D graphics and compute API.
