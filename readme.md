@@ -577,6 +577,7 @@
 ## Gaming
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
+- [Learn Gamedev](https://github.com/notpresident35/learn-awesome-gamedev#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
