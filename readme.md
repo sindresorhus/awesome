@@ -460,6 +460,7 @@
 
 ## Back-End Development
 
+- [Django](https://github.com/wsvincent/awesome-django#readme) - Python framework
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
