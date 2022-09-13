@@ -577,7 +577,6 @@
 ## Gaming
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
-- [Learn Gamedev](https://github.com/notpresident35/learn-awesome-gamedev#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/leereilly/games#readme)
@@ -599,6 +598,7 @@
 - [CHIP-8](https://github.com/tobiasvl/awesome-chip-8#readme) - Virtual computer game machine from the 70s.
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 - [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
+- [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - Learn the craft of game development.
 
 ## Development Environment
 
