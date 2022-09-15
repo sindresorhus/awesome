@@ -14,6 +14,7 @@
 	<br>
 	<br>
 	<h2><a href="https://www.producthunt.com/posts/one-thing">Check out: One Thing — Put a single task or goal in your menu bar</a></h2>
+	<br>(It's a cool app I made.)
 	<br>
 	<br>
 	<br>
