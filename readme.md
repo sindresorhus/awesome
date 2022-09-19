@@ -234,7 +234,7 @@
 - [Work](#work)
 - [Networking](#networking)
 - [Decentralized Systems](#decentralized-systems)
-- [Higher Education](#higher-education)
+- [Health and Social Science](#health-and-social-science)
 - [Events](#events)
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
@@ -784,11 +784,14 @@
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 
-## Higher Education
+## Health and Social Science
 
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
+- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
+- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
+- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
-- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 
 ## Events
 
@@ -811,6 +814,7 @@
 
 ## Miscellaneous
 
+- [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
@@ -861,7 +865,6 @@
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
-- [Empathy in Engineering](https://github.com/KimberlyMunoz/empathy-in-engineering#readme) - Building and promoting more compassionate engineering cultures.
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - Dynamic tracing framework.
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
@@ -899,13 +902,11 @@
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - A type of challenge–response test used in computing to determine whether or not the user is human.
 - [Jupyter](https://github.com/markusschanta/awesome-jupyter#readme) - Create and share documents that contain code, equations, visualizations and narrative text.
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - International high school robotics championship.
-- [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - Conference and meetup speakers in the programming and design community.
 - [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - Fund individual programmers or the development of open source projects.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
-- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 - [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
@@ -920,7 +921,6 @@
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) - Advertising and programmatic media for websites.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Naming things in computer science done right.
-- [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
 - [Credit Modeling](https://github.com/mourarthur/awesome-credit-modeling#readme) - Methods for classifying credit applicants into risk classes.
