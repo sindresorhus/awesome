@@ -13,7 +13,15 @@
 	<br>
 	<br>
 	<br>
-	<h2><a href="https://www.producthunt.com/posts/one-thing">Check out: One Thing — Put a single task or goal in your menu bar</a></h2>
+	<div>
+		<sub>Check out my latest app</sub>
+		<br>
+		<h2>
+			<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+			<br>
+			<sup>Call your favorite people directly from the iPhone Lock Screen</sup>
+		</h2>
+	</div>
 	<br>
 	<br>
 	<br>
