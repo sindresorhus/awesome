@@ -498,6 +498,7 @@
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
+- [Django](https://github.com/django/django#readme) - Python-based web framework that follows the model–template–views (MTV) architectural pattern.
 
 ## Computer Science
 
