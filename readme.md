@@ -428,7 +428,6 @@
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
-- [Qwik](https://github.com/qwik-design/awesome-qwik#readme) - Resumable Web Framework.
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
 - [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
 - [Charting](https://github.com/zingchart/awesome-charting#readme)
@@ -466,6 +465,7 @@
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
+- [Qwik](https://github.com/qwik-design/awesome-qwik#readme) - Resumable Web Framework.
 
 ## Back-End Development
 
