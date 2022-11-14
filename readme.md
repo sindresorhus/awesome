@@ -465,7 +465,7 @@
 - [Design systems](https://github.com/klaufel/awesome-design-systems#readme) - Collection of reusable components, guided by rules that ensure consistency and speed.
 - [Inertia.js](https://github.com/innocenzi/awesome-inertiajs#readme) - Make single-page apps without building an API.
 - [MDBootstrap](https://github.com/mdbootstrap/awesome-mdbootstrap#readme) - Templates, layouts, components, and widgets to rapidly build websites.
-- [Qwik](https://github.com/qwik-design/awesome-qwik#readme) - Resumable Web Framework.
+- [Qwik](https://github.com/qwik-design/awesome-qwik#readme) - Framework reimagined for the edge. No hydration, auto lazy-loading, and edge-optimized that can deliver instant loading web applications at any size or complexity.
 
 ## Back-End Development
 
