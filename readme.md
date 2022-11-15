@@ -715,7 +715,7 @@
 - [Executable Packing](https://github.com/dhondta/awesome-executable-packing#readme) - Packing and unpacking executable formats.
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
-- [PrimiHub](https://github.com/primihub/primihub#readme) - Hyper Multi-Party computing platform.
+- [Privacy Computing](https://github.com/primihub/Awesome-Privacy-Computing#readme) - Papers and open source projects about the privacy computing.
 
 ## Content Management Systems
 
