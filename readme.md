@@ -775,6 +775,7 @@
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 - [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
+- [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
 
 ## Decentralized Systems
 
