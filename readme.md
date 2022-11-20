@@ -827,7 +827,7 @@
 - [Sketch](https://github.com/diessica/awesome-sketch#readme) - Design app for macOS.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
-- [Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Additional, more detailed than README, documentation on GitHub.
+- [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Additional, more detailed than README, documentation on GitHub.
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
