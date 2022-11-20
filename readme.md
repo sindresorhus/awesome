@@ -658,7 +658,7 @@
 - [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
-- [Memgraph](https://github.com/kgolubic/awesome-memgraph#readme) - Streaming graph application platform, powered by an in-memory graph database built to handle real-time use-cases at enterprise scale.
+- [Memgraph](https://github.com/kgolubic/awesome-memgraph#readme) - An open source graph database built for real time streaming data, compatible with Neo4j.
 
 ## Media
 
