@@ -807,6 +807,7 @@
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
+- [Decentralized Science](https://github.com/DeSciWorldDAO/awesome-desci) - Descentralized Science resources, projects, articles and more.
 
 ## Events
 
