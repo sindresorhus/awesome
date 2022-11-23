@@ -807,7 +807,7 @@
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
-- [Decentralized Science](https://github.com/DeSciWorldDAO/awesome-desci#readme) - Descentralized Science: Blockchain-based projects to solve estructural issues of science related to funding, publishing, data validation and sharing.
+- [Decentralized Science](https://github.com/DeSciWorldDAO/awesome-desci#readme) - Descentralized Science: Science using blockchain technology to solve issues related to funding, publishing, data validation and sharing.
 
 ## Events
 
