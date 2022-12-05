@@ -694,7 +694,6 @@
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
-- [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Tools and guides for running fun and productive hackathons.
 
 ## Security
 
@@ -704,6 +703,7 @@
 - [Cyber Security University](https://github.com/brootware/awesome-cyber-security-university#readme) - Free educational resources that focus on learning by doing.
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Tools and guides for running fun and productive hackathons.
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
