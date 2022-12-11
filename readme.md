@@ -650,6 +650,7 @@
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+- [ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts) -  Prompt examples to be used with the ChatGPT model.
 
 ## Security
 
