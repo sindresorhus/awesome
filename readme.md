@@ -617,6 +617,7 @@
 - [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
+- [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 
 ## Media
 
