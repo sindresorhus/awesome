@@ -306,6 +306,7 @@
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/inputsh/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
+- [Carbon](https://github.com/detherminal/awesome-carbon-lang)
 - [R](https://github.com/qinwf/awesome-R#readme) - Functional programming language and environment for statistical computing and graphics.
 	- [Learning](https://github.com/iamericfletcher/awesome-r-learning-resources#readme)
 - [D](https://github.com/dlang-community/awesome-d#readme)
