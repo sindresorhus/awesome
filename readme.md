@@ -456,7 +456,7 @@
 - [IAM](https://github.com/kdeldycke/awesome-iam#readme) - User accounts, authentication and authorization.
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
-- [DevOps](https://github.com/wmariuss/awesome-devops) - platforms, tools, practices and resources in DevOps.
+- [DevOps](https://github.com/wmariuss/awesome-devops#readme) - platforms, tools, practices and resources in DevOps.
 
 ## Computer Science
 
