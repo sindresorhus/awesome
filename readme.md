@@ -795,6 +795,7 @@
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
+- [Decentralized Science](https://github.com/DeSciWorldDAO/awesome-desci#readme) - Blockchain technology to develop, fund and share science.
 
 ## Health and Social Science
 
@@ -807,7 +808,7 @@
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - Open source projects that help improve society.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
-- [Decentralized Science](https://github.com/DeSciWorldDAO/awesome-desci#readme) - Using blockchain technology to develop, fund and share science.
+
 
 ## Events
 
