@@ -219,7 +219,7 @@
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-	- [Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) - Qubes OS is a free and open-source, security-oriented operating system for single-user desktop computing. 
+	- [Qubes-OS](https://github.com/xn0px90/Awesome-Qubes-OS) - Qubes-OS is a free and open-source, security-oriented operating system for single-user desktop computing. 
 	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 - macOS - Operating system for Apple's Mac computers.
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
