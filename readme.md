@@ -618,7 +618,7 @@
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
-- [ClickHouse](https://github.com/ClickHouse/ClickHouse#readme) - ClickHouse is a column-oriented database management system (DBMS) for online analytical processing of queries (OLAP).
+- [ClickHouse](https://github.com/korchasa/awesome-clickhouse#readme) - ClickHouse is a free analytics DBMS for big data.
 
 ## Media
 
