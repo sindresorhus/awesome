@@ -540,7 +540,7 @@
 - [Apache Spark](https://github.com/awesome-spark/awesome-spark#readme) - Unified engine for large-scale data processing.
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real-time.
-- [Google Bigtable](https://github.com/zrosenbauer/awesome-bigtable#readme) - Fully managed wide-column and key-value NoSQL database service on Google Cloud Platform.
+- [Bigtable](https://github.com/zrosenbauer/awesome-bigtable#readme) - A fully managed, scalable NoSQL database service for large analytical and operational workloads.
 
 ## Theory
 
