@@ -556,6 +556,7 @@
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 - [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+- [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) - TypeScript game engine for cross-platform web and native game development.
 
 ## Development Environment
 
