@@ -471,7 +471,7 @@
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - Theory basics for using cryptography by non-cryptographers.
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-	- [Knowledge Distillation for Object Detection](https://github.com/LutingWang/awesome-knowledge-distillation-for-object-detection#readme) - Distillation techniques designed for knowledge transfer between object detectors for higher accuracy and faster convergence.
+	- [Detection KD](https://github.com/LutingWang/awesome-knowledge-distillation-for-object-detection#readme) - Knowledge distillation for object detection.
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - Library for machine intelligence.
 	- [TensorFlow.js](https://github.com/aaronhma/awesome-tensorflow-js#readme) - WebGL-accelerated machine learning JavaScript library for training and deploying models.
