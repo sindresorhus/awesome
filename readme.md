@@ -330,6 +330,7 @@
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
+- [Processing](https://github.com/zakarialaoui10/awesome-processing#readme) - Is a simple programming environment created to make it easier to develop visually oriented applications with an emphasis on animation and interaction
 
 ## Front-End Development
 
