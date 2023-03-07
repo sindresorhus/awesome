@@ -522,6 +522,7 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
+- [Awesome Book Summaries](https://github.com/RuanMedGar/awesome-book-summaries#readme)
 
 ## Editors
 
