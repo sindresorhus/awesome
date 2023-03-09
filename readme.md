@@ -900,7 +900,7 @@
 - [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
-- [Ukrainian IT Communities](https://github.com/grem11n/awesome-it-communities-ua/#readme) - The list of Ukrainian IT communities about programming, data science and software engineering in general.
+- [Ukrainian IT Communities](https://github.com/grem11n/awesome-it-communities-ua#readme) - Ukrainian IT communities and resources about programming, data science and software engineering in general.
 
 ## Related
 
