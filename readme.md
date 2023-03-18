@@ -900,7 +900,7 @@
 - [Computational Geometry](https://github.com/atkirtland/awesome-computational-geometry#readme) - Computational approaches for problems in geometry.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
-- [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Quarto® is an open-source scientific and technical publishing system built on Pandoc, allowing computations using Jupyter or R/knitr.
+- [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc, allowing computations using Jupyter or R/knitr.
 
 ## Related
 
