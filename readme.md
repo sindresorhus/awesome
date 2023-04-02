@@ -182,6 +182,7 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
@@ -529,6 +530,7 @@
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 - [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+- [Control Theory](https://github.com/A-make/awesome-control-theory#readme)
 
 ## Books
 
