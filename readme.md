@@ -17,9 +17,9 @@
 		<sub>Check out my latest app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/any-text">Any Text</a>
+			<a href="https://www.producthunt.com/posts/today-14">Today</a>
 			<br>
-			<sup>Put any text on your iPhone's Lock Screen</sup>
+			<sup>Quickly view your schedule in the macOS menu bar</sup>
 		</h2>
 	</div>
 	<br>
@@ -133,6 +133,22 @@
 				</sub>
 			</div>
 		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://serpapi.com#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="140" alt="SerpApi">
+			</div>
+			<b>API to get search engine results with ease.</b>
+		</a>
+		<a href="https://serpapi.com#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
+			</div>
+			<b>API to get search engine results with ease.</b>
+		</a>
+		<br>
 		<br>
 		<br>
 	</p>
@@ -905,7 +921,6 @@
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
