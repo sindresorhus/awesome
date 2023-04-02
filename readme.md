@@ -182,7 +182,6 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
