@@ -702,7 +702,7 @@
 ## Hardware
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
-	- [Cloud Robotics](https://github.com/KeplerC/awesome-cloud-robotics#readme)
+	- [Cloud Robotics](https://github.com/KeplerC/awesome-cloud-robotics#readme) - Robotics framework that uses cloud computing
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
