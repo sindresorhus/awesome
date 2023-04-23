@@ -941,7 +941,7 @@
 - [WebXR](https://github.com/msub2/awesome-webxr#readme) - Enables immersive virtual reality and augmented reality content on the web.
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
-- [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects for inspiration, learning and bootstrapping new documentation projects on Read the Docs.
+- [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 
 ## Related
 
