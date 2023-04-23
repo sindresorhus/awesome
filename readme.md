@@ -574,6 +574,7 @@
 - [Games of Coding](https://github.com/michelpereira/awesome-games-of-coding#readme) - Learn a programming language by making games.
 - [Esports](https://github.com/strift/awesome-esports#readme) - Video games played as a sport.
 - [Learn Gamedev](https://github.com/notpresident35/awesome-learn-gamedev#readme) - The craft of video game creation.
+- [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 
 ## Development Environment
@@ -661,6 +662,7 @@
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - Learn how to be a better product manager.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
+- [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 
 ## Security
 
