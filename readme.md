@@ -921,7 +921,7 @@
 - [OpenStreetMap](https://github.com/osmlab/awesome-openstreetmap#readme) - An open data mapping project utilized by many apps and devices.
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
-- [Monolith Architecture](https://github.com/canerbasaran/awesome-monolith#readme) - Traditional model of a software program.
+- [Monolith Architecture](https://github.com/canerbasaran/awesome-monolith#readme) - A curated list of Software Monolith Architecture articles and resources.
 
 ## Related
 
