@@ -346,6 +346,7 @@
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
+- [Mojo](https://github.com/relatedcode/awesome-mojo#readme) - Programming language that combines the usability of Python with the performance of C.
 
 ## Front-End Development
 
