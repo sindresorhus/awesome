@@ -581,6 +581,7 @@
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
+- [Drip](https://github.com/leo-brad/drip)
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
 - [Fish](https://github.com/jorgebucaran/awsm.fish#readme) - User-friendly shell.
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
