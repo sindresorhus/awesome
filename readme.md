@@ -859,7 +859,7 @@
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 - [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
-- [Maps Data](https://github.com/thedoubler/awesome-maps-data#readme) - Dynamic collection of interactive websites with data and real-time data, engaging maps, and stunning visualizations for air, space, history, and statistics enthusiasts.
+- [Maps Data](https://github.com/thedoubler/awesome-maps-data#readme) - Dynamic collection of interactive websites with data and real-time data, engaging maps, and stunning visualizations for air, space, history, and more.
 
 ## Related
 
