@@ -691,7 +691,6 @@
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
-- [TON (Open Network)](https://github.com/ton-community/awesome-ton#readme) - A pioneering blockchain platform from Telegram, TON combines speed, security, and usability, facilitating next-gen cryptocurrency transactions.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
@@ -705,6 +704,7 @@
 - [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 - [Algorand](https://github.com/aorumbayev/awesome-algorand#readme) - An open-source, proof of stake blockchain and smart contract computing platform.
 - [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
+- [TON (Open Network)](https://github.com/ton-community/awesome-ton#readme) - A pioneering blockchain platform from Telegram, TON combines speed, security, and usability, facilitating next-gen cryptocurrency transactions.
 
 ## Health and Social Science
 
