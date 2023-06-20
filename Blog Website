@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blog Website</title>
+  <style>
+    /* CSS styles for the landing page */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #f4f4f4;
+      padding: 10px;
+    }
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+    }
+    nav ul li {
+      display: inline-block;
+      margin-right: 10px;
+    }
+    .main-content {
+      margin: 20px;
+      text-align: center;
+    }
+    .segment {
+      margin-bottom: 30px;
+    }
+    .sub-segment {
+      margin-bottom: 10px;
+    }
+    .news-feeds {
+      margin-bottom: 30px;
+    }
+    .events {
+      margin-bottom: 30px;
+    }
+    .jobs {
+      margin-bottom: 30px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to our Blog Website</h1>
+  </header>
+  <nav>
+    <ul>
+      <li><a href="#blogs">Blogs</a></li>
+      <li><a href="#news-feeds">News Feeds</a></li>
+      <li><a href="#events">Upcoming Events</a></li>
+      <li><a href="#jobs">Jobs</a></li>
+    </ul>
+  </nav>
+  <div class="main-content">
+    <section id="blogs" class="segment">
+      <h2>Blogs</h2>
+      <p>Explore our diverse collection of blogs.</p>
+      <div class="sub-segment">
+        <h3>Segment 1</h3>
+        <ul>
+          <li>Sub-segment 1.1</li>
+          <li>Sub-segment 1.2</li>
+          <li>Sub-segment 1.3</li>
+        </ul>
+      </div>
+      <div class="sub-segment">
+        <h3>Segment 2</h3>
+        <ul>
+          <li>Sub-segment 2.1</li>
+          <li>Sub-segment 2.2</li>
+          <li>Sub-segment 2.3</li>
+        </ul>
+      </div>
+      <div class="sub-segment">
+        <h3>Segment 3</h3>
+        <ul>
+          <li>Sub-segment 3.1</li>
+          <li>Sub-segment 3.2</li>
+          <li>Sub-segment 3.3</li>
+        </ul>
+      </div>
+    </section>
+    <section id="news-feeds" class="news-feeds">
+      <h2>News Feeds</h2>
+      <p>Stay updated with the latest news.</p>
+    </section>
+    <section id="events" class="events">
+      <h2>Upcoming Events</h2>
+      <p>Discover exciting events happening soon.</p>
+    </section>
+    <section id="jobs" class="jobs">
+      <h2>Jobs</h2>
+      <p>Find job
+</body>
