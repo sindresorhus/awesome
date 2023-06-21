@@ -626,6 +626,7 @@
 - [Malware Persistence](https://github.com/Karneades/awesome-malware-persistence#readme) - Techniques that adversaries use to keep access to systems across restarts.
 - [EVM Security](https://github.com/kareniel/awesome-evm-security#readme) - Understanding the Ethereum Virtual Machine security ecosystem.
 - [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
+- [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 
 ## Content Management Systems
 
