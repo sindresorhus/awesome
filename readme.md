@@ -242,9 +242,9 @@
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
-- [Elixir](https://github.com/h4cc/awesome-elixir#readme)
+- [Elixir](https://github.com/h4cc/awesome-elixir#readme) - A dynamic, functional programming language based on Erlang with a simpler syntax designed for building scalable and fault-tolerant applications.
 - [Elm](https://github.com/sporto/awesome-elm#readme)
-- [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
+- [Erlang](https://github.com/drobakowski/awesome-erlang#readme) - Concurrent, fault-tolerant language designed for building robust, distributed, high-availability systems.
 - [Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/inputsh/awesome-c#readme)
