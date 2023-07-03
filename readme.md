@@ -504,7 +504,7 @@
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
-- [Computational Intelligence in Sports](https://github.com/firefly-cpp/awesome-computational-intelligence-in-sports#readme) - Research, methods, datasets, and software related to use of Computational Intelligence in Sports.
+- [Computational Intelligence in Sports](https://github.com/firefly-cpp/awesome-computational-intelligence-in-sports#readme) - Multidisciplinary field of using computational techniques to enhance performance and decision-making in various aspects of sports.
 
 ## Big Data
 
