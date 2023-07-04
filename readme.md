@@ -643,6 +643,7 @@
 - [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 - [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 - [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
+- [SwiftyEdit](https://github.com/SwiftyEdit/SwiftyEdit#readme) - CMS based on PHP/MySQL or SQLite - Open Source.
 
 ## Hardware
 
