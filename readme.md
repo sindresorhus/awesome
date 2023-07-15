@@ -1,41 +1,4 @@
-<div align="center">
-	<a href="https://vshymanskyy.github.io/StandWithUkraine">
-		<img width="500" height="350" src="media/logo-ua.svg" alt="Awesome">
-		<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-	</a>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
-		<sub>Check out my latest app</sub>
-		<br>
-		<h2>
-			<a href="https://www.producthunt.com/posts/hyperduck">Hyperduck</a>
-			<br>
-			<sup>Send links from your iOS devices to your Mac (better than AirDrop)</sup>
-		</h2>
-	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<hr>
-	<p>
-		<p>
-			<sup>
-				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
-			</sup>
-		</p>
+
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
