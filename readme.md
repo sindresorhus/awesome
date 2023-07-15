@@ -1,6 +1,4 @@
-
-
-		<sup>Special thanks to:</sup>
+<sup>Special thanks to:</sup>
 		<br>
 		<br>
 		<a href="https://standardresume.co/tech">
