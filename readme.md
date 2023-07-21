@@ -869,6 +869,7 @@
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [AI By Bharat](https://github.com/yogeshhk/Awesome-AI-By-Bharat) - Artificial Intelligence technologies built by India.
 
 ## Related
 
