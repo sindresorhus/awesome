@@ -17,9 +17,9 @@
 		<sub>Check out my latest app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/hyperduck">Hyperduck</a>
+			<a href="https://sindresorhus.com/camera-preview">Camera Preview</a>
 			<br>
-			<sup>Send links from your iOS devices to your Mac (better than AirDrop)</sup>
+			<sup>Preview your Mac's webcam and take photos</sup>
 		</h2>
 	</div>
 	<br>
@@ -83,6 +83,16 @@
 				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
 			</div>
 			<b>API to get search engine results with ease.</b>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome">
+			<picture>
+				<source width="340" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
+				<source width="340" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
+				<img width="340" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
+			</picture>
 		</a>
 		<br>
 		<br>
