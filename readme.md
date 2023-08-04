@@ -850,7 +850,7 @@
 - [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - Start accepting Bitcoin.
 - [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - Solving complex scientific problems using computers.
-- [Astrophysical Simulation Codes](https://github.com/pmocz/awesome-astro-codes#readme) - State-of-the-art multi-physics simulation codes used by astrophysicists.
+- [Astrophysical Simulation Codes](https://github.com/pmocz/awesome-astrophysical-simulation-codes#readme) - State-of-the-art multi-physics simulation codes used by astrophysicists.
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/brycejohnston/awesome-agriculture#readme) - Open source technology for farming and gardening.
 - [Product Design](https://github.com/ttt30ga/awesome-product-design#readme) - Design a product from the initial concept to production.
