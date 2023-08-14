@@ -879,7 +879,7 @@
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
-- [Astrophysical Simulation Codes](https://github.com/pmocz/awesome-astrophysical-simulation-codes#readme) - State-of-the-art multi-physics simulation and research codes used by astrophysicists.
+- [Astrophysical Simulation Codes](https://github.com/pmocz/awesome-astrophysical-simulation-codes#readme) - State-of-the-art multi-physics simulation codes used by astrophysicists.
 
 ## Related
 
