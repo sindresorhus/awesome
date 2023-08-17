@@ -413,6 +413,7 @@
 
 ## Computer Science
 
+- [Autonomous AI Agents](https://github.com/e2b-dev/awesome-ai-agents)
 - [University Courses](https://github.com/prakhar1989/awesome-courses#readme)
 - [Data Science](https://github.com/academic/awesome-datascience#readme)
 	- [Tutorials](https://github.com/siboehm/awesome-learn-datascience#readme)
