@@ -640,6 +640,7 @@
 - [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 - [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
+- [Microsoft Sentinel](https://github.com/kfriede/awesome-sentinel#readme) - Microsoft Sentinel cloud-native SIEM/SOAR solution.
 
 ## Content Management Systems
 
