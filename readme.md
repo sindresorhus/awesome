@@ -879,6 +879,7 @@
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [Generative AI Companies](https://github.com/AlexChalakov/awesome-generative-ai-companies#readme) - A curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount.
 
 ## Related
 
