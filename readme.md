@@ -577,6 +577,7 @@
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
+[LinDB](https://github.com/lindb/lindb#readme) - LinDB is a scalable, high performance, high availability distributed time series database.
 
 ## Media
 
