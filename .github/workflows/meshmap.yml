@@ -1,0 +1,34 @@
+name: MeshMap Screenshot Service
+on: # rebuild any PRs and main branch changes
+  pull_request_target:
+    types: [opened, synchronize, reopened]
+
+permissions: 
+  actions: read
+  contents: write
+  security-events: write
+  statuses: write
+  pull-requests: write
+  id-token: write
+
+jobs:
+  MeshMapScreenshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set PR number # To comment the final status on the Pull-request opened in any repository
+        run: |
+          export pull_number=$(jq --raw-output .pull_request.number "$GITHUB_EVENT_PATH")
+          echo "PULL_NO=$pull_number" >> $GITHUB_ENV
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3 #this step would go away
+        with:
+          path: action
+          repository: layer5labs/meshmap-snapshot
+      - id: test_result
+        uses: layer5labs/MeshMap-Snapshot@v0.0.8
+        with:
+          githubToken: ${{ secrets.GITHUB_TOKEN }} # github's personal access token example: "ghp_...."
+          providerToken: ${{ secrets.PROVIDER_TOKEN }} # Meshery Cloud Authentication token, signin to meshery-cloud to get one, example: ey.....
+          prNumber: ${{ env.PULL_NO }} # auto-filled from the above step
+          application_type: Kubernetes Manifest # your application type, could be any of three: "Kubernetes Manifest", "Docker Compose", "Helm Chart"
+          filePath: thisone # relative file-path from the root directory in the github-runner env, you might require to checkout the repository as described in step 2
