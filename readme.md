@@ -880,6 +880,7 @@
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+- [RTL](https://github.com/sir-kokabi/awesome-rtl#readme) - Tools with built-in support for RTL (Right to Left) languages.
 
 ## Related
 
