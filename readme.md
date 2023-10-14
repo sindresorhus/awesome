@@ -878,6 +878,7 @@
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 - [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+- [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
