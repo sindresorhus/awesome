@@ -26,7 +26,7 @@
 	- ❌ `add Swift`
 	- ❌ `Adding Swift`
 	- ❌ `Added Swift`
-- [ ] Your entry here should include a short description about the project/theme of the list. **It should not describe the list itself.** The first character should be uppercase and the description should end in a dot. It should be an objective description and not a tagline or marketing blurb.
+- [ ] Your entry here should include a short description about the project/theme of the list. **It should not describe the list itself.** The first character should be uppercase and the description should end in a dot. It should be an objective description and not a tagline or marketing blurb. It should not contain the name of the list.
 	- ✅ `- [iOS](…) - Mobile operating system for Apple phones and tablets.`
 	- ✅ `- [Framer](…) - Prototyping interactive UI designs.`
 	- ❌ `- [iOS](…) - Resources and tools for iOS development.`
@@ -69,6 +69,7 @@
 	- Either centered, fullwidth, or placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
 	- The image should link to the project website or any relevant website.
 	- **The image should be high-DPI.** Set it to maximum half the width of the original image.
+	- Don't include both a title saying `Awesome X` and a logo with `Awesome X`. You can put the header image in a `#` (Markdown header) or `<h1>`.
 - [ ] Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
 - [ ] Includes the [Awesome badge](https://github.com/sindresorhus/awesome/blob/main/awesome.md#awesome-badge).
 	- Should be placed on the right side of the readme heading.

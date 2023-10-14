@@ -244,6 +244,7 @@
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
+ 	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
@@ -711,7 +712,7 @@
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+- [Mastodon](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
@@ -878,8 +879,11 @@
 - [Computational Biology](https://github.com/inoue0426/awesome-computational-biology#readme) - Computational approaches applied to problems in biology.
 - [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
+- [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+- [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 
 ## Related
 
