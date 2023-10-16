@@ -17,9 +17,9 @@
 		<sub>Check out my latest app</sub>
 		<br>
 		<h2>
-			<a href="https://sindresorhus.com/camera-preview">Camera Preview</a>
+			<a href="https://sindresorhus.com/one-task">One Task</a>
 			<br>
-			<sup>Preview your Mac's webcam and take photos</sup>
+			<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
 		</h2>
 	</div>
 	<br>
