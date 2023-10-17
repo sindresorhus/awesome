@@ -883,9 +883,9 @@
 - [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
-- [Generative AI Companies](https://github.com/AlexChalakov/awesome-generative-ai-companies#readme) - A curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+- [Generative AI Companies](https://github.com/AlexChalakov/awesome-generative-ai-companies#readme) - A curated list of Gеnerative AI companies, sorted by focus area and total fundraised amount.
 
 ## Related
 
