@@ -644,6 +644,7 @@
 - [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+- [WebAuthn and Passkeys](https://github.com/herrjemand/awesome-webauthn#readme) - WebAuthn API/Passkeys is a web authentication standard for passwordless authentication.
 
 ## Content Management Systems
 
