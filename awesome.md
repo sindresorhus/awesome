@@ -24,6 +24,8 @@ Add an awesome badge to the top of your list, right next to the title. [Example]
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 ```
 
+You are allowed to use the badge on lists not included here and also private lists.
+
 *The badges should not be modified in any way.*
 
 ## Awesome mentioned badge
