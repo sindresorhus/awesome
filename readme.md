@@ -885,6 +885,7 @@
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
+- [AI Collection](https://github.com/ai-collection/ai-collection#readme) - A Collection of Awesome Generative AI Applications.
 
 ## Related
 
