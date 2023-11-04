@@ -17,9 +17,9 @@
 		<sub>Check out my latest app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/hyperduck">Hyperduck</a>
+			<a href="https://sindresorhus.com/one-task">One Task</a>
 			<br>
-			<sup>Send links from your iOS devices to your Mac (better than AirDrop)</sup>
+			<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
 		</h2>
 	</div>
 	<br>
@@ -83,6 +83,16 @@
 				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="140" alt="SerpApi">
 			</div>
 			<b>API to get search engine results with ease.</b>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome">
+			<picture>
+				<source width="340" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
+				<source width="340" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
+				<img width="340" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
+			</picture>
 		</a>
 		<br>
 		<br>
@@ -234,6 +244,7 @@
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
+ 	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
@@ -282,6 +293,7 @@
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
 - [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
+- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 
 ## Front-End Development
 
@@ -466,6 +478,7 @@
 - [Recursion Schemes](https://github.com/passy/awesome-recursion-schemes#readme) - Traversing nested data structures.
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 - [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
+- [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 
 ## Books
 
@@ -630,6 +643,7 @@
 - [Password Cracking](https://github.com/n0kovo/awesome-password-cracking#readme) - The process of recovering passwords from data that has been stored in or transmitted by a system in scrambled form.
 - [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
+- [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 
 ## Content Management Systems
 
@@ -700,7 +714,7 @@
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - Bitcoin services and tools for software developers.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) - Open source distributed settlement network.
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
-- [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - Open source decentralized microblogging network.
+- [Mastodon](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - Blockchain projects for artificial intelligence and machine learning.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
@@ -817,7 +831,6 @@
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) - Open Source eCommerce built with PHP.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) - Ad-free alternatives.
-- [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - Open-source monitoring system.
 - [Homematic](https://github.com/homematic-community/awesome-homematic#readme) - Smart home devices.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - Double-entry accounting on the command-line.
@@ -868,8 +881,11 @@
 - [Read the Docs](https://github.com/readthedocs-examples/awesome-read-the-docs#readme) - Example documentation projects to inspire and help bootstrap new documentation projects.
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 - [Maps Data](https://github.com/thedoubler/awesome-maps-data#readme) - Dynamic collection of interactive websites with data and real-time data, engaging maps, and stunning visualizations for air, space, history, and more.
+- [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
+- [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 
 
 ## Related
