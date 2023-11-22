@@ -622,6 +622,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [Product Management Zh](https://github.com/Zuojiangtao/awesome-product-management-zh) - A curated list of Chinese resources for learning Product Manager/Project Management.
 
 ## Security
 
