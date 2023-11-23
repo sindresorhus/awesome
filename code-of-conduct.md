@@ -1,1 +1,1 @@
-# Contributor Covenant Code of Conduct
+# Your Code of Conduct is the lie and hypocritical in the society
