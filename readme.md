@@ -458,6 +458,7 @@
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generate a wide range of unique content in text, image and audio format.
+	- [Deliberative Prompting](https://github.com/logikon-ai/awesome-deliberative-prompting#readme) - How to ask LLMs to produce reliable reasoning and make reason-responsive decisions.
 
 ## Big Data
 
