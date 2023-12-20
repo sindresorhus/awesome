@@ -17,7 +17,7 @@
 		<sub>Check out my latest app</sub>
 		<br>
 		<h2>
-			<a href="https://sindresorhus.com/one-task">One Task</a>
+			<a href="https://www.producthunt.com/posts/one-task">One Task</a>
 			<br>
 			<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
 		</h2>
