@@ -714,7 +714,7 @@
 - [Real-Time Communications](https://github.com/rtckit/awesome-rtc#readme) - Network protocols for near simultaneous exchange of media and data.
 - [SNMP](https://github.com/eozer/awesome-snmp#readme) - A protocol for collecting, modifying, and organizing information about managed devices on IP networks.
 - [Scapy](https://github.com/secdev/awesome-scapy#readme) - Python-based interactive packet manipulation.
-- [Cilium](https://github.com/seifrajhi/awesome-cilium#readme) - A networking, observability, and security solution with an eBPF-based dataplane.
+- [Cilium](https://github.com/seifrajhi/awesome-cilium#readme) - A networking, security and observability solution with an eBPF-based dataplane.
 
 ## Decentralized Systems
 
