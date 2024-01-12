@@ -622,6 +622,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [STEM academy](https://github.com/tapyu/awesome-stem-academy) - academic resources for STEM (Science, Technology, Engineering, Mathematics) organized by subjects.
 
 ## Security
 
