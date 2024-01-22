@@ -745,7 +745,7 @@
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
-- [Transgender Resources](https://github.com/cvyl/awesome-transgender) - A list of LGBTQ+ resources focussed on transgender individuals 
+- [Transgender Resources](https://github.com/cvyl/awesome-transgender#readme) - A list of LGBTQ+ resources focussed on transgender individuals 
 
 ## Events
 
