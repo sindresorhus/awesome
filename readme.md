@@ -252,7 +252,7 @@
 - [Elm](https://github.com/sporto/awesome-elm#readme)
 - [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
 - [Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
-	- [Generative AI Meets Julia](https://github.com/svilupp/awesome-generative-ai-meets-julia-language#readme) - Algorithms and models that leverage machine learning for generating new content, automating workflows, and extracting insights—and the Julia programming environment, showcasing projects and resources that push the boundaries of what's possible.
+	- [Generative AI Meets Julia](https://github.com/svilupp/awesome-generative-ai-meets-julia-language#readme) - Algorithms and models that leverage machine learning for generating new content, automating workflows, and extracting insights showcasing projects and resources that push the boundaries of what's possible.
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/inputsh/awesome-c#readme)
 - [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - General-purpose language with a bias toward system programming and embedded, resource-constrained software.
