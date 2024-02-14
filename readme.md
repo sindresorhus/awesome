@@ -879,6 +879,7 @@
 - [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
+- [Stock Trading](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies with the aim of generating profits.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 - [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
