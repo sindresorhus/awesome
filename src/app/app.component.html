@@ -1,0 +1,70 @@
+<div class="row-layout main-navigation">
+  <igx-navbar class="navbar">
+    <igx-navbar-title class="navbar-content">
+      <div routerLink="/home" class="row-layout group">
+        <img src="/assets/logo2.svg" class="image" />
+        <p class="ig-typography__subtitle-2 text">
+          HEALTHCARE ASSISTANT
+        </p>
+      </div>
+    </igx-navbar-title>
+    <div class="row-layout group_1">
+      <div class="row-layout group">
+        <igx-avatar src="/assets/Avatar13.png" shape="circle" class="avatar"></igx-avatar>
+        <p class="ig-typography__subtitle-2 text">
+          Sandy Anderson
+        </p>
+      </div>
+      <button igxButton="icon" igxRipple [igxToggleAction]="navDrawer" class="button">
+        <igx-icon>
+          menu
+        </igx-icon>
+      </button>
+    </div>
+  </igx-navbar>
+</div>
+<div class="row-layout bottom-container">
+  <div class="view-container">
+    <router-outlet></router-outlet>
+  </div>
+  <igx-nav-drawer position="right" [pinThreshold]="0" width="236px" #navDrawer class="nav-drawer">
+    <ng-template igxDrawer>
+      <div igxDrawerItem igxRipple routerLink="/home">
+        <igx-icon class="icon">
+          home
+        </igx-icon>
+        <span>Home</span>
+      </div>
+      <div igxDrawerItem igxRipple routerLink="/medications">
+        <igx-icon class="icon">
+          healing
+        </igx-icon>
+        <span>Medications</span>
+      </div>
+      <div igxDrawerItem igxRipple routerLink="/health-indicators">
+        <igx-icon class="icon">
+          favorite
+        </igx-icon>
+        <span>Health Indicators</span>
+      </div>
+      <div igxDrawerItem igxRipple routerLink="/appointments">
+        <igx-icon class="icon">
+          calendar_today
+        </igx-icon>
+        <span>Appointments</span>
+      </div>
+      <div igxDrawerItem igxRipple routerLink="/profile">
+        <igx-icon class="icon">
+          account_circle
+        </igx-icon>
+        <span>Medical Profile</span>
+      </div>
+      <div igxDrawerItem igxRipple routerLink="/emergency">
+        <igx-icon class="icon">
+          error
+        </igx-icon>
+        <span>Emergency</span>
+      </div>
+    </ng-template>
+  </igx-nav-drawer>
+</div>

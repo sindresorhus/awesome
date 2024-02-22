@@ -1,0 +1,144 @@
+<div class="row-layout group">
+  <div class="column-layout group_1">
+    <p class="ig-typography__subtitle-2 text">
+      HEALTH INDICATORS
+    </p>
+    <div class="row-layout group_2">
+      <div class="column-layout group_3">
+        <div class="column-layout group_4">
+          <div class="row-layout group_5">
+            <img src="/assets/Scale_Color.svg" class="image" />
+            <div class="row-layout group_6">
+              <p class="ig-typography__subtitle-2 text_1">
+                WEIGHT
+              </p>
+              <h6 class="h6">
+                112
+              </h6>
+              <p class="ig-typography__subtitle-2 text_2">
+                lbs
+              </p>
+            </div>
+          </div>
+          <div class="column-layout group_7">
+            <igx-category-chart [dataSource]="patientDashboardWeight" chartType="column" [yAxisInterval]="10" [yAxisMinimumValue]="95" [yAxisMaximumValue]="125" computedPlotAreaMarginMode="series" class="category-chart"></igx-category-chart>
+          </div>
+        </div>
+        <div class="column-layout group_4">
+          <div class="row-layout group_5">
+            <img src="/assets/HRate_Color.svg" class="image" />
+            <div class="row-layout group_6">
+              <p class="ig-typography__subtitle-2 text_1">
+                HEART RATE
+              </p>
+              <h6 class="h6">
+                90
+              </h6>
+              <p class="ig-typography__subtitle-2 text_2">
+                bpm
+              </p>
+            </div>
+          </div>
+          <div class="column-layout group_7">
+            <igx-category-chart [dataSource]="patientDashboardHeartRate" chartType="line" [yAxisInterval]="10" [yAxisMinimumValue]="60" [yAxisMaximumValue]="90" computedPlotAreaMarginMode="series" class="category-chart_1"></igx-category-chart>
+          </div>
+        </div>
+      </div>
+      <div class="column-layout group_3">
+        <div class="column-layout group_8">
+          <div class="row-layout group_5">
+            <img src="/assets/BPressure_Color.svg" class="image" />
+            <div class="row-layout group_6">
+              <p class="ig-typography__subtitle-2 text_1">
+                BLOOD PRESSURE
+              </p>
+              <h6 class="h6">
+                140
+              </h6>
+              <h6 class="h6_1">
+                /
+              </h6>
+              <h6 class="h6">
+                70
+              </h6>
+              <p class="ig-typography__subtitle-2 text_2">
+                mmHg
+              </p>
+            </div>
+          </div>
+          <div class="column-layout group_7">
+            <igx-category-chart [dataSource]="patientDashboardBPSystolicDiastolic" chartType="line" [yAxisInterval]="20" [yAxisMinimumValue]="70" [yAxisMaximumValue]="160" computedPlotAreaMarginMode="series" class="category-chart_2"></igx-category-chart>
+          </div>
+        </div>
+        <div class="column-layout group_8">
+          <div class="row-layout group_5">
+            <img src="/assets/blood-sugar.svg" class="image" />
+            <div class="row-layout group_6">
+              <p class="ig-typography__subtitle-2 text_1">
+                BLOOD SUGAR
+              </p>
+              <h6 class="h6">
+                85
+              </h6>
+              <p class="ig-typography__subtitle-2 text_2">
+                mg/dL
+              </p>
+            </div>
+          </div>
+          <div class="column-layout group_7">
+            <igx-category-chart [dataSource]="patientDashboardGlucose" chartType="area" [yAxisInterval]="5" [yAxisMinimumValue]="80" [yAxisMaximumValue]="100" computedPlotAreaMarginMode="series" class="category-chart_1"></igx-category-chart>
+          </div>
+        </div>
+      </div>
+      <div class="column-layout group_3">
+        <div class="column-layout group_8">
+          <div class="row-layout group_5">
+            <img src="/assets/Cholesterol_Color.svg" class="image" />
+            <div class="row-layout group_6">
+              <p class="ig-typography__subtitle-2 text_1">
+                TOTAL CHOLESTEROL
+              </p>
+              <h6 class="h6">
+                200
+              </h6>
+              <p class="ig-typography__subtitle-2 text_2">
+                mg/dL
+              </p>
+            </div>
+          </div>
+          <div class="column-layout group_7">
+            <igx-category-chart [dataSource]="patientDashboardTotalCholesterol" chartType="area" [yAxisInterval]="20" [yAxisMinimumValue]="160" [yAxisMaximumValue]="230" computedPlotAreaMarginMode="series" class="category-chart_3"></igx-category-chart>
+          </div>
+        </div>
+        <div class="column-layout group_8">
+          <div class="row-layout group_5">
+            <img src="/assets/Cholesterol_Color.svg" class="image" />
+            <div class="row-layout group_6">
+              <p class="ig-typography__subtitle-2 text_1">
+                CHOLESTEROL HDL / LDL
+              </p>
+              <h6 class="h6">
+                80
+              </h6>
+              <p class="ig-typography__subtitle-2 text_2">
+                mg/dL
+              </p>
+              <h6 class="h6_1">
+                -
+              </h6>
+              <h6 class="h6">
+                85
+              </h6>
+              <p class="ig-typography__subtitle-2 text_2">
+                mg/dL
+              </p>
+            </div>
+          </div>
+          <div class="column-layout group_7">
+            <igx-category-chart [dataSource]="patientDashboardCholesterolHDLLDL" chartType="spline" [yAxisInterval]="20" [yAxisMinimumValue]="50" [yAxisMaximumValue]="150" computedPlotAreaMarginMode="series" class="category-chart_4"></igx-category-chart>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

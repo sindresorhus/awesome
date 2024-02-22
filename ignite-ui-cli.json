@@ -1,0 +1,19 @@
+{
+  "version": "17.1.1315",
+  "project": {
+    "defaultPort": 4200,
+    "framework": "angular",
+    "projectType": "igx-ts",
+    "projectTemplate": "base",
+    "theme": "Default",
+    "themePath": "node_modules/igniteui-angular/styles/igniteui-angular.css",
+    "isBundle": false,
+    "bundleFilePath": "",
+    "igniteuiSource": "",
+    "components": [],
+    "sourceFiles": [],
+    "isShowcase": false,
+    "version": ""
+  },
+  "build": {}
+}
