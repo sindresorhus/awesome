@@ -1,4 +1,0 @@
-* text=auto eol=lf
-*.ai binary
-readme.md merge=union
-.github/workflows/repo_linter.sh -linguist-detectable

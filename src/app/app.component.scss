@@ -1,0 +1,97 @@
+:host {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+}
+.row-layout {
+  display: flex;
+}
+.main-navigation {
+  border-color: #BDD2B9;
+  border-width: 0px 0px 1px;
+  border-style: solid;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  position: relative;
+  min-width: 50px;
+  min-height: 50px;
+}
+.group {
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-start;
+  gap: 8px;
+  overflow: hidden;
+  position: relative;
+  min-width: 50px;
+}
+.group_1 {
+  justify-content: flex-start;
+  align-items: center;
+  align-content: flex-start;
+  gap: 16px;
+  position: relative;
+  min-width: 50px;
+  min-height: 50px;
+}
+.bottom-container {
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  position: relative;
+  min-width: 50px;
+  min-height: 50px;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+.navbar {
+  --igx-navbar-background: #F0F6EF;
+  height: max-content;
+  min-width: min-content;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+.view-container {
+  overflow: auto;
+  position: relative;
+  flex-grow: 1;
+}
+.nav-drawer {
+  min-width: min-content;
+  min-height: 0;
+  max-width: 236px;
+  flex-shrink: 0;
+}
+.navbar-content {
+  gap: 1rem;
+}
+.image {
+  object-fit: cover;
+  height: 32px;
+  min-width: 0;
+  min-height: 0;
+  max-height: 32px;
+  flex-shrink: 0;
+}
+.text {
+  color: hsla(var(--ig-secondary-400));
+  height: max-content;
+  min-width: min-content;
+}
+.avatar {
+  --igx-avatar-background: transparent;
+}
+.icon {
+  --size: 24px;
+  font-size: 24px;
+  width: 24px;
+  height: 24px;
+  color: hsla(var(--ig-primary-700));
+}
+.button {
+  --igx-button-foreground: hsla(var(--ig-primary-900));
+}
