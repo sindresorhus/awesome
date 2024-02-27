@@ -1,5 +1,5 @@
 <!-- omit from toc -->
-# List Guidelines
+# Awesome List Guidelines
 
 > [!NOTE]
 > Read the [Awesome Manifesto](awesome.md) before your create a new list.
@@ -16,9 +16,13 @@
 > 
 > You can make a comment on [Issue #2242][incubating lists], which is dedicated for incubating lists to expose themselves to the community, in case you keep working on a duplicate list or making redunant efforts.
 
+<!--! What do you mean by "Non-generated Markdown file in a GitHub repo."? Maybe I didn't get your point here. -->
+> [!NOTE]
+> Do not use generated Markdown files in the list repository.
+
+<!--! Is it the function of Yeoman generator? I didn't understand the readme of Yeoman generator. -->
 > [!TIP]
 > You can use [Yeoman generator](https://github.com/dar5hak/generator-awesome-list) to create a new awesome list automatically.
-<!--! Is it the function of Yeoman generator? I didn't understand the readme of Yeoman generator. -->
 
 ---
 
@@ -26,9 +30,19 @@
 ## Contents
 
 - [Repository settings](#repository-settings)
+  - [Repository name](#repository-name)
+  - [Default branch](#default-branch)
+  - [Topics](#topics)
 - [List profile](#list-profile)
+  - [List title](#list-title)
+  - [Awesome badge](#awesome-badge)
+  - [Short description](#short-description)
+  - [Logo and header image](#logo-and-header-image)
 - [Table of contents](#table-of-contents)
 - [List body](#list-body)
+  - [Content range](#content-range)
+  - [List items](#list-items)
+  - [Footnotes](#footnotes)
 - [Licence](#licence)
 - [Contributing](#contributing)
 - [Submit the list to Awesome](#submit-the-list-to-awesome)
@@ -37,71 +51,95 @@
 
 ## Repository settings
 
-The **repository name** of the list must be in lowercase slug format: `awesome-name-of-list`.
+### Repository name
 
-Examples of repository names:
+Use lowercase slug format for the repository name of the list:
 
-✅ `awesome-swift`
-✅ `awesome-web-typography`
-❌ `awesome-Swift`
-❌ `AwesomeWebTypography`
+```
+awesome-name-of-list
+```
 
-The **default branch** must be named [`main`, not `master`](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/).
+Examples:
 
-The repository must set `awesome-list` and `awesome` as [GitHub topics](https://help.github.com/articles/about-topics). If possible, add more relevant topics.
+- ✅ `awesome-swift`
+- ✅ `awesome-web-typography`
+- ❌ `awesome-Swift`
+- ❌ `AwesomeWebTypography`
+
+### Default branch
+
+Set the default branch name of the repository to [`main`, not `master`](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/).
+
+### Topics
+
+Add `awesome-list` and `awesome` as [GitHub topics](https://help.github.com/articles/about-topics) to the repository. If possible, add more relevant topics.
 
 ## List profile
 
-Use [title case] for the **list title** (heading1 in readme): `# Awesome Name of List`.
+### List title
 
-Examples of list titles:
+Use [title case] for the list title (heading1 in readme):
 
-✅ `# Awesome Swift`
-✅ `# Awesome Web Typography`
-❌ `# awesome-swift`
-❌ `# AwesomeSwift`
+ ```markdown
+ # Awesome Name of List
+ ```
 
-Add the [awesome badge] to the right of the list title. If the list has a header image aligned to center, the [awesome badge] can be aligned to center too.
+Examples:
 
-The [awesome badge] must link back to the [Awesome][repo] list.
+- ✅ `# Awesome Swift`
+- ✅ `# Awesome Web Typography`
+- ❌ `# awesome-swift`
+- ❌ `# AwesomeSwift`
+
+### Awesome badge
+
+Add the [awesome badge] to the right of the list title. If the list has a header image aligned to center, optionally align the [awesome badge] to center.
+
+Link the [awesome badge] back to the [Awesome][repo] list.
 
 > [!NOTE]
 > Do not add a CI  badge (e.g. GitHub Actions) in the list title. You can still use a CI for linting, but the badge has no value in the readme.
 >
 > Do not add links like `Inspired by awesome-foo` or `Inspired by the Awesome project` at the top of the readme. The [awesome badge] is enough.
 
-Write a **short description** for the list, following the list title. 
+### Short description
 
-Make sure the list focuses on one certain scope only. If the list has related awesome lists, link to them.
+Write a short description for the list, following the list title. 
 
-[Exmaples][Awesome Quantified Self] of short descriptions:
+Make sure that the list focuses on one certain scope only. If the list has related awesome lists, link to them.
 
-✅ `Mobile operating system for Apple phones and tablets.`
-✅ `Prototyping interactive UI designs.`
-❌ `Resources and tools for iOS development.`
-❌ `Awesome Framer packages and tools.`
+[Exmaples][Awesome Quantified Self]:
 
-Whenever possible, add **a logo or a header image** for the list. The image must meet the following requirements:
+- ✅ `Mobile operating system for Apple phones and tablets.`
+- ✅ `Prototyping interactive UI designs.`
+- ❌ `Resources and tools for iOS development.`
+- ❌ `Awesome Framer packages and tools.`
+
+### Logo and header image
+
+Whenever possible, add a logo or a header image for the list. The image must meet the following requirements:
 
 - If the image is set to full width, align it to center. Otherwise, place it at the top-right of the readme (see the [example][Awesome Electron]).
 - Link the image to the website of the list or other relevant website.
-- The image must be high-DPI. Set it to a maximum of half the width of the original image.
-- Don't repeat the text of the list title in the image. If the two have the same texts, use the image as the list title (the image follows the symbol `#` and a space in Markdown, or is wraped by the tags of `<h1>` in HTML).
+- Use a high-DPI image as the logo or header image. Set it to a maximum of half the width of the original image.
+- Do not repeat the text of the list title in the image. If the two have the same texts, use the image as the list title (the image follows the symbol `#` and a space in Markdown, or is wraped by the tags of `<h1>` in HTML).
 
 ## Table of contents
 
 Insert a table of contents in the list. The table of contents must meet the following requirements:
 
-- The heading (heading2) of the table of contents must be `Contents`, not `Table of Contents`.
+- Use `Contents` as the heading (heading2) of the table of contents , not `Table of Contents`.
 - The table of contents must be the first section of the list.
 - The table of contents must be a maximum of two-level list (see the [example][Syntax of Nested Lists]).
-- `Contributing` and `Footnotes` must be excluded from the table of contents.
+- Exclude `Contributing` and `Footnotes` from the table of contents.
 
 ## List body
 
+### Content range
+
 Add actual awesome stuff to the list only. Read the [Awesome manifesto](awesome.md) to know what is awesome.
 
-**Do not** add the following stuff to the list:
+Do not add the following stuff to the list:
 
 - Unmaintained repositoris
 - Archived repositoris
@@ -111,8 +149,28 @@ Add actual awesome stuff to the list only. Read the [Awesome manifesto](awesome.
 > [!TIP]
 > If you really need to add such stuff to the list, put them in a separate Markdown file.
 
-<!--! What do you mean by "Non-generated Markdown file in a GitHub repo."? Maybe I didn't get your point here. -->
-**Do not** use a generated Markdown file as the readme of the list.
+### List items
+
+> [!NOTE]
+> Make sure that the list is grammatically correct, typo-free and has no Markdown formatting errors.
+
+Write a description for each item in the list to tell the readers why it is on the list and how they will benefit from it, unless the item name expresses these points clearly by itself.
+
+Format all the items in the list consistently:
+
+- Separate each item and its desctiption by a dash.
+- Start each description with an uppercase character and end it with a period.
+- Use correct and consistent names. For example, use `Node.js`, not `NodeJS` or `node.js`.
+- Do not use [hard-wrapping](https://stackoverflow.com/questions/319925/difference-between-hard-wrap-and-soft-wrap) in items.
+
+Example:
+
+ ```markdown
+ - [AVA](…) - JavaScript test runner.
+ ```
+<!--! The separator in the example is a hyphen, not a dash. So what should it be?-->
+
+### Footnotes
 
 Put all subordinate information into the `Footnotes` at the bottom of the readme, such as: 
 
@@ -121,39 +179,26 @@ Put all subordinate information into the `Footnotes` at the bottom of the readme
 - Pointers to expansive content.
 <!--! What do "Hyperlinks to sources" and "Pointers to expansive content" mean? -->
 
-Write a **description for each item** in the list to tell the readers why it is on the list and how they will benefit from it, unless the item name expresses these points clearly by itself.
-
-Format all the items in the list consistently:
-
-- Separate each item and its desctiption by a dash.
-- Each description starts with an uppercase character and ends with a period.
-- Use correct and consistent names. For example, use `Node.js`, not `NodeJS` or `node.js`.
-- Do not use [hard-wrapping](https://stackoverflow.com/questions/319925/difference-between-hard-wrap-and-soft-wrap) in items.
-
-An Example of item:
-
- `- [AVA](…) - JavaScript test runner.`
-<!-- The separator in the example is a hyphen, not a dash. So what should it be?-->
-
-> [!NOTE]
-> Ensure the list is grammatically correct, typo-free and has no Markdown formatting errors.
-
 ## Licence
 
-1. Adopt an appropriate license for the list.
-2. Create a file named `license.md` or `LICENSE.md` in the repository root with the license text.
+> [!NOTE]
+> We strongly recommend the [CC0 license], but any [Creative Commons license] will work. 
+> 
+> Code licenses like MIT, BSD, Apache, GPL, etc, are not acceptable. Neither are WTFPL and [Unlicense].
 
 > [!NOTE]
-> We strongly recommend the [CC0 license], but any [Creative Commons license] will work. Code licenses like MIT, BSD, Apache, GPL, etc, are not acceptable. Neither are WTFPL and [Unlicense].
-> 
+> Do not add the license name, text, or a `Licence` section to the readme. GitHub already shows the license name and link to the license file at the top of the repository.
+
+> [!TIP]
 > You can quickly add the [CC0 license] to your repo by going to this URL (replace `<user>` and `<repo>` with your username and repository name accordingly): 
 > 
 > ```
 > https://github.com/<user>/<repo>/community/license/new?branch=main&template=cc0-1.0
 > ```
 
-> [!NOTE]
-> Do not add the license name, text, or a `Licence` section to the readme. GitHub already shows the license name and link to the license file at the top of the repository.
+Adopt an appropriate license for the list.
+
+Create a file named `license.md` or `LICENSE.md` in the repository root with the license text.
 
 To verify that you've read all the guidelines, please comment on your pull request with just the word `unicorn`. 😇
 
