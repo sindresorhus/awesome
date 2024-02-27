@@ -4,7 +4,7 @@
 Congratulations on creating an Awesome list! 🎉
 
 > [!NOTE]
-> Make sure that your list is compliant with the [list guidelines](list-guidelines.md), before you send a pull request to the [Awesome](repo) list.
+> Make sure that your list is compliant with the [awesome list guidelines](awesome-list-guidelines.md), before you send a pull request to the [Awesome](repo) list.
 
 > [!NOTE]
 > Make sure that you have put your best effort to your list. Otherwise, your pull request will be immediately closed.
@@ -17,7 +17,7 @@ Congratulations on creating an Awesome list! 🎉
 - [Add your list to Awesome](#add-your-list-to-awesome)
 - [Create a pull request](#create-a-pull-request)
   - [Pull request title](#pull-request-title)
-  - [Pull request template](#pull-request-template)
+  - [Pull request description template](#pull-request-description-template)
 - [Homework](#homework)
 - [Submit your pull request](#submit-your-pull-request)
 
@@ -31,7 +31,7 @@ Congratulations on creating an Awesome list! 🎉
 Follow these steps to add your list to the [Awesome][repo] list:
 
 1. Add a new item to the bottom of the category that your list belongs to.
-2. Write your list title in title case.
+2. Type your list title in title case.
 3. Link your list title to its repository by a URL ending with `#readme`.
 4. Write a short description for your list.
 
@@ -85,7 +85,7 @@ Examples:
 - ❌ `Adding Swift`
 - ❌ `Added Swift`
 
-### Pull request template
+### Pull request description template
 
 [Insert the URL of your list here]
 
@@ -93,10 +93,8 @@ Examples:
 
 [Insert the pull requests you reviewed in [Homework](#homework) here]
 
-[Type the secret word hidden in the list guidelines and the pull request guidelines]
-
 > [!IMPORTANT]
-> By submitting this pull request, I confirm I've read and complied with the list guidelines and the pull request guidelines for awesome lists. 🖖
+> By submitting this pull request, I confirm I've read and complied with the awesome list guidelines and the pull request guidelines for awesome lists. 🖖
 
 ## Homework
 

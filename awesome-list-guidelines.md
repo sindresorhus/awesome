@@ -2,7 +2,7 @@
 # Awesome List Guidelines
 
 > [!NOTE]
-> Read the [Awesome Manifesto](awesome.md) before your create a new list.
+> Read the [Awesome Manifesto](awesome.md) before you create a new list.
 
 > [!NOTE]
 > You can use the awesome badge on any awesome list, which can be not only a public list but also a private one. But if you want the list to be included in the [Awesome][repo] list, it must meet the requirements in this file.
@@ -190,7 +190,7 @@ Put all subordinate information into the `Footnotes` at the bottom of the readme
 > Do not add the license name, text, or a `Licence` section to the readme. GitHub already shows the license name and link to the license file at the top of the repository.
 
 > [!TIP]
-> You can quickly add the [CC0 license] to your repo by going to this URL (replace `<user>` and `<repo>` with your username and repository name accordingly): 
+> You can quickly add the [CC0 license] to your repository by going to this URL (replace `<user>` and `<repo>` with your username and repository name accordingly): 
 > 
 > ```
 > https://github.com/<user>/<repo>/community/license/new?branch=main&template=cc0-1.0
@@ -215,11 +215,11 @@ You can optionally create a `Contributing` section at the top or bottom of readm
 >
 > The birthday of the list is the day when it received the first real commit or when it was open-sourced.
    
-1. Make sure the list is compliant with the [list guidelines](#list-guidelines).
+1. Make sure that the list is compliant with the [awesome list guidelines](#awesome-list-guidelines).
 2. Run the [awesome-lint] on the list. 
     - If the [awesome-lint] reports issues, fix them.
-    - If there are false-positives or things that can not be fixed, report it by [submit an issue].
-3. Follow the [pull request guidelines](pull-request-guidelines.md) to submit a pull request for the list to be added in [Awesome][repo] list.
+    - If there are false-positives or things that can not be fixed, report it by [submitting an issue].
+3. Comply the [pull request guidelines](pull-request-guidelines.md) to submit a pull request for the list to be added in [Awesome][repo] list.
 
 ---
 
@@ -251,4 +251,4 @@ Thanks for being awesome! 😎
 
 [awesome-lint]: https://github.com/sindresorhus/awesome-lint
 
-[submit an issue]: https://github.com/sindresorhus/awesome-lint/issues/new
+[submitting an issue]: https://github.com/sindresorhus/awesome-lint/issues/new
