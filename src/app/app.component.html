@@ -1,70 +1,78 @@
-<div class="row-layout main-navigation">
-  <igx-navbar class="navbar">
-    <igx-navbar-title class="navbar-content">
-      <div routerLink="/home" class="row-layout group">
-        <img src="/assets/logo2.svg" class="image" />
-        <p class="ig-typography__subtitle-2 text">
-          HEALTHCARE ASSISTANT
-        </p>
-      </div>
-    </igx-navbar-title>
+<igx-nav-drawer [pin]="true" [pinThreshold]="1024" #navDrawer class="nav-drawer">
+  <ng-template igxDrawer>
+    <div igxDrawerItem igxRipple routerLink="/movies">
+      <igx-icon class="icon">
+        movie
+      </igx-icon>
+      <span>Movies</span>
+    </div>
+    <div igxDrawerItem igxRipple routerLink="/movie-complex">
+      <igx-icon class="icon">
+        location_on
+      </igx-icon>
+      <span>Theatres</span>
+    </div>
+    <div igxDrawerItem igxRipple routerLink="/my-purchases">
+      <igx-icon class="icon">
+        shopping_cart
+      </igx-icon>
+      <span>My Purchases</span>
+    </div>
+    <div igxDrawerItem igxRipple>
+      <igx-icon class="icon">
+        local_offer
+      </igx-icon>
+      <span>Promos</span>
+    </div>
+    <div igxDrawerItem igxRipple>
+      <igx-icon class="icon">
+        help
+      </igx-icon>
+      <span>Help &amp; Support</span>
+    </div>
+    <div igxDrawerItem igxRipple>
+      <igx-icon class="icon">
+        chat_bubble
+      </igx-icon>
+      <span>Contact Us</span>
+    </div>
+  </ng-template>
+</igx-nav-drawer>
+<div class="column-layout group">
+  <div class="row-layout header">
     <div class="row-layout group_1">
-      <div class="row-layout group">
-        <igx-avatar src="/assets/Avatar13.png" shape="circle" class="avatar"></igx-avatar>
-        <p class="ig-typography__subtitle-2 text">
-          Sandy Anderson
-        </p>
-      </div>
       <button igxButton="icon" igxRipple [igxToggleAction]="navDrawer" class="button">
         <igx-icon>
           menu
         </igx-icon>
       </button>
+      <p class="ig-typography__subtitle-1 text">
+        MOVIE APP
+      </p>
     </div>
-  </igx-navbar>
-</div>
-<div class="row-layout bottom-container">
+    <div class="row-layout group_2">
+      <button igxButton="icon" igxRipple class="button_1">
+        <igx-icon>
+          search
+        </igx-icon>
+      </button>
+      <button igxButton="icon" igxRipple class="button_1">
+        <igx-icon>
+          favorite
+        </igx-icon>
+      </button>
+      <igx-avatar src="https://d3cg6cexo8t5ug.cloudfront.net/avatars/avatar8.png" shape="circle" [igxToggleAction]="dropdown" class="avatar"></igx-avatar>
+      <igx-drop-down #dropdown class="dropdown">
+        <igx-drop-down-item>
+          My Profile
+        </igx-drop-down-item>
+        <igx-drop-down-item>
+          Logout
+        </igx-drop-down-item>
+      </igx-drop-down>
+    </div>
+  </div>
   <div class="view-container">
     <router-outlet></router-outlet>
   </div>
-  <igx-nav-drawer position="right" [pinThreshold]="0" width="236px" #navDrawer class="nav-drawer">
-    <ng-template igxDrawer>
-      <div igxDrawerItem igxRipple routerLink="/home">
-        <igx-icon class="icon">
-          home
-        </igx-icon>
-        <span>Home</span>
-      </div>
-      <div igxDrawerItem igxRipple routerLink="/medications">
-        <igx-icon class="icon">
-          healing
-        </igx-icon>
-        <span>Medications</span>
-      </div>
-      <div igxDrawerItem igxRipple routerLink="/health-indicators">
-        <igx-icon class="icon">
-          favorite
-        </igx-icon>
-        <span>Health Indicators</span>
-      </div>
-      <div igxDrawerItem igxRipple routerLink="/appointments">
-        <igx-icon class="icon">
-          calendar_today
-        </igx-icon>
-        <span>Appointments</span>
-      </div>
-      <div igxDrawerItem igxRipple routerLink="/profile">
-        <igx-icon class="icon">
-          account_circle
-        </igx-icon>
-        <span>Medical Profile</span>
-      </div>
-      <div igxDrawerItem igxRipple routerLink="/emergency">
-        <igx-icon class="icon">
-          error
-        </igx-icon>
-        <span>Emergency</span>
-      </div>
-    </ng-template>
-  </igx-nav-drawer>
 </div>

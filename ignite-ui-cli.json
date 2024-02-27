@@ -3,7 +3,7 @@
   "project": {
     "defaultPort": 4200,
     "framework": "angular",
-    "projectType": "igx-ts",
+    "projectType": "igx-ts-legacy",
     "projectTemplate": "base",
     "theme": "Default",
     "themePath": "node_modules/igniteui-angular/styles/igniteui-angular.css",

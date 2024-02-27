@@ -1,0 +1,245 @@
+:host {
+  height: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
+}
+.column-layout {
+  display: flex;
+  flex-direction: column;
+}
+.group {
+  background-color: #110613;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  gap: 24px;
+  overflow: auto;
+  position: relative;
+  padding: 32px;
+  min-width: 512px;
+  min-height: 50px;
+  flex-grow: 4;
+  flex-basis: 0;
+}
+.row-layout {
+  display: flex;
+}
+.group_1 {
+  background-image: url("https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80");
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  position: relative;
+  min-width: 50px;
+  min-height: 320px;
+  max-height: 320px;
+}
+.group_2 {
+  background-color: rgb(25, 9, 27, 0.3);
+  justify-content: center;
+  align-items: center;
+  align-content: flex-start;
+  position: relative;
+  min-height: 50px;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+.group_3 {
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  position: relative;
+  min-width: 50px;
+  min-height: 50px;
+}
+.tabs {
+  min-width: auto;
+  flex-grow: 1;
+  flex-shrink: 0;
+}
+.tab-item {
+  min-width: 100%;
+}
+.card {
+  height: max-content;
+  min-width: 320px;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+.demo-content {
+  border-color: hsla(var(--ig-secondary-200));
+  border-width: 2px;
+  border-style: dashed;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 32px;
+  padding: 48px;
+  min-width: auto;
+  min-height: 50px;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+.group_4 {
+  background-color: #110613;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  overflow: auto;
+  position: relative;
+  padding: 32px;
+  min-width: 400px;
+  min-height: 50px;
+  flex-grow: 1;
+  flex-basis: 0;
+}
+.buy-tickets {
+  background-color: #19091B;
+  border-color: #361439;
+  border-width: 4px 0px 0px;
+  border-style: solid;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  gap: 16px;
+  margin: 0.0px 0.0px 32px;
+  padding: 24px;
+  flex-shrink: 0;
+}
+.theatres-near-you {
+  background-color: #19091B;
+  border-color: #361439;
+  border-width: 4px 0px 0px;
+  border-style: solid;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  gap: 24px;
+  margin: 0.0px;
+  padding: 24.0px 0.0px;
+  flex-shrink: 0;
+}
+.content {
+  height: max-content;
+  min-width: min-content;
+}
+.h5_1 {
+  text-align: center;
+  margin: 0 0 16px;
+  height: max-content;
+  min-width: min-content;
+}
+.image {
+  height: 100%;
+  min-height: 100%;
+  max-height: 100%;
+}
+.image_1 {
+  object-fit: cover;
+  min-width: 0;
+  min-height: 0;
+  max-width: 160px;
+  flex-shrink: 0;
+}
+.text {
+  text-align: center;
+  color: hsla(var(--ig-gray-500));
+  height: max-content;
+  min-width: min-content;
+  max-width: 320px;
+}
+.title {
+  margin: 0.0px 0.0px 16px;
+  padding: 0.0px;
+  width: max-content;
+  height: max-content;
+}
+.icon {
+  --size: 24px;
+  font-size: 24px;
+  width: 24px;
+  height: 24px;
+}
+.text_1 {
+  margin: 0 0 0 24px;
+  height: max-content;
+  min-width: min-content;
+}
+.avatar {
+  --igx-avatar-background: hsla(var(--ig-success-500));
+}
+.tab-item-content {
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  gap: 24px;
+  overflow: auto;
+  padding: 24px 0 0;
+  height: 100%;
+  min-width: 100%;
+  min-height: 50px;
+  max-height: 100%;
+}
+.media-content {
+  min-height: 180px;
+  max-height: 180px;
+}
+.body-content {
+  min-width: 50px;
+  min-height: 50px;
+}
+.actions-content {
+  min-width: 50px;
+  min-height: 40px;
+}
+.tab-item-content_1 {
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: flex-start;
+  padding: 24px 0 0;
+  height: 100%;
+  min-width: 100%;
+  min-height: 50px;
+  max-height: 100%;
+}
+.button {
+  --igx-button-foreground: white;
+  --igx-button-background: hsla(var(--ig-primary-500));
+  height: max-content;
+}
+.button_1 {
+  --igx-button-foreground: hsla(var(--ig-primary-400));
+  height: max-content;
+}
+.button_2 {
+  --igx-button-foreground: hsla(var(--ig-primary-400));
+}
+.select {
+  height: max-content;
+  min-width: min-content;
+}
+.date-picker {
+  height: max-content;
+  min-width: 120px;
+}
+.select_1 {
+  margin: 0 0 16px;
+  height: max-content;
+  min-width: min-content;
+}
+.button_3 {
+  --igx-button-foreground: white;
+  --igx-button-background: hsla(var(--ig-primary-500));
+  margin: 0 24px;
+  height: max-content;
+}
+.list {
+  height: max-content;
+}
