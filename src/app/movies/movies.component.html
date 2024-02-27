@@ -1,0 +1,157 @@
+<div class="column-layout group">
+  <h5 class="content">
+    Movie Premieres
+  </h5>
+  <div class="row-layout group_1">
+    <div class="column-layout group_2">
+      <div class="column-layout group_3">
+        <h5 class="h5_1">
+          MoviePlex Metropolis
+        </h5>
+        <button igxButton="raised" igxRipple class="button">
+          SHOW SCHEDULE
+        </button>
+      </div>
+    </div>
+  </div>
+  <igx-tabs [disableAnimation]="true" class="tabs">
+    <igx-tab-item [selected]="true" class="tab-item">
+      <igx-tab-header>
+        <span igxTabHeaderLabel>Now Playing</span>
+      </igx-tab-header>
+      <igx-tab-content class="row-layout tab-item-content">
+        <igx-card *ngFor="let item of movieAppDataNowPlaying" class="card">
+          <igx-card-media height="180px" class="media-content">
+            <img [src]="item.MoviePoster" class="image" />
+          </igx-card-media>
+          <igx-card-header>
+            <h3 igxCardHeaderTitle>
+              {{ item.Name }}
+            </h3>
+            <h5 igxCardHeaderSubtitle>
+              {{ item.Genre }}
+            </h5>
+          </igx-card-header>
+          <igx-card-content class="body-content">
+            <p class="content">
+              {{ item.Description }}
+            </p>
+          </igx-card-content>
+          <igx-card-actions class="actions-content">
+            <ng-container igxStart>
+              <button igxButton="flat" igxRipple class="button_1">
+                More
+              </button>
+            </ng-container>
+            <ng-container igxEnd>
+              <button igxButton="icon" igxRipple class="button_2">
+                <igx-icon>
+                  favorite
+                </igx-icon>
+              </button>
+              <button igxButton="icon" igxRipple class="button_2">
+                <igx-icon>
+                  bookmark
+                </igx-icon>
+              </button>
+              <button igxButton="icon" igxRipple class="button_2">
+                <igx-icon>
+                  share
+                </igx-icon>
+              </button>
+            </ng-container>
+          </igx-card-actions>
+        </igx-card>
+      </igx-tab-content>
+    </igx-tab-item>
+    <igx-tab-item [disabled]="true" class="tab-item">
+      <igx-tab-header>
+        <span igxTabHeaderLabel>Opening This Week</span>
+      </igx-tab-header>
+      <igx-tab-content class="row-layout tab-item-content_1">
+        <div class="row-layout demo-content">
+          <img src="/assets/start-building-dark.svg" class="image_1" />
+          <p class="ig-typography__body-2 text">
+            Remove the "demo-content" container, and add your own content.
+          </p>
+        </div>
+      </igx-tab-content>
+    </igx-tab-item>
+    <igx-tab-item [disabled]="true" class="tab-item">
+      <igx-tab-header>
+        <span igxTabHeaderLabel>Coming Soon</span>
+      </igx-tab-header>
+      <igx-tab-content class="row-layout tab-item-content_1">
+        <div class="row-layout demo-content">
+          <img src="/assets/start-building-dark.svg" class="image_1" />
+          <p class="ig-typography__body-2 text">
+            Remove the "demo-content" container, and add your own content.
+          </p>
+        </div>
+      </igx-tab-content>
+    </igx-tab-item>
+  </igx-tabs>
+</div>
+<div class="column-layout group_4">
+  <div class="column-layout buy-tickets">
+    <p class="ig-typography__subtitle-2 title">
+      BUY TICKETS
+    </p>
+    <igx-select type="box" placeholder="Select Movie Title" [(ngModel)]="value" class="select">
+      <igx-prefix>
+        <igx-icon class="icon">
+          movie
+        </igx-icon>
+      </igx-prefix>
+      <igx-select-item value="1" *ngFor="let item of movieAppDataMovieList">
+        {{ item.Name }}
+      </igx-select-item>
+      <label igxLabel>Pick a Movie</label>
+    </igx-select>
+    <igx-select type="box" placeholder="Select a Movie Complex" [(ngModel)]="value" class="select">
+      <igx-prefix>
+        <igx-icon class="icon">
+          location_on
+        </igx-icon>
+      </igx-prefix>
+      <igx-select-item value="1" *ngFor="let item of movieAppDataTheatres">
+        {{ item.Theatres }}
+      </igx-select-item>
+      <label igxLabel>Theatres</label>
+    </igx-select>
+    <igx-date-picker type="box" mode="dialog" class="date-picker">
+      <label igxLabel>Date</label>
+    </igx-date-picker>
+    <igx-select type="box" [(ngModel)]="value" class="select_1">
+      <igx-prefix>
+        <igx-icon class="icon">
+          access_time
+        </igx-icon>
+      </igx-prefix>
+      <igx-select-item value="1" *ngFor="let item of movieAppDataShowtimes">
+        {{ item.Showtimes }}
+      </igx-select-item>
+      <label igxLabel>Show Time</label>
+    </igx-select>
+    <button igxButton="raised" igxRipple class="button">
+      GET TICKETS NOW
+    </button>
+  </div>
+  <div class="column-layout theatres-near-you">
+    <p class="ig-typography__subtitle-2 text_1">
+      THEATRES NEAR YOU
+    </p>
+    <igx-list class="list">
+      <igx-list-item [isHeader]="false" *ngFor="let item of movieAppDataTheatresNearYou">
+        <span igxListThumbnail>
+          <igx-avatar [initials]="item.Initials" shape="circle" class="avatar"></igx-avatar>
+        </span>
+        <span igxListLineTitle>{{ item.Theatre }}</span>
+        <span igxListLineSubTitle>{{ item.Address }}</span>
+      </igx-list-item>
+    </igx-list>
+    <button igxButton="raised" igxRipple class="button_3">
+      Change Location
+    </button>
+  </div>
+</div>

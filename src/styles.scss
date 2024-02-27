@@ -5,17 +5,16 @@
 @use "igniteui-angular/theming" as *;
 
 @include core();
-@include typography($font-family: "Montserrat");
+@include typography($font-family: "Nunito Sans");
 
 $custom-palette: palette(
-  $primary: #56C596,
-  $secondary: #205072,
-  $surface: #fff,
-  $error: #CC333F,
-  $success: #97c556,
-  $warn: #eb8541,
-  $info: #329D9C);
-@include theme($palette: $custom-palette, $elevation: false);
+  $primary: #F03F20,
+  $secondary: #38143B,
+  $surface: #18091A,
+  $error: #B81C4C,
+  $success: #439C47,
+  $info: #3F51B5);
+@include theme($palette: $custom-palette, $schema: $dark-material-schema, $elevation: false, $roundness: 0);
 
 body {
   background: hsla(var(--ig-surface-500));
