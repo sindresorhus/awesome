@@ -2,9 +2,9 @@
 
 <!-- Please fill in the below placeholders -->
 
-**[https://github.com/hogyun2/awesome-lidar-place-recognition.git]**
+**https://github.com/hogyun2/awesome-lidar-place-recognition#readme**
 
-**[This repository is the collection of LiDAR Place Recognition Research that provides a code or a download page, together.]**
+**[LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Place Recognition for LiDAR**
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
