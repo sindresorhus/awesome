@@ -4,7 +4,7 @@
 
 https://github.com/hogyun2/awesome-lidar-place-recognition#readme
 
-[This repository is LiDAR-based place recognition method, datasets, and various algorithms. This is indispensable for robot pose estimation and plays an important role in SLAM.]
+This repository is LiDAR-based place recognition method, datasets, and various algorithms. This is indispensable for robot pose estimation and plays an important role in SLAM.
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
