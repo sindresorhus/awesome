@@ -2,9 +2,9 @@
 
 <!-- Please fill in the below placeholders -->
 
-**[Insert URL to the list here]**
+https://github.com/hogyun2/awesome-lidar-place-recognition#readme
 
-**[Explain what this list is about and why it should be included here]**
+This repository is LiDAR-based place recognition method, datasets, and various algorithms. This is indispensable for robot pose estimation and plays an important role in SLAM.
 
 ### By submitting this pull request I confirm I've read and complied with the below requirements 🖖
 
@@ -15,7 +15,8 @@
 - [ ] Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it. **Instead use [#2242](https://github.com/sindresorhus/awesome/issues/2242) for incubation visibility**.
 - [ ] **Don't waste my time.** Do a good job, adhere to all the guidelines, and be responsive.
 - [ ] **You have to review at least 2 other [open pull requests](https://github.com/sindresorhus/awesome/pulls?q=is%3Apr+is%3Aopen).**
-	Try to prioritize unreviewed PRs, but you can also add more comments to reviewed PRs. Go through the below list when reviewing. This requirement is meant to help make the Awesome project self-sustaining. Comment here which PRs you reviewed. You're expected to put a good effort into this and to be thorough. Look at previous PR reviews for inspiration. **Just commenting “looks good” or simply marking the pull request as approved does not count!** You have to actually point out mistakes or improvement suggestions. Comments pointing out lint violation are allowed, but does **not** count as a review.
+	- [Add Cloud Robotics](https://github.com/sindresorhus/awesome/pull/2589#issuecomment-2007986313)
+	- [Add Maps Data](https://github.com/sindresorhus/awesome/pull/2589#issuecomment-2007986313)
 - [ ] You have read and understood the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/main/create-list.md).
 - [ ] This pull request has a title in the format `Add Name of List`. It should not contain the word `Awesome`.
 	- ✅ `Add Swift`
