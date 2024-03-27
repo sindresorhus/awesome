@@ -640,6 +640,7 @@
 - [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
+- [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - An identity standard and authentication protocol on top of OAuth 2.0 that enables user identity assertion.
 
 ## Content Management Systems
 
