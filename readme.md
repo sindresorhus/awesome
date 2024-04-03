@@ -894,3 +894,5 @@
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 - [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.
+
+- [LIDAR Place Recognition](https://github.com/hogyun2/awesome-lidar-place-recognition.git#readme) - Place Recognition for LiDAR
