@@ -85,7 +85,7 @@
 		<br>
 		<br>
 		<br>
-		<a href="https://logto.io/ref=sindre">
+		<a href="https://logto.io/?ref=sindre">
 			<div>
 				<picture>
 					<source width="200" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-dark.svg?x">
@@ -95,7 +95,7 @@
 			</div>
 			<b>The better identity infrastructure for developers</b>
 			<div>
-				<sup>Logto is an open-source Auth0 alternative designed for every app</sup>
+				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
 			</div>
 		</a>
 		<br>
