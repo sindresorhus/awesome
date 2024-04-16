@@ -124,6 +124,7 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
@@ -629,6 +630,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [Technical Writing Learning](https://github.com/wongyah/awesome-technical-writing-learning#readme) - An essential skill of conveying complex technical information in an easy-to-understand way.
 
 ## Security
 
