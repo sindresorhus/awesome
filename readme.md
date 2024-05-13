@@ -1,18 +1,18 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<!-- <br>
+	<br>
 	<br>
 	<br>
 	<br>
 	<div>
-		<sub>Check out my latest app</sub>
+		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://sindresorhus.com/one-task">One Task</a>
+			<a href="https://www.producthunt.com/posts/day-progress">Day Progress</a>
 			<br>
-			<sup>Stop procrastination and get stuff done by focusing on one task at a time</sup>
+			<sup>Display the time remaining today in your menu bar</sup>
 		</h2>
-	</div> -->
+	</div>
 	<br>
 	<br>
 	<br>
@@ -81,6 +81,22 @@
 				<source width="340" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
 				<img width="340" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
 			</picture>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://logto.io/?ref=sindre">
+			<div>
+				<picture>
+					<source width="200" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-dark.svg?x">
+					<source width="200" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x">
+					<img width="200" src="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x" alt="Logto logo">
+				</picture>
+			</div>
+			<b>The better identity infrastructure for developers</b>
+			<div>
+				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
+			</div>
 		</a>
 		<br>
 		<br>
@@ -191,7 +207,7 @@
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
-- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud Platform.
+- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - App development platform built on Google Cloud.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - Set of software libraries and tools that help you build robot apps.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - Visualize and store data from any device.
 - [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
@@ -409,6 +425,7 @@
 - [Slim](https://github.com/nekofar/awesome-slim#readme) - PHP framework.
 - [Fiber](https://github.com/gofiber/awesome-fiber#readme) - Web framework built on top of Fasthttp, the fastest HTTP engine for Go.
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
+- [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 
 ## Computer Science
 
