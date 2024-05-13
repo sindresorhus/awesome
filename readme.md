@@ -685,6 +685,10 @@
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
 
+## Embedded Systems
+
+- [RT-Thread](https://github.com/luhuadong/awesome-rt-thread#readme) - A real-time operating system (RTOS) for embedded systems and Internet of things (IoT).
+
 ## Business
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
