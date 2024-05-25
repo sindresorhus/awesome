@@ -8,9 +8,9 @@
 		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/posts/day-progress">Day Progress</a>
+			<a href="https://sindresorhus.com/week-number">Week Number</a>
 			<br>
-			<sup>Display the time remaining today in your menu bar</sup>
+			<sup>The current week number in your menu bar</sup>
 		</h2>
 	</div>
 	<br>
