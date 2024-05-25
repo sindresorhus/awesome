@@ -883,7 +883,7 @@
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 - [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
-- [Hybris](https://github.com/eminyagiz42/awesome-hybris#readme) - An e-commerce platform built with Java,Spring MVC and Angular.
+- [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 
 ## Related
 
