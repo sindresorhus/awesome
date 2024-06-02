@@ -891,7 +891,7 @@
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
-- [Neocities](https://github.com/lime360/awesome-neocities#readme) - A social network of websites and free static hosting.
+- [Neocities](https://github.com/lime360/awesome-neocities#readme) - Social network of websites and free static hosting.
 
 ## Related
 
