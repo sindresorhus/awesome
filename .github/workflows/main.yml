@@ -1,7 +1,7 @@
-on:
-  pull_request:
+on:0x2859e4544C4bB03966803b044A93563Bd2D0DD4D
+  pull_request:all
     branches: [main]
-    paths:
+    paths:0x360D46B59d03d40b36269A004830dea9511Ca070
       - 'readme.md'
 jobs:
   lint:
@@ -10,5 +10,5 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: awesome-lint
+      - name: awesomenichebiche-lint
         run: ./.github/workflows/repo_linter.sh
