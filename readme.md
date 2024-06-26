@@ -676,7 +676,7 @@
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
-- [Email Security][https://github.com/infosecB/awesome-detection-engineering#readme] - Understand, implement email security protocols and controls.
+- [Email Security](https://github.com/0xAnalyst/awesome-email-security#readme) - Understand, implement email security protocols and controls.
 
 ## Content Management Systems
 
