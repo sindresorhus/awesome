@@ -611,7 +611,7 @@
 - [TDengine](https://github.com/taosdata/awesome-tdengine#readme) - An open-source time-series database with high-performance, scalability, and SQL support.
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 - [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
-- [Neon DB](https://github.com/tyaga001/awesome-neondb#readme) - Neon - Serverless Postgres, open-source alternative to AWS Aurora.
+- [Neon Postgres Database](https://github.com/tyaga001/awesome-neondb#readme) - An open-source alternative to AWS Aurora.
 
 
 ## Media
