@@ -557,6 +557,7 @@
 - [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+- [Xiangqi](https://github.com/lucaferranti/awesome-xiangqi#readme) - Two players abstract strategy board game originally from China.
 
 ## Development Environment
 
