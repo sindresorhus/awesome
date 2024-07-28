@@ -612,6 +612,7 @@
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 - [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
 - [Neon](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
+- [Database Design](https://github.com/sujeet-agrahari/awesome-database-design#readme] Resources and tutorials to design a better database schema.
 
 ## Media
 
