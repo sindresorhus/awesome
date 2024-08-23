@@ -503,7 +503,7 @@
 - [Mind Expanding Books](https://github.com/hackerkid/Mind-Expanding-Books#readme)
 - [Book Authoring](https://github.com/TalAter/awesome-book-authoring#readme)
 - [Elixir Books](https://github.com/sger/ElixirBooks#readme)
-
+- [Global Library](https://github.com/FreeContent4Devs/awesome-global-library#readme)
 ## Editors
 
 - [Sublime Text](https://github.com/dreikanter/sublime-bookmarks#readme)
