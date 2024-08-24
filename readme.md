@@ -906,7 +906,7 @@
 - [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 - [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
-- [LinkedIn Job Directory](https://github.com/Ask-for-referral/LinkedIn-Job-Directory) 
+- [LinkedIn Job Directory](https://github.com/pushpakumar02/linkedIn-job-directory) - Repository containing links to all LinkedIn company pages for easy access to job openings.
 
 ## Related
 
