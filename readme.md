@@ -212,6 +212,7 @@
 - [Bluetooth Low Energy](https://github.com/dotintent/awesome-ble#readme) - Low-power wireless communication protocol ideal for IoT, wearables, and other battery-powered applications.
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
+- [Apache CloudStack](http://cloudstack.apache.org) - Open-source cloud computing platform for building private IaaS clouds.
 
 ## Programming Languages
 
