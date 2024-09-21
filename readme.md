@@ -586,6 +586,7 @@
 - [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
 - [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
+- [Graphic Software](https://github.com/MaxGripe/awesome-graphic-software#readme)
 - [Music](https://github.com/ciconia/awesome-music#readme)
 - [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme)
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
