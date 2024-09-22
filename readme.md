@@ -1,9 +1,6 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
-	<br>
-	<br>
-	<br>
 	<div>
 		<sub>Check out my macOS app</sub>
 		<br>
@@ -13,11 +10,6 @@
 			<sup>Customize the gap between menu bar items on macOS</sup>
 		</h2>
 	</div>
-	<br>
-	<br>
-	<br>
-	<br>
-	<hr>
 	<p>
 		<p>
 			<sup>
