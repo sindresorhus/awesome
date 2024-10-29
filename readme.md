@@ -757,7 +757,7 @@
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
-- [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for working with in vivo brain data.
+- [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 
 ## Events
 
