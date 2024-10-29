@@ -525,6 +525,7 @@
 - [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+- [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
 
 ## Development Environment
 
