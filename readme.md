@@ -892,7 +892,7 @@
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 - [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
-- [FOSS Alternatives](https://github.com/hardBSDk/awesome-alternatives) - A list of free and open-source alternatives for proprietary, freeware and shareware programs, games, web services and operating systems.
+- [FOSS Alternatives](https://github.com/hardBSDk/awesome-alternatives#README) - A list of free and open-source alternatives for proprietary, freeware and shareware programs, games, web services and operating systems.
 
 ## Related
 
