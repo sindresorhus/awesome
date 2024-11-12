@@ -643,8 +643,7 @@
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
-- [Red-Teaming LLMs](https://github.com/dapurv5/awesome-red-teaming-llms#readme) - Systematizing LLM security: A threat model for red-teaming attacks and defense strategies.
-- [Red-Teaming LLMs](https://github.com/dapurv5/awesome-red-teaming-llms) - Systematizing Large Language Model Security: Attack Taxonomy, Defense Framework, and Red-Teaming Protocols
+- [Red-Teaming LLMs](https://github.com/dapurv5/awesome-red-teaming-llms#readme) - Systematizing Large Language Model Security: Attack Taxonomy, Defense Framework, and Red-Teaming Protocols
 
 ## Content Management Systems
 
