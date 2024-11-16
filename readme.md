@@ -27,11 +27,6 @@
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://standardresume.co/tech">
-			<img src="https://sindresorhus.com/assets/thanks/standard-resume-logo.svg" width="160"/>
-		</a>
-		<br>
-		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
@@ -138,20 +133,6 @@
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
-<br>
-<hr>
-<br>
-<br>
-<div align="center">
-	<a href="https://app.codecrafters.io/join?via=sindre">
-		<img src="https://github.com/sindresorhus/awesome/assets/170270/ddb75194-c7e3-4720-861e-37d3b0394f0f" width="900">
-	</a>
-</div>
-<br>
-<br>
-<hr>
-<br>
-
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
@@ -178,6 +159,7 @@
 - [Salesforce](https://github.com/mailtoharshit/awesome-salesforce#readme)
 - [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+	- [PowerToys Run Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
@@ -494,6 +476,7 @@
 - [Audit Algorithms](https://github.com/erwanlemerrer/awesome-audit-algorithms#readme) - Algorithmic audits of algorithms.
 - [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 - [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
+- [VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
 
 ## Books
 
@@ -542,6 +525,7 @@
 - [Game Engine Development](https://github.com/stevinz/awesome-game-engine-dev#readme) - Building software to speed up game creation.
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
+- [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
 
 ## Development Environment
 
@@ -757,7 +741,9 @@
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - Mental health awareness and self-care in the software industry.
 - [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
+- [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
+
 
 ## Events
 
@@ -907,6 +893,7 @@
 - [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 - [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
+- [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 
 ## Related
 
