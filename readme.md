@@ -276,17 +276,7 @@
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 
-<br>
-<hr>
-<br>
-<br>
-<a href="https://vshymanskyy.github.io/StandWithUkraine">
-	<img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg">
-</a>
-<br>
-<br>
-<hr>
-<br>
+
 
 ## Front-End Development
 
