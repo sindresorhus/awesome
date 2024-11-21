@@ -657,7 +657,7 @@
 - [Security Card Games](https://github.com/Karneades/awesome-security-card-games#readme) - Train your skills and discuss various security topics.
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
-- [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Annual cybersecurity analysis and industry survey reports
+- [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring trends, insights, and challenges shaping the cybersecurity landscape through in-depth analysis and industry surveys.
 
 ## Content Management Systems
 
