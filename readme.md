@@ -8,9 +8,9 @@
 		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
-			<a href="https://sindresorhus.com/menu-bar-spacing">Menu Bar Spacing</a>
+			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
 			<br>
-			<sup>Customize the gap between menu bar items on macOS</sup>
+			<sup>Elevate your Mac experience</sup>
 		</h2>
 	</div>
 	<br>
@@ -61,21 +61,6 @@
 			<b>The better identity infrastructure for developers</b>
 			<div>
 				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://encore.dev?utm_campaign=github_repo&utm_medium=referral&utm_content=sindre&utm_source=github">
-			<div>
-				<picture>
-					<source width="230" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-dark.svg">
-					<source width="230" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/encore-logo-light.svg">
-					<img width="230" src="https://sindresorhus.com/assets/thanks/encore-logo-light.svg" alt="Encore logo">
-				</picture>
-			</div>
-			<b>The development platform for building type-safe distributed systems</b>
-			<div>
-				<sup>End-to-end tooling from local development to automated DevOps and infrastructure in your AWS/GCP.</sup>
 			</div>
 		</a>
 		<br>
