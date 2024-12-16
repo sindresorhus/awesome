@@ -83,3 +83,7 @@ Create a [table of contents](https://github.com/sindresorhus/stuff/blob/main/toc
 ## Accept other people's opinion
 
 If you're an owner of the list, respect other people's opinions. If there are plenty of users not agreeing with your decision, give it a second thought.
+
+## Learning Resources
+- [Learn GitHub](https://learngithub.com) - Ресурс для изучения основ GitHub.
+
