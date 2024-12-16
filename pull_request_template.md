@@ -26,7 +26,7 @@
 	- ❌ `add Swift`
 	- ❌ `Adding Swift`
 	- ❌ `Added Swift`
-- [ ] Your entry here should include a short description about the project/theme of the list. **It should not describe the list itself.** The first character should be uppercase and the description should end in a dot. It should be an objective description and not a tagline or marketing blurb. It should not contain the name of the list.
+- [ ] Your entry here should include a short description of the project/theme of the list. **It should not describe the list itself.** The first character should be uppercase and the description should end in a dot. It should be an objective description and not a tagline or marketing blurb. It should not contain the name of the list.
 	- ✅ `- [iOS](…) - Mobile operating system for Apple phones and tablets.`
 	- ✅ `- [Framer](…) - Prototyping interactive UI designs.`
 	- ❌ `- [iOS](…) - Resources and tools for iOS development.`
@@ -68,7 +68,7 @@
 - [ ] Includes a project logo/illustration whenever possible.
 	- Either centered, fullwidth, or placed at the top-right of the readme. [(Example)](https://github.com/sindresorhus/awesome-electron)
 	- The image should link to the project website or any relevant website.
-	- **The image should be high-DPI.** Set it to maximum half the width of the original image.
+	- **The image should be high-DPI.** Set it to a maximum of half the width of the original image.
 	- Don't include both a title saying `Awesome X` and a logo with `Awesome X`. You can put the header image in a `#` (Markdown header) or `<h1>`.
 - [ ] Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
 - [ ] Includes the [Awesome badge](https://github.com/sindresorhus/awesome/blob/main/awesome.md#awesome-badge).
@@ -88,7 +88,7 @@
 	- **Do not** add the license name, text, or a `Licence` section to the readme. GitHub already shows the license name and link to the full text at the top of the repo.
 	- To verify that you've read all the guidelines, please comment on your pull request with just the word `unicorn`.
 - [ ] Has [contribution guidelines](https://github.com/sindresorhus/awesome/blob/main/awesome.md#include-contribution-guidelines).
-	- The file should be named `contributing.md`. Casing is up to you.
+	- The file should be named `contributing.md`. The casing is up to you.
 	- It can optionally be linked from the readme in a dedicated section titled `Contributing`, positioned at the top or bottom of the main content.
 	- The section should not appear in the Table of Contents.
 - [ ] All non-important but necessary content (like extra copyright notices, hyperlinks to sources, pointers to expansive content, etc) should be grouped in a `Footnotes` section at the bottom of the readme. The section should not be present in the Table of Contents.
