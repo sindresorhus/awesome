@@ -760,6 +760,11 @@
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 
+## Artificial Intelligence Platforms
+- [LangChain](https://www.langchain.com/) - Build and orchestrate LLM-powered applications.
+- [LlamaIndex](https://www.llamaindex.ai/)) - Build AI knowledge assistants.
+- [MindStudio](https://mindstudio.ai) - Build AI Workers, Automations, Intelligence Serverless Functions.
+  
 ## Miscellaneous
 
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
