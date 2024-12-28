@@ -548,6 +548,7 @@
 - [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+- [Awesome Ghostty](https://github.com/fearlessgeekmedia/awesome-ghostty) - List of tools, shaders, themes, and more for the Ghostty terminal emulator. 
 
 ## Entertainment
 
