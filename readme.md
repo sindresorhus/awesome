@@ -644,6 +644,7 @@
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
+- [Sanitizer](https://github.com/junwha/awesome-sanitizer#readme) - Dynamic tools that detect software bugs through compiler instrumentation.
 
 ## Content Management Systems
 
