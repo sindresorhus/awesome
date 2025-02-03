@@ -726,6 +726,7 @@
 - [ZeroNet](https://github.com/zolagonano/awesome-zeronet#readme) - A decentralized web-like network of peer-to-peer users.
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 - [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
+- [0G](https://github.com/0glabs/awesome-0g#readme) - Largest L1 Chain for Onchain AI.
 
 ## Health and Social Science
 
