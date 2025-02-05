@@ -656,6 +656,7 @@
 - [Silverstripe CMS](https://github.com/wernerkrauss/awesome-silverstripe-cms#readme) - PHP MVC framework that serves as a classic or headless CMS.
 - [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 - [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
+- [Payload](https://github.com/DanailMinchev/awesome-payload#readme) - Next.js native and open source headless CMS.
 
 ## Hardware
 
