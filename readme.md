@@ -889,6 +889,7 @@
 - [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
+- [Standards](https://github.com/donBarbos/awesome-standards#readme) - Technical standards, specifications, and proposals that define and enhance software development, programming languages, and related technologies.
 
 ## Related
 
