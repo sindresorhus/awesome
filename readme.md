@@ -548,6 +548,8 @@
 - [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
+- [Meshery](https://github.com/meshery/meshery) - Open-source cloud-native manager for designing and managing Kubernetes-based infrastructure and applications. Offers visual, collaborative GitOps and multi-cluster management.
+- [Kanvas](https://kanvas.new) - Visual interface for collaboratively designing, managing, and sharing Kubernetes clusters and cloud infrastructure as code.
 
 ## Entertainment
 
