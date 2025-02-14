@@ -169,9 +169,9 @@
  	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
  	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
  	- [MiniProfiler](https://github.com/MiniProfiler/dotnet) - Lightweight profiling for .NET applications.
-  - [Serilog](https://github.com/serilog/serilog) - A structured logging framework for .NET applications with support for various sinks.
+    - [Serilog](https://github.com/serilog/serilog) - A structured logging framework for .NET applications with support for various sinks.
  	- [Hangfire](https://github.com/HangfireIO/Hangfire) - Background job scheduler for .NET applications.
-  - [Polly](https://github.com/App-vNext/Polly) - Resilience and transient-fault-handling library for .NET applications.
+    - [Polly](https://github.com/App-vNext/Polly) - Resilience and transient-fault-handling library for .NET applications.
  	- [FluentValidation](https://github.com/FluentValidation/FluentValidation) - A high-performance validation library for .NET models.
   - [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - A benchmarking library for .NET applications with detailed performance analysis.
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - Virtual home assistant.
