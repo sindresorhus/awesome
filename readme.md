@@ -757,6 +757,7 @@
 - [Playwright](https://github.com/mxschmitt/awesome-playwright#readme) - Node.js library to automate Chromium, Firefox and WebKit with a single API.
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
+- [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
 
 ## Miscellaneous
 
