@@ -900,3 +900,15 @@
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+
+## Contribution Guide
+
+We use `awesome-lint` for CI to ensure that all contributions adhere to our guidelines. Please make sure to run `awesome-lint` before submitting a pull request.
+
+To run `awesome-lint`, use the following command:
+
+```sh
+npx awesome-lint
+```
+
+For more details, refer to the [Contribution guide](contributing.md).
