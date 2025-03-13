@@ -643,6 +643,7 @@
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
+- [AI in Cybersecurity](https://github.com/ElNiak/awesome-ai-cybersecurity#readme) - AI applications in cybersecurity and how to secure AI used in applications.
 
 ## Content Management Systems
 
