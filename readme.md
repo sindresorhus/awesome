@@ -728,6 +728,7 @@
 ## Health and Social Science
 
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
+- [Awesome Biomarkers, Blood Tests and Health Indicators](https://github.com/markwk/awesome-biomarkers#readme) - Learn more about blood testing, biomarkers, tech, and services to help quantify (and improve) your health!
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
