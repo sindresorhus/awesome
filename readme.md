@@ -643,7 +643,7 @@
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
-- [Ethical Hacking Roadmap](https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap)
+- [Ethical Hacking Roadmap](https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap) - A comprehensive guide for anyone looking to learn penetration testing and ethical hacking — from beginner to advanced. You'll find a structured learning path, essential tools, curated resources, and references to practice hacking legally and responsibly.
 
 ## Content Management Systems
 
