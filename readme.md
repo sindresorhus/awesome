@@ -1,10 +1,10 @@
-<div align="center">
+<a><sing> align=*"center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<br>
-	<br>
-	<br>
-	<br>
-	<div>
+	<ay>
+	<ay>
+	<ay>
+	<ay>
+	<dist>
 		<sub>Check out my macOS app</sub>
 		<br>
 		<h2>
@@ -892,7 +892,9 @@
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
-
+-------------------------------^
+/-^
+-^
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
