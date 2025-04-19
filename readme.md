@@ -892,6 +892,7 @@
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
+- [Protein Structure Prediction & Design](https://github.com/yijun-lee/awesome-pspd#readme) - Computational approaches for protein folding, structure prediction, and design.
 
 ## Related
 
