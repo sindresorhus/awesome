@@ -892,7 +892,7 @@
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
-- [Free Tools](https://github.com/mathewlewallen/awesome-free-tools) - Curated list of free tools and resources for developers.
+- [Free Tools](https://github.com/mathewlewallen/awesome-free-tools) - Curated list of tools and resources for developers that are free or have a generous free tier.
 
 ## Related
 
