@@ -890,7 +890,7 @@
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
-- [Standards](https://github.com/donBarbos/awesome-standards#readme) - Technical standards, specifications, and proposals that define and enhance software development, programming languages, and related technologies.
+- [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 
 ## Related
 
