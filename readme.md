@@ -744,7 +744,6 @@
 - [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 
-
 ## Events
 
 - [Creative Tech Events](https://github.com/danvoyce/awesome-creative-tech-events#readme) - Events around the globe for creative coding, tech, design, music, arts and cool stuff.
