@@ -826,6 +826,7 @@
 - [DTrace](https://github.com/xen0l/awesome-dtrace#readme) - Dynamic tracing framework.
 - [Userscripts](https://github.com/bvolpato/awesome-userscripts#readme) - Enhance your browsing experience.
 - [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) - Pokémon and Pokémon GO.
+- [Pokémon Home](https://github.com/alexrodba/awesome-pokemon-home#readme) - The most complete guide for Pokémon Home.
 - [ChatOps](https://github.com/exAspArk/awesome-chatops#readme) - Managing technical and business operations through a chat.
 - [Falsehood](https://github.com/kdeldycke/awesome-falsehood#readme) - Falsehoods programmers believe in.
 - [Domain-Driven Design](https://github.com/heynickc/awesome-ddd#readme) - Software development approach for complex needs by connecting the implementation to an evolving model.
