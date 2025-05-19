@@ -27,43 +27,6 @@
 		<sup>Special thanks to:</sup>
 		<br>
 		<br>
-		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
-			</div>
-			<b>Your app, enterprise-ready.</b>
-			<div>
-				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
-				<br>
-				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome">
-			<picture>
-				<source width="340" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
-				<source width="340" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
-				<img width="340" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
-			</picture>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://logto.io/?ref=sindre">
-			<div>
-				<picture>
-					<source width="200" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-dark.svg?x">
-					<source width="200" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x">
-					<img width="200" src="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x" alt="Logto logo">
-				</picture>
-			</div>
-			<b>The better identity infrastructure for developers</b>
-			<div>
-				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
-			</div>
-		</a>
-		<br>
 		<br>
 		<a href="https://nitric.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=sindresorhus&utm_source=github">
 			<div>
@@ -74,7 +37,6 @@
 				<sup>An open-source framework that supports any programming language, cloud provider, or deployment automation tool.</sup>
 			</div>
 		</a>
-		<br>
 		<br>
 		<br>
 	</p>
