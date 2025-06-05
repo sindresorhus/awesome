@@ -1,0 +1,17 @@
+name: Verificar Enlaces
+
+on:
+  push:
+    branches: [ awesome-devops-junior ]
+  pull_request:
+    branches: [ awesome-devops-junior ]
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Verificar enlaces en Markdown
+        uses: lycheeverse/lychee-action@v1.7.0
+        with:
+          args: --verbose --no-progress ./awesome-devops-junior.md
