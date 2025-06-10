@@ -1,0 +1,26 @@
+name: Spam Detection
+on:
+  schedule:
+    - cron: '0 17 * * 1-5'  # Every weekday (Monday-Friday) at 5 PM
+  workflow_dispatch: # Allows you to manually trigger the workflow as needed.
+jobs:
+  detect-spam:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+      discussions: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v3
+      - name: Cache cursor
+        uses: actions/cache@v3
+        with:
+          path: .github/cursor_cache
+          key: ${{ runner.os }}-cursor-${{ github.run_id }}
+          restore-keys: |
+            ${{ runner.os }}-cursor-
+      - name: Spam Detection
+        uses: Sambhaji-Patil/Auto-Hide-Spam-Comments@v1.0.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
