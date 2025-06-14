@@ -489,6 +489,7 @@
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 - [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
+- [Roblox Studio](https://github.com/elevenpassin/awesome-roblox) - Materials for Roblox programmers, including frameworks, plugins, bots...
 
 ## Development Environment
 
