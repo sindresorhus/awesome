@@ -61,6 +61,18 @@
 <br>
 <br>
 
+<p align="center">
+	<!-- Keep these links. Translations will automatically update with the README. -->
+	<a href="https://www.readme-i18n.com/sindresorhus/awesome?lang=de">Deutsch</a> | 
+	<a href="https://www.readme-i18n.com/sindresorhus/awesome?lang=es">Español</a> | 
+	<a href="https://www.readme-i18n.com/sindresorhus/awesome?lang=fr">français</a> | 
+	<a href="https://www.readme-i18n.com/sindresorhus/awesome?lang=ja">日本語</a> | 
+	<a href="https://www.readme-i18n.com/sindresorhus/awesome?lang=ko">한국어</a> | 
+	<a href="https://www.readme-i18n.com/sindresorhus/awesome?lang=pt">Português</a> | 
+	<a href="https://www.readme-i18n.com/sindresorhus/awesome?lang=ru">Русский</a> | 
+	<a href="https://www.readme-i18n.com/sindresorhus/awesome?lang=zh">中文</a>
+</p>
+
 ## Contents
 
 - [Platforms](#platforms)
