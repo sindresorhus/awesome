@@ -1,3 +1,34 @@
+<div align="right" >
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="right">
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=en">English</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=zh-CN">简体中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=zh-TW">繁體中文</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=ja">日本語</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=ko">한국어</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=hi">हिन्दी</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=th">ไทย</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=fr">Français</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=de">Deutsch</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=es">Español</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=it">Itapano</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=ru">Русский</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=pt">Português</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=nl">Nederlands</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=pl">Polski</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=ar">العربية</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=fa">فارسی</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=tr">Türkçe</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=vi">Tiếng Việt</a></p>
+        <p><a href="https://openaitx.github.io/view.html?user=sindresorhus&project=awesome&lang=id">Bahasa Indonesia</a></p>
+      </div>
+    </div>
+  </details>
+</div>
+
+
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<br>
