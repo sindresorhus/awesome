@@ -153,6 +153,7 @@
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
+- [Smart WebView](https://github.com/mgks/Android-SmartWebView) - A minimal, plugin-ready Android WebView framework to convert HTML websites into hybrid apps.
 
 ## Programming Languages
 
