@@ -866,6 +866,7 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
+- [Copilot Instructions](https://github.com/Code-and-Sorts/awesome-copilot-instructions) - Instruction and prompt files for customizing GitHub Copilot’s AI agent and chat behavior across workflows.
 
 ## Related
 
