@@ -866,6 +866,8 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
+- [UltimateLinuxScript](https://github.com/baxr6/UltimateLinuxScript) – A comprehensive script for Ubuntu that simplifies system setup, package installation, backups, privacy tools (Tor, Privoxy, Squid), system maintenance, and pCloud integration.
+
 
 ## Related
 
