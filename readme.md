@@ -426,7 +426,7 @@
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 
 ## Theory
-
+- [GGUF Loader](https://github.com/GGUFloader/gguf-loader) — Lightweight, cross-platform UI app built with PySide6 for loading and chatting with GGUF models locally. Supports plugin-based extensions (e.g. PDFs, spreadsheets, emails).
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
