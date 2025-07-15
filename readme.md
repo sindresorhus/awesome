@@ -493,6 +493,7 @@
 
 ## Development Environment
 
+- [AI Coding](https://github.com/TomGranot/awesome-ai-coding#readme) - AI-powered coding assistants and development tools.
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
