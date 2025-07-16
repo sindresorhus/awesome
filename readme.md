@@ -153,6 +153,7 @@
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
+- [Firebase Genkit](https://github.com/bodyast/logManager#readme) - Real-time log viewer for remote servers via SSH. Add servers, define log paths, and stream logs in your browser.
 
 ## Programming Languages
 
