@@ -524,6 +524,7 @@
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
+- [Baseball](https://github.com/SawyerWetson/SmartUmpires) - Uses OpenCV2 to display strikezone, ball tracking, and strike count for baseball; Will revolutionize the sports industry(Like HawkEye but more basic and for youth leauges)
 
 ## Databases
 
@@ -667,6 +668,7 @@
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+  
 
 ## Networking
 
