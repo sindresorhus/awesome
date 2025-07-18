@@ -524,7 +524,7 @@
 - [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
-- [Baseball](https://github.com/SawyerWetson/SmartUmpires) - Uses OpenCV2 to display strikezone, ball tracking, and strike count for baseball; Will revolutionize the sports industry(Like HawkEye but more basic and for youth leauges)
+- [Baseball](https://github.com/SawyerWetson/SmartUmpires) - Uses OpenCV2 to display strikezone, ball tracking, and strike count for baseball; Will revolutionize the sports industry(Like HawkEye but more basic and for youth leauges) 
 
 ## Databases
 
