@@ -735,6 +735,7 @@
 
 ## Miscellaneous
 
+- [Awesome AI Tools](https://github.com/aliammari1/Awesome-Ai-Tools) - Curated collection of 100+ AI tools for productivity and creativity.
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
