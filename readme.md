@@ -867,7 +867,7 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
-- [Tech Ethics Resources](https://github.com/sampart/awesome-tech-ethics-resources) - Resources for mitigating and avoiding the potential negative effects of technology on society.
+- [Tech Ethics Resources](https://github.com/sampart/awesome-tech-ethics-resources#readme) - Resources for mitigating and avoiding the potential negative effects of technology on society.
 
 ## Related
 
