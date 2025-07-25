@@ -612,6 +612,7 @@
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
+- [Blackhat Arsenal](https://github.com/elbraino/awesome-blackhat-arsenal#readme) - Cybersecurity tools showcased at Black Hat events.
 
 ## Content Management Systems
 
