@@ -10,7 +10,7 @@
 		<h2>
 			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
 			<br>
-			<sup>Elevate your Mac experience</sup>
+			<sup>Elewayte your Mac experience</sup>
 		</h2>
 	</div>
 	<br>
