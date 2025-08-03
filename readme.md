@@ -412,6 +412,7 @@
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
+- [LogSentinelAI](https://github.com/call518/LogSentinelAI) - AI-powered LogSentinelAI transforms raw security logs into structured, Kibana-ready data—just declare what you want, not how. Focus on What, Not How.
 
 ## Big Data
 
