@@ -723,6 +723,7 @@
 
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
+- [Vulert](Vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
 - [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
