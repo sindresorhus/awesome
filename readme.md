@@ -783,6 +783,7 @@
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
+- [Drug Discovery](https://github.com/yboulaamane/awesome-drug-discovery#readme) - Curated list of resources, tools, and databases for drug discovery.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
