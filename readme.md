@@ -734,7 +734,6 @@
 - [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
 - [AI Chaos Engineering](https://github.com/sbalnojan/ai-chaos-awesome) - Break AI systems on purpose to build resilient LLM/RAG/agent apps; evals, chaos experiments, guardrails, observability.
 
-
 ## Miscellaneous
 
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
