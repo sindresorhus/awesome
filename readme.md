@@ -732,6 +732,8 @@
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 - [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
+- [AI Chaos Engineering](https://github.com/sbalnojan/ai-chaos-awesome) - Break AI systems on purpose to build resilient LLM/RAG/agent apps; evals, chaos experiments, guardrails, observability.
+
 
 ## Miscellaneous
 
