@@ -735,7 +735,6 @@
 
 ## Miscellaneous
 
-- [Awesome AI Tools](https://github.com/aliammari1/Awesome-Ai-Tools) - Curated collection of 100+ AI tools for productivity and creativity.
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
@@ -868,6 +867,7 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
+- [Awesome AI Tools](https://github.com/aliammari1/Awesome-Ai-Tools) - Curated collection of 100+ AI tools for productivity and creativity.
 
 ## Related
 
