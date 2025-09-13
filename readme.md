@@ -39,6 +39,17 @@
 		</a>
 		<br>
 		<br>
+		<br>
+		<div>
+			<a href="https://ref.wisprflow.ai/VjA6dYR">
+				<div>
+					<img width="150" src="https://sindresorhus.com/assets/thanks/flow-logo.svg" alt="Wispr Flow logo">
+				</div>
+			</a>
+			<b>Talk to code, stay in the Flow.</b>
+		</div>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
