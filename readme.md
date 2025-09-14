@@ -130,7 +130,7 @@
 - [Windows](https://github.com/0pandadev/awesome-windows#readme) - Consumer desktop operating system.
 	- [PowerToys Run Plugins](https://github.com/hlaueriksson/awesome-powertoys-run-plugins#readme) - Community plugins for the Windows quick launcher.
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
-- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.
+- [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) - Mobile development tools.h
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - Cloud platform as a service.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
