@@ -736,6 +736,7 @@
 ## Testing
 
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
+- [Test Case Design](https://github.com/Treeify-ai/Awesome-Test-Case-Design/blob/main/README.md) - A playbook for test case design.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium#readme) - Open-source browser automation framework and ecosystem.
 - [Appium](https://github.com/SrinivasanTarget/awesome-appium#readme) - Test automation tool for apps.
