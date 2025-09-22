@@ -357,6 +357,7 @@
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
+- [DevOps Platform Engineering](https://github.com/tysoncung/awesome-devops-platform#readme) - Platform engineering tools for building Internal Developer Platforms.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) - PHP framework.
 - [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) - PHP framework.
