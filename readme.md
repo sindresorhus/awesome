@@ -444,7 +444,7 @@
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
-	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
+- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 - [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
@@ -673,7 +673,7 @@
 ## Work
 
 - [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
-	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
+- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
