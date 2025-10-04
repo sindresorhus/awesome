@@ -881,7 +881,7 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
-- [Awesome AI Tools](https://github.com/aliammari1/Awesome-Ai-Tools) - Curated collection of 100+ AI tools for productivity and creativity.
+- [Awesome AI Tools](https://github.com/aliammari1/awesome-ai-tools#readme) - Curated collection of 100+ AI tools for productivity and creativity.
 
 ## Related
 
