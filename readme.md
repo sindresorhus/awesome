@@ -394,8 +394,8 @@
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
 - [API Development](#api-development)
-  - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - Fully-featured GraphQL server with a focus on developer experience. *Last updated: 2025*
-  - [tRPC](https://github.com/trpc/trpc) - End-to-end typesafe APIs for TypeScript applications. *Last updated: 2025*
+  - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - Fully-featured GraphQL server with a focus on developer experience.
+  - [tRPC](https://github.com/trpc/trpc) - End-to-end typesafe APIs for TypeScript applications.
 
 ## Computer Science
 
