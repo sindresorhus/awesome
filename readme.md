@@ -84,6 +84,7 @@
 - [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
+- [Sustainable Computing](#Sustainable-Computing)
 - [Theory](#theory)
 - [Books](#books)
 - [Editors](#editors)
@@ -392,6 +393,9 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [API Development](#api-development)
+  - [GraphQL Yoga](https://github.com/dotansimha/graphql-yoga) - Fully-featured GraphQL server with a focus on developer experience. *Last updated: 2025*
+  - [tRPC](https://github.com/trpc/trpc) - End-to-end typesafe APIs for TypeScript applications. *Last updated: 2025*
 
 ## Computer Science
 
@@ -452,6 +456,10 @@
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real time.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 
+## Sustainable Computing
+
+- [Green Software Foundation](https://github.com/Green-Software-Foundation/awesome-green-software) - Resources for building carbon-efficient software applications.
+- [Sustainable IT](https://github.com/sustainable-it/awesome-sustainable-it) - Tools for measuring and reducing the carbon footprint of IT infrastructure.
 ## Theory
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
