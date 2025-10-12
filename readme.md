@@ -251,6 +251,11 @@
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
+[Julia](https://github.com/svaksha/Julia.jl#readme) - High-level dynamic programming language designed to address the needs of high-performance numerical analysis and computational science.
+  - [DataFrames](https://github.com/JuliaData/awesome-julia-dataframes) - Tools for data manipulation and analysis in Julia.
+  - [Machine Learning](https://github.com/JuliaML/awesome-julia-ml) - Machine learning libraries and frameworks for Julia.
+- [Mojo](https://github.com/modularml/mojo) - High-performance language for AI and scientific computing, designed for simplicity and speed.
+- [Nim](https://github.com/nim-lang/awesome-nim) - Compiled, high-performance language with a Python-like syntax and strong metaprogramming.
 
 <br>
 <hr>
@@ -427,6 +432,13 @@
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
+- [Astro](https://github.com/withastro/astro) - Modern static site generator for building fast, content-driven websites.
+- [Qwik](https://github.com/BuilderIO/qwik) - Framework focused on resumability and performance for modern web apps.
+- [Accessibility Tools](#accessibility-tools)
+  - [Axe-core](https://github.com/dequelabs/axe-core) - Accessibility testing engine for web applications.
+  - [Pa11y](https://github.com/pa11y/pa11y) - Automated accessibility testing tool for web development.
+  - [Inclusive Design Principles](https://github.com/inclusivedesign/principles) - Guidelines for designing inclusive software for diverse abilities.
+  - [A11y Project](https://github.com/a11yproject/a11yproject.com) - Community-driven accessibility resources and best practices.
 
 ## Big Data
 
