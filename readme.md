@@ -388,7 +388,7 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
-- [NestJS](https://nestjs.com/#readme) - Progressive Node.js framework for building efficient and scalable server-side applications.
+- [NestJS](https://github.com/nestjs/nest#readme) - Progressive Node.js framework for building efficient and scalable server-side applications.
 
 ## Computer Science
 
