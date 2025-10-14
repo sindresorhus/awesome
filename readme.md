@@ -357,7 +357,6 @@
 - [Flask](https://github.com/mjhea0/awesome-flask#readme) - Python framework.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
 - [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) - Automation virtual machine environment.
-- [NestJS](https://github.com/nestjs/nest#readme) - Progressive Node.js framework for building server-side applications.
 
 - [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) - Python framework.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
@@ -389,6 +388,7 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [NestJS](https://nestjs.com/#readme) - A progressive Node.js framework for building efficient and scalable server-side applications.
 
 ## Computer Science
 
