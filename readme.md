@@ -168,6 +168,7 @@
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
+- [Symbian](https://github.com/hstsethi/awesome-symbian) - Symbian is a discontinued mobile OS for ARM popular in early 2000s. It had two major UIs: S60(Nokia), and UIQ(Sony Ericsson). It supports `.jar,` `.jad`, `.sis`, `.sisx` formats. The main development environment since S60 is C++/QT, but J2ME, Python, C, Flash Lite, C# are supported as well.
 
 ## Programming Languages
 
