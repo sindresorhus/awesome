@@ -441,6 +441,7 @@
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 
 ## Theory
+- [Nexus Protocols](https://github.com/Tryboy869/awesome-nexus-protocols) - Universal protocols for distributed systems.
 
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
