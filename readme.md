@@ -457,6 +457,7 @@
 - [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 - [VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
 
+- [Nexus Protocols](https://github.com/Tryboy869/awesome-nexus-protocols#readme) - Universal protocols for distributed systems. Includes standardized specifications for backpressure control, distributed tracing, graceful degradation, and failure handling patterns.
 ## Books
 
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books#readme)
