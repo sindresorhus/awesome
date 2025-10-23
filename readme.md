@@ -192,6 +192,7 @@
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
 - [Python](https://github.com/vinta/awesome-python#readme) - General-purpose programming language designed for readability.
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/) – Step-by-step Python exercises for beginners
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) - Asynchronous I/O in Python 3.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
