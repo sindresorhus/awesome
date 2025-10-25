@@ -670,6 +670,7 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Product Engineer](https://github.com/marcelkalveram/awesome-product-engineer#readme) - Bridging the craft of software development with product thinking and user engagement.
 
 ## Work
 
