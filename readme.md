@@ -39,6 +39,21 @@
 		</a>
 		<br>
 		<br>
+		<br>
+		<h3>
+			<a href="https://ref.wisprflow.ai/VjA6dYR">Wispr Flow</a>
+		</h3>
+		<a href="https://ref.wisprflow.ai/VjA6dYR">
+			<div>
+				<img width="150" src="https://sindresorhus.com/assets/thanks/flow-logo.svg" alt="Wispr Flow logo">
+			</div>
+			<b>Talk to code, stay in the Flow.</b>
+			<div>
+				<sup>Flow is built for devs who live in their tools. Speak and give more context, get better results.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -153,6 +168,7 @@
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
+- [Backstage](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
 
 ## Programming Languages
 
@@ -184,7 +200,7 @@
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
- 	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
+	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
@@ -236,6 +252,7 @@
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
+- [F#](https://github.com/fsprojects/awesome-fsharp#readme) - A .NET-based language with focus on functional programming.
 
 <br>
 <hr>
@@ -412,6 +429,7 @@
 - [Theoretical Computer Science](https://github.com/mostafatouny/awesome-theoretical-computer-science#readme) - The interplay of computer science and pure mathematics, distinguished by its emphasis on mathematical rigour and technique.
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
+- [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
 
 ## Big Data
 
@@ -490,6 +508,7 @@
 - [GameMaker](https://github.com/bytecauldron/awesome-gamemaker#readme) - Game engine.
 - [Game Production](https://github.com/vhladiienko/awesome-game-production#readme) - Leading the process of designing, developing, testing and distributing a video game from concept to release.
 - [Babylon.js](https://github.com/Symbitic/awesome-babylonjs#readme) - Game engine for cross-platform web and native game development.
+- [Roblox](https://github.com/awesome-roblox/awesome-roblox#readme) - Immersive platform for hosting millions of diverse experiences.
 
 ## Development Environment
 
@@ -868,6 +887,8 @@
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
+- [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
+- [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 
 ## Related
 
@@ -875,5 +896,4 @@
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
