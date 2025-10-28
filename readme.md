@@ -63,7 +63,6 @@
 
 ## Contents
 
-- [Contents](#contents)
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
@@ -868,7 +867,7 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
-- [Agent Failures](https://github.com/vectara/awesome-agent-failures#readme) - AI Agent Failure Modes.
+- [Agent Failures](https://github.com/vectara/awesome-agent-failures#readme) - AI Agent failure modes.
 
 ## Related
 
