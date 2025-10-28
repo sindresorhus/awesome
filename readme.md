@@ -123,6 +123,7 @@
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
 	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+	- [Omarchy](https://github.com/aorumbayev/awesome-omarchy#readme) - Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
 - macOS - Operating system for Apple's Mac computers.
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
