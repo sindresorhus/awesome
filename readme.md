@@ -867,7 +867,7 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
-- [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - An open-source AI agent that brings the power of Gemini directly into your terminal.
+- [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 
 ## Related
 
