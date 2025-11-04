@@ -659,9 +659,9 @@
 - [Robotic Tooling](https://github.com/protontypes/awesome-robotic-tooling#readme) - Free and open tools for professional robotic development.
 - [LIDAR](https://github.com/szenergy/awesome-lidar#readme) - Sensor for measuring distances by illuminating the target with laser light.
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
-- [RISC-V](https://github.com/riscv/learn#readme) - Learning resources related to RISC-V open standard ISA and based chips.
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+- [RISC-V](https://github.com/riscv/learn#readme) - Learning resources related to RISC-V open standard ISA and based chips.
 
 ## Business
 
