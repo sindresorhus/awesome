@@ -891,6 +891,7 @@
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
+- [Awesome Claude Contexts](https://github.com/apo-bozdag/awesome-claude-contexts#readme) - Ready-to-use context files for Claude Code to remember framework-specific coding standards, architecture patterns, and best practices.
 
 ## Related
 
