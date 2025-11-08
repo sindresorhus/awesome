@@ -65,6 +65,7 @@
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="maintenance-status.md">Maintenance status guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -75,6 +76,19 @@
 <br>
 <br>
 <br>
+
+## Maintenance Status Legend
+
+To help users identify the maintenance status of repositories, we use the following indicators:
+
+- **🚫 Unmaintained** - Repository is no longer actively maintained by its authors
+- **⚠️ Deprecated** - Repository is deprecated in favor of newer alternatives
+- **🔄 Inactive** - Repository has had no significant activity for 1+ years
+- **No indicator** - Repository is actively maintained
+
+*Note: Maintenance status is assessed based on recent commits, issue responses, and author announcements. If you notice a status that needs updating, please open an issue or submit a pull request.*
+
+*For detailed information about our maintenance status system, see [maintenance-status.md](maintenance-status.md).*
 
 ## Contents
 
@@ -294,7 +308,7 @@
 - [Ember](https://github.com/ember-community-russia/awesome-ember#readme) - App framework.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
 - [iOS UI](https://github.com/cjwirth/awesome-ios-ui#readme)
-- [Meteor](https://github.com/Urigo/awesome-meteor#readme)
+- [Meteor](https://github.com/Urigo/awesome-meteor#readme) **🔄 Inactive** - Full-stack JavaScript platform.
 - [BEM](https://github.com/sturobson/BEM-resources#readme)
 - [Flexbox](https://github.com/afonsopacifer/awesome-flexbox#readme)
 - [Web Typography](https://github.com/deanhume/typography#readme)
@@ -476,7 +490,7 @@
 - [Vim](https://github.com/mhinz/vim-galore#readme)
 - [Neovim](https://github.com/rockerBOO/awesome-neovim#readme) - Vim-fork focused on extensibility and usability.
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
-- [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
+- [Atom](https://github.com/mehcode/awesome-atom#readme) **⚠️ Deprecated** - Open-source and hackable text editor. *(Deprecated by GitHub in favor of VS Code)*
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
 
 ## Gaming

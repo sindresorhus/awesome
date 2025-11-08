@@ -23,6 +23,39 @@ You'll need a [GitHub account](https://github.com/join)!
 5. Say why you're proposing the changes, and then click on "Propose file change". ![Step 5 - Propose Changes](https://cloud.githubusercontent.com/assets/170270/9402937/7dd0652a-480c-11e5-9138-bd14244593d5.png)
 6. Submit the [pull request](https://help.github.com/articles/using-pull-requests/)!
 
+## Maintenance Status Guidelines
+
+When adding or updating entries, please consider adding maintenance status indicators to help users understand the current state of repositories:
+
+### Maintenance Status Indicators
+
+- **🚫 Unmaintained** - Use when the repository is explicitly marked as unmaintained by the author, or has been abandoned for 2+ years with no response to issues or pull requests.
+- **⚠️ Deprecated** - Use when the project has been officially deprecated in favor of a newer alternative, or when the technology/framework itself is deprecated.
+- **🔄 Inactive** - Use when the repository hasn't had significant commits, releases, or maintainer responses for 1+ years, but isn't explicitly unmaintained.
+- **No indicator** - For actively maintained projects (default state).
+
+### How to Apply Status Indicators
+
+1. **Research the repository** - Check recent commits, issues, pull requests, and any announcements from maintainers.
+2. **Add the indicator** after the repository link using the format: `[Repository Name](link) **🚫 Unmaintained** - Description.`
+3. **Include context** - Add a brief explanation in italics when helpful: `*(Last updated 2020, author recommends Alternative X)*`
+
+### Examples
+
+```markdown
+- [Old Framework](https://github.com/example/old-framework#readme) **⚠️ Deprecated** - Legacy web framework. *(Deprecated in favor of New Framework)*
+- [Inactive Tool](https://github.com/example/inactive-tool#readme) **🔄 Inactive** - Useful utility library.
+- [Abandoned Project](https://github.com/example/abandoned#readme) **🚫 Unmaintained** - Interesting proof of concept.
+```
+
+### Guidelines for Status Assessment
+
+- Check the last commit date and frequency of recent activity
+- Look for maintainer announcements in README, issues, or releases
+- Consider the responsiveness to recent issues and pull requests
+- Verify if the project is still compatible with current versions of its dependencies
+- Be conservative - when in doubt, don't add a status indicator
+
 ## Updating your Pull Request
 
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
