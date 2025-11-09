@@ -892,6 +892,7 @@
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
+- [3D Drawing](https://github.com/n1ckfg/awesome-3D-drawing#readme) - Using motion-tracked controllers in XR to create art and animation, combined with ML processing and rendering.
 
 ## Related
 
