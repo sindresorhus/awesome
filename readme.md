@@ -633,6 +633,7 @@
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
+- [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
 
 ## Content Management Systems
 
@@ -892,6 +893,7 @@
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Coffee] (https://github.com/beargruug/awesome-coffee#readme) - Find the coffee beans and brewing methods that suit you.
+- [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 
 ## Related
 
