@@ -1,0 +1,21 @@
+name: awesome-lint
+
+on:
+  pull_request:
+  push:
+    branches: [ add-security-policy ]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Use Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Install awesome-lint
+        run: npm install --no-save awesome-lint@latest
+      - name: Run awesome-lint
+        run: npx awesome-lint --file README.md
