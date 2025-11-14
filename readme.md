@@ -896,13 +896,13 @@
 
 ## Related
 
-- [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
-- [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
-- [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
-- [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
-- [Bitcoin](https://bitcoin.org) — A decentralized digital currency enabling peer-to-peer transactions.
-- [Non-Financial Blockchain](https://example.com) — Applications of Blockchain beyond finance, such as supply chain and identity.
+- [All Awesome Lists](https://github.com/topics/awesome) — A collection of all Awesome lists on GitHub.
+- [Awesome Search](https://awesomelists.top) — A quick search engine for Awesome lists.
+- [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) — Discover random pages from the Awesome dataset using a browser extension.
+- [Awesome CLI](https://github.com/umutphp/awesome-cli) — A simple command-line tool to explore Awesome lists.
+- [Track Awesome List](https://www.trackawesomelist.com) — A service to view the latest updates of Awesome lists.
+- [Bitcoin](https://bitcoin.org) — A decentralized digital currency enabling peer-to-peer transactions without intermediaries.
+- [Non-Financial Blockchain](https://example.com) — Applications of Blockchain beyond finance, such as supply chain and identity management.
 - [Mental Health](https://example.com) — Resources and tools supporting emotional well-being and psychological resilience.
 - [Unicode](https://unicode.org) — A universal character encoding standard supporting text representation across platforms.
 - [Pokémon](https://example.com) — Community-driven resources and tools for Pokémon fans and developers.
