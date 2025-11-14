@@ -902,14 +902,15 @@
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) — A simple command-line tool to explore Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) — A service to view the latest updates of Awesome lists.
 - [Bitcoin](https://bitcoin.org) — A decentralized digital currency enabling peer-to-peer transactions without intermediaries.
-- [Non-Financial Blockchain](https://example.com) — Applications of Blockchain beyond finance, such as supply chain and identity management.
-- [Mental Health](https://example.com) — Resources and tools supporting emotional well-being and psychological resilience.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) — Applications of Blockchain beyond finance, such as supply chain and identity management.
+- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) — Resources and tools supporting emotional well-being and psychological resilience.
 - [Unicode](https://unicode.org) — A universal character encoding standard supporting text representation across platforms.
-- [Pokémon](https://example.com) — Community-driven resources and tools for Pokémon fans and developers.
-- [Ad-Free](https://example.com) — Tools and services designed to remove or block advertisements for a cleaner experience.
-- [Calculators](https://example.com) — Collections of online calculators for math, science, and finance.
-- [Food](https://example.com) — Curated resources for recipes, nutrition, and culinary exploration.
-- [Advertising](https://example.com) — Tools and platforms for managing and analyzing advertising campaigns.
-- [Naming](https://example.com) — Guides and tools for naming projects, businesses, and products.
-- [Standards](https://example.com) — References and resources for technical and industry standards.
+- [Pokémon](https://github.com/tobiasbueschel/awesome-pokemon#readme) — Community-driven resources and tools for Pokémon fans and developers.
+- [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) — Tools and services designed to remove or block advertisements for a cleaner experience.
+- [Calculators](https://github.com/xxczaki/awesome-calculators#readme) — Collections of calculator apps across platforms.
+- [Food](https://github.com/jzarca01/awesome-food#readme) — Curated resources for recipes, nutrition, and culinary exploration.
+- [Advertising](https://github.com/cenoura/awesome-ads#readme) — Tools and platforms for managing and analyzing advertising campaigns.
+- [Naming](https://github.com/gruhn/awesome-naming#readme) — Guides and tools for naming projects, businesses, and products.
+- [Standards](https://github.com/donBarbos/awesome-standards#readme) — References and resources for technical and industry standards.
+
 
