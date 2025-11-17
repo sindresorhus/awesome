@@ -754,7 +754,7 @@
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 - [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
-- [Maestro](https://github.com/ludovicobesana/awesome-maestro#readme) - Mobile UI testing framework for Android and iOS.
+- [Maestro](https://github.com/ludovicobesana/awesome-maestro#readme) - UI automation for web and mobile apps on Android and iOS.
 
 ## Miscellaneous
 
