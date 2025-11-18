@@ -536,7 +536,9 @@
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 - [WezTerm](https://github.com/michaelbrusegard/awesome-wezterm#readme) - Powerful cross-platform terminal emulator.
-
+- [Depot GitHub Actions Runners](https://github.com/depot/docs/tree/main/content/github-actions/overview.mdx) - Faster CI runners.
+- [Depot Container Builds](https://github.com/depot/docs/tree/main/content/container-builds/overview.mdx) - Faster docker builds.
+  
 ## Entertainment
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - Scifi.
