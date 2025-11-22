@@ -891,6 +891,7 @@
 - [Quarto](https://github.com/mcanouil/awesome-quarto#readme) - Scientific and technical open-source publishing system built on Pandoc.
 - [Biological Image Analysis](https://github.com/hallvaaw/awesome-biological-image-analysis#readme) - Interpreting biological phenomena using images.
 - [ChatGPT](https://github.com/sindresorhus/awesome-chatgpt#readme) - Artificial intelligence chatbot developed by OpenAI.
+- [ChatGPT Desktop](https://github.com/lencx/ChatGPT) - Cross-platform open-source desktop app for ChatGPT with offline mode and multiple model support.
 - [Whisper](https://github.com/sindresorhus/awesome-whisper#readme) - Open-source AI-powered speech recognition system developed by OpenAI.
 - [Stock Trading](https://github.com/shi-rudo/awesome-stock-trading#readme) - Purchase and sale of equities of publicly traded companies to generate profits.
 - [Steam Deck](https://github.com/airscripts/awesome-steam-deck#readme) - A handheld gaming computer developed by Valve.
