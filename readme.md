@@ -54,6 +54,20 @@
 		</a>
 		<br>
 		<br>
+		<br>
+		<a href="https://depot.dev?utm_source=github&utm_medium=sindresorhus">
+			<div>
+				<picture>
+					<source width="180" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/depot-logo-dark.svg">
+					<source width="180" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/depot-logo-light.svg">
+					<img width="180" src="https://sindresorhus.com/assets/thanks/depot-logo-light.svg" alt="Depot logo">
+				</picture>
+			</div>
+			<b>Fast remote container builds and GitHub Actions runners.</b>
+		</a>
+		<br>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -249,7 +263,6 @@
 - [Vala](https://github.com/desiderantes/awesome-vala#readme) - Programming language designed to take full advantage of the GLib and GNOME ecosystems, while preserving the speed of C code.
 - [Coq](https://github.com/coq-community/awesome-coq#readme) - Formal language and environment for programming and specification which facilitates interactive development of machine-checked proofs.
 - [V](https://github.com/vlang/awesome-v#readme) - Simple, fast, safe, compiled language for developing maintainable software.
-- [Zig](https://github.com/catdevnull/awesome-zig#readme) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [Move](https://github.com/MystenLabs/awesome-move#readme) - Domain-specific programming language for writing safe smart contracts.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
