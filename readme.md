@@ -204,6 +204,7 @@
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - Task runner.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - Code snippets you can understand in 30 seconds.
 	- [Ponyfills](https://github.com/Richienb/awesome-ponyfills#readme) - Like polyfills but without overriding native APIs.
+	- [qrdx](https://github.com/bucharitesh/qrdx#readme) - Open-source QR generation and detection platform with customizable React components.
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme) - Apple's compiled programming language that is secure, modern, programmer-friendly, and fast.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
@@ -294,6 +295,7 @@
 - [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
+	- [qrdx](https://github.com/bucharitesh/qrdx#readme) - React library for generating highly customizable QR codes with logo support and templates.
 - [Web Components](https://github.com/web-padawan/awesome-web-components#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - JavaScript library to develop Web Components.
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - App framework.
@@ -880,6 +882,7 @@
 - [Ansible](https://github.com/ansible-community/awesome-ansible#readme) - A Python-based, open-source IT configuration management and automation platform.
 - [Biological Visualizations](https://github.com/keller-mark/awesome-biological-visualizations#readme) - Interactive visualization of biological data on the web.
 - [QR Code](https://github.com/make-github-pseudonymous-again/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
+	- [qrdx](https://github.com/bucharitesh/qrdx#readme) - Modern open-source QR generation platform with React library, templates, and customization options.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
 - [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automation in JavaScript.
