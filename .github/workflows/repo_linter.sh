@@ -70,9 +70,8 @@ clone_and_lint() {
         return 1
     fi
 
-    # Run linter in the cloned directory
-    cd "${CLONE_DIR}"
-    npx awesome-lint
+    # Run linter in the cloned directory (using subshell to preserve pwd)
+    (cd "${CLONE_DIR}" && npx awesome-lint)
 }
 
 # Main execution flow
