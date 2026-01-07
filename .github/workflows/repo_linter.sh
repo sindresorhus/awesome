@@ -16,12 +16,12 @@ extract_repo_url() {
     # Parse git diff to find new repository links:
     # 1. Get changes from main branch in readme.md
     # 2. Filter for added lines (starting with +)
-    # 3. Extract URLs ending with #readme
+    # 3. Extract GitHub URLs ending with #readme (non-greedy, secure pattern)
     # 4. Remove the #readme suffix
     # 5. Take only the first match
     repo_url=$(git diff "${MAIN_BRANCH}" -- "${README_FILE}" | \
         grep '^+' | \
-        grep -Eo 'https.*#readme' | \
+        grep -Eo 'https://github\.com/[^[:space:]#]+#readme' | \
         sed 's/#readme//' | \
         head -n 1)
 
@@ -49,12 +49,20 @@ validate_repo_url() {
 # Function: Setup clone directory
 # Removes existing clone directory if present and creates a fresh one
 setup_clone_directory() {
-    if [ -d "${CLONE_DIR}" ]; then
+    # Safely remove existing directory (verify it's not a symlink to prevent attacks)
+    if [ -d "${CLONE_DIR}" ] && [ ! -L "${CLONE_DIR}" ]; then
         echo "Removing existing clone directory..."
         rm -rf "${CLONE_DIR}"
+    elif [ -L "${CLONE_DIR}" ]; then
+        echo "Error: ${CLONE_DIR} is a symlink, refusing to remove" >&2
+        return 1
     fi
 
-    mkdir "${CLONE_DIR}"
+    # Create directory with error handling
+    if ! mkdir "${CLONE_DIR}"; then
+        echo "Error: Failed to create directory ${CLONE_DIR}" >&2
+        return 1
+    fi
 }
 
 # Function: Clone repository and run awesome-lint
@@ -64,33 +72,48 @@ clone_and_lint() {
 
     echo "Cloning ${repo_url}"
 
-    # Clone the repository
-    if ! git clone "${repo_url}" "${CLONE_DIR}"; then
-        echo "Error: Failed to clone repository" >&2
+    # Clone the repository with timeout protection (5 minutes max)
+    if ! timeout 300 git clone "${repo_url}" "${CLONE_DIR}"; then
+        echo "Error: Failed to clone repository or timeout exceeded" >&2
         return 1
     fi
 
-    # Run linter in the cloned directory (using subshell to preserve pwd)
-    (cd "${CLONE_DIR}" && npx awesome-lint)
+    # Run linter in the cloned directory with timeout protection (10 minutes max)
+    # Using subshell to preserve pwd
+    (cd "${CLONE_DIR}" && timeout 600 npx awesome-lint)
 }
 
 # Main execution flow
 main() {
     local repo_to_lint
 
-    # Step 1: Extract repository URL from the diff
+    # Step 0: Check required commands are available
+    for cmd in git grep sed head npx timeout; do
+        if ! command -v "$cmd" >/dev/null 2>&1; then
+            echo "Error: Required command '$cmd' not found" >&2
+            exit 1
+        fi
+    done
+
+    # Step 1: Validate that the main branch exists
+    if ! git rev-parse --verify "${MAIN_BRANCH}" >/dev/null 2>&1; then
+        echo "Error: ${MAIN_BRANCH} branch not found" >&2
+        exit 1
+    fi
+
+    # Step 2: Extract repository URL from the diff
     repo_to_lint=$(extract_repo_url)
 
-    # Step 2: Validate the extracted URL
+    # Step 3: Validate the extracted URL
     if ! validate_repo_url "${repo_to_lint}"; then
         echo "No new link found in the format: https://github.com/...#readme"
         exit 0
     fi
 
-    # Step 3: Setup clean clone directory
+    # Step 4: Setup clean clone directory
     setup_clone_directory
 
-    # Step 4: Clone and lint the repository
+    # Step 5: Clone and lint the repository
     clone_and_lint "${repo_to_lint}"
 }
 
