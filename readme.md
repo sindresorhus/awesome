@@ -914,3 +914,13 @@
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+
+
+## AI - Open-source GPT Projects
+
+A curated list of open-source GPT and LLM projects.
+
+- [GPT4All](https://github.com/nomic-ai/gpt4all) – Open-source GPT model and chatbot
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) – Run LLaMA models locally
+- [OpenAssistant](https://github.com/LAION-AI/Open-Assistant) – Open-source conversational AI assistant
+- [Hugging Face Transformers](https://github.com/huggingface/transformers) – State-of-the-art NLP models including GPT
