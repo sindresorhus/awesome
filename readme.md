@@ -900,6 +900,7 @@
 - [Regex](https://github.com/slevithan/awesome-regex#readme) - Specialized language for matching patterns in text.
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
+- [Guidelines](https://github.com/Kristories/awesome-guidelines#readme) - Programming style and best practices.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
