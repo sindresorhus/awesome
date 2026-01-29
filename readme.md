@@ -914,3 +914,15 @@
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
+
+## Contribution Guide
+
+We use `awesome-lint` for CI to ensure that all contributions adhere to our guidelines. Please make sure to run `awesome-lint` before submitting a pull request.
+
+To run `awesome-lint`, use the following command:
+
+```sh
+npx awesome-lint
+```
+
+For more details, refer to the [Contribution guide](contributing.md).
