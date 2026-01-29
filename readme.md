@@ -403,6 +403,7 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [BYOC](https://github.com/nuonco/awesome-byoc#readme) - A directory of products that support BYOC deployment.
 
 ## Computer Science
 
