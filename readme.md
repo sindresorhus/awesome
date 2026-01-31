@@ -907,6 +907,7 @@
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 
+- [Dev Ideas](https://github.com/Tryboy869/awesome-dev-ideas#readme) - Structured registry for technical proof-of-concept ideas with validation workflow and community discussion.
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
