@@ -601,6 +601,7 @@
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
+- [Learning Technology Standards](https://github.com/tla-ecosystem/awesome-tla) - Open-source implementations of IEEE/ISO/ADL standards for tracking learning, managing competencies, and learner records.
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
