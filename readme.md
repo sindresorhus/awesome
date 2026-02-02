@@ -625,10 +625,10 @@
 - [Malware Analysis](https://github.com/rshipp/awesome-malware-analysis#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
 - [Hacking](https://github.com/carpedm20/awesome-hacking#readme)
-- [Julia Security](https://github.com/bad-antics/awesome-julia-security#readme) - Security packages and tools for the Julia programming language.
 - [Hacking Spots](https://github.com/daviddias/awesome-hacking-locations#readme)
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
+- [Julia Security](https://github.com/bad-antics/awesome-julia-security#readme) - Security packages and tools for the Julia programming language.
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
