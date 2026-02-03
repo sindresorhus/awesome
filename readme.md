@@ -601,7 +601,6 @@
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
-- [Learning Technology Standards](https://github.com/tla-ecosystem/awesome-tla) - Open-source implementations of IEEE/ISO/ADL standards for tracking learning, managing competencies, and learner records.
 - [Speaking](https://github.com/matteofigus/awesome-speaking#readme)
 - [Tech Videos](https://github.com/lucasviola/awesome-tech-videos#readme)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning#readme)
@@ -616,6 +615,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [Total Learning Architecture (TLA)](https://github.com/tla-ecosystem/awesome-tla#readme) - Standards-based infrastructure for tracking learning activities and managing competencies.
 
 ## Security
 
