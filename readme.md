@@ -78,6 +78,7 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 - [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts
 - [Diligence Fuzzing](https://consensys.io/diligence/fuzzing/) - Advanced smart contract fuzzing tool
 - [Olympix Static Analyzer](https://www.olympix.ai/free-static-analyzer) - Free Solidity static analysis tool
+- [rocq-of-solidity](https://github.com/formal-land/rocq-of-solidity) - Formal verification for smart contracts with Rocq
 
 ## Gas Optimization
 - [evm.codes](https://www.evm.codes/) - EVM opcode gas reference  
