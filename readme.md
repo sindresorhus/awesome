@@ -388,6 +388,7 @@
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) - Java framework.
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
+- [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme) - Reliability engineering practices, tooling, and learning resources.
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) - PHP micro-framework.
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
@@ -433,6 +434,8 @@
 	- [TensorFlow Lite](https://github.com/margaretmz/awesome-tensorflow-lite#readme) - Framework that optimizes TensorFlow models for on-device machine learning.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
+- [Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems#readme) - Principles, papers, and resources for building distributed systems.
+- [Compilers](https://github.com/aalhour/awesome-compilers#readme) - Compiler design, construction, and theory resources. 
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
@@ -465,6 +468,7 @@
 	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - Learning and practicing.
 - [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
+- [API Design](https://github.com/Kikobeats/awesome-api#readme) - Best practices and resources for designing high-quality APIs.
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
 - [Competitive Programming](https://github.com/lnishan/awesome-competitive-programming#readme)
 - [Math](https://github.com/rossant/awesome-math#readme)
@@ -633,6 +637,8 @@
 - [Lockpicking](https://github.com/fabacab/awesome-lockpicking#readme) - The art of unlocking a lock by manipulating its components without the key.
 - [Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam#readme) - Groups of individuals who identify security flaws in information technology systems.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Threat Modeling](https://github.com/hysnsec/awesome-threat-modeling#readme) - Identifying, analyzing, and mitigating security threats in system design.
+- [OSINT](https://github.com/jivoi/awesome-osint#readme) - Open-source intelligence gathering tools and techniques.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
 - [GDPR](https://github.com/bakke92/awesome-gdpr#readme) - Regulation on data protection and privacy for all individuals within EU.
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
