@@ -682,6 +682,8 @@
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
 - [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
+- [AppSumo Lifetime Deals](https://github.com/jiankn/awesome-appsumo-deals#readme) - Curated AppSumo products with survival tracking and success scores for
+  SaaS buyers and indie builders.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) - Fighting climate change with technology.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making.
