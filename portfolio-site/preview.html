@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NEUROPRIMITIVE — Artist / Neurogeneticist / Systems Thinker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+/* ============================================================
+   RESET
+   ============================================================ */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+body { min-height: 100vh; overflow-x: hidden; }
+ul, ol { list-style: none; }
+a { text-decoration: none; color: inherit; }
+img, svg { display: block; max-width: 100%; }
+button { font: inherit; cursor: pointer; border: none; background: none; }
+
+/* ============================================================
+   CUSTOM PROPERTIES
+   ============================================================ */
+:root {
+  /* Palette */
+  --c-void: #0A0A0B;
+  --c-substrate: #111113;
+  --c-membrane: #1A1A1E;
+  --c-synapse: #2A2A30;
+  --c-signal: #E8E4DE;
+  --c-noise: #7A7670;
+  --c-axon: #C4F534;
+  --c-cortex: #FF6B35;
+  --c-dendrite: #3D85C6;
+
+  /* Typography */
+  --ff-display: 'Space Grotesk', system-ui, sans-serif;
+  --ff-body: 'Inter', system-ui, sans-serif;
+  --ff-mono: 'JetBrains Mono', 'Fira Code', monospace;
+
+  /* Fluid type scale */
+  --text-xs: clamp(0.625rem, 0.55rem + 0.25vw, 0.75rem);
+  --text-sm: clamp(0.75rem, 0.7rem + 0.25vw, 0.875rem);
+  --text-base: clamp(0.875rem, 0.8rem + 0.35vw, 1rem);
+  --text-md: clamp(1rem, 0.9rem + 0.5vw, 1.25rem);
+  --text-lg: clamp(1.25rem, 1rem + 1vw, 1.75rem);
+  --text-xl: clamp(1.5rem, 1.1rem + 1.5vw, 2.25rem);
+  --text-2xl: clamp(2rem, 1.4rem + 2.5vw, 3.5rem);
+  --text-3xl: clamp(2.5rem, 1.5rem + 4vw, 5rem);
+  --text-hero: clamp(3rem, 1.5rem + 6vw, 7rem);
+
+  /* Spacing */
+  --space-section: clamp(6rem, 4rem + 8vw, 12rem);
+  --container-max: 1400px;
+  --container-pad: clamp(1.5rem, 1rem + 2vw, 4rem);
+}
+
+/* ============================================================
+   BASE
+   ============================================================ */
+body {
+  font-family: var(--ff-body);
+  font-size: var(--text-base);
+  color: var(--c-signal);
+  background: var(--c-void);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: var(--c-axon);
+  color: var(--c-void);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: var(--c-void); }
+::-webkit-scrollbar-thumb { background: var(--c-synapse); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: var(--c-noise); }
+
+/* ============================================================
+   FILM GRAIN OVERLAY
+   ============================================================ */
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  pointer-events: none;
+  opacity: 0.035;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
+  background-size: 200px 200px;
+  animation: grain 0.5s steps(1) infinite;
+}
+
+@keyframes grain {
+  0%   { background-position: 0 0; }
+  20%  { background-position: -40px 20px; }
+  40%  { background-position: 60px -30px; }
+  60%  { background-position: -20px 50px; }
+  80%  { background-position: 30px -60px; }
+  100% { background-position: 0 0; }
+}
+
+/* ============================================================
+   LAYOUT UTILITIES
+   ============================================================ */
+.container {
+  width: 100%;
+  max-width: var(--container-max);
+  margin: 0 auto;
+  padding-left: var(--container-pad);
+  padding-right: var(--container-pad);
+}
+
+/* ============================================================
+   WEBGL CANVAS
+   ============================================================ */
+#webgl-canvas {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* ============================================================
+   SCROLL REVEAL
+   ============================================================ */
+.fade-up {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s cubic-bezier(0.22, 1, 0.36, 1),
+              transform 0.8s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.fade-up.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* ============================================================
+   NAVIGATION
+   ============================================================ */
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  padding: 1.25rem 0;
+  background: rgba(10, 10, 11, 0.7);
+  -webkit-backdrop-filter: blur(20px) saturate(1.4);
+  backdrop-filter: blur(20px) saturate(1.4);
+  border-bottom: 1px solid rgba(42, 42, 48, 0.4);
+}
+
+.nav .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav__logo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-family: var(--ff-display);
+  font-weight: 700;
+  font-size: var(--text-sm);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.nav__logo-mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border: 1px solid var(--c-axon);
+  color: var(--c-axon);
+  font-size: var(--text-sm);
+  font-weight: 700;
+}
+
+.nav__links {
+  display: flex;
+  gap: 2.5rem;
+}
+
+.nav__link {
+  position: relative;
+  font-family: var(--ff-body);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  color: var(--c-noise);
+  letter-spacing: 0.02em;
+  padding-top: 1.2rem;
+  transition: color 0.3s ease;
+}
+
+.nav__link::before {
+  content: attr(data-label);
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-synapse);
+  font-weight: 400;
+  transition: color 0.3s ease;
+}
+
+.nav__link::after {
+  content: '';
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: var(--c-axon);
+  transition: width 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.nav__link:hover {
+  color: var(--c-signal);
+}
+
+.nav__link:hover::before {
+  color: var(--c-noise);
+}
+
+.nav__link:hover::after {
+  width: 100%;
+}
+
+.nav__status {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-noise);
+  letter-spacing: 0.04em;
+}
+
+.nav__status-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--c-axon);
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(196, 245, 52, 0.4); }
+  50% { opacity: 0.6; box-shadow: 0 0 0 6px rgba(196, 245, 52, 0); }
+}
+
+/* ============================================================
+   HERO
+   ============================================================ */
+.hero {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  padding-top: 6rem;
+}
+
+.hero .container {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.hero__content {
+  width: 65%;
+  max-width: 52rem;
+}
+
+.hero__label {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-axon);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+.hero__title {
+  font-family: var(--ff-display);
+  font-size: var(--text-hero);
+  font-weight: 700;
+  line-height: 1.0;
+  letter-spacing: -0.03em;
+  margin-bottom: 2rem;
+  color: var(--c-signal);
+}
+
+.hero__title em {
+  font-style: normal;
+  color: var(--c-axon);
+}
+
+.hero__subtitle {
+  font-family: var(--ff-body);
+  font-size: var(--text-md);
+  color: var(--c-noise);
+  line-height: 1.7;
+  max-width: 38rem;
+  margin-bottom: 3rem;
+}
+
+.hero__ctas {
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+
+/* Buttons */
+.btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  padding: 0.9rem 2rem;
+  font-family: var(--ff-body);
+  font-size: var(--text-sm);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  overflow: hidden;
+  transition: color 0.4s ease;
+}
+
+.btn--primary {
+  border: 1px solid var(--c-axon);
+  color: var(--c-signal);
+}
+
+.btn--primary::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: var(--c-axon);
+  transition: width 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  z-index: -1;
+}
+
+.btn--primary:hover {
+  color: var(--c-void);
+}
+
+.btn--primary:hover::before {
+  width: 100%;
+}
+
+.btn--ghost {
+  border: 1px solid var(--c-synapse);
+  color: var(--c-noise);
+}
+
+.btn--ghost::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 0;
+  height: 100%;
+  background: var(--c-membrane);
+  transition: width 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+  z-index: -1;
+}
+
+.btn--ghost:hover {
+  color: var(--c-signal);
+  border-color: var(--c-noise);
+}
+
+.btn--ghost:hover::before {
+  width: 100%;
+}
+
+.hero__coords {
+  position: absolute;
+  bottom: 3rem;
+  right: var(--container-pad);
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-synapse);
+  text-align: right;
+  line-height: 1.8;
+  letter-spacing: 0.04em;
+}
+
+/* ============================================================
+   SECTION HEADER
+   ============================================================ */
+.section-header {
+  margin-bottom: 4rem;
+}
+
+.section-header__index {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-axon);
+  letter-spacing: 0.12em;
+  margin-bottom: 1rem;
+  display: block;
+}
+
+.section-header__title {
+  font-family: var(--ff-display);
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 1rem;
+}
+
+.section-header__desc {
+  font-size: var(--text-base);
+  color: var(--c-noise);
+  max-width: 36rem;
+  line-height: 1.7;
+}
+
+/* ============================================================
+   SELECTED WORK
+   ============================================================ */
+.work {
+  position: relative;
+  z-index: 1;
+  padding: var(--space-section) 0;
+}
+
+.work__grid {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: 1.5rem;
+}
+
+.work-card {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid var(--c-synapse);
+  transition: transform 0.5s cubic-bezier(0.22, 1, 0.36, 1),
+              border-color 0.4s ease;
+  cursor: pointer;
+}
+
+.work-card:hover {
+  transform: scale(1.008);
+  border-color: var(--c-cortex);
+}
+
+.work-card--wide {
+  grid-column: 1 / -1;
+}
+
+.work-card--half {
+  grid-column: span 6;
+}
+
+.work-card--offset {
+  grid-column: 3 / 11;
+}
+
+.work-card__image {
+  aspect-ratio: 16 / 9;
+  background: linear-gradient(
+    135deg,
+    hsl(var(--hue), 60%, 15%) 0%,
+    hsl(var(--hue), 40%, 8%) 100%
+  );
+}
+
+.work-card--half .work-card__image {
+  aspect-ratio: 4 / 3;
+}
+
+.work-card__info {
+  padding: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 1rem;
+}
+
+.work-card__title {
+  font-family: var(--ff-display);
+  font-size: var(--text-lg);
+  font-weight: 600;
+  margin-bottom: 0.25rem;
+}
+
+.work-card__year {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-noise);
+}
+
+.work-card__tags {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-noise);
+  letter-spacing: 0.06em;
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* ============================================================
+   RESEARCH
+   ============================================================ */
+.research {
+  position: relative;
+  z-index: 1;
+  padding: var(--space-section) 0;
+}
+
+.research__list {
+  border-top: 1px solid var(--c-synapse);
+}
+
+.research-item {
+  display: grid;
+  grid-template-columns: 120px 1fr auto;
+  gap: 2rem;
+  align-items: center;
+  padding: 2rem 1rem;
+  border-bottom: 1px solid var(--c-synapse);
+  transition: background 0.3s ease, padding-left 0.4s ease;
+  cursor: pointer;
+}
+
+.research-item:hover {
+  background: var(--c-substrate);
+  padding-left: 2rem;
+}
+
+.research-item__id {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-noise);
+  letter-spacing: 0.04em;
+}
+
+.research-item__content {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.research-item__title {
+  font-family: var(--ff-display);
+  font-size: var(--text-md);
+  font-weight: 600;
+}
+
+.research-item__pub {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-noise);
+}
+
+.research-item__arrow {
+  font-size: 1.5rem;
+  color: var(--c-synapse);
+  transition: color 0.3s ease, transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.research-item:hover .research-item__arrow {
+  color: var(--c-axon);
+  transform: translateX(6px);
+}
+
+/* ============================================================
+   ABOUT
+   ============================================================ */
+.about {
+  position: relative;
+  z-index: 1;
+  padding: var(--space-section) 0;
+}
+
+.about__grid {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 4rem;
+  margin-bottom: 4rem;
+}
+
+.about__text p {
+  color: var(--c-noise);
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  font-size: var(--text-base);
+}
+
+.about__stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+
+.stat__value {
+  font-family: var(--ff-display);
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  color: var(--c-axon);
+  line-height: 1;
+  margin-bottom: 0.4rem;
+}
+
+.stat__label {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-noise);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.about__disciplines {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.discipline-pill {
+  padding: 0.6rem 1.4rem;
+  border: 1px solid var(--c-synapse);
+  font-family: var(--ff-body);
+  font-size: var(--text-sm);
+  color: var(--c-noise);
+  transition: border-color 0.3s ease, color 0.3s ease, background 0.3s ease;
+  cursor: default;
+}
+
+.discipline-pill:hover {
+  border-color: var(--c-axon);
+  color: var(--c-axon);
+  background: rgba(196, 245, 52, 0.05);
+}
+
+/* ============================================================
+   CONTACT
+   ============================================================ */
+.contact {
+  position: relative;
+  z-index: 1;
+  padding: var(--space-section) 0;
+}
+
+.contact__headline {
+  font-family: var(--ff-display);
+  font-size: var(--text-2xl);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 4rem;
+  line-height: 1.15;
+}
+
+.contact__headline em {
+  font-style: normal;
+  color: var(--c-axon);
+}
+
+.contact__links {
+  border-top: 1px solid var(--c-synapse);
+}
+
+.contact-link {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 2rem;
+  align-items: center;
+  padding: 1.75rem 1rem;
+  border-bottom: 1px solid var(--c-synapse);
+  transition: padding-left 0.4s ease, color 0.3s ease;
+}
+
+.contact-link:hover {
+  padding-left: 2rem;
+}
+
+.contact-link:hover .contact-link__value {
+  color: var(--c-axon);
+}
+
+.contact-link__label {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-noise);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.contact-link__value {
+  font-family: var(--ff-display);
+  font-size: var(--text-md);
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.footer {
+  position: relative;
+  z-index: 1;
+  padding: 2rem 0;
+  border-top: 1px solid var(--c-synapse);
+}
+
+.footer .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer__copy,
+.footer__status {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  color: var(--c-noise);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* ============================================================
+   RESPONSIVE
+   ============================================================ */
+@media (max-width: 900px) {
+  .nav__links { gap: 1.5rem; }
+  .nav__status { display: none; }
+  .hero__content { width: 85%; }
+  .hero__coords { display: none; }
+  .work-card--half { grid-column: 1 / -1; }
+  .work-card--offset { grid-column: 1 / -1; }
+  .about__grid { grid-template-columns: 1fr; gap: 3rem; }
+  .research-item { grid-template-columns: 80px 1fr auto; gap: 1rem; }
+  .contact-link { grid-template-columns: 80px 1fr; gap: 1rem; }
+}
+
+@media (max-width: 600px) {
+  .nav__links { display: none; }
+  .hero__content { width: 100%; }
+  .hero__title { line-height: 1.1; }
+  .hero__ctas { flex-direction: column; }
+  .btn { width: 100%; justify-content: center; }
+  .work__grid { gap: 1rem; }
+  .research-item { grid-template-columns: 1fr; gap: 0.5rem; padding: 1.5rem 0.5rem; }
+  .research-item__arrow { display: none; }
+  .about__stats { gap: 1.5rem; }
+  .contact-link { grid-template-columns: 1fr; gap: 0.25rem; padding: 1.25rem 0.5rem; }
+}
+
+/* ============================================================
+   REDUCED MOTION
+   ============================================================ */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .fade-up { opacity: 1; transform: none; }
+  body::after { animation: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- WebGL Canvas -->
+<canvas id="webgl-canvas"></canvas>
+
+<!-- ============================================================
+     NAVIGATION
+     ============================================================ -->
+<nav class="nav">
+  <div class="container">
+    <a href="#" class="nav__logo">
+      <span class="nav__logo-mark">[N]</span>
+      NEUROPRIMITIVE
+    </a>
+    <div class="nav__links">
+      <a href="#work" class="nav__link" data-label="01">Work</a>
+      <a href="#research" class="nav__link" data-label="02">Research</a>
+      <a href="#about" class="nav__link" data-label="03">About</a>
+      <a href="#contact" class="nav__link" data-label="04">Contact</a>
+    </div>
+    <div class="nav__status">
+      <span class="nav__status-dot"></span>
+      AVAILABLE FOR PROJECTS
+    </div>
+  </div>
+</nav>
+
+<!-- ============================================================
+     HERO
+     ============================================================ -->
+<section class="hero" id="hero">
+  <div class="container">
+    <div class="hero__content">
+      <p class="hero__label fade-up">ARTIST — NEUROGENETICIST — SYSTEMS THINKER</p>
+      <h1 class="hero__title fade-up" data-delay="80">Where biology<br>becomes <em>signal</em></h1>
+      <p class="hero__subtitle fade-up" data-delay="160">I create at the intersection of neural computation, genetic systems, and visual art. My work translates the invisible architectures of living systems into tangible experience.</p>
+      <div class="hero__ctas fade-up" data-delay="240">
+        <a href="#work" class="btn btn--primary">View selected work</a>
+        <a href="#research" class="btn btn--ghost">Research papers</a>
+      </div>
+    </div>
+  </div>
+  <div class="hero__coords">
+    LAT 40.7128&deg;<br>
+    LONG &minus;74.0060&deg;<br>
+    SYS.ACTIVE
+  </div>
+</section>
+
+<!-- ============================================================
+     SELECTED WORK
+     ============================================================ -->
+<section class="work" id="work">
+  <div class="container">
+    <div class="section-header fade-up">
+      <span class="section-header__index">02</span>
+      <h2 class="section-header__title">Selected Work</h2>
+      <p class="section-header__desc">A curated selection of projects spanning bioart, generative systems, and neural-inspired installations.</p>
+    </div>
+
+    <div class="work__grid">
+      <article class="work-card work-card--wide fade-up" data-delay="80" style="--hue: 80;">
+        <div class="work-card__image"></div>
+        <div class="work-card__info">
+          <div>
+            <h3 class="work-card__title">Neural Cartography</h3>
+            <span class="work-card__year">2025</span>
+          </div>
+          <span class="work-card__tags">BIOART / GENERATIVE / INSTALLATION</span>
+        </div>
+      </article>
+
+      <article class="work-card work-card--half fade-up" data-delay="160" style="--hue: 25;">
+        <div class="work-card__image"></div>
+        <div class="work-card__info">
+          <div>
+            <h3 class="work-card__title">Gene Expression Series</h3>
+            <span class="work-card__year">2024</span>
+          </div>
+          <span class="work-card__tags">PAINTING / DATA VIZ</span>
+        </div>
+      </article>
+
+      <article class="work-card work-card--half fade-up" data-delay="240" style="--hue: 210;">
+        <div class="work-card__image"></div>
+        <div class="work-card__info">
+          <div>
+            <h3 class="work-card__title">Morphogenesis Engine</h3>
+            <span class="work-card__year">2024</span>
+          </div>
+          <span class="work-card__tags">WEBGL / SIMULATION</span>
+        </div>
+      </article>
+
+      <article class="work-card work-card--offset fade-up" data-delay="320" style="--hue: 150;">
+        <div class="work-card__image"></div>
+        <div class="work-card__info">
+          <div>
+            <h3 class="work-card__title">Axon Studies I&ndash;IV</h3>
+            <span class="work-card__year">2023</span>
+          </div>
+          <span class="work-card__tags">SCULPTURE / NEUROSCIENCE</span>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     RESEARCH
+     ============================================================ -->
+<section class="research" id="research">
+  <div class="container">
+    <div class="section-header fade-up">
+      <span class="section-header__index">03</span>
+      <h2 class="section-header__title">Research</h2>
+      <p class="section-header__desc">Peer-reviewed publications at the boundary of computational neuroscience and creative practice.</p>
+    </div>
+
+    <div class="research__list">
+      <div class="research-item fade-up" data-delay="80">
+        <span class="research-item__id">NP-2025-003</span>
+        <div class="research-item__content">
+          <h3 class="research-item__title">Emergent Aesthetics in Neural Organoid Cultures</h3>
+          <span class="research-item__pub">J. Comp. Neuroscience 2025</span>
+        </div>
+        <span class="research-item__arrow">&rarr;</span>
+      </div>
+
+      <div class="research-item fade-up" data-delay="160">
+        <span class="research-item__id">NP-2024-007</span>
+        <div class="research-item__content">
+          <h3 class="research-item__title">CRISPR-Mediated Chromatic Gene Circuits for Bioart Applications</h3>
+          <span class="research-item__pub">Nature Biotech 2024</span>
+        </div>
+        <span class="research-item__arrow">&rarr;</span>
+      </div>
+
+      <div class="research-item fade-up" data-delay="240">
+        <span class="research-item__id">NP-2023-012</span>
+        <div class="research-item__content">
+          <h3 class="research-item__title">Topological Analysis of Dendritic Arborization Patterns</h3>
+          <span class="research-item__pub">PLOS Comp. Bio 2023</span>
+        </div>
+        <span class="research-item__arrow">&rarr;</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     ABOUT
+     ============================================================ -->
+<section class="about" id="about">
+  <div class="container">
+    <div class="section-header fade-up">
+      <span class="section-header__index">04</span>
+      <h2 class="section-header__title">About</h2>
+    </div>
+
+    <div class="about__grid">
+      <div class="about__text fade-up" data-delay="80">
+        <p>My practice exists in the liminal space between laboratory and studio. Trained in molecular neuroscience and drawn to the visual complexity of biological systems, I develop works that make the hidden logic of life legible. From neural organoid cultures to generative algorithms modeled on dendritic growth, each project is an act of translation&mdash;rendering the invisible visible.</p>
+        <p>I believe that art and science are not parallel disciplines but entangled ones. The same patterns that govern axonal pathfinding appear in urban networks, in fungal mycelia, in the flow of information through social systems. My work maps these isomorphisms, creating experiences that resonate on both aesthetic and analytical registers.</p>
+      </div>
+      <div class="about__stats fade-up" data-delay="160">
+        <div class="stat">
+          <div class="stat__value">12+</div>
+          <div class="stat__label">Years Research</div>
+        </div>
+        <div class="stat">
+          <div class="stat__value">40+</div>
+          <div class="stat__label">Exhibitions</div>
+        </div>
+        <div class="stat">
+          <div class="stat__value">8</div>
+          <div class="stat__label">Publications</div>
+        </div>
+        <div class="stat">
+          <div class="stat__value">3</div>
+          <div class="stat__label">Patents</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="about__disciplines fade-up" data-delay="240">
+      <span class="discipline-pill">Neurogenetics</span>
+      <span class="discipline-pill">Bioart</span>
+      <span class="discipline-pill">Generative Systems</span>
+      <span class="discipline-pill">Installation</span>
+      <span class="discipline-pill">Data Visualization</span>
+      <span class="discipline-pill">Sculpture</span>
+      <span class="discipline-pill">Creative Coding</span>
+      <span class="discipline-pill">Scientific Illustration</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     CONTACT
+     ============================================================ -->
+<section class="contact" id="contact">
+  <div class="container">
+    <div class="section-header fade-up">
+      <span class="section-header__index">05</span>
+    </div>
+
+    <h2 class="contact__headline fade-up" data-delay="80">Let's build something<br>at the edge of <em>known</em>.</h2>
+
+    <div class="contact__links">
+      <a href="mailto:hello@neuroprimitive.studio" class="contact-link fade-up" data-delay="160">
+        <span class="contact-link__label">EMAIL</span>
+        <span class="contact-link__value">hello@neuroprimitive.studio</span>
+      </a>
+      <a href="https://github.com/neuroprimitive" class="contact-link fade-up" data-delay="240">
+        <span class="contact-link__label">GITHUB</span>
+        <span class="contact-link__value">github.com/neuroprimitive</span>
+      </a>
+      <a href="https://x.com/neuroprimitive" class="contact-link fade-up" data-delay="320">
+        <span class="contact-link__label">TWITTER/X</span>
+        <span class="contact-link__value">@neuroprimitive</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================
+     FOOTER
+     ============================================================ -->
+<footer class="footer">
+  <div class="container">
+    <span class="footer__copy">&copy; 2026 NEUROPRIMITIVE</span>
+    <span class="footer__status">ALL SYSTEMS NOMINAL</span>
+  </div>
+</footer>
+
+<!-- ============================================================
+     JAVASCRIPT
+     ============================================================ -->
+<script type="importmap">
+{
+  "imports": {
+    "three": "https://cdn.jsdelivr.net/npm/three@0.162.0/build/three.module.js"
+  }
+}
+</script>
+<script type="module">
+import * as THREE from 'three';
+
+/* ============================================================
+   THREE.JS NEURAL MESH BACKGROUND
+   ============================================================ */
+(function initWebGL() {
+  const canvas = document.getElementById('webgl-canvas');
+  if (!canvas) return;
+
+  let renderer;
+  try {
+    renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true });
+  } catch (e) {
+    // WebGL unavailable — graceful fallback
+    canvas.style.display = 'none';
+    return;
+  }
+
+  if (!renderer.getContext()) {
+    canvas.style.display = 'none';
+    return;
+  }
+
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  renderer.setClearColor(0x000000, 0);
+
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 100);
+  camera.position.z = 6;
+
+  /* --- Shader material --- */
+  const vertexShader = `
+    uniform float uTime;
+    uniform vec2 uMouse;
+    varying float vDisplacement;
+    varying vec2 vUv;
+
+    //
+    // Simplex 3D noise — full implementation
+    //
+    vec3 mod289(vec3 x) { return x - floor(x * (1.0 / 289.0)) * 289.0; }
+    vec4 mod289(vec4 x) { return x - floor(x * (1.0 / 289.0)) * 289.0; }
+    vec4 permute(vec4 x) { return mod289(((x * 34.0) + 10.0) * x); }
+    vec4 taylorInvSqrt(vec4 r) { return 1.79284291400159 - 0.85373472095314 * r; }
+
+    float snoise(vec3 v) {
+      const vec2 C = vec2(1.0 / 6.0, 1.0 / 3.0);
+      const vec4 D = vec4(0.0, 0.5, 1.0, 2.0);
+
+      // First corner
+      vec3 i  = floor(v + dot(v, C.yyy));
+      vec3 x0 = v - i + dot(i, C.xxx);
+
+      // Other corners
+      vec3 g = step(x0.yzx, x0.xyz);
+      vec3 l = 1.0 - g;
+      vec3 i1 = min(g.xyz, l.zxy);
+      vec3 i2 = max(g.xyz, l.zxy);
+
+      vec3 x1 = x0 - i1 + C.xxx;
+      vec3 x2 = x0 - i2 + C.yyy;
+      vec3 x3 = x0 - D.yyy;
+
+      // Permutations
+      i = mod289(i);
+      vec4 p = permute(permute(permute(
+                i.z + vec4(0.0, i1.z, i2.z, 1.0))
+              + i.y + vec4(0.0, i1.y, i2.y, 1.0))
+              + i.x + vec4(0.0, i1.x, i2.x, 1.0));
+
+      // Gradients: 7x7 points over a square, mapped onto an octahedron.
+      float n_ = 0.142857142857;
+      vec3 ns = n_ * D.wyz - D.xzx;
+
+      vec4 j = p - 49.0 * floor(p * ns.z * ns.z);
+
+      vec4 x_ = floor(j * ns.z);
+      vec4 y_ = floor(j - 7.0 * x_);
+
+      vec4 x = x_ * ns.x + ns.yyyy;
+      vec4 y = y_ * ns.x + ns.yyyy;
+      vec4 h = 1.0 - abs(x) - abs(y);
+
+      vec4 b0 = vec4(x.xy, y.xy);
+      vec4 b1 = vec4(x.zw, y.zw);
+
+      vec4 s0 = floor(b0) * 2.0 + 1.0;
+      vec4 s1 = floor(b1) * 2.0 + 1.0;
+      vec4 sh = -step(h, vec4(0.0));
+
+      vec4 a0 = b0.xzyw + s0.xzyw * sh.xxyy;
+      vec4 a1 = b1.xzyw + s1.xzyw * sh.zzww;
+
+      vec3 p0 = vec3(a0.xy, h.x);
+      vec3 p1 = vec3(a0.zw, h.y);
+      vec3 p2 = vec3(a1.xy, h.z);
+      vec3 p3 = vec3(a1.zw, h.w);
+
+      // Normalise gradients
+      vec4 norm = taylorInvSqrt(vec4(dot(p0, p0), dot(p1, p1), dot(p2, p2), dot(p3, p3)));
+      p0 *= norm.x;
+      p1 *= norm.y;
+      p2 *= norm.z;
+      p3 *= norm.w;
+
+      // Mix final noise value
+      vec4 m = max(0.5 - vec4(dot(x0, x0), dot(x1, x1), dot(x2, x2), dot(x3, x3)), 0.0);
+      m = m * m;
+      return 105.0 * dot(m * m, vec4(dot(p0, x0), dot(p1, x1), dot(p2, x2), dot(p3, x3)));
+    }
+
+    void main() {
+      vUv = uv;
+
+      vec3 pos = position;
+      float noise = snoise(vec3(pos.x * 0.8 + uTime * 0.15, pos.y * 0.8 + uTime * 0.1, uTime * 0.08));
+      float displacement = noise * 0.45;
+      pos.z += displacement;
+
+      // Mouse parallax
+      pos.x += uMouse.x * 0.3;
+      pos.y += uMouse.y * 0.3;
+
+      vDisplacement = displacement;
+      gl_Position = projectionMatrix * modelViewMatrix * vec4(pos, 1.0);
+    }
+  `;
+
+  const fragmentShader = `
+    uniform float uTime;
+    varying float vDisplacement;
+    varying vec2 vUv;
+
+    void main() {
+      // Color mix based on displacement
+      vec3 colorLow  = vec3(0.04, 0.04, 0.045);
+      vec3 colorHigh = vec3(0.77, 0.96, 0.2);  // axon green
+      vec3 colorMid  = vec3(0.24, 0.52, 0.78);  // dendrite blue
+
+      float t = smoothstep(-0.3, 0.4, vDisplacement);
+      vec3 color = mix(colorLow, colorMid, t * 0.5);
+      color = mix(color, colorHigh, pow(t, 3.0) * 0.6);
+
+      // Edge vignette fade
+      vec2 center = vUv - 0.5;
+      float vignette = 1.0 - smoothstep(0.2, 0.7, length(center));
+
+      // Pulsing opacity
+      float pulse = 0.35 + 0.05 * sin(uTime * 0.5);
+
+      gl_FragColor = vec4(color, vignette * pulse);
+    }
+  `;
+
+  const geometry = new THREE.PlaneGeometry(8, 6, 48, 36);
+  const material = new THREE.ShaderMaterial({
+    vertexShader,
+    fragmentShader,
+    uniforms: {
+      uTime:  { value: 0 },
+      uMouse: { value: new THREE.Vector2(0, 0) }
+    },
+    wireframe: true,
+    transparent: true,
+    depthWrite: false
+  });
+
+  const mesh = new THREE.Mesh(geometry, material);
+  scene.add(mesh);
+
+  /* --- Mouse tracking --- */
+  const mouse = { x: 0, y: 0, targetX: 0, targetY: 0 };
+
+  document.addEventListener('mousemove', (e) => {
+    mouse.targetX = (e.clientX / window.innerWidth - 0.5) * 2;
+    mouse.targetY = -(e.clientY / window.innerHeight - 0.5) * 2;
+  });
+
+  /* --- Resize --- */
+  function onResize() {
+    camera.aspect = window.innerWidth / window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth, window.innerHeight);
+  }
+  window.addEventListener('resize', onResize);
+
+  /* --- Visibility --- */
+  let isVisible = true;
+  document.addEventListener('visibilitychange', () => {
+    isVisible = !document.hidden;
+  });
+
+  /* --- Animation loop --- */
+  const clock = new THREE.Clock();
+
+  function animate() {
+    requestAnimationFrame(animate);
+    if (!isVisible) return;
+
+    const elapsed = clock.getElapsedTime();
+    material.uniforms.uTime.value = elapsed;
+
+    // Lerp mouse
+    mouse.x += (mouse.targetX - mouse.x) * 0.02;
+    mouse.y += (mouse.targetY - mouse.y) * 0.02;
+    material.uniforms.uMouse.value.set(mouse.x, mouse.y);
+
+    renderer.render(scene, camera);
+  }
+
+  animate();
+})();
+
+
+/* ============================================================
+   SCROLL REVEAL — IntersectionObserver
+   ============================================================ */
+(function initScrollReveal() {
+  const elements = document.querySelectorAll('.fade-up');
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const el = entry.target;
+        const delay = parseInt(el.getAttribute('data-delay') || '0', 10);
+        setTimeout(() => {
+          el.classList.add('visible');
+        }, delay);
+        observer.unobserve(el);
+      }
+    });
+  }, { threshold: 0.15 });
+
+  elements.forEach((el) => observer.observe(el));
+})();
+
+
+/* ============================================================
+   SMOOTH SCROLL FOR ANCHOR LINKS
+   ============================================================ */
+(function initSmoothScroll() {
+  document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
+    anchor.addEventListener('click', (e) => {
+      const targetId = anchor.getAttribute('href');
+      if (targetId === '#') return;
+      const target = document.querySelector(targetId);
+      if (target) {
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  });
+})();
+</script>
+</body>
+</html>
