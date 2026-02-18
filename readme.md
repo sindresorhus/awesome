@@ -438,6 +438,7 @@
 - [Qlik](https://github.com/ambster-public/awesome-qlik#readme) - Business intelligence platform for data visualization, analytics, and reporting apps.
 - [Splunk](https://github.com/sduff/awesome-splunk#readme) - Platform for searching, monitoring, and analyzing structured and unstructured machine-generated big data in real time.
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
+- [Parquet](https://github.com/severo/awesome-parquet#readme) - Columnar storage file format for efficient data processing and analytics.
 
 ## Theory
 
@@ -560,7 +561,6 @@
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 - [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
 - [Neon](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
-- [Parquet](https://github.com/severo/awesome-parquet#readme) - Columnar storage file format for efficient data processing and analytics.
 
 ## Media
 
