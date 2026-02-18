@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NEUROPRIMITIVE — Artist & Neurogeneticist</title>
+  <meta name="description" content="Portfolio of a freelance artist and neurogeneticist exploring the intersection of biological systems and creative expression." />
+  <meta name="theme-color" content="#0A0A0B" />
+
+  <!-- Preload critical fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="/src/styles/reset.css" />
+  <link rel="stylesheet" href="/src/styles/tokens.css" />
+  <link rel="stylesheet" href="/src/styles/global.css" />
+  <link rel="stylesheet" href="/src/styles/components.css" />
+</head>
+<body>
+
+  <!-- WebGL Background Canvas (neural mesh) -->
+  <canvas id="bg-canvas" aria-hidden="true"></canvas>
+
+  <!-- Grain Overlay -->
+  <div class="grain-overlay" aria-hidden="true"></div>
+
+  <!-- ═══════════════════════════════════════════
+       NAVIGATION
+       ═══════════════════════════════════════════ -->
+  <nav class="nav" role="navigation">
+    <div class="nav__logo">
+      <span class="nav__logo-mark" aria-hidden="true">[N]</span>
+      <span class="nav__logo-text">NEUROPRIMITIVE</span>
+    </div>
+    <ul class="nav__links">
+      <li><a href="#work" class="nav__link" data-label="01">Work</a></li>
+      <li><a href="#research" class="nav__link" data-label="02">Research</a></li>
+      <li><a href="#about" class="nav__link" data-label="03">About</a></li>
+      <li><a href="#contact" class="nav__link" data-label="04">Contact</a></li>
+    </ul>
+    <div class="nav__status">
+      <span class="nav__status-dot"></span>
+      <span class="nav__status-text mono">AVAILABLE FOR PROJECTS</span>
+    </div>
+  </nav>
+
+  <!-- ═══════════════════════════════════════════
+       SECTION 01 — HERO
+       Asymmetric split: left text block, right void with WebGL
+       ═══════════════════════════════════════════ -->
+  <section class="hero" id="hero">
+    <div class="hero__content">
+      <p class="hero__label mono fade-up">ARTIST — NEUROGENETICIST — SYSTEMS THINKER</p>
+      <h1 class="hero__title fade-up" data-delay="1">
+        Where biology<br />
+        becomes <em>signal</em>
+      </h1>
+      <p class="hero__subtitle fade-up" data-delay="2">
+        I create at the intersection of neural computation, genetic systems,
+        and visual art. My work translates the invisible architectures of
+        living systems into tangible experience.
+      </p>
+      <div class="hero__cta fade-up" data-delay="3">
+        <a href="#work" class="btn btn--primary">View selected work</a>
+        <a href="#research" class="btn btn--ghost">Research papers</a>
+      </div>
+    </div>
+    <div class="hero__coordinates mono" aria-hidden="true">
+      <span>LAT 40.7128°</span>
+      <span>LONG −74.0060°</span>
+      <span>SYS.ACTIVE</span>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       SECTION 02 — SELECTED WORK
+       Asymmetric masonry grid, items break the grid intentionally
+       ═══════════════════════════════════════════ -->
+  <section class="work" id="work">
+    <header class="section-header">
+      <span class="section-header__index mono">02</span>
+      <h2 class="section-header__title">Selected Work</h2>
+      <p class="section-header__desc">Projects spanning bioart, generative systems, and neural visualization.</p>
+    </header>
+
+    <div class="work__grid">
+      <article class="work__item work__item--wide fade-up">
+        <div class="work__item-media">
+          <div class="work__item-placeholder" data-label="NEURAL CARTOGRAPHY" style="--hue: 80;"></div>
+        </div>
+        <div class="work__item-info">
+          <span class="work__item-year mono">2025</span>
+          <h3 class="work__item-title">Neural Cartography</h3>
+          <p class="work__item-desc">Mapping synaptic pathways as generative landscape paintings. Exhibited at the Institute of Contemporary Art.</p>
+          <div class="work__item-tags">
+            <span class="tag mono">BIOART</span>
+            <span class="tag mono">GENERATIVE</span>
+            <span class="tag mono">INSTALLATION</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="work__item fade-up" data-delay="1">
+        <div class="work__item-media">
+          <div class="work__item-placeholder" data-label="GENE EXPRESSION" style="--hue: 25;"></div>
+        </div>
+        <div class="work__item-info">
+          <span class="work__item-year mono">2024</span>
+          <h3 class="work__item-title">Gene Expression Series</h3>
+          <p class="work__item-desc">Data-driven paintings sourced from CRISPR experiment outputs.</p>
+          <div class="work__item-tags">
+            <span class="tag mono">PAINTING</span>
+            <span class="tag mono">DATA VIZ</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="work__item fade-up" data-delay="2">
+        <div class="work__item-media">
+          <div class="work__item-placeholder" data-label="MORPHOGENESIS" style="--hue: 210;"></div>
+        </div>
+        <div class="work__item-info">
+          <span class="work__item-year mono">2024</span>
+          <h3 class="work__item-title">Morphogenesis Engine</h3>
+          <p class="work__item-desc">Real-time WebGL simulation of cellular differentiation patterns.</p>
+          <div class="work__item-tags">
+            <span class="tag mono">WEBGL</span>
+            <span class="tag mono">SIMULATION</span>
+          </div>
+        </div>
+      </article>
+
+      <article class="work__item work__item--offset fade-up" data-delay="3">
+        <div class="work__item-media">
+          <div class="work__item-placeholder" data-label="AXON STUDIES" style="--hue: 150;"></div>
+        </div>
+        <div class="work__item-info">
+          <span class="work__item-year mono">2023</span>
+          <h3 class="work__item-title">Axon Studies I–IV</h3>
+          <p class="work__item-desc">Sculptural series translating neuronal growth cones into bronze and resin forms.</p>
+          <div class="work__item-tags">
+            <span class="tag mono">SCULPTURE</span>
+            <span class="tag mono">NEUROSCIENCE</span>
+          </div>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       SECTION 03 — RESEARCH
+       Dense, data-forward layout with monospaced accents
+       ═══════════════════════════════════════════ -->
+  <section class="research" id="research">
+    <header class="section-header">
+      <span class="section-header__index mono">03</span>
+      <h2 class="section-header__title">Research</h2>
+      <p class="section-header__desc">Peer-reviewed publications and ongoing investigations.</p>
+    </header>
+
+    <div class="research__list">
+      <a href="#" class="research__item fade-up">
+        <span class="research__item-id mono">NP-2025-003</span>
+        <div class="research__item-content">
+          <h3 class="research__item-title">Emergent Aesthetics in Neural Organoid Cultures</h3>
+          <p class="research__item-journal mono">Journal of Computational Neuroscience — 2025</p>
+        </div>
+        <span class="research__item-arrow" aria-hidden="true">→</span>
+      </a>
+
+      <a href="#" class="research__item fade-up" data-delay="1">
+        <span class="research__item-id mono">NP-2024-007</span>
+        <div class="research__item-content">
+          <h3 class="research__item-title">CRISPR-Mediated Chromatic Gene Circuits for Bioart Applications</h3>
+          <p class="research__item-journal mono">Nature Biotechnology — 2024</p>
+        </div>
+        <span class="research__item-arrow" aria-hidden="true">→</span>
+      </a>
+
+      <a href="#" class="research__item fade-up" data-delay="2">
+        <span class="research__item-id mono">NP-2023-012</span>
+        <div class="research__item-content">
+          <h3 class="research__item-title">Topological Analysis of Dendritic Arborization Patterns</h3>
+          <p class="research__item-journal mono">PLOS Computational Biology — 2023</p>
+        </div>
+        <span class="research__item-arrow" aria-hidden="true">→</span>
+      </a>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       SECTION 04 — ABOUT
+       Two-column: text left, data/stats right
+       ═══════════════════════════════════════════ -->
+  <section class="about" id="about">
+    <header class="section-header">
+      <span class="section-header__index mono">04</span>
+      <h2 class="section-header__title">About</h2>
+    </header>
+
+    <div class="about__grid">
+      <div class="about__text fade-up">
+        <p>
+          I operate at the boundary between laboratory and studio. My practice
+          is rooted in neurogeneticist — the study of how genetic code shapes neural
+          architecture — and extends into visual art, installation, and computational
+          design.
+        </p>
+        <p>
+          I believe the most compelling art emerges from genuine inquiry. Each
+          project begins with a scientific question and ends with an aesthetic
+          proposition. The gap between is where the work lives.
+        </p>
+      </div>
+      <div class="about__data fade-up" data-delay="1">
+        <div class="about__stat">
+          <span class="about__stat-value">12+</span>
+          <span class="about__stat-label mono">YEARS RESEARCH</span>
+        </div>
+        <div class="about__stat">
+          <span class="about__stat-value">40+</span>
+          <span class="about__stat-label mono">EXHIBITIONS</span>
+        </div>
+        <div class="about__stat">
+          <span class="about__stat-value">8</span>
+          <span class="about__stat-label mono">PUBLICATIONS</span>
+        </div>
+        <div class="about__stat">
+          <span class="about__stat-value">3</span>
+          <span class="about__stat-label mono">PATENTS</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="about__disciplines fade-up" data-delay="2">
+      <h3 class="about__disciplines-title mono">DISCIPLINES</h3>
+      <ul class="about__disciplines-list">
+        <li>Neurogeneticist</li>
+        <li>Bioart</li>
+        <li>Generative Systems</li>
+        <li>Installation</li>
+        <li>Data Visualization</li>
+        <li>Sculpture</li>
+        <li>Creative Coding</li>
+        <li>Scientific Illustration</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       SECTION 05 — CONTACT
+       Minimal, brutalist contact block
+       ═══════════════════════════════════════════ -->
+  <section class="contact" id="contact">
+    <header class="section-header">
+      <span class="section-header__index mono">05</span>
+      <h2 class="section-header__title">Contact</h2>
+    </header>
+
+    <div class="contact__content fade-up">
+      <p class="contact__headline">
+        Let's build something<br />
+        at the edge of <em>known</em>.
+      </p>
+      <div class="contact__links">
+        <a href="mailto:hello@neuroprimitive.studio" class="contact__link">
+          <span class="mono">EMAIL</span>
+          <span>hello@neuroprimitive.studio</span>
+        </a>
+        <a href="#" class="contact__link">
+          <span class="mono">GITHUB</span>
+          <span>github.com/neuroprimitive</span>
+        </a>
+        <a href="#" class="contact__link">
+          <span class="mono">TWITTER/X</span>
+          <span>@neuroprimitive</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ═══════════════════════════════════════════
+       FOOTER
+       ═══════════════════════════════════════════ -->
+  <footer class="footer">
+    <div class="footer__content">
+      <span class="mono">© 2026 NEUROPRIMITIVE</span>
+      <span class="mono">ALL SYSTEMS NOMINAL</span>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script type="module" src="/src/main.js"></script>
+
+</body>
+</html>

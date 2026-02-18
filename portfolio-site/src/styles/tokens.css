@@ -1,0 +1,63 @@
+/* ═══════════════════════════════════════════
+   DESIGN TOKENS — CSS Custom Properties
+   ═══════════════════════════════════════════ */
+
+:root {
+  /* ── Colors ── */
+  --c-void:       #0A0A0B;
+  --c-substrate:  #111113;
+  --c-membrane:   #1A1A1E;
+  --c-synapse:    #2A2A30;
+  --c-signal:     #E8E4DE;
+  --c-noise:      #7A7670;
+  --c-axon:       #C4F534;
+  --c-cortex:     #FF6B35;
+  --c-dendrite:   #3D85C6;
+  --c-lesion:     #E63946;
+
+  /* ── Typography ── */
+  --ff-display:   'Space Grotesk', system-ui, sans-serif;
+  --ff-body:      'Inter', system-ui, sans-serif;
+  --ff-mono:      'JetBrains Mono', 'Fira Code', monospace;
+
+  --text-xs:    clamp(0.694rem, 0.66rem + 0.18vw, 0.8rem);
+  --text-sm:    clamp(0.833rem, 0.78rem + 0.27vw, 1rem);
+  --text-base:  clamp(1rem, 0.93rem + 0.36vw, 1.25rem);
+  --text-lg:    clamp(1.2rem, 1.1rem + 0.5vw, 1.563rem);
+  --text-xl:    clamp(1.44rem, 1.29rem + 0.73vw, 1.953rem);
+  --text-2xl:   clamp(1.728rem, 1.51rem + 1.09vw, 2.441rem);
+  --text-3xl:   clamp(2.074rem, 1.76rem + 1.57vw, 3.052rem);
+  --text-hero:  clamp(2.8rem, 2rem + 3vw, 6rem);
+
+  --lh-tight:   1.1;
+  --lh-snug:    1.3;
+  --lh-body:    1.6;
+
+  /* ── Spacing ── */
+  --space-unit: 4px;
+  --space-xs:   8px;
+  --space-sm:   16px;
+  --space-md:   32px;
+  --space-lg:   64px;
+  --space-xl:   96px;
+  --space-2xl:  160px;
+  --space-section: 192px;
+
+  /* ── Layout ── */
+  --max-width:  1400px;
+  --gutter:     clamp(20px, 4vw, 80px);
+
+  /* ── Motion ── */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out:   cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --ease-in:       cubic-bezier(0.55, 0, 1, 0.45);
+  --duration-fast:  150ms;
+  --duration-med:   400ms;
+  --duration-slow:  600ms;
+
+  /* ── Z-index ── */
+  --z-bg:      -1;
+  --z-grain:   1;
+  --z-content: 10;
+  --z-nav:     100;
+}

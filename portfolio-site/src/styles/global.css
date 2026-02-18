@@ -1,0 +1,147 @@
+/* ═══════════════════════════════════════════
+   GLOBAL STYLES — Layout, typography, base
+   ═══════════════════════════════════════════ */
+
+body {
+  font-family: var(--ff-body);
+  font-size: var(--text-base);
+  line-height: var(--lh-body);
+  color: var(--c-signal);
+  background-color: var(--c-void);
+  overflow-x: hidden;
+}
+
+/* ── Utility classes ── */
+
+.mono {
+  font-family: var(--ff-mono);
+  font-size: var(--text-xs);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+em {
+  font-style: italic;
+  color: var(--c-axon);
+}
+
+::selection {
+  background: var(--c-axon);
+  color: var(--c-void);
+}
+
+/* ── WebGL background canvas ── */
+
+#bg-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: var(--z-bg);
+  pointer-events: none;
+}
+
+/* ── Film grain overlay ── */
+
+.grain-overlay {
+  position: fixed;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  z-index: var(--z-grain);
+  pointer-events: none;
+  opacity: 0.035;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+  animation: grain 8s steps(10) infinite;
+}
+
+@keyframes grain {
+  0%, 100% { transform: translate(0, 0); }
+  10% { transform: translate(-5%, -10%); }
+  20% { transform: translate(-15%, 5%); }
+  30% { transform: translate(7%, -25%); }
+  40% { transform: translate(-5%, 25%); }
+  50% { transform: translate(-15%, 10%); }
+  60% { transform: translate(15%, 0%); }
+  70% { transform: translate(0%, 15%); }
+  80% { transform: translate(3%, 35%); }
+  90% { transform: translate(-10%, 10%); }
+}
+
+/* ── Scroll-reveal animation ── */
+
+.fade-up {
+  opacity: 0;
+  transform: translateY(30px);
+  transition:
+    opacity var(--duration-slow) var(--ease-out-expo),
+    transform var(--duration-slow) var(--ease-out-expo);
+}
+
+.fade-up.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.fade-up[data-delay="1"] { transition-delay: 80ms; }
+.fade-up[data-delay="2"] { transition-delay: 160ms; }
+.fade-up[data-delay="3"] { transition-delay: 240ms; }
+.fade-up[data-delay="4"] { transition-delay: 320ms; }
+
+/* ── Section containers ── */
+
+section {
+  position: relative;
+  z-index: var(--z-content);
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: var(--space-section) var(--gutter) var(--space-xl);
+}
+
+/* ── Section header ── */
+
+.section-header {
+  margin-bottom: var(--space-xl);
+  padding-bottom: var(--space-md);
+  border-bottom: 1px solid var(--c-synapse);
+}
+
+.section-header__index {
+  display: block;
+  color: var(--c-axon);
+  margin-bottom: var(--space-xs);
+}
+
+.section-header__title {
+  font-family: var(--ff-display);
+  font-size: var(--text-3xl);
+  font-weight: 700;
+  line-height: var(--lh-tight);
+  margin-bottom: var(--space-sm);
+}
+
+.section-header__desc {
+  color: var(--c-noise);
+  max-width: 50ch;
+}
+
+/* ── Scrollbar ── */
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--c-void);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--c-synapse);
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--c-noise);
+}
