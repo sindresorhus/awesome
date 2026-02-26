@@ -5,7 +5,7 @@
 	<br>
 	<br>
 	<div>
-		<sub>Check out my macOS app</sub>
+		<sub>Check out my pretty macOS app</sub>
 		<br>
 		<h2>
 			<a href="https://sindresorhus.com/supercharge">Supercharge</a>
