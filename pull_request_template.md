@@ -72,7 +72,7 @@
 	- Don't include both a title saying `Awesome X` and a logo with `Awesome X`. You can put the header image in a `#` (Markdown header) or `<h1>`.
 - [ ] Entries have a description, unless the title is descriptive enough by itself. It rarely is though.
 - [ ] Includes the [Awesome badge](https://github.com/sindresorhus/awesome/blob/main/awesome.md#awesome-badge).
-	- Should be placed on the right side of the readme heading.
+	- Should be placed after the main heading (not inline with the heading).
 		- Can be placed centered if the list has a centered graphics header.
 	- Should link back to this list.
 - [ ] Has a Table of Contents section.
