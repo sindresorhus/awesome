@@ -596,6 +596,7 @@
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
 - [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 - [Audio Over IP](https://github.com/Mo-way/awesome-aoip#readme) - Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
+- [OBS](https://github.com/Pralhad-Nasane/awesome-obs#readme) - Open-source software for video recording and live streaming.
 
 ## Learn
 
