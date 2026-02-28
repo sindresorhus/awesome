@@ -907,6 +907,7 @@
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 - [RSSHub Routes](https://github.com/JackyST0/awesome-rsshub-routes#readme) - Curated RSS feeds and RSSHub routes for efficient reading.
+- [Agent Skills](https://github.com/JackyST0/awesome-agent-skills#readme) - Modular AI agent skills for coding assistants like Cursor, Claude Code, and GitHub Copilot.
 
 ## Related
 
