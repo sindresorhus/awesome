@@ -615,6 +615,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [Total Learning Architecture (TLA)](https://github.com/tla-ecosystem/awesome-tla#readme) - Standards-based infrastructure for tracking learning activities and managing competencies.
 
 ## Security
 
