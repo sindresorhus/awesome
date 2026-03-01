@@ -416,6 +416,7 @@
 	- [H2O](https://github.com/h2oai/awesome-h2o#readme) - Open source distributed machine learning platform written in Java with APIs in R, Python, and Scala.
 	- [Software Engineering for Machine Learning](https://github.com/SE-ML/awesome-seml#readme) - From experiment to production-level machine learning.
 	- [AI in Finance](https://github.com/georgezouq/awesome-ai-in-finance#readme) - Solving problems in finance with machine learning.
+	- [AI Evaluation](https://github.com/Vvkmnn/awesome-ai-eval#readme) - Measuring reliability, accuracy, and safety of LLMs, RAG pipelines, and AI agents.
 	- [JAX](https://github.com/n2cholas/awesome-jax#readme) - Automatic differentiation and XLA compilation brought together for high-performance machine learning research.
 	- [XAI](https://github.com/altamiracorp/awesome-xai#readme) - Providing insight, explanations, and interpretability to machine learning methods.
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
