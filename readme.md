@@ -665,7 +665,7 @@
 ## Hardware
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
-  - [Space Robotics](https://github.com/AndrejOrsula/awesome-space-robotics#readme) - Software, hardware, and algorithms for robotic systems in space.
+	- [Space Robotics](https://github.com/AndrejOrsula/awesome-space-robotics#readme) - Software, hardware, and algorithms for robotic systems in space.
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
