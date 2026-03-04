@@ -393,6 +393,7 @@
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) - Java web app framework.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - Toolkit for building reactive apps on the JVM.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
+- [Infrastructure (Monitoring, DevOps)](https://github.com/raya-ac/awesome-infrastructure#readme) - A curated list of infrastructure, monitoring, and DevOps resources.
 - [Vapor](https://github.com/vapor-community/awesome-vapor#readme) - Server-side development in Swift.
 - [Dash](https://github.com/ucg8j/awesome-dash#readme) - Python web app framework.
 - [FastAPI](https://github.com/mjhea0/awesome-fastapi#readme) - Python web app framework.
