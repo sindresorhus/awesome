@@ -282,15 +282,16 @@
 
 ## Front-End Development
 
-- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
-- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
-- [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
-	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
-	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
-	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
-	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
-	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
+	- [Astro Integrations]([https://github.com/RichLewis007/Awesome-Astro-Integrations) - Easily add amazing new functionality and behaviors to your Astro project with only a few lines of code!
+	- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
+	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - Improve web performance.
+	- [Web Tools](https://github.com/lvwzhen/tools#readme) - Tools for web development.
+	- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme) - CSS Critical Path tools.
+	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme) - Web app scalability.
+	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme) - Talks to watch 
+	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme) - Pro tips.
+	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme) - CSS frameworks.
 - [React](https://github.com/enaqx/awesome-react#readme) - JavaScript library for building user interfaces.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - Framework for building data-driven React apps.
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - Lets you use state and other React features without writing a class.
