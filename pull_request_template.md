@@ -12,6 +12,7 @@
 
 ## Requirements for your pull request
 
+- [ ] Fully AI-generated pull requests are not accepted.
 - [ ] Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it. **Instead use [#2242](https://github.com/sindresorhus/awesome/issues/2242) for incubation visibility**.
 - [ ] **Don't waste my time.** Do a good job, adhere to all the guidelines, and be responsive.
 - [ ] **You have to review at least 4 other [open pull requests](https://github.com/sindresorhus/awesome/pulls?q=is%3Apr+is%3Aopen).**
@@ -41,6 +42,7 @@
 ## Requirements for your Awesome list
 
 - [ ] **Has been around for at least 30 days.**<br>That means 30 days from either the first real commit or when it was open-sourced. Whatever is most recent.
+- [ ] Is not AI-generated.
 - [ ] Run [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) on your list and fix the reported issues. If there are false-positives or things that cannot/shouldn't be fixed, please [report it](https://github.com/sindresorhus/awesome-lint/issues/new).
 - [ ] The default branch should be named [`main`, not `master`](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/).
 - [ ] **Includes a succinct description of the project/theme at the top of the readme.** [(Example)](https://github.com/willempienaar/awesome-quantified-self)
