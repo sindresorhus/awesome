@@ -12,9 +12,10 @@
 
 ## Requirements for your pull request
 
+- [ ] Fully AI-generated pull requests are not accepted.
 - [ ] Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it. **Instead use [#2242](https://github.com/sindresorhus/awesome/issues/2242) for incubation visibility**.
 - [ ] **Don't waste my time.** Do a good job, adhere to all the guidelines, and be responsive.
-- [ ] **You have to review at least 2 other [open pull requests](https://github.com/sindresorhus/awesome/pulls?q=is%3Apr+is%3Aopen).**
+- [ ] **You have to review at least 4 other [open pull requests](https://github.com/sindresorhus/awesome/pulls?q=is%3Apr+is%3Aopen).**
 	Try to prioritize unreviewed PRs, but you can also add more comments to reviewed PRs. Go through the below list when reviewing. This requirement is meant to help make the Awesome project self-sustaining. Comment here which PRs you reviewed. You're expected to put a good effort into this and to be thorough. Look at previous PR reviews for inspiration. **Just commenting “looks good” or simply marking the pull request as approved does not count!** You have to actually point out mistakes or improvement suggestions. Comments pointing out lint violation are allowed, but does **not** count as a review.
 - [ ] You have read and understood the [instructions for creating a list](https://github.com/sindresorhus/awesome/blob/main/create-list.md).
 - [ ] This pull request has a title in the format `Add Name of List`. It should not contain the word `Awesome`.
@@ -41,6 +42,7 @@
 ## Requirements for your Awesome list
 
 - [ ] **Has been around for at least 30 days.**<br>That means 30 days from either the first real commit or when it was open-sourced. Whatever is most recent.
+- [ ] Is not AI-generated.
 - [ ] Run [`awesome-lint`](https://github.com/sindresorhus/awesome-lint) on your list and fix the reported issues. If there are false-positives or things that cannot/shouldn't be fixed, please [report it](https://github.com/sindresorhus/awesome-lint/issues/new).
 - [ ] The default branch should be named [`main`, not `master`](https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/).
 - [ ] **Includes a succinct description of the project/theme at the top of the readme.** [(Example)](https://github.com/willempienaar/awesome-quantified-self)
