@@ -802,6 +802,7 @@
 - [Transit](https://github.com/CUTR-at-USF/awesome-transit#readme)
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme)
+- 	- [Digital Nomad](https://github.com/cbovis/awesome-digital-nomads#readme) - Living as a digital nomad.
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
 - [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) - Standards, quirks, packages and resources for Unicode.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
