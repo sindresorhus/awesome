@@ -1,6 +1,6 @@
 # The awesome manifesto
 
-If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
+If you want your list to be included in `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
 
 But **what is awesome?**
 
