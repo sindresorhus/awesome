@@ -906,7 +906,7 @@
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
-- [AI Tools](https://github.com/aliammari1/awesome-ai-tools#readme) - Curated collection of 100+ AI tools for productivity and creativity.
+- [AI Tools](https://github.com/aliammari1/awesome-ai-tools#readme) - AI tools that support productivity and creative work.
 
 ## Related
 
