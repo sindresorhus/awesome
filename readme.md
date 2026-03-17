@@ -491,6 +491,7 @@
 - [Emacs](https://github.com/emacs-tw/awesome-emacs#readme)
 - [Atom](https://github.com/mehcode/awesome-atom#readme) - Open-source and hackable text editor.
 - [Visual Studio Code](https://github.com/viatsko/awesome-vscode#readme) - Cross-platform open-source text editor.
+- [Helix](https://github.com/npupko/awesome-helix#readme) - Post-modern modal text editor with built-in LSP and tree-sitter support.
 
 ## Gaming
 
