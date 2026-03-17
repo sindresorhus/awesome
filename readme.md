@@ -873,7 +873,6 @@
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) - Programmatic media and ad tech for websites.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
-- [Animal Care](https://github.com/omkar-foss/awesome-animal-care#readme) - Caring for dogs, cats, fishes, horses, parrots, and others.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Guides for naming things in computer science.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
@@ -907,6 +906,8 @@
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+- [Animal Care](https://github.com/omkar-foss/awesome-animal-care#readme) - Caring for dogs, cats, fishes, horses, parrots, and others.
+
 
 ## Related
 
