@@ -908,7 +908,6 @@
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 - [Animal Care](https://github.com/omkar-foss/awesome-animal-care#readme) - Caring for dogs, cats, fishes, horses, parrots, and others.
 
-
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
