@@ -873,6 +873,7 @@
 - [IRC](https://github.com/davisonio/awesome-irc#readme) - Open source messaging protocol.
 - [Advertising](https://github.com/cenoura/awesome-ads#readme) - Programmatic media and ad tech for websites.
 - [Earth](https://github.com/philsturgeon/awesome-earth#readme) - Find ways to resolve the climate crisis.
+- [Animal Care](https://github.com/omkar-foss/awesome-animal-care#readme) - Caring for dogs, cats, fishes, horses, parrots, and others.
 - [Naming](https://github.com/gruhn/awesome-naming#readme) - Guides for naming things in computer science.
 - [Web Archiving](https://github.com/iipc/awesome-web-archiving#readme) - An effort to preserve the Web for future generations.
 - [WP-CLI](https://github.com/schlessera/awesome-wp-cli#readme) - Command-line interface for WordPress.
