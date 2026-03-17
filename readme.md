@@ -804,10 +804,8 @@
 - [Research Tools](https://github.com/emptymalei/awesome-research#readme)
 - [Data Visualization](https://github.com/javierluraschi/awesome-dataviz#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
-- [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) - Unicode standards, quirks, packages and resources.
-  - [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) - Standards, quirks, packages and resources for Unicode.
-	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
+  - [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
 - [Tools for Activism](https://github.com/drewrwilson/toolsforactivism#readme)
