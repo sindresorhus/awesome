@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Business Calculus – Linear Equations Quiz</title>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+  <style>
+    html, body, #root { margin: 0; padding: 0; min-height: 100vh; }
+    body { background: #0b0d14; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel">
+    const { useState, useCallback, useEffect, useRef } = React;
+
+    const QUIZ = [
+      { q:"A catering company charges $1,500 for 50 guests and $2,500 for 100 guests. What is the cost per additional guest (the variable cost)?", o:["$30","$20","$25","$50"], a:1, hint:"Use: (change in cost) ÷ (change in guests)", ws:"(2500 - 1500) ÷ (100 - 50) = ?", e:"Change in cost = $2,500 − $1,500 = $1,000. Change in guests = 50. Variable cost = $1,000 ÷ 50 = $20 per guest." },
+      { q:"Using the same catering company ($1,500 for 50 guests, $2,500 for 100 guests), what is the fixed base fee before any guests are added?", o:["$500","$1,000","$250","$750"], a:0, hint:"Slope = $20/guest. Plug a point into y = mx + b and solve for b.", ws:"1500 = 20(50) + b\n1500 = ? + b\nb = ?", e:"Using (50, 1500): 1500 = 20(50) + b → 1500 = 1000 + b → b = 500. The fixed fee is $500." },
+      { q:"A printing shop charges $120 for 10 shirts and $200 for 20 shirts. Which equation represents total cost y for x shirts?", o:["y = 8x + 40","y = 8x + 120","y = 10x + 20","y = 12x"], a:0, hint:"Step 1: Find slope. Step 2: Plug into y = mx + b with one point.", ws:"Slope = (200 - 120) ÷ (20 - 10) = ?\nUsing (10, 120): 120 = ?(10) + b\nb = ?", e:"Slope = 80 ÷ 10 = 8. Using (10, 120): 120 = 8(10) + b → b = 40. Answer: y = 8x + 40." },
+      { q:"In C = 15x + 300, where C is total cost and x is units produced, what does 300 represent in a business context?", o:["The profit margin","The variable cost per unit","The total cost of production","The fixed cost (overhead)"], a:3, hint:"In y = mx + b, what is the cost when you produce zero units (x = 0)?", ws:"If x = 0:\nC = 15(0) + 300 = ?\nSo 300 is the cost when...", e:"When x = 0, C = 300. That's the cost before producing anything — the fixed cost (rent, equipment, etc.)." },
+      { q:"A gym charges a signup fee plus monthly membership. After 3 months: $110 total. After 6 months: $185 total. What is the monthly fee?", o:["$75","$35","$30","$25"], a:3, hint:"Points: (3, 110) and (6, 185). Slope = (change in cost) ÷ (change in months).", ws:"(185 - 110) ÷ (6 - 3) = ?", e:"$185 − $110 = $75 over 3 months. Monthly fee = $75 ÷ 3 = $25." },
+      { q:"Same gym (3 months = $110, 6 months = $185). What is the one-time signup fee?", o:["$110","$25","$75","$35"], a:3, hint:"Monthly fee is $25. Plug (3, 110) into y = 25x + b.", ws:"110 = 25(3) + b\n110 = ? + b\nb = ?", e:"110 = 25(3) + b → 110 = 75 + b → b = 35. Signup fee = $35." },
+      { q:"Machinery purchased for $10,000 depreciates by $1,200/year. Which equation gives value V after t years?", o:["V = 1200t + 10000","V = 10000t − 1200","V = −1200t + 10000","V = −10000t + 1200"], a:2, hint:"Starting value = y-intercept. It loses value, so slope is negative.", ws:"Starting value (b) = ?\nRate of change (m) = ?\nV = mt + b", e:"Starts at $10,000 (b = 10000), loses $1,200/yr (m = −1200). V = −1200t + 10000." },
+      { q:"Hall A: $50 fee + $10/hr. Hall B: $30 fee + $15/hr. At how many hours are they the same cost?", o:["2 hours","4 hours","5 hours","3 hours"], a:1, hint:"Set equal: 50 + 10h = 30 + 15h, then solve for h.", ws:"50 + 10h = 30 + 15h\n50 - 30 = 15h - 10h\n? = ?h\nh = ?", e:"50 + 10h = 30 + 15h → 20 = 5h → h = 4. At 4 hours, both cost $90." },
+      { q:"Total cost: y = 5x + 200. Budget: $850. Max widgets?", o:["210","4,450","170","130"], a:3, hint:"Set y = 850, solve 850 = 5x + 200 for x.", ws:"850 = 5x + 200\n850 - 200 = 5x\n? = 5x\nx = ?", e:"850 = 5x + 200 → 650 = 5x → x = 130 widgets." },
+      { q:"On a cost function graph y = mx + b, the line hits the y-axis very high but has a very shallow slope. What does this mean?", o:["The business will quickly go bankrupt","Total cost decreases with more units","Variable costs high, fixed costs low","Fixed costs high, variable cost per unit low"], a:3, hint:"High y-intercept = high b. Shallow slope = small m.", ws:"b (y-intercept) = fixed costs → high or low?\nm (slope) = variable cost → high or low?", e:"High y-intercept = high fixed costs. Shallow slope = low variable cost per unit. Like a factory with expensive equipment but cheap materials." }
+    ];
+
+    const PRACTICE = [
+      { title:"Finding the Slope", desc:"The slope tells you how much y changes per unit change in x. In business: variable cost, marginal cost, or rate of change.", formula:"m = (y₂ − y₁) / (x₂ − x₁)", fdesc:"Subtract the y-values, divide by the x-value difference.", problems:[
+        { q:"A bakery: 100 cakes cost $2,000, 200 cakes cost $3,500. Variable cost per cake?", ph:"(3500 - 2000) ÷ (200 - 100) = ...", ans:"(3500 − 2000) ÷ (200 − 100) = 1500 ÷ 100 = $15 per cake" },
+        { q:"Revenue is $800 at 20 units, $2,000 at 50 units. Revenue per unit?", ph:"(2000 - 800) ÷ (50 - 20) = ...", ans:"(2000 − 800) ÷ (50 − 20) = 1200 ÷ 30 = $40 per unit" },
+        { q:"Car worth $25,000 new, $19,000 after 3 years. Annual depreciation?", ph:"(19000 - 25000) ÷ (3 - 0) = ...", ans:"(19000 − 25000) ÷ 3 = −6000 ÷ 3 = −$2,000/year (loses $2,000 each year)" }
+      ]},
+      { title:"Writing the Equation", desc:"Once you have slope (m), plug in a known point to find the y-intercept (b).", formula:"y = mx + b  →  b = y − mx", fdesc:"Substitute slope and one point (x, y) to solve for b.", problems:[
+        { q:"Slope = $15/cake, 100 cakes cost $2,000. Write the equation.", ph:"2000 = 15(100) + b\nb = ?\ny = 15x + ?", ans:"2000 = 15(100) + b → 2000 = 1500 + b → b = 500. C = 15x + 500" },
+        { q:"Phone plan: $80/mo for 2GB, $120/mo for 6GB. Write the equation.", ph:"slope = (120-80)÷(6-2) = ?\n80 = m(2) + b → b = ?", ans:"Slope = 40÷4 = 10. 80 = 10(2) + b → b = 60. y = 10x + 60" },
+        { q:"Temp drops from 80°F to 65°F over 5 hours (80° at hour 0). Equation?", ph:"m = (65 - 80) ÷ (5 - 0) = ?\nb = 80\nT = ?t + ?", ans:"m = −15÷5 = −3. b = 80. T = −3t + 80" }
+      ]},
+      { title:"Solving for x", desc:"When you know the total (y) and need quantity (x), isolate x.", formula:"x = (y − b) / m", fdesc:"Subtract fixed cost from total, divide by per-unit cost.", problems:[
+        { q:"C = 12x + 350, budget $1,550. How many units?", ph:"1550 = 12x + 350\n1200 = 12x\nx = ?", ans:"1550 − 350 = 1200. 1200 ÷ 12 = 100 units" },
+        { q:"R = 25x, C = 10x + 600. Break-even point?", ph:"25x = 10x + 600\n15x = 600\nx = ?", ans:"15x = 600 → x = 40 units to break even" },
+        { q:"R = 30x, C = 8x + 440. Units for $1,000 profit?", ph:"Profit = 30x - (8x + 440) = 22x - 440\n1000 = 22x - 440\nx = ?", ans:"1440 = 22x → x ≈ 65.5 → 66 units (round up)" }
+      ]},
+      { title:"Interpreting m and b", desc:"Every linear equation tells a story. Slope = rate per unit. Y-intercept = starting value.", formula:"y = mx + b", fdesc:"m = rate of change per unit  |  b = value at zero (fixed cost, starting amount)", problems:[
+        { q:"C = 4.50x + 1200 models weekly factory cost. What do 4.50 and 1200 mean?", ph:"4.50 = cost per...\n1200 = cost when x = 0, meaning...", ans:"4.50 = $4.50 variable cost per unit. 1200 = $1,200 fixed weekly costs (rent, salaries) even with zero production." },
+        { q:"V = −3000t + 24000 models a vehicle's value. What does −3000 mean? When is it worth $0?", ph:"-3000 means each year...\n0 = -3000t + 24000\nt = ?", ans:"−3000 = loses $3,000/year. 0 = −3000t + 24000 → t = 8 years until worthless." }
+      ]}
+    ];
+
+    const LT = ["A","B","C","D"];
+
+    function App() {
+      const [mode, setMode] = useState("quiz");
+      const [cur, setCur] = useState(0);
+      const [score, setScore] = useState(0);
+      const [wrong, setWrong] = useState(0);
+      const [answers, setAnswers] = useState(Array(QUIZ.length).fill(null));
+      const [results, setResults] = useState(Array(QUIZ.length).fill(null));
+      const [showHints, setShowHints] = useState(Array(QUIZ.length).fill(false));
+      const [workText, setWorkText] = useState(Array(QUIZ.length).fill(""));
+      const [pracRevealed, setPracRevealed] = useState({});
+      const [pracWork, setPracWork] = useState({});
+      const topRef = useRef(null);
+
+      const scrollTop = () => topRef.current?.scrollIntoView({ behavior: "smooth" });
+
+      const pick = useCallback((i) => {
+        if (answers[cur] !== null) return;
+        const newAns = [...answers]; newAns[cur] = i;
+        const newRes = [...results];
+        if (i === QUIZ[cur].a) { newRes[cur] = "c"; setScore(s => s + 1); }
+        else { newRes[cur] = "w"; setWrong(w => w + 1); }
+        setAnswers(newAns); setResults(newRes);
+      }, [cur, answers, results]);
+
+      const goNext = () => { if (cur < QUIZ.length) { setCur(c => c + 1); setTimeout(scrollTop, 50); } };
+      const goBack = () => { if (cur > 0) { setCur(c => c - 1); setTimeout(scrollTop, 50); } };
+
+      const restart = () => {
+        setCur(0); setScore(0); setWrong(0);
+        setAnswers(Array(QUIZ.length).fill(null));
+        setResults(Array(QUIZ.length).fill(null));
+        setShowHints(Array(QUIZ.length).fill(false));
+        setWorkText(Array(QUIZ.length).fill(""));
+        setTimeout(scrollTop, 50);
+      };
+
+      const toggleHint = () => { const h = [...showHints]; h[cur] = true; setShowHints(h); };
+      const updateWork = (val) => { const w = [...workText]; w[cur] = val; setWorkText(w); };
+      const revealPrac = (key) => setPracRevealed(p => ({ ...p, [key]: true }));
+      const updatePracWork = (key, val) => setPracWork(p => ({ ...p, [key]: val }));
+
+      useEffect(() => {
+        const handler = (e) => {
+          if (e.target.tagName === "TEXTAREA") return;
+          if (mode !== "quiz" || cur >= QUIZ.length) return;
+          if (e.key === "ArrowRight" && answers[cur] !== null) goNext();
+          if (e.key === "ArrowLeft" && cur > 0) goBack();
+          const num = parseInt(e.key);
+          if (num >= 1 && num <= QUIZ[cur].o.length && answers[cur] === null) pick(num - 1);
+        };
+        window.addEventListener("keydown", handler);
+        return () => window.removeEventListener("keydown", handler);
+      });
+
+      const done = answers[cur] !== null;
+      const pct = (cur / QUIZ.length) * 100;
+
+      return (
+        <div style={{ minHeight: "100vh", background: "#0b0d14", padding: "20px 12px 60px" }}>
+          <div ref={topRef} style={{ maxWidth: 700, margin: "0 auto" }}>
+
+            {/* Header */}
+            <header style={{ textAlign: "center", marginBottom: 24, paddingBottom: 20, borderBottom: "1px solid #1e2130" }}>
+              <h1 style={{ fontFamily: "'Outfit', sans-serif", fontSize: "1.5rem", fontWeight: 800, color: "#f0f1f7", letterSpacing: "-0.03em", margin: 0 }}>
+                Business Calculus
+              </h1>
+              <p style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.72rem", color: "#5a5f7a", letterSpacing: "0.1em", textTransform: "uppercase", marginTop: 4 }}>
+                Linear Equations &bull; Cost Functions &bull; Word Problems
+              </p>
+            </header>
+
+            {/* Tabs */}
+            <div style={{ display: "flex", gap: 4, marginBottom: 24, background: "#12141e", padding: 4, borderRadius: 12 }}>
+              {["quiz", "practice"].map(m => (
+                <button key={m} onClick={() => { setMode(m); setTimeout(scrollTop, 50); }}
+                  style={{ flex: 1, padding: "11px 8px", borderRadius: 10, border: "none", cursor: "pointer",
+                    fontFamily: "'Outfit', sans-serif", fontWeight: 700, fontSize: "0.82rem", letterSpacing: "0.03em", textTransform: "uppercase",
+                    background: mode === m ? "#4f46e5" : "transparent", color: mode === m ? "#fff" : "#5a5f7a",
+                    transition: "all 0.2s" }}>
+                  {m === "quiz" ? "Quiz Mode" : "Practice"}
+                </button>
+              ))}
+            </div>
+
+            {mode === "quiz" && cur < QUIZ.length && (
+              <>
+                {/* Progress */}
+                <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 14 }}>
+                  <div style={{ flex: 1, height: 5, background: "#1e2130", borderRadius: 99, overflow: "hidden" }}>
+                    <div style={{ height: "100%", width: `${pct}%`, background: "linear-gradient(90deg, #4f46e5, #7c3aed)", borderRadius: 99, transition: "width 0.4s ease" }} />
+                  </div>
+                  <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.78rem", color: "#5a5f7a" }}>{cur + 1}/{QUIZ.length}</span>
+                </div>
+                <div style={{ display: "flex", gap: 10, justifyContent: "center", marginBottom: 22 }}>
+                  <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.8rem", padding: "3px 14px", borderRadius: 99, fontWeight: 700, background: "rgba(16,185,129,0.1)", color: "#10b981", border: "1px solid rgba(16,185,129,0.3)" }}>✓ {score}</span>
+                  <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.8rem", padding: "3px 14px", borderRadius: 99, fontWeight: 700, background: "rgba(239,68,68,0.1)", color: "#ef4444", border: "1px solid rgba(239,68,68,0.3)" }}>✗ {wrong}</span>
+                </div>
+
+                {/* Question Card */}
+                <div key={cur} style={{ background: "#12141e", border: "1px solid #1e2130", borderRadius: 14, padding: "24px 22px", marginBottom: 18, animation: "fadeUp 0.3s ease" }}>
+                  <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.7rem", color: "#4f46e5", textTransform: "uppercase", letterSpacing: "0.1em", marginBottom: 10 }}>
+                    Question {cur + 1}
+                  </div>
+                  <p style={{ fontSize: "1.02rem", lineHeight: 1.7, color: "#d1d5e8", marginBottom: 20, fontFamily: "'Outfit', sans-serif" }}>
+                    {QUIZ[cur].q}
+                  </p>
+
+                  {/* Hint */}
+                  {!done && !showHints[cur] && (
+                    <button onClick={toggleHint} style={{ display: "inline-block", marginBottom: 14, padding: "7px 14px", background: "rgba(79,70,229,0.08)", border: "1px solid rgba(79,70,229,0.2)", borderRadius: 8, color: "#818cf8", fontSize: "0.8rem", fontWeight: 600, cursor: "pointer", fontFamily: "'Outfit', sans-serif" }}>
+                      💡 Show Hint
+                    </button>
+                  )}
+                  {(showHints[cur] || done) && QUIZ[cur].hint && !done && (
+                    <div style={{ marginBottom: 14, padding: "11px 14px", background: "rgba(79,70,229,0.06)", border: "1px solid rgba(79,70,229,0.12)", borderRadius: 10, fontSize: "0.85rem", lineHeight: 1.6, color: "#8b8fb8", fontFamily: "'Outfit', sans-serif" }}>
+                      {QUIZ[cur].hint}
+                    </div>
+                  )}
+
+                  {/* Workspace */}
+                  <div style={{ marginBottom: 18 }}>
+                    <div style={{ fontSize: "0.72rem", fontWeight: 700, color: "#5a5f7a", marginBottom: 6, display: "flex", alignItems: "center", gap: 6, fontFamily: "'JetBrains Mono', monospace", textTransform: "uppercase", letterSpacing: "0.06em" }}>
+                      <span style={{ width: 6, height: 6, borderRadius: "50%", background: "#4f46e5" }} />
+                      Your work
+                    </div>
+                    <textarea
+                      value={workText[cur]}
+                      onChange={(e) => updateWork(e.target.value)}
+                      placeholder={QUIZ[cur].ws}
+                      readOnly={done}
+                      rows={3}
+                      style={{ width: "100%", padding: "12px 14px", background: done ? "#0e1019" : "#0b0d14", border: "1px solid #1e2130", borderRadius: 10, color: "#d1d5e8", fontFamily: "'JetBrains Mono', monospace", fontSize: "0.84rem", lineHeight: 1.6, resize: "vertical", outline: "none", opacity: done ? 0.6 : 1, transition: "border-color 0.2s" }}
+                      onFocus={(e) => { e.target.style.borderColor = "#4f46e5"; e.target.style.boxShadow = "0 0 0 2px rgba(79,70,229,0.2)"; }}
+                      onBlur={(e) => { e.target.style.borderColor = "#1e2130"; e.target.style.boxShadow = "none"; }}
+                    />
+                  </div>
+
+                  {/* Options */}
+                  <div style={{ display: "flex", flexDirection: "column", gap: 8 }}>
+                    {QUIZ[cur].o.map((opt, i) => {
+                      let bg = "#0b0d14", bd = "#1e2130", ltBg = "#12141e", ltCol = "#d1d5e8", ltBd = "#1e2130", opacity = 1;
+                      if (done) {
+                        opacity = 0.5;
+                        if (i === answers[cur] && results[cur] === "c") { bg = "rgba(16,185,129,0.1)"; bd = "rgba(16,185,129,0.35)"; ltBg = "#10b981"; ltCol = "#0b0d14"; ltBd = "#10b981"; opacity = 1; }
+                        else if (i === answers[cur] && results[cur] === "w") { bg = "rgba(239,68,68,0.1)"; bd = "rgba(239,68,68,0.35)"; ltBg = "#ef4444"; ltCol = "#0b0d14"; ltBd = "#ef4444"; opacity = 1; }
+                        if (i === QUIZ[cur].a && results[cur] === "w") { bg = "rgba(16,185,129,0.1)"; bd = "rgba(16,185,129,0.35)"; ltBg = "#10b981"; ltCol = "#0b0d14"; ltBd = "#10b981"; opacity = 1; }
+                      }
+                      return (
+                        <button key={i} onClick={() => pick(i)} disabled={done}
+                          style={{ display: "flex", alignItems: "center", gap: 14, padding: "13px 16px", background: bg, border: `1px solid ${bd}`, borderRadius: 10, cursor: done ? "default" : "pointer", fontSize: "0.92rem", lineHeight: 1.5, color: "#d1d5e8", textAlign: "left", fontFamily: "'Outfit', sans-serif", transition: "all 0.15s", opacity, width: "100%" }}
+                          onMouseEnter={(e) => { if (!done) { e.currentTarget.style.borderColor = "#4f46e5"; e.currentTarget.style.background = "#161829"; } }}
+                          onMouseLeave={(e) => { if (!done) { e.currentTarget.style.borderColor = bd; e.currentTarget.style.background = bg; } }}
+                          aria-label={`Option ${LT[i]}: ${opt}`}>
+                          <span style={{ fontFamily: "'JetBrains Mono', monospace", fontWeight: 700, fontSize: "0.78rem", width: 28, height: 28, display: "flex", alignItems: "center", justifyContent: "center", borderRadius: 7, background: ltBg, border: `1px solid ${ltBd}`, color: ltCol, flexShrink: 0 }}>{LT[i]}</span>
+                          <span>{opt}</span>
+                        </button>
+                      );
+                    })}
+                  </div>
+
+                  {/* Explanation */}
+                  {done && (
+                    <div style={{ marginTop: 16, padding: "14px 16px", background: "rgba(79,70,229,0.06)", border: "1px solid rgba(79,70,229,0.15)", borderRadius: 10, fontSize: "0.87rem", lineHeight: 1.75, color: "#8b8fb8", fontFamily: "'Outfit', sans-serif", animation: "fadeUp 0.3s ease" }}>
+                      <strong style={{ color: "#d1d5e8" }}>Explanation: </strong>{QUIZ[cur].e}
+                    </div>
+                  )}
+                </div>
+
+                {/* Nav */}
+                <div style={{ display: "flex", justifyContent: "space-between", gap: 12 }}>
+                  <button onClick={goBack} disabled={cur === 0}
+                    style={{ fontFamily: "'Outfit', sans-serif", fontWeight: 600, fontSize: "0.88rem", padding: "12px 26px", borderRadius: 10, border: "1px solid #1e2130", background: "#12141e", color: cur === 0 ? "#2a2d40" : "#8b8fb8", cursor: cur === 0 ? "default" : "pointer", transition: "all 0.2s" }}>
+                    Back
+                  </button>
+                  <button onClick={goNext} disabled={!done}
+                    style={{ fontFamily: "'Outfit', sans-serif", fontWeight: 600, fontSize: "0.88rem", padding: "12px 26px", borderRadius: 10, border: "none", background: done ? "#4f46e5" : "#1e2130", color: done ? "#fff" : "#2a2d40", cursor: done ? "pointer" : "default", transition: "all 0.2s" }}>
+                    {cur === QUIZ.length - 1 ? "See Results" : "Next →"}
+                  </button>
+                </div>
+
+                {/* Keyboard hint */}
+                <p style={{ textAlign: "center", marginTop: 14, fontSize: "0.7rem", color: "#2a2d40", fontFamily: "'JetBrains Mono', monospace" }}>
+                  Keyboard: 1-4 to answer · ← → to navigate
+                </p>
+              </>
+            )}
+
+            {/* Results */}
+            {mode === "quiz" && cur >= QUIZ.length && (
+              <div style={{ textAlign: "center", animation: "fadeUp 0.4s ease" }}>
+                <div style={{ width: 150, height: 150, margin: "0 auto 24px", position: "relative" }}>
+                  <svg width="150" height="150" viewBox="0 0 150 150" style={{ transform: "rotate(-90deg)" }}>
+                    <circle cx="75" cy="75" r="64" fill="none" stroke="#1e2130" strokeWidth="9" />
+                    <circle cx="75" cy="75" r="64" fill="none"
+                      stroke={score / QUIZ.length >= 0.7 ? "#10b981" : score / QUIZ.length >= 0.4 ? "#f59e0b" : "#ef4444"}
+                      strokeWidth="9" strokeDasharray={2 * Math.PI * 64} strokeDashoffset={2 * Math.PI * 64 * (1 - score / QUIZ.length)} strokeLinecap="round" />
+                  </svg>
+                  <div style={{ position: "absolute", inset: 0, display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center" }}>
+                    <span style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "2.2rem", fontWeight: 700, color: score / QUIZ.length >= 0.7 ? "#10b981" : score / QUIZ.length >= 0.4 ? "#f59e0b" : "#ef4444" }}>{score}</span>
+                    <span style={{ fontSize: "0.82rem", color: "#5a5f7a" }}>of {QUIZ.length}</span>
+                  </div>
+                </div>
+                <h2 style={{ fontFamily: "'Outfit', sans-serif", fontSize: "1.3rem", color: "#f0f1f7", marginBottom: 8 }}>
+                  {score / QUIZ.length >= 0.7 ? "Great work!" : score / QUIZ.length >= 0.4 ? "Keep going!" : "Keep studying!"}
+                </h2>
+                <p style={{ color: "#5a5f7a", marginBottom: 24, lineHeight: 1.6, fontFamily: "'Outfit', sans-serif", fontSize: "0.9rem", maxWidth: 480, margin: "0 auto 24px" }}>
+                  {score === QUIZ.length ? "Perfect — you've nailed these concepts."
+                    : score >= 8 ? "Almost perfect. Review what you missed and you're set."
+                    : score >= 6 ? "Solid start. Check the explanations and try Practice mode."
+                    : score >= 4 ? "Getting there. Use Practice mode to drill the steps, then retake."
+                    : "No worries. Head to Practice to build skills, then come back."}
+                </p>
+                <div style={{ display: "flex", gap: 10, justifyContent: "center", flexWrap: "wrap", marginBottom: 28 }}>
+                  <button onClick={restart} style={{ fontFamily: "'Outfit', sans-serif", fontWeight: 600, fontSize: "0.88rem", padding: "12px 24px", borderRadius: 10, border: "none", background: "#4f46e5", color: "#fff", cursor: "pointer" }}>Retake Quiz</button>
+                  <button onClick={() => { setMode("practice"); setTimeout(scrollTop, 50); }} style={{ fontFamily: "'Outfit', sans-serif", fontWeight: 600, fontSize: "0.88rem", padding: "12px 24px", borderRadius: 10, border: "1px solid #1e2130", background: "#12141e", color: "#8b8fb8", cursor: "pointer" }}>Practice Mode →</button>
+                </div>
+
+                {/* Review */}
+                <div style={{ textAlign: "left" }}>
+                  <h3 style={{ fontFamily: "'Outfit', sans-serif", fontSize: "1rem", color: "#8b8fb8", marginBottom: 14 }}>Review All Questions</h3>
+                  {QUIZ.map((qd, i) => {
+                    const ok = results[i] === "c";
+                    return (
+                      <div key={i} style={{ background: "#12141e", border: "1px solid #1e2130", borderLeft: `3px solid ${ok ? "#10b981" : "#ef4444"}`, borderRadius: 12, padding: 16, marginBottom: 10 }}>
+                        <p style={{ fontSize: "0.88rem", lineHeight: 1.55, color: "#d1d5e8", marginBottom: 6, fontFamily: "'Outfit', sans-serif" }}>
+                          <strong>Q{i + 1}.</strong> {qd.q}
+                        </p>
+                        <p style={{ fontSize: "0.8rem", color: "#5a5f7a", fontFamily: "'Outfit', sans-serif" }}>
+                          Your answer: <span style={{ color: ok ? "#10b981" : "#ef4444", fontWeight: 600 }}>{LT[answers[i]]}. {qd.o[answers[i]]}</span>
+                          {!ok && <><br />Correct: <span style={{ color: "#10b981", fontWeight: 600 }}>{LT[qd.a]}. {qd.o[qd.a]}</span></>}
+                        </p>
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+
+            {/* Practice Mode */}
+            {mode === "practice" && (
+              <div style={{ animation: "fadeUp 0.3s ease" }}>
+                {PRACTICE.map((topic, ti) => (
+                  <div key={ti} style={{ background: "#12141e", border: "1px solid #1e2130", borderRadius: 14, padding: "22px 20px", marginBottom: 16 }}>
+                    <h3 style={{ fontFamily: "'Outfit', sans-serif", fontSize: "1.05rem", fontWeight: 700, color: "#f0f1f7", marginBottom: 4 }}>{topic.title}</h3>
+                    <p style={{ fontSize: "0.85rem", color: "#5a5f7a", lineHeight: 1.6, marginBottom: 16, fontFamily: "'Outfit', sans-serif" }}>{topic.desc}</p>
+
+                    {/* Formula box */}
+                    <div style={{ padding: "14px 16px", background: "#0b0d14", border: "1px solid #1e2130", borderRadius: 10, marginBottom: 18 }}>
+                      <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.68rem", textTransform: "uppercase", letterSpacing: "0.08em", color: "#4f46e5", marginBottom: 6 }}>Formula</div>
+                      <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "1rem", color: "#d1d5e8", marginBottom: 4 }}>{topic.formula}</div>
+                      <div style={{ fontSize: "0.8rem", color: "#5a5f7a", fontFamily: "'Outfit', sans-serif" }}>{topic.fdesc}</div>
+                    </div>
+
+                    {/* Problems */}
+                    {topic.problems.map((pr, pi) => {
+                      const key = `${ti}-${pi}`;
+                      const revealed = pracRevealed[key];
+                      return (
+                        <div key={pi} style={{ background: "#0b0d14", border: "1px solid #1e2130", borderRadius: 10, padding: 16, marginBottom: 10 }}>
+                          <p style={{ fontSize: "0.9rem", lineHeight: 1.6, color: "#d1d5e8", marginBottom: 10, fontFamily: "'Outfit', sans-serif" }}>{pr.q}</p>
+                          <textarea
+                            value={pracWork[key] || ""}
+                            onChange={(e) => updatePracWork(key, e.target.value)}
+                            placeholder={pr.ph}
+                            rows={3}
+                            style={{ width: "100%", padding: "10px 12px", background: "#12141e", border: "1px solid #1e2130", borderRadius: 8, color: "#d1d5e8", fontFamily: "'JetBrains Mono', monospace", fontSize: "0.82rem", lineHeight: 1.5, resize: "vertical", outline: "none" }}
+                            onFocus={(e) => { e.target.style.borderColor = "#4f46e5"; }}
+                            onBlur={(e) => { e.target.style.borderColor = "#1e2130"; }}
+                          />
+                          {revealed ? (
+                            <div style={{ marginTop: 10, padding: "10px 14px", background: "rgba(16,185,129,0.06)", border: "1px solid rgba(16,185,129,0.15)", borderRadius: 8, fontSize: "0.85rem", lineHeight: 1.65, color: "#8b8fb8", fontFamily: "'Outfit', sans-serif", animation: "fadeUp 0.2s ease" }}>
+                              <strong style={{ color: "#10b981" }}>Answer: </strong>{pr.ans}
+                            </div>
+                          ) : (
+                            <button onClick={() => revealPrac(key)} style={{ marginTop: 8, padding: "8px 16px", background: "#4f46e5", color: "#fff", border: "none", borderRadius: 8, fontFamily: "'Outfit', sans-serif", fontWeight: 600, fontSize: "0.8rem", cursor: "pointer" }}>
+                              Show Answer
+                            </button>
+                          )}
+                        </div>
+                      );
+                    })}
+                  </div>
+                ))}
+                <div style={{ textAlign: "center", marginTop: 8 }}>
+                  <button onClick={() => { setMode("quiz"); setTimeout(scrollTop, 50); }} style={{ fontFamily: "'Outfit', sans-serif", fontWeight: 600, fontSize: "0.88rem", padding: "12px 28px", borderRadius: 10, border: "none", background: "#4f46e5", color: "#fff", cursor: "pointer" }}>
+                    ← Back to Quiz
+                  </button>
+                </div>
+              </div>
+            )}
+          </div>
+
+          <style>{`
+            @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;700&display=swap');
+            @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+            * { box-sizing: border-box; margin: 0; padding: 0; }
+            body { -webkit-font-smoothing: antialiased; }
+            textarea::placeholder { color: rgba(90,95,122,0.5); }
+            button:hover { filter: brightness(1.05); }
+            @media (max-width: 500px) {
+              h1 { font-size: 1.25rem !important; }
+            }
+          `}</style>
+        </div>
+      );
+    }
+
+    const root = ReactDOM.createRoot(document.getElementById("root"));
+    root.render(<App />);
+  </script>
+</body>
+</html>
