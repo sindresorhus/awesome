@@ -747,8 +747,7 @@
 - [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 - [Transgender](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
-- ⁠[Evidence Synthesis Tools](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis#readme) - Systematic reviews, meta-analysis, and evidence synthesis to identify, evaluate, and integrate research evidence.
-
+- [Evidence Synthesis Tools](https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis#readme) - Systematic reviews, meta-analysis, and evidence synthesis.
 
 ## Events
 
