@@ -282,11 +282,11 @@
 
 ## Front-End Development
 
-	- [Astro Integrations]([https://github.com/RichLewis007/Awesome-Astro-Integrations) - Easily add amazing new functionality and behaviors to your Astro project with only a few lines of code!
-	- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
-	- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - Improve web performance.
-	- [Web Tools](https://github.com/lvwzhen/tools#readme) - Tools for web development.
-	- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
+- [Astro Integrations]([https://github.com/RichLewis007/Awesome-Astro-Integrations) - Easily add amazing new functionality and behaviors to your Astro project with only a few lines of code!
+- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - Improve web performance.
+- [Web Tools](https://github.com/lvwzhen/tools#readme) - Tools for web development.
+- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - Style sheet language that specifies how HTML elements are displayed on screen.
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme) - CSS Critical Path tools.
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme) - Web app scalability.
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme) - Talks to watch 
