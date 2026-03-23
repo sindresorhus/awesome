@@ -282,7 +282,7 @@
 
 ## Front-End Development
 
-- [Astro Integrations]([https://github.com/RichLewis007/awesome-astro-integrations) - Easily add amazing new functionality and behaviors to your Astro project with only a few lines of code!
+- [Astro Integrations](https://github.com/RichLewis007/awesome-astro-integrations#readme) - Easily add amazing new functionality and behaviors to your Astro project with only a few lines of code!
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme) - Improve web performance.
 - [Web Tools](https://github.com/lvwzhen/tools#readme) - Tools for web development.
