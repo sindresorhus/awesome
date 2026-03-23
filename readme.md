@@ -117,6 +117,7 @@
 - [Health and Social Science](#health-and-social-science)
 - [Events](#events)
 - [Testing](#testing)
+- [Launch Platforms](#launch-platforms)
 - [Miscellaneous](#miscellaneous)
 - [Related](#related)
 
@@ -767,6 +768,32 @@
 - [Quality Assurance Roadmap](https://github.com/fityanos/awesome-quality-assurance-roadmap#readme) - How to start & build a career in software testing.
 - [Gatling](https://github.com/aliesbelik/awesome-gatling#readme) - Open-source load and performance testing framework based on Scala, Akka, and Netty.
 - [CodeRabbit](https://github.com/coderabbitai/awesome-coderabbit#readme) - AI-powered code review platform.
+
+## Launch Platforms
+- [Aura++](https://auraplusplus.com) - All in one launch platform to increase online aura effortlessly
+- [Product Hunt](https://producthunt.com) - Product Hunt is a curation of the best new products, every day.
+- [Earlyhunt](https://earlyhunt.com) - Where early adopters discover the next big thing. Hunt for the best AI products and launches on EarlyHunt every week.
+- [Betalist](https://betalist.com) - Discover and get early access to upcoming startups
+- [Indiehunt](https://indiehunt.io) - Join the AI-powered launch platform featuring weekly launches. Get discovered by builders, innovators, and early adopters.
+- [Indie Hackers](https://indiehackers.com) - Community of builders sharing products, growth strategies, and launch stories  
+- [Hacker News (Show HN)](https://news.ycombinator.com/show) - Share your product with a highly technical and engaged audience  
+- [Reddit (r/startups, r/Entrepreneur)](https://reddit.com) - Promote and get feedback from niche communities  
+- [Dev.to](https://dev.to) - Publish launch articles and reach developers and makers  
+- [Hashnode](https://hashnode.com) - Developer blogging platform great for product launch stories  
+- [Launching Next](https://launchingnext.com) - Discover and submit new startups and side projects  
+- [StartupBase](https://startupbase.io) - Platform to showcase startups and gain visibility  
+- [Side Project Ideas](https://sideprojectideas.com) - Share and promote your side project  
+- [PitchWall](https://pitchwall.co) - Promote your startup and discover other founders  
+- [Makerlog](https://makerlog.com) - Build in public and launch to an engaged maker community  
+- [GrowthList](https://growthlist.co) - Submit your startup to reach early adopters  
+- [Startup Buffer](https://startupbuffer.com) - Directory of startups for exposure and backlinks  
+- [SaaSHub](https://saashub.com) - List your SaaS product and gain organic traffic  
+- [AlternativeTo](https://alternativeto.net) - Add your product as an alternative to existing tools  
+- [Betapage](https://betapage.co) - Launch your startup and collect early adopters  
+- [Uneed](https://uneed.best) - Curated platform for discovering and launching products  
+- [CtrlAltCC](https://ctrlalt.cc) - Community for indie makers to showcase projects  
+- [MicroLaunch](https://microlaunch.net) - Launch platform focused on indie hackers and small startups  
+
 
 ## Miscellaneous
 
