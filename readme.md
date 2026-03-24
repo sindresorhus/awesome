@@ -902,6 +902,7 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Proposals and standards that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
+- [Computer Use](https://github.com/12britz/awesome-computer-use#readme) - Open-source projects for AI agents that see, click, type, and control your desktop.
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
