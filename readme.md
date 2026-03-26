@@ -647,6 +647,7 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [LOL / Commonly Abused](https://github.com/danzek/awesome-lol-commonly-abused#readme) - Living off the Land (LOL / LoTL) methods, tools, and features commonly abused by attackers.
 
 ## Content Management Systems
 
