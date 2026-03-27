@@ -665,7 +665,6 @@
 ## Hardware
 
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
-	- [Space Robotics](https://github.com/AndrejOrsula/awesome-space-robotics#readme) - Software, hardware, and algorithms for robotic systems in space.
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
@@ -676,6 +675,7 @@
 - [Open Hardware](https://github.com/delftopenhardware/awesome-open-hardware#readme) - Open-source hardware projects.
 - [ADS-B](https://github.com/rickstaa/awesome-adsb#readme) - Technology broadcasting aircraft's identity, position, and data periodically.
 - [Flying FPV](https://github.com/Matthias84/awesome-flying-fpv#readme) - Open hardware and software related to drones / UAVs.
+- [Space Robotics](https://github.com/AndrejOrsula/awesome-space-robotics#readme) - Software, hardware, and algorithms for robotic systems in space.
 
 ## Business
 
