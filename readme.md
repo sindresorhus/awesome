@@ -94,7 +94,7 @@
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
-- [Front-End Development](#front-end-development)
+- [Frontend Development](#front-end-development)
 - [Back-End Development](#back-end-development)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
