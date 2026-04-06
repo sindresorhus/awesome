@@ -379,6 +379,7 @@
 - [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
 - [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
+- [Cesium](https://github.com/reed-soul/awesome-cesium#readme) - Open-source JavaScript library for 3D globes and maps with geospatial data streaming.
 
 ## Back-End Development
 
