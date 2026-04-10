@@ -130,6 +130,7 @@
 - [Events](#events)
 - [Testing](#testing)
 - [Miscellaneous](#miscellaneous)
+- [AI & LLM Tooling](#ai--llm-tooling)
 - [Related](#related)
 
 ## Platforms
@@ -918,6 +919,16 @@
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+
+## AI & LLM Tooling
+
+- [LangChain](https://github.com/kyrolabs/awesome-langchain#readme) - Framework for building applications powered by large language models.
+	- [LangGraph](https://github.com/von-development/awesome-LangGraph#readme) - Library for building stateful, multi-actor LLM applications and agent workflows.
+- [MCP Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers#readme) - Model Context Protocol servers that connect AI assistants to external tools and data sources.
+- [Prompt Engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering#readme) - Techniques for crafting effective inputs to large language models.
+- [Context Engineering](https://github.com/Meirtz/Awesome-Context-Engineering#readme) - Designing and managing the information context provided to AI systems at runtime.
+- [RAG](https://github.com/coree/awesome-rag#readme) - Retrieval-Augmented Generation: combining information retrieval with language model generation.
+- [n8n Templates](https://github.com/enescingoz/awesome-n8n-templates#readme) - Automation workflows for connecting AI services, APIs, and productivity tools.
 
 ## Related
 
