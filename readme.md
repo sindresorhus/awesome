@@ -415,6 +415,7 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [Axiomify](https://github.com/OTopman/axiomify#readme) - A modern Node.js framework focused on performance, modular plugins, and automatic OpenAPI/Swagger generation across multiple HTTP adapters.
 
 ## Computer Science
 
