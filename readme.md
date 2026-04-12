@@ -627,6 +627,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
+- [Machine Learning Books](https://github.com/dair-ai/ML-YouTube-Courses#readme) - A curated list of machine learning courses and educational content for beginners to advanced learners.
 
 ## Security
 
