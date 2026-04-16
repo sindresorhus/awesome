@@ -295,7 +295,6 @@
 ## Front-End Development
 
 -| [SeekSite](https://github.com/Gazi-AI/SeekSite ) | Local AI Web Designer with Design DNA Injection ✔️ Auto-Continuation ✔️ Python | Work With Any LLM ✔️
-
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
