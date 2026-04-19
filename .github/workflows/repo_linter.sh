@@ -1,4 +1,5 @@
 #!/bin/bash
+set -eo pipefail
 
 # Find the repo in the git diff and then set it to an env variables.
 REPO_TO_LINT=$(
@@ -15,7 +16,7 @@ if [ -z "$REPO_TO_LINT" ]; then
 	echo "No new link found in the format:  https://....#readme"
 else
 	echo "Cloning $REPO_TO_LINT"
-	mkdir cloned
+	mkdir -p cloned
 	cd cloned
 	git clone "$REPO_TO_LINT" .
 	npx awesome-lint
