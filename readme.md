@@ -659,6 +659,7 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [Trust and Safety](https://github.com/sentinel-safety/awesome-trust-and-safety#readme) - Tools, research, organizations, and frameworks for child protection and content moderation.
 
 ## Content Management Systems
 
