@@ -673,6 +673,7 @@
 - [Directus](https://github.com/directus-community/awesome-directus#readme) - A real-time API and app dashboard for managing SQL database content.
 - [Plone](https://github.com/collective/awesome-plone#readme) - Open source Python CMS.
 - [Payload](https://github.com/DanailMinchev/awesome-payload#readme) - Next.js native and open source headless CMS.
+- [PhpStrap](https://github.com/PhPstrap/phpstrap) - Modular PHP framework with Bootstrap 5.
 
 ## Hardware
 
