@@ -28,33 +28,6 @@
 		<br>
 		<br>
 		<br>
-		<a href="https://nitric.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=sindresorhus&utm_source=github">
-			<div>
-				<img width="230" src="https://sindresorhus.com/assets/thanks/nitric-logo.svg" alt="nitric logo">
-			</div>
-			<b>Effortless backends with infrastructure from code</b>
-			<div>
-				<sup>An open-source framework that supports any programming language, cloud provider, or deployment automation tool.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<h3>
-			<a href="https://ref.wisprflow.ai/VjA6dYR">Wispr Flow</a>
-		</h3>
-		<a href="https://ref.wisprflow.ai/VjA6dYR">
-			<div>
-				<img width="150" src="https://sindresorhus.com/assets/thanks/flow-logo.svg" alt="Wispr Flow logo">
-			</div>
-			<b>Talk to code, stay in the Flow.</b>
-			<div>
-				<sup>Flow is built for devs who live in their tools. Speak and give more context, get better results.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
 		<a href="https://depot.dev?utm_source=github&utm_medium=sindresorhus">
 			<div>
 				<picture>
