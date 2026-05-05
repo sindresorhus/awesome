@@ -352,6 +352,7 @@
 - [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
 - [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
+- [CKEditor](https://github.com/ckeditor/awesome-ckeditor#readme) - Framework-agnostic WYSIWYG rich text editor platform.
 
 ## Back-End Development
 
