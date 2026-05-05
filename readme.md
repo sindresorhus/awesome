@@ -732,6 +732,7 @@
 - [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 - [Transgender](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
+- [Hands-on Neuroscience](https://github.com/cYoren/awesome-hands-on-neuroscience#readme) - Practical neuroscience methods explored through executable code, from spiking models to brain imaging.
 
 ## Events
 
