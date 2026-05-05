@@ -63,7 +63,7 @@
 	- ❌ `# awesome-swift`
 	- ❌ `# AwesomeSwift`
 - [ ] Non-generated Markdown file in a GitHub repo.
-- [ ] The repo should have `awesome-list` & `awesome` as [GitHub topics](https://help.github.com/articles/about-topics). I encourage you to add more relevant topics.
+- [ ] The repo should have `awesome-list` & `awesome` as [GitHub topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics). I encourage you to add more relevant topics.
 - [ ] Not a duplicate. Please search for existing submissions.
 - [ ] Only has awesome items. Awesome lists are curations of the best, not everything.
 - [ ] Does not contain items that are unmaintained, has archived repo, deprecated, or missing docs. If you really need to include such items, they should be in a separate Markdown file.
