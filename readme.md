@@ -886,6 +886,7 @@
 - [Event-Driven Architecture](https://github.com/lutzh/awesome-event-driven-architecture#readme) - A software architecture approach where services collaborate by publishing and subscribing to events.
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Proposals and standards that define and enhance software, languages, and related technologies.
+- [Agent Services](https://github.com/farol-team/awesome-agent-services#readme) - Services, APIs, and infrastructure built for AI agents — not humans.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
 - [Gemini CLI](https://github.com/Piebald-AI/awesome-gemini-cli#readme) - Terminal-based AI coding assistant by Google.
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
