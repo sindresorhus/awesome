@@ -687,6 +687,7 @@
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+- [Developer Marketing Jobs](https://github.com/Infrasity-Labs/developer-marketing-jobs) - Automated daily job board for DevRel, Technical Writing, Developer Marketing, and Community roles. 30,000+ jobs scraped daily from Greenhouse, Ashby, Lever, YC, and more.
 
 ## Networking
 
