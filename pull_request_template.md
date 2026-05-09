@@ -6,7 +6,7 @@
 
 -  **URL**: [Insert Resource Link](https://example.com)
 
--  **Category**: <!-- Choose one: Security, Tutorials, Tools, Libraries, etc. -->
+-  **Category**: <!-- Choose one: Official Resources, Learning Materials, Developer Tools, Libraries & Frameworks, Security & Best Practices, Security Analysis Tools, Gas Optimization, Upgradeable Contracts, Advanced Topics, Community & Support -->
 
 ### Description
 <!-- Provide a brief description of the resource and its value to Solidity developers -->

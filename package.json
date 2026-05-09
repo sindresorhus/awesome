@@ -1,12 +1,12 @@
 {
   "name": "awesome-solidity",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "description": "Curated list of awesome Solidity resources",
+  "keywords": [
+    "awesome-list",
+    "solidity",
+    "awesome"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "CC0-1.0"
 }
