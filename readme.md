@@ -55,13 +55,12 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 
 - [OpenZeppelin Contracts](https://openzeppelin.com/contracts/) - Secure smart contract components
 - [Solady](https://github.com/Vectorized/solady) - Gas-optimized Solidity library using low-level assembly for modern implementations. MIT licensed (Spearbit audited).
-- [Solmate](https://github.com/transmissions11/solmate) - Gas-optimized base contracts
 - [Dappsys](https://github.com/dapphub/dappsys) - Modular system components
 
 ## Security & Best Practices
 
 - [Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html#security-considerations) - Official security guide 
-- [ConsenSys Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) - Comprehensive security guide
+- [ConsenSys Smart Contract Best Practices](https://consensysdiligence.github.io/smart-contract-best-practices/) - Comprehensive security guide
 - [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/) - Security checklist
 - [EEA EthTrust Security Levels Specification](https://entethalliance.org/specs/ethtrust-sl/) - Smart contract security certification requirements
 - [Smart Contract Security Field Guide](https://scsfg.io/) - Best practices and vulnerabilities resource
@@ -76,7 +75,6 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 - [Echidna](https://github.com/crytic/echidna) - Property-based fuzzer for smart contracts
 - [Medusa](https://github.com/crytic/medusa) - Parallel fuzzing engine for smart contracts with advanced techniques
 - [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts
-- [Diligence Fuzzing](https://consensys.io/diligence/fuzzing/) - Advanced smart contract fuzzing tool
 - [Olympix Static Analyzer](https://www.olympix.ai/free-static-analyzer) - Free Solidity static analysis tool
 - [rocq-of-solidity](https://github.com/formal-land/rocq-of-solidity) - Formal verification for smart contracts with Rocq
 
@@ -93,7 +91,7 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 
 - [Solidity Optimizer](https://docs.soliditylang.org/en/latest/internals/optimizer.html) - Detailed explanation of Solidity's optimizer stages and components
 - [Yul Documentation](https://docs.soliditylang.org/en/latest/yul.html) - Low-level language for Ethereum
-- [EVM Handbook](https://noxx3xxon.notion.site/noxx3xxon/The-EVM-Handbook-bb38e175cc404111a391907c4975426d) - EVM internals guide
+- [LearnEVM](https://learnevm.com/) - Free advanced EVM course for Solidity developers
 
 ## Community & Support
 
