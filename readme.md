@@ -69,7 +69,7 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 
 ## Security Analysis Tools
 
-- [OpenZeppelin Code Inspector](https://www.openzeppelin.com/defender#secure-code) - Static analysis tool for Solidity
+- [OpenZeppelin Inspector](https://github.com/OpenZeppelin/openzeppelin-inspector) - Open-source static analysis tool for Solidity
 - [Slither](https://github.com/crytic/slither) - Static analysis framework for Solidity
 - [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations
 - [Surya](https://github.com/ConsenSys/surya) - Utility for smart contract systems analysis
