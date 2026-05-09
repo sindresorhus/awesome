@@ -23,7 +23,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 ## Official Resources
 
 - [Solidity Documentation](https://docs.soliditylang.org/) - Official language documentation.
-- [Ethereum Developer Portal](https://ethereum.org/en/developers/) - Core development resources.
+- [Ethereum Developer Portal](https://ethereum.org/developers/) - Core development resources.
 - [Ethereum Improvement Proposals](https://eips.ethereum.org/) - Standards track (ERC/EIP).
 
 ## Learning Materials
@@ -36,14 +36,14 @@ Smart contract programming language for the Ethereum Virtual Machine.
 ## Developer Tools
 
 - [Hardhat](https://hardhat.org/) - Ethereum development environment.
-- [Foundry](https://book.getfoundry.sh/) - Fast smart contract development toolkit.
+- [Foundry](https://www.getfoundry.sh/) - Fast smart contract development toolkit.
 - [Remix IDE](https://remix.ethereum.org/) - Web-based Solidity IDE.
 - [Tenderly](https://tenderly.co/) - Smart contract debugging and monitoring.
 - [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/) - Interactive smart contract generator.
 
 ## Libraries & Frameworks
 
-- [OpenZeppelin Contracts](https://openzeppelin.com/contracts/) - Secure smart contract components.
+- [OpenZeppelin Contracts](https://www.openzeppelin.com/solidity-contracts) - Secure smart contract components.
 - [Solady](https://github.com/Vectorized/solady) - Gas-optimized Solidity library using low-level assembly.
 - [Dappsys](https://github.com/dapphub/dappsys) - Modular system components.
 
@@ -62,18 +62,18 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [OpenZeppelin Inspector](https://github.com/OpenZeppelin/openzeppelin-inspector) - Open-source static analysis tool for Solidity.
 - [Slither](https://github.com/crytic/slither) - Static analysis framework for Solidity.
 - [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations.
-- [Surya](https://github.com/ConsenSys/surya) - Utility for smart contract systems analysis.
+- [Surya](https://github.com/ConsenSysDiligence/surya) - Utility for smart contract systems analysis.
 - [Echidna](https://github.com/crytic/echidna) - Property-based fuzzer for smart contracts.
-- [Forta Network](https://docs.forta.network/) - Decentralized runtime security monitoring network for smart contracts.
+- [Forta Network](https://docs.forta.network/en/latest/) - Decentralized runtime security monitoring network for smart contracts.
 - [Medusa](https://github.com/crytic/medusa) - Parallel fuzzing engine for smart contracts with advanced techniques.
 - [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts.
-- [Olympix Static Analyzer](https://www.olympix.ai/free-static-analyzer) - Free Solidity static analysis tool.
+- [Olympix Static Analyzer](https://olympix.security/resources/free-static-analyzer) - Free Solidity static analysis tool.
 - [rocq-of-solidity](https://github.com/formal-land/rocq-of-solidity) - Formal verification for smart contracts with Rocq.
 
 ## Gas Optimization
 
 - [evm.codes](https://www.evm.codes/) - EVM opcode gas reference.  
-- [Foundry Gas Reports](https://book.getfoundry.sh/forge/gas-reports) - Built-in gas profiling for Solidity tests.
+- [Foundry Gas Reports](https://www.getfoundry.sh/forge/gas-tracking) - Built-in gas profiling for Solidity tests.
 - [Awesome Gas Optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Curated list of gas optimization resources.
 - [Solidity Optimizer](https://docs.soliditylang.org/en/latest/internals/optimizer.html) - Detailed explanation of Solidity's optimizer stages and components.
 
@@ -97,6 +97,6 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 Your contributions are welcome! Please read our [Contribution Guidelines](https://github.com/solidity-developer/awesome-solidity/blob/main/contributing.md) and [Code of Conduct](https://github.com/solidity-developer/awesome-solidity/blob/main/code-of-conduct.md).
 
-Looking for your first contribution? Check our [good first issues](https://github.com/mnusurov/awesome-solidity/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
+Looking for your first contribution? Check our [good first issues](https://github.com/solidity-developer/awesome-solidity/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
 [Follow on LinkedIn](https://www.linkedin.com/company/solidity-developer/)
