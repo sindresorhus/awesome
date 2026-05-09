@@ -92,9 +92,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 ## Contributing
 
-Your contributions are welcome! Please read our:
-- [Contribution Guidelines](contributing.md)
-- [Code of Conduct](code-of-conduct.md)
+Your contributions are welcome! Please read our [Contribution Guidelines](https://github.com/solidity-developer/awesome-solidity/blob/main/contributing.md) and [Code of Conduct](https://github.com/solidity-developer/awesome-solidity/blob/main/code-of-conduct.md).
 
 Looking for your first contribution? Check our [good first issues](https://github.com/mnusurov/awesome-solidity/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 
