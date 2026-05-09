@@ -29,8 +29,9 @@ Smart contract programming language for the Ethereum Virtual Machine.
 ## Learning Materials
 
 - [CryptoZombies](https://cryptozombies.io/) - Interactive Solidity tutorials through game development.
-- [Solidity by Example](https://solidity-by-example.org/) - Concise code examples with explanations.
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity security challenges.
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Comprehensive open-source book covering Ethereum fundamentals, Solidity, and dapp development.
+- [Solidity by Example](https://solidity-by-example.org/) - Concise code examples with explanations.
 
 ## Developer Tools
 
@@ -52,6 +53,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [ConsenSys Smart Contract Best Practices](https://consensysdiligence.github.io/smart-contract-best-practices/) - Comprehensive security guide.
 - [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/) - Security checklist.
 - [EEA EthTrust Security Levels Specification](https://entethalliance.org/specs/ethtrust-sl/) - Smart contract security certification requirements.
+- [Rekt News](https://rekt.news/) - Investigative journalism and incident analysis of DeFi exploits and hacks.
 - [Smart Contract Security Field Guide](https://scsfg.io/) - Best practices and vulnerabilities resource.
 - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Security guidelines & training by Trail of Bits.
 
@@ -62,6 +64,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations.
 - [Surya](https://github.com/ConsenSys/surya) - Utility for smart contract systems analysis.
 - [Echidna](https://github.com/crytic/echidna) - Property-based fuzzer for smart contracts.
+- [Forta Network](https://docs.forta.network/) - Decentralized runtime security monitoring network for smart contracts.
 - [Medusa](https://github.com/crytic/medusa) - Parallel fuzzing engine for smart contracts with advanced techniques.
 - [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts.
 - [Olympix Static Analyzer](https://www.olympix.ai/free-static-analyzer) - Free Solidity static analysis tool.
