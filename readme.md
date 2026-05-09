@@ -79,17 +79,19 @@ A curated list of carefully selected Solidity resources, tools, tutorials, and b
 - [rocq-of-solidity](https://github.com/formal-land/rocq-of-solidity) - Formal verification for smart contracts with Rocq
 
 ## Gas Optimization
+
 - [evm.codes](https://www.evm.codes/) - EVM opcode gas reference  
 - [Foundry Gas Reports](https://book.getfoundry.sh/forge/gas-reports) - Built-in gas profiling for Solidity tests
 - [Awesome Gas Optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Curated list or resource on gas optimization topic
+- [Solidity Optimizer](https://docs.soliditylang.org/en/latest/internals/optimizer.html) - Detailed explanation of Solidity's optimizer stages and components
 
 ## Upgradeable Contracts
+
 - [OpenZeppelin: Upgrades](https://docs.openzeppelin.com/upgrades) - Guide to upgradeable contracts using Transparent/UUPS proxies  
 - [Awesome Diamonds](https://github.com/mudgen/awesome-diamonds) - Curated list of EIP-2535 Diamonds resources, tools, and projects
 
 ## Advanced Topics
 
-- [Solidity Optimizer](https://docs.soliditylang.org/en/latest/internals/optimizer.html) - Detailed explanation of Solidity's optimizer stages and components
 - [Yul Documentation](https://docs.soliditylang.org/en/latest/yul.html) - Low-level language for Ethereum
 - [LearnEVM](https://learnevm.com/) - Free advanced EVM course for Solidity developers
 
