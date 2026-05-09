@@ -6,12 +6,8 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: 2.6
-      - name: Install awesome_bot
-        run: gem install awesome_bot
+      - uses: actions/checkout@v4
       - name: Check URLs
-        run: awesome_bot readme.md --allow-redirect --allow 403 --request-delay 0.2 --white-list www.linkedin.com/company/solidity-developer
+        uses: lycheeverse/lychee-action@v1
+        with:
+          args: readme.md --accept 200,403 --request-delay 0.2 --exclude www.linkedin.com/company/solidity-developer
