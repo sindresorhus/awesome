@@ -89,8 +89,9 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 ## Community & Support
 
-- [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Q&A platform.
 - [EthDev Subreddit](https://www.reddit.com/r/ethdev/) - Developer discussions.
+- [Ethereum Magicians](https://ethereum-magicians.org/) - Fellowship focused on Ethereum protocol improvements, EIPs/ERCs discussion, and governance.
+- [Ethereum Stack Exchange](https://ethereum.stackexchange.com/) - Q&A platform.
 - [Solidity Forum](https://forum.soliditylang.org/) - Language updates and proposals.
 
 ## Contributing
