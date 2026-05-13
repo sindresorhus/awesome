@@ -766,6 +766,7 @@
 - [Analytics](https://github.com/0xnr/awesome-analytics#readme)
 - [REST](https://github.com/marmelab/awesome-rest#readme)
 - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme)
+- [Feature Flags](https://github.com/tech-and-finance/awesome-feature-flags#readme) - Runtime configuration mechanism to decouple deployment from release, enabling gradual rollouts and kill switches.
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
 - [Answers](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
