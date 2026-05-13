@@ -755,6 +755,7 @@
 
 ## Miscellaneous
 
+- [Database of 655 real-world online income-generating activities](https://github.com/kanvastudio/income-generating-activities) - Includes JSON dataset
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
