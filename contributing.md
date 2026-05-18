@@ -14,7 +14,7 @@ To create your own list, check out the [instructions](create-list.md).
 
 If you have something awesome to contribute to an awesome list, this is how you do it.
 
-You'll need a [GitHub account](https://github.com/join)!
+You will need a [GitHub account](https://github.com/join)! If you are new to GitHub, [get started here](https://github.com/firstcontributions/first-contributions).
 
 1. Access the awesome list's GitHub page. For example: https://github.com/sindresorhus/awesome
 2. Click on the `readme.md` file: ![Step 2 Click on Readme.md](https://cloud.githubusercontent.com/assets/170270/9402920/53a7e3ea-480c-11e5-9d81-aecf64be55eb.png)
