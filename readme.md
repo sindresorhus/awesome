@@ -675,6 +675,7 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Cold Email Infrastructure](https://github.com/MailDeck-Co/cold-email-infrastructure-guide#readme) - Everything business owners need to know about cold email infrastructure.
 
 ## Work
 
