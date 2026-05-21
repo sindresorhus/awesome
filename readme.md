@@ -197,6 +197,7 @@
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - Scientific research in audio/music.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers.
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
+	- [Awesome DataScience](https://github.com/academic/awesome-datascience) - A curated list of data science resources.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
