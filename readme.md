@@ -252,6 +252,7 @@
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) - Programming languages designed for experimentation or as jokes rather than actual use.
 - [VBA](https://github.com/sancarn/awesome-vba#readme) - An event-driven version of Visual Basic 6.0 built into most Microsoft Office apps for automation and scripting.
 - [F#](https://github.com/fsprojects/awesome-fsharp#readme) - A .NET-based language with focus on functional programming.
+- [peeky-cv-assistant](https://github.com/mhingan/peeky-cv-assistant) - 100% local AI desktop assistant powered by Ollama. Multimodal (vision+text), no API keys, no telemetry—runs entirely on your own device.
 
 <br>
 <hr>
@@ -429,6 +430,7 @@
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
 - [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
+- [peeky-cv-assistant](https://github.com/mhingan/peeky-cv-assistant) - 100% local AI desktop assistant powered by Ollama. Multimodal (vision+text), no API keys, no telemetry—runs entirely on your own device.
 
 ## Big Data
 
@@ -687,6 +689,7 @@
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
 - [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
+- [peeky-cv-assistant](https://github.com/mhingan/peeky-cv-assistant) - 100% local AI desktop assistant powered by Ollama. Multimodal (vision+text), no API keys, no telemetry—runs entirely on your own device.
 
 ## Networking
 
