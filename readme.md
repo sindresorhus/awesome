@@ -675,6 +675,7 @@
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
 - [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 - [Engineering Strategy](https://github.com/aleixmorgadas/awesome-engineering-strategy#readme) - How to design and execute engineering strategies for tech leadership.
+- [Awesome Company as a Service](https://github.com/sandrfunder/awesome-company-as-a-service#readme) - A curated list of companies providing Company-as-a-Service (CaaS) platforms, Employer of Record (EOR) services, invoicing solutions, and remote business tools in Europe.
 
 ## Work
 
