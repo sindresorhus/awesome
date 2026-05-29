@@ -308,7 +308,6 @@
 - [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
-- [Grids](https://github.com/statico/awesome-javascript-grids) - Grid and data table libraries organized by features and frameworks.
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - App framework.
 - [Marionette.js](https://github.com/sadcitizen/awesome-marionette#readme) - App framework.
 - [Aurelia](https://github.com/aurelia-contrib/awesome-aurelia#readme) - App framework.
@@ -353,6 +352,7 @@
 - [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
 - [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
+- [Grids](https://github.com/statico/awesome-javascript-grids) - Grid and data table libraries organized by features and frameworks.
 
 ## Back-End Development
 
