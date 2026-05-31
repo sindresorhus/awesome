@@ -704,6 +704,7 @@
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Applications of Blockchain beyond finance.
 - [Mastodon](https://github.com/hyperupcall/awesome-mastodon#readme) - Open source decentralized microblogging network.
 - [Ethereum](https://github.com/ttumiel/Awesome-Ethereum#readme) - Distributed computing platform for smart contract development.
+- [Base](https://github.com/faisalnugroho/awesome-base#readme) - Coinbase Ethereum L2 ecosystem resources, tools, and projects.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - AI and machine-learning projects built on Blockchain.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - A decentralized operating system supporting industrial-scale apps.
 - [Corda](https://github.com/chainstack/awesome-corda#readme) - Open source Blockchain platform designed for business.
