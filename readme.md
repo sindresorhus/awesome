@@ -28,33 +28,6 @@
 		<br>
 		<br>
 		<br>
-		<a href="https://nitric.io/?utm_campaign=github_repo&utm_medium=referral&utm_content=sindresorhus&utm_source=github">
-			<div>
-				<img width="230" src="https://sindresorhus.com/assets/thanks/nitric-logo.svg" alt="nitric logo">
-			</div>
-			<b>Effortless backends with infrastructure from code</b>
-			<div>
-				<sup>An open-source framework that supports any programming language, cloud provider, or deployment automation tool.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<h3>
-			<a href="https://ref.wisprflow.ai/VjA6dYR">Wispr Flow</a>
-		</h3>
-		<a href="https://ref.wisprflow.ai/VjA6dYR">
-			<div>
-				<img width="150" src="https://sindresorhus.com/assets/thanks/flow-logo.svg" alt="Wispr Flow logo">
-			</div>
-			<b>Talk to code, stay in the Flow.</b>
-			<div>
-				<sup>Flow is built for devs who live in their tools. Speak and give more context, get better results.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
 		<a href="https://depot.dev?utm_source=github&utm_medium=sindresorhus">
 			<div>
 				<picture>
@@ -148,7 +121,7 @@
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
 	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
 	- [Arch-based Projects](https://github.com/PandaFoss/Awesome-Arch#readme) - Linux distributions and projects based on Arch Linux.
-	- [AppImage](https://github.com/AppImage/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
+	- [AppImage](https://github.com/AppImageCommunity/awesome-appimage#readme) - Package apps in a single file that works on various mainstream Linux distributions.
 	- [Omarchy](https://github.com/aorumbayev/awesome-omarchy#readme) - Opinionated Arch Linux and Hyprland desktop environment from the creator of Ruby on Rails.
 - macOS - Operating system for Apple's Mac computers.
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
