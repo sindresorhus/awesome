@@ -388,6 +388,7 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [Next.js + Supabase](https://github.com/mahdibrr/awesome-nextjs-supabase#readme) - Curated resources for Next.js + Supabase production incidents: RLS bugs, SSR auth, Stripe webhooks, and cache invalidation.
 
 ## Computer Science
 
