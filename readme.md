@@ -892,6 +892,10 @@
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
 
+## Religion
+
+- [Awesome Buddhist Culture](https://github.com/foshang1080/awesome-buddhist-culture) - Curated list of traditional Buddhist culture, digital scriptures, and zen resources
+
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
