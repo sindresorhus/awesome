@@ -732,7 +732,7 @@
 - [Lucid Dreams](https://github.com/IAmCoder/awesome-lucid-dreams#readme) - A dream where one becomes aware they are dreaming.
 - [Neuroimaging](https://github.com/NPACore/awesome-neuroimaging#readme) - Software for analyzing brain data from living subjects.
 - [Transgender](https://github.com/cvyl/awesome-transgender#readme) - Someone whose gender identity differs from their assigned birth sex.
-- [Awesome Buddhist Culture](https://github.com/您的用户名/awesome-buddhist-culture) - Curated list of traditional Buddhist culture, digital scriptures, and zen resources.
+- [Awesome Buddhist Culture](https://github.com/foshang1080/awesome-buddhist-culture) - Curated list of traditional Buddhist culture, digital scriptures, and zen resources.
 
 ## Events
 
