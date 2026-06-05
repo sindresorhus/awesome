@@ -2,7 +2,7 @@
 set -eo pipefail
 
 # Pin awesome-lint to a verified version (avoid pulling an arbitrary/compromised release at CI time).
-AWESOME_LINT_VERSION="3.0.0"
+AWESOME_LINT_VERSION="2.3.0"
 
 # Find the repo in the git diff and then set it to an env variable.
 REPO_TO_LINT=$(
