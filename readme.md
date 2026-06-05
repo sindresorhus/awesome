@@ -720,7 +720,6 @@
 ## Health and Social Science
 
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
-- [Buddhist Culture (Awesome)](https://github.com/foshang1080/awesome-buddhist-culture) - Curated list of traditional Buddhist culture, digital scriptures, and zen resources
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Digital History](https://github.com/maehr/awesome-digital-history#readme) - Computer-aided scientific investigation of history.
 - [Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities#readme) - Software for humanities scholars using quantitative or computational methods.
@@ -896,6 +895,10 @@
 ## Related
 
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
+
+## Religion
+
+- [Awesome Buddhist Culture](https://github.com/foshang1080/awesome-buddhist-culture) - Curated list of traditional Buddhist culture, digital scriptures, and zen resources
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 - [StumbleUponAwesome](https://github.com/basharovV/StumbleUponAwesome) - Discover random pages from the Awesome dataset using a browser extension.
 - [Awesome CLI](https://github.com/umutphp/awesome-cli) - A simple command-line tool to dive into Awesome lists.
