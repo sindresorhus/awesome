@@ -766,7 +766,6 @@
 - [Analytics](https://github.com/0xnr/awesome-analytics#readme)
 - [REST](https://github.com/marmelab/awesome-rest#readme)
 - [Continuous Integration and Continuous Delivery](https://github.com/cicdops/awesome-ciandcd#readme)
-- [Feature Flags](https://github.com/tech-and-finance/awesome-feature-flags#readme) - Runtime configuration mechanism to decouple deployment from release, enabling gradual rollouts and kill switches.
 - [Services Engineering](https://github.com/mmcgrana/services-engineering#readme)
 - [Free for Developers](https://github.com/ripienaar/free-for-dev#readme)
 - [Answers](https://github.com/cyberglot/awesome-answers#readme) - Stack Overflow, Quora, etc.
@@ -892,6 +891,7 @@
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+- [Feature Flags](https://github.com/tech-and-finance/awesome-feature-flags#readme) - Runtime configuration mechanisms for decoupling deployment from release, gradual rollouts, and kill switches.
 
 ## Related
 
