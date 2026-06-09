@@ -2,3 +2,7 @@
 *.ai binary
 readme.md merge=union
 .github/workflows/repo_linter.sh -linguist-detectable
+*.md linguist-vendored=false
+*.md linguist-generated=false
+*.md linguist-documentation=false
+*.md linguist-detectable=true   
