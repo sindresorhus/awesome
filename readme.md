@@ -573,6 +573,7 @@
 - [GIF](https://github.com/davisonio/awesome-gif#readme) - Image format known for animated images.
 - [Music](https://github.com/ciconia/awesome-music#readme)
 - [Open Source Documents](https://github.com/44bits/awesome-opensource-documents#readme)
+- [PDF Tools](https://github.com/hwlsniper/awesome-pdf-tools#readme) - Free PDF manipulation tools: client-side, self-hosted, desktop, and developer libraries.
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - Pixel-level digital art.
