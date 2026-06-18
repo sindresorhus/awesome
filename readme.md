@@ -891,6 +891,8 @@
 - [SAP Commerce](https://github.com/eminyagiz42/awesome-sap-commerce#readme) - An e-commerce platform built with Java, Spring MVC, and Angular.
 - [Tech Ethics](https://github.com/sampart/awesome-tech-ethics#readme) - Mitigating and avoiding the potential negative effects of technology on society.
 - [Copilot Agents](https://github.com/Code-and-Sorts/awesome-copilot-agents#readme) - AI pair programming assistant by GitHub that provides code suggestions and completions.
+- [Arabic Tools](https://github.com/abdessamadbettal/awesome-arabic-tools) - Tools, libraries, and resources for Arabic software development and localization.
+- [Free Developer Tools](https://github.com/abdessamadbettal/awesome-free-tools) - High-quality, completely free utilities for developers and designers without paywalls or sign-ups.
 
 ## Related
 
