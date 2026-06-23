@@ -719,6 +719,7 @@
 
 ## Health and Social Science
 
+- [Bio Agent Skills](https://github.com/BioTender-max/awesome-bio-agent-skills#readme) - Curated AI agent skills for biomedical research: genomics, proteomics, protein design, single-cell analysis, and clinical AI.
 - [Biomedical Information Extraction](https://github.com/caufieldjh/awesome-bioie#readme) - How to extract information from unstructured biomedical data and text.
 - [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - A multidisciplinary science which uses computational approaches to study the nervous system.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - Creating a more inclusive and diverse tech community.
