@@ -511,6 +511,7 @@
 
 ## Development Environment
 
+- [Agent Swarm](https://github.com/JohTandou/agent-swarm) — AI agent pipeline for automated software development. 9 specialized agents collaborate to classify, plan, implement, test, review, and document code.
 - [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins#readme) - For macOS.
 - [Dev Env](https://github.com/jondot/awesome-devenv#readme)
 - [Dotfiles](https://github.com/webpro/awesome-dotfiles#readme)
