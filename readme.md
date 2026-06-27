@@ -555,6 +555,7 @@
 - [Supabase](https://github.com/lyqht/awesome-supabase#readme) - An open-source alternative to Firebase.
 - [PocketBase](https://github.com/benallfree/awesome-pocketbase#readme) - An open-source, Go-based backend in one file.
 - [Neon](https://github.com/tyaga001/awesome-neon#readme) - An open-source alternative to AWS Aurora.
+- [Zvec](https://github.com/alibaba/zvec#readme) - Embedded vector database for on-device RAG and edge AI.
 
 ## Media
 
