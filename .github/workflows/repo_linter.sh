@@ -21,3 +21,6 @@ else
 	git clone "$REPO_TO_LINT" .
 	npx awesome-lint
 fi
+
+# Lint the repository using awesome-lint
+npx awesome-lint
