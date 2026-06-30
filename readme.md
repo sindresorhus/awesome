@@ -348,6 +348,7 @@
 - [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
 - [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
+- [JavaScript Grids](https://github.com/statico/awesome-javascript-grids#readme) - Spreadsheet and data grid components for displaying tabular data on the web.
 
 ## Back-End Development
 
