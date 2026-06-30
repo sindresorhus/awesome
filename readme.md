@@ -743,6 +743,7 @@
 
 ## Miscellaneous
 
+- [Open Source](https://github.com/hadez8877/awesome-opensource#readme) - A list of powerful open-source projects for web, backend, CLI, and more.
 - [Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing#readme) - Distraction-free scientific writing with Markdown, reStructuredText and Jupyter notebooks.
 - [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
