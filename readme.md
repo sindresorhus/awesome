@@ -600,7 +600,7 @@
 - [YouTubers](https://github.com/JoseDeFreitas/awesome-youtubers#readme) - Watch video tutorials from YouTubers that teach you about technology.
 - [Hackathon](https://github.com/dribdat/awesome-hackathon#readme) - Running fun and productive hackathons.
 - [Certificates](https://github.com/PanXProject/awesome-certificates#readme) - Free computer science certifications to showcase your knowledge.
-- [Singapore CS1010](https://github.com/coding-solutions-sg/awesome-singapore-cs1010#readme) - Resources for students taking NUS CS1010 and its variants.
+- [Singapore CS1010](https://github.com/coding-solutions-sg/awesome-singapore-cs1010#readme) - Introductory programming methodology course and its variants at the National University of Singapore.
 
 ## Security
 
