@@ -198,6 +198,9 @@
 	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) - Data analysis and machine learning.
 	- [Typing](https://github.com/typeddjango/awesome-python-typing#readme) - Optional static typing for Python.
 	- [MicroPython](https://github.com/mcauser/awesome-micropython#readme) - A lean and efficient implementation of Python 3 for microcontrollers.
+	- [Bots](https://github.com/AMEOBIUS/awesome-python-bots#readme) - Python bot templates and libraries.
+	- [Scrapers](https://github.com/AMEOBIUS/awesome-python-scrapers#readme) - Python web scraping templates and tools.
+	- [Crypto](https://github.com/AMEOBIUS/awesome-crypto-python#readme) - Python crypto and blockchain templates.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 	- [Pest](https://github.com/pest-parser/awesome-pest#readme) - Parser generator.
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
