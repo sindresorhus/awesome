@@ -574,6 +574,7 @@
 - [Audio Over IP](https://github.com/Mo-way/awesome-aoip#readme) - Reliably transmit uncompressed, low-latency audio over an IP (layer 3) network.
 
 ## Learn
+- [AI Exam Prep Tools](https://github.com/roykim26/ai-exam-prep-tools) - Curated list of AI-powered exam preparation tools, spaced repetition apps, and smart study resources.
 
 - [CLI Workshoppers](https://github.com/therebelrobot/awesome-workshopper#readme) - Interactive tutorials.
 - [Learn to Program](https://github.com/karlhorky/learn-to-program#readme)
