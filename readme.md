@@ -622,6 +622,7 @@
 - [Annual Security Reports](https://github.com/jacobdjwilson/awesome-annual-security-reports#readme) - Exploring cybersecurity trends, insights, and challenges.
 - [CI/CD Attacks](https://github.com/TupleType/awesome-cicd-attacks#readme) - Offensive research of systems and processes related to developing and deploying code.
 - [OpenID Connect](https://github.com/cerberauth/awesome-openid-connect#readme) - Identity standard and authentication protocol built on OAuth 2.0 for user identity assertion.
+- [AI Agent Governance](https://github.com/permission-protocol/awesome-ai-agent-governance#readme) - Frameworks, tools, standards, and research for governing and authorizing autonomous AI agents.
 
 ## Content Management Systems
 
