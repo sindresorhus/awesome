@@ -783,7 +783,6 @@
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - Informatics techniques applied to problems in chemistry.
-- [Drug Discovery](https://github.com/yboulaamane/awesome-drug-discovery#readme) - Computational and AI-driven methods for identifying and developing new drug candidates.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - Digital distribution platform.
 - [Bots](https://github.com/hackerkid/bots#readme) - Building bots.
@@ -868,6 +867,7 @@
 - [Permacomputing](https://github.com/idematos/awesome-permacomputing#readme) - Resilient and regenerative computing practices inspired by permaculture.
 - [Standards](https://github.com/donBarbos/awesome-standards#readme) - Standards and proposals that define and enhance software, languages, and related technologies.
 - [Claude Code](https://github.com/hesreallyhim/awesome-claude-code#readme) - Terminal-based AI coding assistant by Anthropic.
+- [Drug Discovery](https://github.com/yboulaamane/awesome-drug-discovery#readme) - Computational and AI-driven methods for identifying and developing new drug candidates.
 
 ## Related
 
