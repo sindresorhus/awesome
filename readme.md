@@ -705,7 +705,7 @@
 - [Cosmos SDK](https://github.com/cosmos/awesome-cosmos#readme) - Modular framework for building app-specific blockchains in Go.
 - [Tor](https://github.com/polycarbohydrate/awesome-tor#readme) - A free overlay network for enabling anonymous communication.
 - [ATProto](https://github.com/atblueprints/awesome-atproto#readme) - Open, decentralized network for building social apps.
-- [Swarm](https://github.com/ethersphere/awesome-swarm) - An incentivized peer-to-peer storage and communication system.
+- [Swarm](https://github.com/ethersphere/awesome-swarm#readme) - An incentivized peer-to-peer storage and communication system.
 
 ## Health and Social Science
 
