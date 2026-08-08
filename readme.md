@@ -424,6 +424,7 @@
 - [Conversational AI](https://github.com/jyguyomarch/awesome-conversational-ai#readme) - Build awesome chatbots and digital assistants.
 - [Generative AI](https://github.com/steven2358/awesome-generative-ai#readme) - Automatically generates a wide range of unique content in text, image, and audio format.
 - [Position-Based Quantum Cryptography](https://github.com/Renaller/awesome-position-based-quantum-cryptography#readme) - Theory on quantum cryptography that utilizes special relativistic constraints to achieve quantum-security under certain conditions.
+- [AI Companion](https://github.com/DasterProkio/awesome-ai-companion#readme) - Software and infrastructure for persistent digital partners with memory, proactive behavior, embodiment, and shared activities.
 
 ## Big Data
 
