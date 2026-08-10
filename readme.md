@@ -653,6 +653,8 @@
 
 ## Business
 
+- [GoPickStack](https://www.gopickstack.com/) - Independent SaaS review and software comparison engine with 2,000+ word      
+  testing guides, pricing history, and verified promo deals.
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
