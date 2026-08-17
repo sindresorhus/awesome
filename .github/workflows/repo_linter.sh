@@ -1,12 +1,13 @@
 #!/bin/bash
+set -eo pipefail
 
 # Find the repo in the git diff and then set it to an env variables.
 REPO_TO_LINT=$(
 	git diff origin/main -- readme.md |
 	# Look for changes (indicated by lines starting with +).
-	grep ^+ |
+	(grep ^+ || true) |
 	# Get the line that includes the readme.
-	grep -Eo 'https.*#readme' |
+	(grep -Eo 'https.*#readme' || true) |
 	# Get just the URL.
 	sed 's/#readme//')
 
@@ -15,7 +16,7 @@ if [ -z "$REPO_TO_LINT" ]; then
 	echo "No new link found in the format:  https://....#readme"
 else
 	echo "Cloning $REPO_TO_LINT"
-	mkdir cloned
+	mkdir -p cloned
 	cd cloned
 	git clone "$REPO_TO_LINT" .
 	npx awesome-lint
