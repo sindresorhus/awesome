@@ -5,9 +5,9 @@ set -eo pipefail
 REPO_TO_LINT=$(
 	git diff origin/main -- readme.md |
 	# Look for changes (indicated by lines starting with +).
-	grep ^+ |
+	(grep ^+ || true) |
 	# Get the line that includes the readme.
-	grep -Eo 'https.*#readme' |
+	(grep -Eo 'https.*#readme' || true) |
 	# Get just the URL.
 	sed 's/#readme//')
 
