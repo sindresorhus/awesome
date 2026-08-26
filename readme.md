@@ -168,7 +168,6 @@
 - [Google Cloud](https://github.com/GoogleCloudPlatform/awesome-google-cloud#readme) - Cloud computing services by Google.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
 - [Backstage](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
-- [AgentOS](https://github.com/Egv2/awesome-agentos#readme) - Software platforms that coordinate AI agents with tools, voice, vision, memory, and durable execution.
 
 ## Programming Languages
 
@@ -762,6 +761,7 @@
 - [GitHub Wiki](https://github.com/MyHoneyBadger/awesome-github-wiki#readme) - Comprehensive documentation on GitHub beyond README.
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
+- [AgentOS](https://github.com/Egv2/awesome-agentos#readme) - Cross-category umbrella covering AI agent orchestration, desktop automation, voice, vision, and MCP tooling in one index.
 - [Self Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted#readme)
 - [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 - [Gulp](https://github.com/alferov/awesome-gulp#readme) - Task runner.
