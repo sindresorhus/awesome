@@ -474,7 +474,7 @@
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Godot](https://github.com/godotengine/awesome-godot#readme) - Game engine.
 - [Open Source Games](https://github.com/michelpereira/awesome-open-source-games#readme)
-- [Chess](https://github.com/hkirat/awesome-chess#readme)
+- [Chess](https://github.com/atamano/awesome-chess#readme) - Strategy board game played on a 64-square chequered board between two players.
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
 - [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - Fantasy console.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
