@@ -368,6 +368,7 @@
 - [Kustomize](https://github.com/DevOpsHiveHQ/awesome-kustomize#readme) - Kubernetes native declarative configuration management tool.
 - [OpenTofu](https://github.com/virtualroot/awesome-opentofu#readme) - Open-source infrastructure as code tool.
 - [Reflex](https://github.com/reflex-dev/awesome-reflex#readme) - Python web framework for building both your frontend and backend with no JavaScript.
+- [FastStream](https://github.com/lesnik512/awesome-faststream#readme) - Asynchronous Python framework for building event-driven services across Kafka, RabbitMQ, NATS, and Redis.
 
 ## Computer Science
 
