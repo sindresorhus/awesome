@@ -438,6 +438,7 @@
 - [AGI & CoCoSci](https://github.com/YuzheSHI/awesome-agi-cocosci#readme) - The reciprocation of Artificial General Intelligence (AGI) and Computational Cognitive Sciences (CoCoSci).
 - [Complex Systems](https://github.com/sellisd/awesome-complexity#readme) - The scientific field studying systems with multiple interacting parts and emergent properties.
 - [VLM Architectures](https://github.com/gokayfem/awesome-vlm-architectures#readme) - Vision Language Model architectures.
+- [AI Agent Tools](https://github.com/michielhdoteth/awesome-ai-agent-tools#readme) - Installable components for AI coding assistants with machine-readable catalogs for programmatic discovery.
 
 ## Books
 
