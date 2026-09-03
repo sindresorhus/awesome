@@ -12,3 +12,5 @@ jobs:
           fetch-depth: 0
       - name: awesome-lint
         run: ./.github/workflows/repo_linter.sh
+      - name: Run awesome-lint on readme.md
+        run: npx awesome-lint readme.md

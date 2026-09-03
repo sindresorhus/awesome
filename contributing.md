@@ -28,3 +28,18 @@ You will need a [GitHub account](https://github.com/join)! If you are new to Git
 Sometimes, a maintainer of an awesome list will ask you to edit your Pull Request before it is included. This is normally due to spelling errors or because your PR didn't match the awesome-* list guidelines.
 
 [Here](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) is a write up on how to change a Pull Request and the different ways you can do that.
+
+## Running `awesome-lint` before submitting a PR
+
+Before submitting a pull request, please ensure that your changes pass the `awesome-lint` checks. This helps maintain the quality and consistency of the repository.
+
+To run `awesome-lint`, use the following command:
+
+```sh
+npx awesome-lint
+```
+
+## Pull Request Guidelines
+
+- Ensure your pull request adheres to the [list of guidelines](pull_request_template.md).
+- Your pull request must pass the `awesome-lint` checks.
