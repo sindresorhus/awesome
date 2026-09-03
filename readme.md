@@ -153,6 +153,7 @@
 - [Uno Platform](https://github.com/MartinZikmund/awesome-uno-platform#readme) - Open-source .NET UI platform for building cross-platform apps.
 - [Firebase Genkit](https://github.com/xavidop/awesome-firebase-genkit#readme) - An open-source framework for building AI-powered apps and features.
 - [Backstage](https://github.com/shano/awesome-backstage#readme) - Open-source platform for building Internal Developer Portals that unify tools and workflows.
+- [Symbian](https://github.com/hstsethi/awesome-symbian#readme) - Discontinued mobile OS for ARM processors, popular in the early 2000s.
 
 ## Programming Languages
 
